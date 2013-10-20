@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+    <title>Ki Sissa</title>
+            <orderedlist>
+                <listitem>
+                    <para dir="ltr">Why weren’t the Jews counted directly? Were they ever counted directly?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">What halacha about counting people do we learn from the second posuk?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">How was Moshe shown the half-Shekel? What else was he shown in this way?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">How many zuzz'm in a Shekel? How many geira in a zuz?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Why is the word terumah mentioned three times?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">How did they spend the silver from the two counts?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Why was the count exactiy the same both times? Was there a miracle in it?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">What was the kiyer? Who used it? For What?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Which halacha is derived from the parsha of kiyor?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">What did the oil contain besides the olive 01E?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">What was this oil used for? What are the opinions of Rabbi Yehuda and Rabbi Meir on the preparation of this oil?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">What was the weight of the aromatic herbs? The measure of the oii?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">"Anythhg touching them should become holy.” Touching Whom? Holy for what?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Our Sages said that all of the oil remained intact. How do we know?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">What are the two prohibitions about the oil? Punishment for tramgressing?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">How many herbs were used for the ketores (incense)? How many are mentioned?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">One of the herbs didn’t have a good aroma. Which? What do we learn from this fact?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Into how many portions was it divided? Why? What about the extras?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">How does Rashi explain chochma, tevuna, daas? Is this similar to the explanation given in Tanya chochma, binah, daas? How?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Why is the subject of Shabbos mentioned here?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Shabbos is a sign between Hashem and the Iews. How?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">For whom is this sign intended? Furpose?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">What are the punishments for desecrating the Shabbos? Beshogeig, bemeizid, behasraah?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Why is Shabbos called Shabbos Shabbaton? What eise is called by this title?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Prove that the Torah is not necessarily arranged in chronological order.</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">What wording is used in the Hebrew version of the above rule?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Why is the Torah likened to a kallah? (Two reasons.)</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">How was it possible for Moshe to learn the whole Torah in such a short time?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">How did the people mistakenly decide that Moshe was late in his return?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Which two things did the Satan do to coniuse the people?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Prove that they only asked for a leader to substitute for Moshe, not for a deity.</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Why did Aharon decide to ask for the Women's and children's jewelry?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Who actually donated the jewelry? Proof?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">' " " r ' f</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Prove that the mixed mulfimde of erev mv (Egyptian converts) started the Whole thing.</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Why did Aharon feel forced to announce a celebration for them? Why for the next day?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Why didn’t he ask them to build the altar instead of building it himself?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">What happened to Chur? Why? How was to Aharon?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Why was it so easy for them to get up early the next morning? Did they awaken so quickly for Matan Torah? What can we learn from it?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">What kind of mussar did Moshe get from the Heaveniy Court?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Why does it say “Your nation sinned” rather than “the nation”?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Why were the Iews caHed a stiif—necked people?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">How did Moshe get the hint that prayer might still help?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">What reason did Moshe give to Hashem not to be angry at them?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Why did he mention here the three Patriarchs?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr"> How did Hashem respond to Moshe’s prayers?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">On which days do we read Moshe’s prayer in the Torah? Why?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">“They (the tablets) are the doings of Hashem." Give two interpretation for this.</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">When Yehoshua said, “Hear a sound of war in the camp,” what did Moshe answer?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">What reason did Moshe have (from a halacha) to break the Luchos (tablets)?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Why did Moshe give the people to drink from the water (with the gold-dust of the golden calf)?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Three different punishments were giVen there for three different groups. How?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">What did Aharon answer when Moshe asked him about the egel?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Did any of the Levi‘im participate in the chet ha’egel (sin of the calf)? Proof?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">What did Moshe command the Levi‘im to do? Why was it so difficult for the Levi'im?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Moshe's prayer was already accepted (see 32/14); why did he'have to plead for them again? (8538 32/ 30.)</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">What explanation (or cause) did Moshe offer to Hashem for this great sin?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">In the parable in Rashi for above why does it say that "He gave him food and drink” (i.e., the father gave to the son)?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Moshe said, "Erase me from Your book.” Why? did Hashem answer?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">HOW did Hashem make the nation’s punishment easier? Why was He sending an angel with them?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">"Go up from here.” (33/ 1) Why is used here? (Two reasons.)</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Why are oniy six nations mentioned here? Who was the seventh? Where was be?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">What mason did Hashem give for not wanting to lead them?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">“And the people heard this bad "thing/kite (33/4) Which thing? How did they react?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">How long does Hashem’s anger East? Who tried to use it against the Iews?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">What immediate punishment did they get?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Why did Moshe remove his tent from the camp? How far did he move?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">What name did Moshe give his tent? Who usually came to see him there?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Who else, besides the Iewish people, came to see Moshe? Proof?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">What did the peopie do when seeing Moshe have the camp? Any parallel today?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">What did the peopie do after Moshe arrived at his tent? Why?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">During which period did Moshe hear Hashem's voice at his tent? Why not afterwards?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">“And he returned to the camp.” (33/11) Why did he have to return? (Two reasons.)</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Mat did Moshe request in pesukim 33/ 12—13? What was the response?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">What did Moshe request after the first response of Hashem? What else did Moshe ask? What was the response?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Then Moshe asked another favor. What? What was the answer to him?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">What did Moshe learn from this answer? Do we use it? When?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">What special promise did Moshe get concerning the 13 Attributes of Mercy?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">What was {be reason given why Moshe couldn’t see all he wanted to see?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Is Hashem in the world or is the world in Hashem? What Name of Hashem tells us this?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">From what Moshe saw we learn- that Hashem ’puts on tefillin.’ How?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">How did Moshe get rich? How were the second Luchos different than the first?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">In the mashafl that Rashi brings (34/1), Who are the maids? Who is the bride?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">How was the giving of the second Luchos different than the giving of the first? Why? What kind of proper behavior do we derive from here?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Why is Hashem mentioned twice in the 13 Attributes of Mercy? Explain. Why the need for mercy before the sin?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Explain the following (two meanings): notzer chesed vechatah; venakeh; I0 yenakeh.</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Prove that the midoh tovah is 500 times greater than the midoh pomnius. When do children get punished for the parents’ sins?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">After Moshe heard the 13 Attributes of Mercy, the response?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">What request did he make? What was</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Why is eating from the idol sacrifices considered so terrible? Why is there a commandment to chop ofi the head of a firstborn donkey
+                        (sometimes)?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">"They shouldn’t come empty handed to see me.” (34/ 20) What are the two meanings here?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">"And you shall rest from plowing and harvesting.” What does this teach us about Shabbos? What other interpretation is there concerning the laws
+                        of the seventh year (Shmittah)?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Why are some prohibitions (and mitzvos) repeated several times in the Torah?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">What promise is given to those who go up to the Beis Hamikdash for the holidays (Yom Tov aliyas hamgei)?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Prove that chicken with milk is not prohibited from the Torah.</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">How do we know that it’s forbidden to write down Torah Shebe’al Peh (Oral Law)? Then why do we have Mishna, Gemora, Shulchon Oruch?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">How do we see the strong destructive power of sin? Where did Moshe get his holy fight rays?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Why did Moshe use a mask? How did he teach the Torah to the Iewish people?</para>
+                </listitem>
+            </orderedlist>
+            <para dir="ltr">EXTRA</para>
+            <orderedlist>
+                <listitem>
+                    <para dir="ltr">When else do we read the first part of this parsha?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">When do we recite the pesukim of veshomm (31 / 16)?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">When do we read (from the Torah) pesukim 34/ 1-10? Why?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">When do we read pesukim 33/ 12 34/ 10?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">How many mitzvos are written in this parsha, positive and negative?</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Why didn't Yehoéhua know What was going on at the camp?</para>
+                </listitem>
+            </orderedlist>
+</section>

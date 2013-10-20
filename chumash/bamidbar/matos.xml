@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+    <title>Matos</title>
+    <orderedlist>
+        <listitem>
+            <para dir="ltr">Moshe spoke to the leaders of the tribes first. Why?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Was this a 0ne~time or a reguiar happening? Then Why is it mentioned here?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">"This is the thing," etc. What is emphasized and excluded here?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">How was Moshe's prophecy similar to, and different from, the other propfzets?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">An expert nullifies vows with different language than a husband. How?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What kind of a neder (vow) cannot be made?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">At What age is a giri considered under her father’s jurisdiction? Until when?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">If a son makes a neder, can the father nullify it? Proof?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">At what age do we have to check the maturity of the child? When do we not?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">If her father cancelled her vows, Why does the daughter need atonement? (See posuk 30/ 6.)</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">A woman who is engaged to be married, who can nuilify her vows? At which age?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">A woman who is divorced or widowed, who can cancel her vows?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">A married woman's vows could be cancelled by her husband. Which kind of vows?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">If a husband consents to the wife's vows, then changes his mind, are the vows cancelled? What if she goes and violates them; who is at
+                fauit?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">When; person who causes someone to sin, who is punished? Prdof?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Why were the Midyanites punished, not the Moabites? (Two reasons.)</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What kind of people were chosen to fight this war? How many? From how many tribes?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Did the soldiers volunteer for this war? Why? Why was Finchas sent, not Elazar?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Why did they have to take along ’holy vessels' with them to the war? (Three reasons.)</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What did try to do to save himself and his royai friends?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">How came Bilam was there at that time? What happened to him?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What ’exchange’ took place between Bilam's methods and the Iews' method?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">The war on Midfyan was motivated as “a revenge for Hasham,” and also as a “revenge for Bnei Yisroel.” Who described it in "these ways? Why? Is
+                it contradictory?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Why did Moshe get angry at the officers when they returned from the war?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Who wanted to grab some of the spoils for themselves? How were they stopped?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Why did the soldiers have to stay out of the camp for seven days? Which camp?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">There are differing opinions about the tumah of non-Jews. What are they?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Some of the soldiers did not have to stay out. Which? Why?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Why did Elazar, not Moshe, teach the laws of purifying vessels?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Still, Moshe got credit £01” these hws. How?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Where else did Moshe fail because he got angry?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Elazar started his lesson With the word ash (but, only). Why? (Two reasons.)</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Koshering dishes is done according to a certain rule. What is it?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Besides koshering, What else must be done to dishes obtained from non-Eews?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Basically there are three methods of koshering by fire and water. What are they?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">The soldiers and the rest of the Iews gave different portions for Hashem. How? Why? From which spoiis were these ’tax portions’ taken?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">To Whom were these tzedakah portions given?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">A certain part of the spoils was not taxed at all. Which? Who got it?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">The officers came up with a special proposifion to Moshe. What?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">How did Moshe react to their proposal? What did. the regular soldiers do?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What was the special request of the tribes of Reuven and Gad?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What did Moshe answer to the request of these tribes?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What did Moshe fear might happen because of this request (as far as the nation’s reaction)?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What did the two tribes answer to Moshe's objection?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What was wrong with tha new ymposition according to Moshe?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Moshe made a ‘doubie condition' with them? What?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Another half-tribe entered the scene here W110? Why?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Which countries did the above tribes get?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What did they do to cities that had idol names?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Who called the villages that he built after his own name? Why?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">we find encouragement from this parsha during the ’Three Weeks'?</para>
+        </listitem>
+    </orderedlist>
+</section>

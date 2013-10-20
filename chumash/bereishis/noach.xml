@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+    <title>Noach</title>
+    <orderedlist>
+        <listitem>
+            <para>Why are Noach’s qualities, instead of his sons' names, mentioned in the first posuk?</para>
+        </listitem>
+        <listitem>
+            <para>“In his generations,” etc. (posuk 1) What is the dispute among <emphasis role="italic">Chazal</emphasis> (our Sages) about this?</para>
+        </listitem>
+        <listitem>
+            <para>How does Noach compare to Avrohom's greatness? Proof?</para>
+        </listitem>
+        <listitem>
+            <para>What were the three major sins of the generation of the flood?</para>
+        </listitem>
+        <listitem>
+            <para>Did good people also suffer in the flood? Proof? Reason?</para>
+        </listitem>
+        <listitem>
+            <para>Which sin caused their final verdict to be sealed against them? Proof?</para>
+        </listitem>
+        <listitem>
+            <para>For how many years did Noach build the <emphasis role="italic">taiva</emphasis> (ark/box)? Why was <emphasis role="bold">this</emphasis> safety method
+                used?</para>
+        </listitem>
+        <listitem>
+            <para>How was Moshe's taiva built differently than Noach’s? Why?</para>
+        </listitem>
+        <listitem>
+            <para>What were the dimensions of the taiva? How many floors were there? Their uses?</para>
+        </listitem>
+        <listitem>
+            <para>Why was its roof made narrow? Why was its door on its side?</para>
+        </listitem>
+        <listitem>
+            <para>How did they get light into the taiva? (Two opinions.)</para>
+        </listitem>
+        <listitem>
+            <para>In punishing the human race, Hashem partly agreed with advice of long ago. Explain.</para>
+        </listitem>
+        <listitem>
+            <para>What are the three meanings of the word <emphasis role="italic">mabul</emphasis> ? Why was a <emphasis role="bold">covenant</emphasis> necessary?</para>
+        </listitem>
+        <listitem>
+            <para>Since many of the animals became perverted, how did Noach know whom to admit?</para>
+        </listitem>
+        <listitem>
+            <para>Were there any species of animals that were not saved? Which kind of species came in pairs?</para>
+        </listitem>
+        <listitem>
+            <para>Prove that in the presence of a person we do not praise his good qualities too highly. Why? And in his absence? Proof?</para>
+        </listitem>
+        <listitem>
+            <para>Prove that Noach studied and knew Torah. How about Avrohom?</para>
+        </listitem>
+        <listitem>
+            <para>Why did Noach take in seven pairs of kosher animals, but only <emphasis role="bold">one</emphasis> pair of others?</para>
+        </listitem>
+        <listitem>
+            <para>It does not mention whether the seven pairs of birds were kosher ones. Were they? Proof?</para>
+        </listitem>
+        <listitem>
+            <para>Why was there an additional wait of seven days (+120 years) before the mabul started?</para>
+        </listitem>
+        <listitem>
+            <para>How many days did it rain? Why that number?</para>
+        </listitem>
+        <listitem>
+            <para>In pesukim 6:22 <emphasis role="bold">and</emphasis> 7:5 it says, “And Noach did,” etc. Why the repetition?</para>
+        </listitem>
+        <listitem>
+            <para>Why were the men and women prohibited from cohabitation in the taiva?</para>
+        </listitem>
+        <listitem>
+            <para>How old was Noach when the mabul started? And his sons? (Check Bereishis 5:32.)</para>
+        </listitem>
+        <listitem>
+            <para>Was Noach absolutely certain in his belief that the mabul would come? Proof?</para>
+        </listitem>
+        <listitem>
+            <para>The mabul started in the <emphasis role="bold">second</emphasis> month. Which month was it, according to the Sages?</para>
+        </listitem>
+        <listitem>
+            <para>First it says the <emphasis role="bold">mabul</emphasis> came, and later it says the <emphasis role="bold">rain</emphasis> came. How do we resolve this?</para>
+        </listitem>
+        <listitem>
+            <para>Why was it necessary to state, “In the <emphasis role="bold">midst</emphasis> of that day Noach came in,” etc?</para>
+        </listitem>
+        <listitem>
+            <para>Many people were killed (<emphasis role="bold">not</emphasis> drowned) right after Noach entered the taiva. Why?</para>
+        </listitem>
+        <listitem>
+            <para>How deep was the taiva in the water when it was carried by the mabul?</para>
+        </listitem>
+        <listitem>
+            <para>The waters went higher than the tallest mountains. How much higher?</para>
+        </listitem>
+        <listitem>
+            <para>Which living species were safe even though they weren't in the taiva? Proof? Why?</para>
+        </listitem>
+        <listitem>
+            <para>In what kind of health condition did Noach survive? Why?</para>
+        </listitem>
+        <listitem>
+            <para>Why is Hashem’s Name of Judgment mentioned in connection with stopping the mabul?</para>
+        </listitem>
+        <listitem>
+            <para>Was Noach doing anything to stop the mabul while he was inside?</para>
+        </listitem>
+        <listitem>
+            <para>When Hashem decided to destroy this generation, His Name of Mercy is used. Why?</para>
+        </listitem>
+        <listitem>
+            <para>Which merits of the animal inhabitants of the <emphasis role="italic">taiva</emphasis> did Hashem remember?</para>
+        </listitem>
+        <listitem>
+            <para>Why doesn't it say, “<emphasis role="bold">all</emphasis> the springs closed up,” as it says at the opening of the parsha?</para>
+        </listitem>
+        <listitem>
+            <para>If the taiva’s ‘Window’ was a precious stone, what does it mean that “Noach opened the window” (to send out the birds)?</para>
+        </listitem>
+        <listitem>
+            <para>The raven didn’t go where Noach sent him. Where <emphasis role="bold">did</emphasis> he go? Why?</para>
+        </listitem>
+        <listitem>
+            <para>It says that the raven had another destination later in history. Which?</para>
+        </listitem>
+        <listitem>
+            <para>The dove (<emphasis role="italic">yona</emphasis>) was sent out many times. How many? What happened each time?</para>
+        </listitem>
+        <listitem>
+            <para>What was the symbol of the olive Ieaves in the dove’s mouth?</para>
+        </listitem>
+        <listitem>
+            <para>How long did the whole mabul experience last?</para>
+        </listitem>
+        <listitem>
+            <para>In which month did the water dry? When did the <emphasis role="bold">earth</emphasis> dry completely?</para>
+        </listitem>
+        <listitem>
+            <para>In what way can it be said that the <emphasis role="italic">taiva</emphasis> was a foretaste of <emphasis role="italic">Moshiach's</emphasis> times?</para>
+        </listitem>
+        <listitem>
+            <para>What behavior were the animals committed to after leaving the taiva?</para>
+        </listitem>
+        <listitem>
+            <para>From which kinds of animals and birds did Noach take <emphasis role="italic">korbanos</emphasis> (sacrifices)? (See 8:19.)</para>
+        </listitem>
+        <listitem>
+            <para>How did Noach know that he had to bring korbanos?</para>
+        </listitem>
+        <listitem>
+            <para>What promise did Hashem make after Noach's korbanos?</para>
+        </listitem>
+        <listitem>
+            <para>What reason did He give for His promise? (See 6:5.)</para>
+        </listitem>
+        <listitem>
+            <para>When does a person get his <emphasis role="italic">yetze'r horah</emphasis> (evil inclination)? Explain.</para>
+        </listitem>
+        <listitem>
+            <para>In the haftorah of this parsha, it says that Hashem made an oath for the future. Where is this hinted here?</para>
+        </listitem>
+        <listitem>
+            <para>Into how many seasons is the year divided here? Which months are included in each?</para>
+        </listitem>
+        <listitem>
+            <para>How were the seasons affected during the period of the mabul?</para>
+        </listitem>
+        <listitem>
+            <para>What kind of power was given to the human beings over the animals?</para>
+        </listitem>
+        <listitem>
+            <para>What new kind of food was the new generation allowed to eat? Why?</para>
+        </listitem>
+        <listitem>
+            <para>What kind of meat and blood were nevertheless forbidden to them? Why?</para>
+        </listitem>
+        <listitem>
+            <para>The taking of human life became forbidden to <emphasis role="bold">all</emphasis>. Explain.</para>
+        </listitem>
+        <listitem>
+            <para>When is a murderer punished by a human court and when by Hashem?</para>
+        </listitem>
+        <listitem>
+            <para>Why is it forbidden to destroy human life but not animal life?</para>
+        </listitem>
+        <listitem>
+            <para>It is said that we have a reference here to the punishment of <emphasis role="italic">Olom Haboh</emphasis> (the World to Come). Explain.</para>
+        </listitem>
+        <listitem>
+            <para>”Be fruitful and multiply,” etc. This was already said to Adam; why the repetition?</para>
+        </listitem>
+        <listitem>
+            <para>Noach was still worried. Why? What assurance did he get now?</para>
+        </listitem>
+        <listitem>
+            <para>What does the rainbow symbolize? Did all generations need it? Why?</para>
+        </listitem>
+        <listitem>
+            <para>If everything was destroyed, how was Noach able to plant a vineyard?</para>
+        </listitem>
+        <listitem>
+            <para>The planting of this vineyard was a mistake. Why? Who else sinned with wine?</para>
+        </listitem>
+        <listitem>
+            <para>Noach's three sons behaved quite differently during their father’s trouble. Explain.</para>
+        </listitem>
+        <listitem>
+            <para>What special reward did Shem get? Why? And Yefes?</para>
+        </listitem>
+        <listitem>
+            <para>What was the curse that Noach put on Cnaan? Why?</para>
+        </listitem>
+        <listitem>
+            <para>What is hinted here about the difference between the first and second <emphasis role="italic">Beis Hamikdash</emphasis> (Sanctuary)?</para>
+        </listitem>
+        <listitem>
+            <para>Who was Nimrod? What were his activities? How did Ashur react to them?</para>
+        </listitem>
+        <listitem>
+            <para>There was a prophet in those days called Eiver. What was his prophecy?</para>
+        </listitem>
+        <listitem>
+            <para>“They spoke one language.” Which? “They had one idea.” What are the opinions about this?</para>
+        </listitem>
+        <listitem>
+            <para>“And Hashem came down to see,” etc. What lesson is given here to human judges?</para>
+        </listitem>
+        <listitem>
+            <para>“The sons of Adam” (11:5). Why are they connected here to Adam?</para>
+        </listitem>
+        <listitem>
+            <para>What was the punishment of the <emphasis role="italic">dor haflaga</emphasis> (generation of dispersion)?</para>
+        </listitem>
+        <listitem>
+            <para>That generation, unlike the generation of the mabul, has lost their share in Olom Haboh. What great lesson do we learn here about peace and harmony?</para>
+        </listitem>
+        <listitem>
+            <para>How did Terach cause the death of his son Horon?</para>
+        </listitem>
+        <listitem>
+            <para>What was the difference between Avrohom’s faith and that of Horon?</para>
+        </listitem>
+        <listitem>
+            <para>Sara was called <emphasis role="italic">Yiska</emphasis>. What are the various meanings of this name?</para>
+        </listitem>
+        <listitem>
+            <para>“And Terach died in Choron.” Did he actually die at this time? Explain.</para>
+        </listitem>
+        <listitem>
+            <para>Until Avrohom there was Hashem’s anger in the world. And with Avrohom?</para>
+        </listitem>
+    </orderedlist>
+</section>

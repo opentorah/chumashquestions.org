@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+    <title>Bamidbar</title>
+    <orderedlist>
+        <listitem>
+            <para dir="ltr">How many times were the icws counted? 0n which occasions?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Why does Hashem count us so often?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">By what method were Bnei Yisroei counted? Why not directly?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What was the occasion and the date in this parsha?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">A man whose father is from a diffexent sheivet than his mother, to which sheivet does he belong? in which cases does one follow the mothar‘é
+                status?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Which age bracket was includeé in the count? Women? Why?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Who stood with Moshe and Aharon during this count?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">How was it established (and verified) to which sheivet one belongs?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Which were the two iargest tribes (in numbers)? Two smallest?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Why was sheive’c Levi counted separately? (Two reasons.)</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What was the special appoinfinent (task) given to the Levi’im?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Why did their flags (in the camping arrangement) have different coiors?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">The camp was diviéed in four positions, three tribes in each‘ How were the sides selected? Who were the four head-tribes on each
+                position?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">How were the colors of the flags chosen? Did. each flag have three coiors or just one?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Why was the camp positioned a specific distance from the Mishkan?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What were the signals for the tribes to begin moving?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">How do We derive that teaching someone's son Torah makes him like your own son?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">HOW were the Levi’im paid for their work in the Mishkan?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Which parts of Mishkan service were reserved for the Kohanim?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">The Levi'im were drafted as substitutes for whom?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">How was the counting sheivm Levi different from the general count?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Sheivet Levi was used to being counted this way. Since when?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Moshe had difficulty in counting the Levi’ im. Why? The solution?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Which parts are called 'Mishkan,’ which ’tent,’ and which ’cover'?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Which tribes are described as “bad for the rasha and his neighbor”?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">And which tribes are described as "good for the tzadik and his neighbor"?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Who was not counted with the Levi’im though he belonged to the tribe?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Which tribe provided the largest number of members for the Sanhedrin?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Which sheivet produced a large number of scribes?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">There were 300 more Levi’im than the stated number. Why aren’t they mentioned?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">There were 273 bechorim (firstborn) more than there were Levi'im. What happened to them?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">How was it decided that these 273 were chosen from among the others?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Who received the money (how much?) from the 273 bechorim?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">The firstborn animals belonging to the Levi’im redeemed the firstborn animals belonging to the other tribes. What kinds of animals were these
+                two?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What proof is there that it was one kind rather than another (in question 34)?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Why was the sum of five Shekalim demanded from the bechorim?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What were the jobs of Bnei Gershon, Bnei Merori, Bnei Kehos?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Which age of Levi'im were accepted for work in the Mishkan? Why?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Which parts of the Mishkan are included in the category of ‘holy of holies'?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What service was rendered by Kohanim to the Bnei Kehos?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">How did the lion-shaped Heavenly fire travel on the mizbeyach?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Eiazar and Issamar (Aharon's sons) had special charges. What?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What was the special commandment given to Aharon about Bnei Kehos?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">In What way is the ending of this parsha unusual?</para>
+        </listitem>
+    </orderedlist>
+</section>

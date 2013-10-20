@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+    <title>Lech Lecha</title>
+    <orderedlist>
+        <listitem>
+            <para>Which benefits was Avrohom promised for leaving his land?</para>
+        </listitem>
+        <listitem>
+            <para>What power was Avrohom given over divine blessings?</para>
+        </listitem>
+        <listitem>
+            <para>What honors are each of the <emphasis role="italic">Avos</emphasis> (Patriarchs) given in Shmoneh Esrei? What special honor does Avrohom get?</para>
+        </listitem>
+        <listitem>
+            <para>Why didn’t Hashem tell Avrohom to which land he should go?</para>
+        </listitem>
+        <listitem>
+            <para>What are two other examples in which a destination was concealed?</para>
+        </listitem>
+        <listitem>
+            <para>“And the souls (people) they made in Choron,” etc. Give two interpretations of this.</para>
+        </listitem>
+        <listitem>
+            <para>Why did Avrohom go to Sh'chem? To Eilon Moreh? (Think about future connections.)</para>
+        </listitem>
+        <listitem>
+            <para>Who ruled Eretz Yisroel at that time? Who ruled it before?</para>
+        </listitem>
+        <listitem>
+            <para>Avrohom built two altars. Why? Whose tent did he pitch first? Why?</para>
+        </listitem>
+        <listitem>
+            <para>In which direction was Avrohom travelling in Eretz Yisroel? Toward which city?</para>
+        </listitem>
+        <listitem>
+            <para>“There was a famine in the land.” Which land? What was its purpose?</para>
+        </listitem>
+        <listitem>
+            <para>“Now I know that you are beautiful.” Give three interpretations for this statement.</para>
+        </listitem>
+        <listitem>
+            <para>“And it was when Avrohom came to <emphasis role="italic">Mitzrayim</emphasis> (Egypt),” etc. Where was Sara?</para>
+        </listitem>
+        <listitem>
+            <para>What wilI be the reward of those who bless Avrohom? And the punishment of those who curse him?</para>
+        </listitem>
+        <listitem>
+            <para>How old was Avrohom when he left home? Who went along with him?</para>
+        </listitem>
+        <listitem>
+            <para>What was Sara supposed to tell the Egyptians? What was Avrohom’s fear?</para>
+        </listitem>
+        <listitem>
+            <para>What happened to Sara as soon as she was seen by the officers?</para>
+        </listitem>
+        <listitem>
+            <para>How was Avrohom treated by Paroh? Who was punished with Paroh?</para>
+        </listitem>
+        <listitem>
+            <para>What was Paroh's complaint to Avrohom? What did Paroh do after that? </para>
+        </listitem>
+        <listitem>
+            <para>What was Lot’s financial situation? Why? What problem resulted from it?</para>
+        </listitem>
+        <listitem>
+            <para>Avrohom travelled by using the same ‘hotels’ as he used before. What Iesson is derived from it?</para>
+        </listitem>
+        <listitem>
+            <para>Besides building altars (and offering sacrifices), what else did Avrohom do?</para>
+        </listitem>
+        <listitem>
+            <para>Lot’s shepherds argued with Avrohom’s shepherds. What was their argument? Who was right? Why?</para>
+        </listitem>
+        <listitem>
+            <para>What offer did Avrohom make to settle the argument?</para>
+        </listitem>
+        <listitem>
+            <para>Where did Lot choose for his place of residehce? Why? (Two reasons.)</para>
+        </listitem>
+        <listitem>
+            <para>What was Lot’s real motive for moving away from Avrohom?</para>
+        </listitem>
+        <listitem>
+            <para>What were the specific faults of the residents of Sdom?</para>
+        </listitem>
+        <listitem>
+            <para>What special ‘reward’ did Avrohom receive from Hashem after Lot’s departure?</para>
+        </listitem>
+        <listitem>
+            <para>In 13:15-17 there are promises which seem to have been made in posuk 12:7. Is it a repetition? Are there any differences? Additions? Explain.</para>
+        </listitem>
+        <listitem>
+            <para>Four kings were fighting against five kings. Why? Who won?</para>
+        </listitem>
+        <listitem>
+            <para>Why did Avrohom get invoived in this war? Who went along to fight?</para>
+        </listitem>
+        <listitem>
+            <para>What kind of miracle happened to the King of Sdom? For What purpose?</para>
+        </listitem>
+        <listitem>
+            <para>“And he pursued the enemy till Dan.” What caused him to stop there?</para>
+        </listitem>
+        <listitem>
+            <para>Who were Avrohom’s close friends? What advice did they give him?</para>
+        </listitem>
+        <listitem>
+            <para>According to our Sages, the night was ‘divided’ for Avrohom. Explain.</para>
+        </listitem>
+        <listitem>
+            <para>Did Avrohom succeed in this battle? Who greeted him afterwards?</para>
+        </listitem>
+        <listitem>
+            <para>Why was ‘the Valley of the King’ (14:17) named this way?</para>
+        </listitem>
+        <listitem>
+            <para>Who was Malki Tzedek? What did he bring out to Avrohom? Why?</para>
+        </listitem>
+        <listitem>
+            <para>“And he (Avrohom) gave him a tenth (tithe) from all.” Why?</para>
+        </listitem>
+        <listitem>
+            <para>What offer did the King of Sdom make to Avrohom? Avrohom’s response? Why?</para>
+        </listitem>
+        <listitem>
+            <para>Yet, Avrohom did accept payment for the effort of others. Whom?</para>
+        </listitem>
+        <listitem>
+            <para>Which important principle of fairness did King David learn from Avrohom?</para>
+        </listitem>
+        <listitem>
+            <para>What was worrying Avrohom after his victory in the war?</para>
+        </listitem>
+        <listitem>
+            <para>What assurances did Hashem give him?</para>
+        </listitem>
+        <listitem>
+            <para>Was Avrohom satisfied with the new promises? Why?</para>
+        </listitem>
+        <listitem>
+            <para>Why was Eliezer (the servant) called <emphasis role="italic">Damesek</emphasis>? (Two reasons.)</para>
+        </listitem>
+        <listitem>
+            <para>When Hashem assured Avrohom that his own son will inherit him, He took him outside to look at the stars. Why?</para>
+        </listitem>
+        <listitem>
+            <para>Did Avrohom request a sign from Hashem that He will deliver His promise? Why?</para>
+        </listitem>
+        <listitem>
+            <para>Did Avrohom request a sign concerning the inheritance of the land? (Two answers.)</para>
+        </listitem>
+        <listitem>
+            <para>How is the story of the ‘covenant between the slices’ related here?</para>
+        </listitem>
+        <listitem>
+            <para>What kinds of animals was Avrohbm commanded to take?</para>
+        </listitem>
+        <listitem>
+            <para>“And the bird he did not cut up.” Why? Why were the others cut up?</para>
+        </listitem>
+        <listitem>
+            <para>What is the symbolism in Avrohom's driving away the birds from the carcasses?</para>
+        </listitem>
+        <listitem>
+            <para>A fear and a darkness befell Avrohom. What did this symbolize?</para>
+        </listitem>
+        <listitem>
+            <para>What did Hashem tell Avrohom during this covenant? (Six or seven things.)</para>
+        </listitem>
+        <listitem>
+            <para>How was Hashem's presence seen during the covenant?</para>
+        </listitem>
+        <listitem>
+            <para>Did the exile in Egypt really last 400 years? Explain.</para>
+        </listitem>
+        <listitem>
+            <para>What promises did Avrdhom get about Yishmael and Eisov?</para>
+        </listitem>
+        <listitem>
+            <para>Was it good news for Avrohom that he will return peacefully to <emphasis role="bold">his father</emphasis>?</para>
+        </listitem>
+        <listitem>
+            <para>“The fourth generation will return here,” etc. Where? What do we learn from here about Hashem's fairness?</para>
+        </listitem>
+        <listitem>
+            <para>“To your Children <emphasis role="bold">I have given</emphasis> this Land.” But it has not been received yet. Explain.</para>
+        </listitem>
+        <listitem>
+            <para>In Eretz Yisroel there were ten nations. How many did we receive? What about the others?</para>
+        </listitem>
+        <listitem>
+            <para>Why is the river Press (Euphrates) called ‘the great river’?</para>
+        </listitem>
+        <listitem>
+            <para>“After <emphasis role="bold">ten years</emphasis> of Avrohom's residence <emphasis role="bold">in the Land</emphasis>.” Why are these facts mentioned?</para>
+        </listitem>
+        <listitem>
+            <para>Why did Sara become ‘light’ (worthless) in her maid's (Hagar's) eyes?</para>
+        </listitem>
+        <listitem>
+            <para>Why was Sara angry at her husband?</para>
+        </listitem>
+        <listitem>
+            <para>What did the Angel tell Hagar about her future?</para>
+        </listitem>
+        <listitem>
+            <para>How did the Angel describe the child Hagar will have?</para>
+        </listitem>
+        <listitem>
+            <para>Prove that Hagar was used to seeing Angels in Avrohom’s house.</para>
+        </listitem>
+        <listitem>
+            <para>How did Avrohom know to name Hagar’s son Yishmael?</para>
+        </listitem>
+        <listitem>
+            <para>Why is it mentioned that Avrohom was 86 years old at Yishmael's birth?</para>
+        </listitem>
+        <listitem>
+            <para>What did Hashem tell Avrohom about the benefit of circumcision?</para>
+        </listitem>
+        <listitem>
+            <para>Why did Avrohom fall on his face when Hashem appeared to him?</para>
+        </listitem>
+        <listitem>
+            <para>What is the significance of Avrohom's name change? (Two reasons.)</para>
+        </listitem>
+        <listitem>
+            <para>Who else had to be circumcised besides the members of the family?</para>
+        </listitem>
+        <listitem>
+            <para>If a child is not circumcised, who gets punished? When? How?</para>
+        </listitem>
+        <listitem>
+            <para>What is the significance of Sara's name change?</para>
+        </listitem>
+        <listitem>
+            <para>What was the special blessing Sara received? How did people find out?</para>
+        </listitem>
+        <listitem>
+            <para>What were Avrohom and Sara’s reactions to the promise of a child at old age?</para>
+        </listitem>
+        <listitem>
+            <para>Weren’t earlier generations giving birth at older ages? What's the wonder here?</para>
+        </listitem>
+        <listitem>
+            <para>What was Avrohom's request to Hashem about Yishmael? The response?</para>
+        </listitem>
+        <listitem>
+            <para>What is the meaning of the name Yitzchak? (Two things.)</para>
+        </listitem>
+        <listitem>
+            <para>What covenant was Hashem promising to establish with Yitzchak?</para>
+        </listitem>
+        <listitem>
+            <para>In Tanya (ch. 23) it says that the Avos were like a <emphasis role="italic">merkava</emphasis> (chariot to Hashem). Prove it from a posuk in this parsha.</para>
+        </listitem>
+        <listitem>
+            <para>Why does it emphasize “<emphasis role="bold">in the midst of that day</emphasis> (they were circumcised)”?</para>
+        </listitem>
+    </orderedlist>
+</section>
+

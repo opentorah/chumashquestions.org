@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbookxi.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<book xmlns="http://docbook.org/ns/docbook" 
+        xmlns:xi="http://www.w3.org/2001/XInclude"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        version="5.0">
+    <info>
+        <title>Chumash Questions</title>
+    </info>
+    <part>
+        <title>Introduction</title>
+        <xi:include href="introduction.xml"/>
+    </part>
+    <part>
+        <title>Chumash Questions</title>
+        <xi:include href="chumash/bereishis/index.xml"/>
+        <xi:include href="chumash/shemos/index.xml"/>
+        <xi:include href="chumash/vayikra/index.xml"/>
+        <xi:include href="chumash/bamidbar/index.xml"/>
+        <xi:include href="chumash/devarim/index.xml"/>
+    </part>
+    <part>
+        <title>Holiday Questions</title>
+        <xi:include href="holidays/rosh-hashonoh.xml"/>
+        <xi:include href="holidays/yom-kippur.xml"/>
+        <xi:include href="holidays/sukkos.xml"/>
+        <xi:include href="holidays/chanukah.xml"/>
+        <xi:include href="holidays/yud-shevat-and-tu-b-shevat.xml"/>
+        <xi:include href="holidays/purim.xml"/>
+        <xi:include href="holidays/pesach.xml"/>
+        <xi:include href="holidays/sefiras-ha-omer.xml"/>
+        <xi:include href="holidays/shavuos.xml"/>
+        <xi:include href="holidays/nine-deys.xml"/>
+        <xi:include href="holidays/tisha-b-av.xml"/>
+    </part>
+</book>

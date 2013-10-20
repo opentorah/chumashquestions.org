@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+    <title>Vayikra</title>
+    <orderedlist>
+        <listitem>
+            <para dir="ltr">"And He called,” etc. Why did Hashem mil Moshe before speaking to him?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">How was the appearance of Hashem to Moshe different than to Bilam? Why?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Who else caiis one another? Why? Where do we mention it in davening?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What were the breaks? Their purpose?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr"> Was Moshe called at these breaks? Why? What do we derive from this about our learning?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">"And Hashem spoke in him." M0 is excluded here? Was the voice of Hashem high? How far did it reach? Who didn’t hear it?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Why is Adam mentioned in connection with the korbanos?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">There are six categories of pesulim in kor'banos. Which?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">If an Olah gets mixed in with other sheep, What happens?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">If a person promises an Olah then refuses to give it, do we force him? Proof? How do we force him? (See Rambam, Laws of Gerushin 8/2.)</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">If we do force him, how can the korban be ’according to his will”?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">For which kinds of sins does a Kerb-an Olah atone?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Can a non-Kohein slaughter the korban? Take the blood? Proof?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">"They should put fire,” etc. But wasn’t there a fire sent from heaven?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">if a Kohein is ’too well dressed’ or 'not so well dressed’ his avodah is posul. Explain and give proof.</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What are the requirements for a korban of fowl (pigeons, doves) to be kosher?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Why are the insides (intestines) of fowl thrown out, and not those of sheep?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Why are the doves burned on the mizbeyach with their Wings?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Regarding both sheep and fowl, it says, ’Reyach nichoach iaShem.’ What does this teach us?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Why does it say Venefesh ki sakriv' only in reference to a Korban Minchah?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Which parts of a Korban Minchah could. be done by n0n-Kohanim? Which part must the Kofiein do?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">The fistful is caiied a reminder. For what?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Did the Kohein Gadoi and regular Kohein get the same portions? Explain.</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What are the two opinions conceming the application of oil on a Minchah?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What kind of oil is kosher for Menachos? Proof?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What two items cannot be brought with a Korban Minchah?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">All korbanos required sa1t.W11y is this called bris (covenant)?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Most Menachos are voluntary except one. Which?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Why are certain korbanos called. shIomim? (Two reasons.)</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">The daily Tamid had to be the first korban of the day. Proof?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">For which kind of sins is a Korban Chatos required?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">If a person writes part of a word on Shabbos, does he bring a Korban Chatos? Proof?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">When a Kohein Gadol sins, why is this called the ’guilt 0f the nation’?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What kind of situation is described in posuk 4/13?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Prove that Hashem loves Am Yisroel (the Iewish nation) more than He loves the Kohein Gadol.</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What kind of aveiros (sins) are described in pesukim 5/ 1—3?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">‘Which kind of Korban do all those people (in question 36) bring?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">When an Olah and Chatos are brought, which goes first? Why?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">If a person was rich when he sinned, and then became poor, which kind of kor‘oan is he required. to bring? (And if vice versa?) Explain.</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What kind of aveiro is described in posuk 5/15?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What kind of Korban Asham is mentioned in posuk 5/ 18? Its purpose?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">For which kind of aveiros does this Asharn atone?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What kind of lessons do Rabbi Akiva, Rabbi Yosai, Rabbi Yosai Haglili, and Rabbi Eliezer learn from here?</para>
+        </listitem>
+    </orderedlist>
+</section>

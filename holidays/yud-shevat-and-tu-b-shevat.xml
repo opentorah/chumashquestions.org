@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+    <title>Yud Shevat and Tu b'Shevat</title>
+    <orderedlist>
+        <listitem>
+            <para dir="ltr">In what year was the previous Rebbe m'ftar? How old was he?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">How many years did the Rebbe 0.b.m. five £11770?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What are the special minhagim connected with Yud Shevat?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What was the occasion for the Rebbe to give out the maamar ‘Basi LegLmi'?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Why did the Shechina ascend from earth to the first Heaven?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">v . “j . Who brought the Shechina back down to earth? Where did the Sheczhina want to be?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What was the main avodah in the Mishkan and Mikdash? How is this avodah reflected in the Iew? .</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">It is said that the Rebbe o.b.m. hinted at his own histalkus (passing) in the maamar. Can you find where?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">How are spiritual fire and Water differefit than the physical types?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Why was the Mishka'n built with sheetim wood?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What is the definition of shtus d’kedusha and shtus of klipah?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Which example of shtus d’kedusha is brought from the Camera?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What causes the nefesh habahamis (animal soul) to be cold to ruchniyus (spirituality)?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What is the meaning of Yud Shevat for the Rebbe Shlita?</para>
+        </listitem>
+    </orderedlist>
+    <para dir="ltr">SHABBOS SHIRA AND TU 13’ SHEVAT</para>
+    <orderedlist>
+        <listitem>
+            <para dir="ltr">Why is this Shabbos called by this special name?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What are the m'mhagim connected with this Shabbos?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What is so special about the 15th of Shevat (Tu B’Shevat)?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What are the mmhagim connected with this day?</para>
+        </listitem>
+    </orderedlist>
+</section>

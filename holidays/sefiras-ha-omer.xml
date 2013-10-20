@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+    <title>Sefiras Ha'Omer</title>
+    <orderedlist>
+        <listitem>
+            <para dir="ltr">What is the Korban Ha’Omer? How is it connected to the</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Why don’t we say Shehecheyanu on the mitzvoh of counfiing the Omar?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What was the dipute beiween the ’Tzadikim’ and. the ’Pmshim' (Sages) concerning the time of Sefiras Ha’Omer?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Nowadays, is this mitzvoh mi-deomisa (from the Torah) or mi-dimbobon (from the Rabbis)? Why?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Why do we say Homehamon right after each count?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Where else in davening do we say a simiiar prayer?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">How many days and weeks do we count? Why?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What is meaning of the two small words under each count?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What is the meaning of the large letter next to each count? The words under it?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">How many sefiros are there in all? How many do we mention here?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Why was psalm (kapitl, mizmor) 67 included here? (Two reasons.)</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Where else do we recite this mizmor? Why?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What is the prayer Ana Bekoach asking for?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Why was this tefiilah chosen for Sefiras Ha’Omer?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What are we supposed to do with the abbreviations of Ana Bekoach?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What is the purpose of Sefiras Ha’Omer, according ‘to the words of the prayer Ribono I Shel Olom?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What are we asking from Hashem in this tefiliah?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Can you tell which day it is in the by looking at the midoh of the day?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">If you forgot to count one night, what should you do?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">How early in the evening may we count Sefira?</para>
+        </listitem>
+    </orderedlist>
+</section>

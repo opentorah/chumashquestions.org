@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+    <title>Sukkos</title>
+    <orderedlist>
+        <listitem>
+            <para dir="ltr">What spirit pervades the {our days between Yom Kippur and Sukkos?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Sukkos has more mitzvos in it than any other Yom Tov. How many?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">The Torah tells What the sukkah reminds us of. What is it?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Therefore, when we sit in the sukkah, we must think of it. Why?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">There are two opinions in the Camera about what the sukkah symbolized. What are they?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Why was the mitzvoh of sukkah given for Tishrei and not for Nissan?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What is the other name given to Sukkos in the Torah? Why?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">HOW is sitting in the sukkah a display of bitachon (trust) in Hashem?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Which materials are kosher for the walls of the sukkah? How many walls must it have? Coulé a sukkah be buik on a truck?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What is the highest or the lowest (height) a sukkah can be? How about the Width and length?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">One may not put on the s’chach before the walls are completed. Why? What if one mistakenly did so?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">How much s'chach is considered enough? is eur minhag (custom)?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Which materials are kosher for s’chach? Can you cut public trees for s’chach?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">How is the obiigation to sit in the sukkah different the first night from the second night (in case of rain)?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Which blessing is made "when one eats- in the sukkah? On which foods?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Is there an obligation to sleep in the sukkah? Why?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">When do we have to make the eruv tavshillin? (Two times.)</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Which things are permitted to be done on Chol Hamoed (intermediate days)?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Who is exempt from eating in the sukkah? Why? May they do so voluntarily?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">In all, how many (’official') meals does one eat in the sukkah?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Which foods are permitted to be eaten outside of the sukkah? Our custom?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Which conditions make all the four species posul?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Which conditions make each of the four ispecies mehudar (choicest)? Are three species enough?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Must you have your own lulov and esrog or can you borrow?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Which people are basicaily exempt from this mitzvoh? Why?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Where is the best piace to do the mitzvoh 0f lulov?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What is the daily blessing on the lulov? And on the first ciay? Afterwards? What does one hold in one’s hand at the time of the blessing?
+                I</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What is the proper order for shaking the lulov? When is it done?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">How is the Iulov used during davening?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Which are the usual sources from where the esrogim are imported?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Our minhag is to use esrogim from a certain place. Where?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">In your opinion, why are the prices of esrogim so high?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Where do the other three species originate from?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">One day during Sukkos we do not use the lulov. Whigh? Why?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">May one eat before ’bentching lulov’? On mivtzoyim?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">May one enjoy the good aroma of the esrog? Hadasim (myrtle)? Why?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">It is said that the four species symbolize the unity of the four categories of Jews. How?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Why do we take these four species at this time of the year?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">The last day of Chol Hamoed is called Hoshana Rabbah. Why is it special?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What is done the night before to mark the day?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What mitzvoh (mjnhag) is done the morning of Hoshana Rabbah?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">How is the rest of that day observed? Any special foods?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">The last day to bentch lulov is on Hoshana Rabbah. What does one do with the four species afterwards?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What special minhag is observed on Shemini Atzeret?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What are the Torah readings on the eight days of Sukkos?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Simchas Torah is the ninth day of Sukkos. What is the Torah reading them? What must everyone get on this day?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Do we sit in the sukkah on Shemini Atzeres? Why? [)0 we make a blessing in it? Why?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Sqmeone said that we will not be putting on tefiliin for ten days in a row during Sukkos; but Sukkos is only nine days long. Explain.</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">How many times do we do Hakofos? When? What is the meaning of the name and {he activity?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What special prayer (due to the forthcoming season) is said on Shemini Atzeres?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">How does that prayer change something during Sukkos?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">When do we say Yizkor?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Explain these terms:</para>
+        </listitem>
+        <orderedlist>
+            <listitem>
+                <para dir="ltr">Arba minim</para>
+            </listitem>
+            <listitem>
+                <para dir="ltr">Nay sukkah</para>
+            </listitem>
+            <listitem>
+                <para dir="ltr">Hoshanos</para>
+            </listitem>
+            <listitem>
+                <para dir="ltr">Amvos</para>
+            </listitem>
+            <listitem>
+                <para dir="ltr">Hadasz'm</para>
+            </listitem>
+            <listitem>
+                <para dir="ltr">Ushpizin</para>
+            </listitem>
+            <listitem>
+                <para dir="ltr">Nisuch hamayz'm</para>
+            </listitem>
+            <listitem>
+                <para dir="ltr">Tefilas geshem</para>
+            </listitem>
+            <listitem>
+                <para dir="ltr">Isru chug</para>
+            </listitem>
+            <listitem>
+                <para dir="ltr">Chassan Torah</para>
+            </listitem>
+            <listitem>
+                <para dir="ltr">Chassan Bereishis</para>
+            </listitem>
+            <listitem>
+                <para dir="ltr">Tikun</para>
+            </listitem>
+        </orderedlist>
+        <listitem>
+            <para dir="ltr">How is one suppose to spend one’s time during Sukkos?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What is special about Simchas Beis Hashoevah? When is it?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What is special about the Shabbos that follows Sukkos?</para>
+        </listitem>
+    </orderedlist>
+</section>
