@@ -115,7 +115,11 @@
     </acknowledgements>
     <preface>
         <title>Note</title>
-        <!-- TODO Note about handouts... -->
+        <para>
+            This publication is designed to be an accurate rendering of the author's original work, which
+            consisted of loose handouts intended for internal yeshiva use. They were not edited by the author
+            not prepared for publication and should, therefore, be viewed in this light.
+        </para>
     </preface>
     <preface>
         <title>
@@ -125,8 +129,8 @@
                     <firstname>Dovid</firstname>
                     <surname>Wichnin</surname>
                 </personname>
-                <par>1938-1995</par>
             </person>
+            1938-1995
         </title>
         <para>Rabbi, teacher, mentor, counselor, guide, mashpia. Which word best describes Rabbi Dovid Wichnin, z"l?
             Allof the above and more, In a word, he was a Chossid of the Rebbe striving to carry out his shlichus.</para>
@@ -179,7 +183,7 @@
         <xi:include href="holidays/pesach.xml"/>
         <xi:include href="holidays/sefiras-ha-omer.xml"/>
         <xi:include href="holidays/shavuos.xml"/>
-        <xi:include href="holidays/nine-deys.xml"/>
+        <xi:include href="holidays/nine-days.xml"/>
         <xi:include href="holidays/tisha-b-av.xml"/>
     </part>
 </book>
