@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+<chapter xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
     <title>Sukkos</title>
     <orderedlist>
         <listitem>
@@ -163,45 +163,45 @@
         </listitem>
         <listitem>
             <para dir="ltr">Explain these terms:</para>
+            <orderedlist>
+                <listitem>
+                    <para dir="ltr">Arba minim</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Nay sukkah</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Hoshanos</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Amvos</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Hadasz'm</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Ushpizin</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Nisuch hamayz'm</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Tefilas geshem</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Isru chug</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Chassan Torah</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Chassan Bereishis</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Tikun</para>
+                </listitem>
+            </orderedlist>
         </listitem>
-        <orderedlist>
-            <listitem>
-                <para dir="ltr">Arba minim</para>
-            </listitem>
-            <listitem>
-                <para dir="ltr">Nay sukkah</para>
-            </listitem>
-            <listitem>
-                <para dir="ltr">Hoshanos</para>
-            </listitem>
-            <listitem>
-                <para dir="ltr">Amvos</para>
-            </listitem>
-            <listitem>
-                <para dir="ltr">Hadasz'm</para>
-            </listitem>
-            <listitem>
-                <para dir="ltr">Ushpizin</para>
-            </listitem>
-            <listitem>
-                <para dir="ltr">Nisuch hamayz'm</para>
-            </listitem>
-            <listitem>
-                <para dir="ltr">Tefilas geshem</para>
-            </listitem>
-            <listitem>
-                <para dir="ltr">Isru chug</para>
-            </listitem>
-            <listitem>
-                <para dir="ltr">Chassan Torah</para>
-            </listitem>
-            <listitem>
-                <para dir="ltr">Chassan Bereishis</para>
-            </listitem>
-            <listitem>
-                <para dir="ltr">Tikun</para>
-            </listitem>
-        </orderedlist>
         <listitem>
             <para dir="ltr">How is one suppose to spend one’s time during Sukkos?</para>
         </listitem>
@@ -212,4 +212,4 @@
             <para dir="ltr">What is special about the Shabbos that follows Sukkos?</para>
         </listitem>
     </orderedlist>
-</section>
+</chapter>

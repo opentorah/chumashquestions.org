@@ -460,6 +460,5 @@
         <folder path="chumash/"/>
         <folder path="holidays/"/>
         <file name="book.xml"/>
-        <file name="introduction.xml"/>
     </projectTree>
 </project>

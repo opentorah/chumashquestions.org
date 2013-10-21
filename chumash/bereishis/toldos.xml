@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+<chapter xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
     <title>Toldos</title>
     <orderedlist>
         <listitem>
-            <para>Why was Yitzchak's face (miraculously) made to look exactly like Avrohom’s?</para>
+            <para>Why was Yitzchak’s face (miraculously) made to look exactly like Avrohom’s?</para>
         </listitem>
         <listitem>
             <para>How old was Yitzchak when he returned from the akeidah? Proof?</para>
         </listitem>
         <listitem>
-            <para>Why does it mention again Whose daughter and sister Rivkah was?</para>
+            <para>Why does it mention again whose daughter and sister Rivkah was?</para>
         </listitem>
         <listitem>
             <para>Bid Yitzchak pray alone? To Whom did Hashem respond? Why?</para>
@@ -23,7 +23,7 @@
             <para>What did Rivkah do about her troubles? Did she get an answer? What?</para>
         </listitem>
         <listitem>
-            <para>In what connection are the names of Rabbi and Antoninus mentioned here?</para>
+            <para>In what connection are the names of Rebbi and Antoninus mentioned here?</para>
         </listitem>
         <listitem>
             <para>What was the prediction about Rivkah’s children and their greatness?</para>
@@ -35,40 +35,40 @@
             <para>What were the physical characteristics of Eisov? Why was be given that name?</para>
         </listitem>
         <listitem>
-            <para>What is the symbolism of Yaakov holding onto Eisov's heel (Royalty)?</para>
+            <para>What is the symbolism of Yaakov holding onto Eisov’s heel (Royalty)?</para>
         </listitem>
         <listitem>
-            <para>Who gave Eisov his name? And Yaakov's name? Why?</para>
+            <para>Who gave Eisov his name? And Yaakov’s name? Why?</para>
         </listitem>
         <listitem>
             <para>When did people realize the personality differences between the two brothers? How?</para>
         </listitem>
         <listitem>
-            <para>What was Eisov’s main occupation? And. Yaakov’s?</para>
+            <para>What was Eisov’s main occupation? And Yaakov’s?</para>
         </listitem>
         <listitem>
             <para>What kind of questions did Eisov ask his father? What for?</para>
         </listitem>
         <listitem>
-            <para>Yaakov is described as a ’tam’ and a in tents.’ Explain.</para>
+            <para>Yaakov is described as a ‘<emphasis role="italic">tam</emphasis>’ and a ‘sitter in tents.’ Explain.</para>
         </listitem>
         <listitem>
-            <para>Why did Yaakov cook a soup of lentils on that day?</para>
+            <para>Why did Yaakov cook a soup of <emphasis role="bold">lentils</emphasis> on <emphasis role="bold">that day</emphasis>?</para>
         </listitem>
         <listitem>
-            <para>A strange connection: Avrohom was promised good old age; therefore he died earlier. How much earlier? Explain the connection.</para>
+            <para>A strange connection: Avrohom was promised ‘good old age’; therefore he died earlier. How much earlier? Explain the connection.</para>
         </listitem>
         <listitem>
-            <para>Why was Yaakov interested in purchasing the bechoroh (birthright)?</para>
+            <para>Why was Yaakov interested in purchasing the <emphasis role="italic">bechorah</emphasis> (birthright)?</para>
         </listitem>
         <listitem>
-            <para>did Eisov decide that the bechorah is not for him?</para>
+            <para>Why did Eisov decide that the bechorah is not for him?</para>
         </listitem>
         <listitem>
             <para>Which words does the Torah use to emphasize that Eisov sold it voluntarily?</para>
         </listitem>
         <listitem>
-            <para>Because Yitzchak was holy like an olah (sacrifice) he couldn’t do two things. What?</para>
+            <para>Because Yitzchak was holy like an <emphasis role="italic">olah</emphasis> (sacrifice) he couldn’t do two things. What?</para>
         </listitem>
         <listitem>
             <para>“Because Avrohom kept My commandments,” etc. Explain the five categories.</para>
@@ -80,16 +80,18 @@
             <para>What did the Plishtim do to Yitzchak’s wells? Reasons (the real, and the other)?</para>
         </listitem>
         <listitem>
-            <para>Why were Yitzchak’s new wells called Esek, Sitmlh, Rechovos, and Shiveh?</para>
+            <para>Why were Yitzchak’s new wells called <emphasis role="italic">Esek</emphasis>, <emphasis role="italic">Sitnah</emphasis>, <emphasis role="italic"
+                    >Rechovos</emphasis>, and <emphasis role="italic">Shiveh</emphasis>?</para>
         </listitem>
         <listitem>
-            <para>After Avimelech sent Yitzchak away, he came down to visit Yitzchak. What reasons did Avimelech give for both actions?</para>
+            <para>After Avimelech <emphasis role="bold">sent</emphasis> Yitzchak away, he <emphasis role="bold">came down to visit</emphasis> Yitzchak. What reasons did Avimelech
+                give for both actions?</para>
         </listitem>
         <listitem>
-            <para>Why was the city of Be'er Sheva called by that name? In which part of the country is it?</para>
+            <para>Why was the city of Be’er Sheva called by that name? In which part of the country is it?</para>
         </listitem>
         <listitem>
-            <para>Did Eisov’s new wives bring nachas (pleasure) to his parents? Explain.</para>
+            <para>Did Eisov’s new wives bring <emphasis role="italic">nachas</emphasis> (pleasure) to his parents? Explain.</para>
         </listitem>
         <listitem>
             <para>Toward his old age, Yitzchak became almost blind. Give three reasons for this.</para>
@@ -107,7 +109,7 @@
             <para>Did Yitzchak really need two goats for one meal?</para>
         </listitem>
         <listitem>
-            <para>On What grounds did Yaakov object to his mother’s instruction?</para>
+            <para>On what grounds did Yaakov object to his mother’s instruction?</para>
         </listitem>
         <listitem>
             <para>Why did Rivkah have in her possession Eisov’s fancy garments?</para>
@@ -122,10 +124,10 @@
             <para>What was Yitzchak’s comment after touching Yaakov?</para>
         </listitem>
         <listitem>
-            <para>How was Yaakov’s voice different than Eisov's in content?</para>
+            <para>How was Yaakov’s voice different than Eisov’s in <emphasis role="bold">content</emphasis>?</para>
         </listitem>
         <listitem>
-            <para>Why was Yitzchak so impressed with Yaakpv's garments?</para>
+            <para>Why was Yitzchak so impressed with Yaakov’s garments?</para>
         </listitem>
         <listitem>
             <para>How was Eisov’s blessing different than Yaakov’s in the first sentence? Why?</para>
@@ -134,7 +136,7 @@
             <para>Why was Yitzchak so scared when Eisov walked in? (Two reasons.)</para>
         </listitem>
         <listitem>
-            <para>How many blessings can you find in Yaakov’s b'rocho?</para>
+            <para>How many blessings can you find in Yaakov’s brocho?</para>
         </listitem>
         <listitem>
             <para>What did Eisov say about his brother after hearing what happened?</para>
@@ -143,7 +145,7 @@
             <para>When will Eisov have a right to free himself from Yaakov’s rule?</para>
         </listitem>
         <listitem>
-            <para>How did Rivkah know What Eisov was planning?</para>
+            <para>How did Rivkah know what Eisov was planning?</para>
         </listitem>
         <listitem>
             <para>What advice did Yaakov get to save himself from Eisov?</para>
@@ -155,13 +157,13 @@
             <para>Which blessing(s) did Yaakov get from his father before leaving?</para>
         </listitem>
         <listitem>
-            <para>On which item does Rashi comment, "I don’t know What it teaches us”?</para>
+            <para>On which item does Rashi comment, “I don’t know what it teaches us”?</para>
         </listitem>
         <listitem>
             <para>Eisov married Yishmael’s daughter. What reason is mentioned for this?</para>
         </listitem>
         <listitem>
-            <para>What is so special about Rosh' Chodesh Kisiev since 1977, and what connection is there in this parsha to that event?</para>
+            <para>What is so special about Rosh Chodesh Kislev since 1977, and what connection is there in this parsha to that event?</para>
         </listitem>
     </orderedlist>
-</section>
+</chapter>

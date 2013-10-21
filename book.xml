@@ -6,15 +6,163 @@
         xmlns:xlink="http://www.w3.org/1999/xlink"
         version="5.0">
     <info>
-        <title>Chumash Questions</title>
+        <title>The Chumash Questions</title>
+        <subtitle>A workbook for the weekly sedra based on the commentary of Rashi</subtitle>
+        <author>
+            <personname>
+                <honorific>Rabbi</honorific>
+                <firstname>Dovid</firstname>
+                <surname>Wichnin</surname>
+            </personname>
+        </author>
+        <copyright>
+            <year>1995</year>
+            <holder>Mrs. M. Wichnin Morristown, NJ</holder>
+            <!-- TODO split holder from place; full copyright notice... -->
+        </copyright>
+        <cover><para>Includes Holiday Questions</para></cover>
     </info>
-    <part>
-        <title>Introduction</title>
-        <xi:include href="introduction.xml"/>
-    </part>
+    <dedication>
+        <para>
+            This publication is dedicated to the Lubavitcher Rebbe
+            to whom the author, Rabbi Dovid Wichnin,
+            was mekushar with every fiber of his being
+            and whose shlichus he carried out with the utmost devotion.
+        </para>
+    </dedication>
+    <acknowledgements>
+        <para>The inspiration and continued support for this project has come from: Mr. and Mrs. Yosef Chaim Lester</para>
+        <para>Managing editor
+            <personname>
+                <firstname>Pessy Leah</firstname>
+                <surname>Lester</surname>
+            </personname>
+        </para>
+        <para>Typing
+            <personname>
+                <firstname>Devorah</firstname>
+                <surname>Hott</surname>
+            </personname>
+        </para>
+        <para>Copy editing, design, typesetting
+            <personname>
+                <firstname>Yael</firstname>
+                <surname>Resnick</surname>
+            </personname>
+        </para>
+        <para>Editorial consultant
+            <personname>
+                <honorific>Rabbi</honorific>
+                <firstname>Zalman</firstname>
+                <surname>Wilschanski</surname>
+            </personname>
+        </para>
+        <para>Consultants
+            <personname>
+                <honorific>Rabbi</honorific>
+                <firstname>Zalman</firstname>
+                <surname>Dubinsky</surname>
+            </personname>
+            <personname>
+                <honorific>Rabbi</honorific>
+                <firstname>Yeheskel</firstname>
+                <surname>Lebovic</surname>
+            </personname>
+            <personname>
+                <honorific>Rabbi</honorific>
+                <firstname>Avraham</firstname>
+                <surname>Lipskier</surname>
+            </personname>
+            <personname>
+                <firstname>Yisroel Noach</firstname>
+                <surname>Wichnin</surname>
+            </personname>
+        </para>
+        <para>Photo courtecy of
+            <personname>
+                <firstname>Albie</firstname>
+                <surname>Rosenhaus</surname>
+            </personname>
+        </para>
+        <para>Cover design
+            <personname>
+                <firstname>Yael</firstname>
+                <surname>Resnick</surname>
+            </personname>
+        </para>
+        <para>Special thanks to:
+            <personname>
+                <firstname>Sara</firstname>
+                <surname>Arno</surname>
+            </personname>
+            <personname>
+                <firstname>Rus Devorah</firstname>
+                <surname>Burdmam</surname>
+            </personname>
+        </para>
+        <para>This publication has been made possible in great measure by a generous donation from
+            <personname>
+                <firstname>Aaron</firstname>
+                <surname>Mayer</surname>
+            </personname>
+            and
+            <personname>
+                <firstname>Shifra</firstname>
+                <surname>Gellman</surname>
+            </personname>
+            and family.
+        </para>
+    </acknowledgements>
+    <preface>
+        <title>Note</title>
+        <!-- TODO Note about handouts... -->
+    </preface>
+    <preface>
+        <title>
+            <person>
+                <personname>
+                    <honorific>Rabbi</honorific>
+                    <firstname>Dovid</firstname>
+                    <surname>Wichnin</surname>
+                </personname>
+                <par>1938-1995</par>
+            </person>
+        </title>
+        <para>Rabbi, teacher, mentor, counselor, guide, mashpia. Which word best describes Rabbi Dovid Wichnin, z"l?
+            Allof the above and more, In a word, he was a Chossid of the Rebbe striving to carry out his shlichus.</para>
+        <para>For 18 years, Rabbi David Wichnin was the Rosh Yeshiva of the Rabbinical College of America’s Yeshiva Tiferes Bachurim in Morristown, N], one of
+            the largest yeshivas in America for baalei teshuva (Iews who have returneé to the Iudaism of their ancestors) T. With humor, discipline and love, Rabbi Wiclmin
+            taught and; guided thousands of students over the years. Students remember Rabbi Wichnin as both a tough and compassionate teacher and role~modei "who lead the
+            yeshiva with exuberance. He also helped hundreds more as the rabbi of the Tzemach Tzedek
+            shul in Monsey, NY, where he 1ived with his wife and three children. He was sought out often for marital advice and performed imeasura‘ole acts of
+            kindness (often in secret), and carried out the mivtzoyz'm (mitzvah campaigns) of the Lubavitcher Rebbe.</para>
+        <para>Chaim Dovid Nota Wichnin was born in 1938 in Bobroisk, White Russia, to Rabbi Nachman Dov and Faigy. Not long after his birth, his family fled to
+            southeastern Russiar—as did many Lubavitcher Chassidim during World War II-wto escape the Nazis. In the Winter of 1941, his mothér and sister Hinda died in
+            Samarkand, Russia. In 1946, he and his father fled from Russia, through Poland and Austria until they arrived in France. He remained in Paris where he attended
+            Yeshiva until 1951.</para>
+        <para>In 1951, Rabbi Wichnin and his father immigrated to Canada, settling in Montreal. He learned at the Lubavitch
+            Yeshiva in  Montreal Where he began to demonstrate his brilliance as a Torah scholar. In 1962 he received smicha (rabbinical ordination) from the Rabbinical College
+            of Canada’s Yeshiva Tomchei Temimim in Montreal.</para>
+        <para>In 1965, he began a long career as an educator when he took a position as a teacher at Central High School for Girls in Brooklyn, NY, where he taught
+            until 1972. He moved to Brookline, Mass, in 1972, Where he became principal of the New England Hebrew Day Academy until 1977. While living in Brookline, Rabbi
+            Wichnin became a favorite of Rav Yosef Dov Soloveitchik, 2”}, the late Torah authority and leader. In 1977 Rabbi Wichnin took on a new challenge, joining the staff
+            of Tiferes Bachurim in Morristown where he helped establish it as a first-rate Torah learning center.</para>
+    </preface>
     <part>
         <title>Chumash Questions</title>
-        <xi:include href="chumash/bereishis/index.xml"/>
+        <bridgehead>Chumash Bereishis</bridgehead>
+        <xi:include href="chumash/bereishis/noach.xml"/>
+        <xi:include href="chumash/bereishis/lech-lecha.xml"/>
+        <xi:include href="chumash/bereishis/vayeira.xml"/>
+        <xi:include href="chumash/bereishis/chayei-sara.xml"/>
+        <xi:include href="chumash/bereishis/toldos.xml"/>
+        <xi:include href="chumash/bereishis/vayeitzei.xml"/>
+        <xi:include href="chumash/bereishis/vayishlach.xml"/>
+        <xi:include href="chumash/bereishis/vayeishev.xml"/>
+        <xi:include href="chumash/bereishis/miketz.xml"/>
+        <xi:include href="chumash/bereishis/vayigash.xml"/>
+        <xi:include href="chumash/bereishis/vayechi.xml"/>
+        
         <xi:include href="chumash/shemos/index.xml"/>
         <xi:include href="chumash/vayikra/index.xml"/>
         <xi:include href="chumash/bamidbar/index.xml"/>

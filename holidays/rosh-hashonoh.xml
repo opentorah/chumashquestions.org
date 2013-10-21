@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+<chapter xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
     <title>Rosh HaShonoh</title>
     <orderedlist>
         <listitem>
@@ -158,47 +158,47 @@
         </listitem>
         <listitem>
             <para dir="ltr">Exialainz</para>
+            <orderedlist>
+                <listitem>
+                    <para dir="ltr">Ikkiah</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Teruah</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Shevarim</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Tekias di’me’umad</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Tekias di'meyushav 391.51%)"; 03191</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Me’ah kolos</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Kesivah vachasimah tovah</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Gemar chasimah tovah</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Le’aifer Zechayim</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Sifron she! tzadikim, Shofms</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Shpnoh tough umesukah</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Malchiyos, zichronos</para>
+                </listitem>
+                <listitem>
+                    <para dir="ltr">Haioms nedarim</para>
+                </listitem>
+            </orderedlist>
         </listitem>
-        <orderedlist>
-            <listitem>
-                <para dir="ltr">Ikkiah</para>
-            </listitem>
-            <listitem>
-                <para dir="ltr">Teruah</para>
-            </listitem>
-            <listitem>
-                <para dir="ltr">Shevarim</para>
-            </listitem>
-            <listitem>
-                <para dir="ltr">Tekias di’me’umad</para>
-            </listitem>
-            <listitem>
-                <para dir="ltr">Tekias di'meyushav 391.51%)"; 03191</para>
-            </listitem>
-            <listitem>
-                <para dir="ltr">Me’ah kolos</para>
-            </listitem>
-            <listitem>
-                <para dir="ltr">Kesivah vachasimah tovah</para>
-            </listitem>
-            <listitem>
-                <para dir="ltr">Gemar chasimah tovah</para>
-            </listitem>
-            <listitem>
-                <para dir="ltr">Le’aifer Zechayim</para>
-            </listitem>
-            <listitem>
-                <para dir="ltr">Sifron she! tzadikim, Shofms</para>
-            </listitem>
-            <listitem>
-                <para dir="ltr">Shpnoh tough umesukah</para>
-            </listitem>
-            <listitem>
-                <para dir="ltr">Malchiyos, zichronos</para>
-            </listitem>
-            <listitem>
-                <para dir="ltr">Haioms nedarim</para>
-            </listitem>
-        </orderedlist>
     </orderedlist>
-</section>
+</chapter>

@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+<chapter xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
     <title>Vayeitzei</title>
     <orderedlist>
         <listitem>
             <para>Why is Yaakov’s story of departure from home repeated here?</para>
         </listitem>
         <listitem>
-            <para>at happefis to the city when the tzadik departs from it?</para>
+            <para>What happens to the city when the tzadik departs from it?</para>
         </listitem>
         <listitem>
-            <para>Whai was the name of we special place Where Yaakov slept?</para>
+            <para>What was the name of the special place where Yaakov slept?</para>
         </listitem>
         <listitem>
-            <para>In What way was Yaakov’s sleeping there unusual for him?</para>
+            <para>In what way was Yaakov’s sleeping there unusual for him?</para>
         </listitem>
         <listitem>
             <para>Were there many stones around Yaakov’s head or just one stone? Proof?</para>
         </listitem>
         <listitem>
-            <para>Where did Yaakov spend before he made this journey? How long?</para>
+            <para>Where did Yaakov spend time before he made this journey? How long?</para>
         </listitem>
         <listitem>
-            <para>Hashem doesn’t usually conned: His Name to a living tzadik. Why? And to Yitzchak?</para>
+            <para>Hashem doesn’t usually connect His Name to a living tzadik. Why? And to Yitzchak?</para>
         </listitem>
         <listitem>
-            <para>Why does it say “And the Land you're sleeping on.” Did he sleep on the whole land?</para>
+            <para>Why does it say “And the <emphasis role="bold">Land</emphasis> you’re sleeping on.” Did he sleep on the whole land?</para>
         </listitem>
         <listitem>
-            <para>What is the meaning of ufomtzi‘o? Why do we sing it?</para>
+            <para>What is the meaning of <emphasis role="italic">uforatzto</emphasis>? Why do we sing it?</para>
         </listitem>
         <listitem>
-            <para>Since Hashem hadn’t spoken to Yaakov before, What’s the meaning of "which l have spoken," etc“ (28/15)?</para>
+            <para>Since Hashem hasn’t spoken to Yaakov before, what’s the meaning of “which l have spoken,” etc. (28:15)?</para>
         </listitem>
         <listitem>
             <para>What did Yaakov remark about this place when he woke up?</para>
         </listitem>
         <listitem>
-            <para>Why did he call this place "This is the gate of Heaven'?</para>
+            <para>Why did he call this place ‘This is the gate of Heaven’?</para>
         </listitem>
         <listitem>
             <para>Yaakov prayed for material and spiritual goods. Give two examples of each.</para>
@@ -47,61 +47,62 @@
             <para>Yaakov promised to do two things if Hashem will help him in his journey. Which?</para>
         </listitem>
         <listitem>
-            <para>How does happiness (or good news) affect a person’s waiking? Proof?</para>
+            <para>How does happiness (or good news) affect a person’s walking? Proof?</para>
         </listitem>
         <listitem>
-            <para>What criticism did Yaakov have of the shepherds around the wail? Was he right?</para>
+            <para>What criticism did Yaakov have of the shepherds around the well? Was he right?</para>
         </listitem>
         <listitem>
             <para>What excuse did these shepherds give him for their behavior?</para>
         </listitem>
         <listitem>
-            <para>Why did Yaakov cry when he met Rachel?</para>
+            <para>Why did Yaakov cry when he met Rochel?</para>
         </listitem>
         <listitem>
-            <para>When Yaakov told Rochel that he is ’her father's brother,’ What did he mean?</para>
+            <para>When Yaakov told Rochel that he is ‘her father’s <emphasis role="bold">brother</emphasis>,’ what did he mean?</para>
         </listitem>
         <listitem>
-            <para>‘Who was Elifaz? Why did he decide to be ’kind’ to Yaakov?</para>
+            <para>Who was Elifaz? Why did he decide to be ‘kind’ to Yaakov?</para>
         </listitem>
         <listitem>
-            <para>Lavan ran towards Yaakov, embraced him, and even kissed him. What for? I</para>
+            <para>Lavan <emphasis role="bold">ran</emphasis> towards Yaakov, <emphasis role="bold">embraced</emphasis> him, and even <emphasis role="bold">kissed</emphasis> him.
+                What for?</para>
         </listitem>
         <listitem>
-            <para>Why was Leah worried and crying but not Rochel?</para>
+            <para>Why was <emphasis role="bold">Leah</emphasis> worried and crying but not Rochel?</para>
         </listitem>
         <listitem>
-            <para>Why did Yaakov specify that he will work for "Rachel, your young daughter”?</para>
+            <para>Why did Yaakov specify that he will work for “Rochel, your young daughter”?</para>
         </listitem>
         <listitem>
-            <para>What was the great chesed (kindness) that Rachel did for Leah?</para>
+            <para>What was the great <emphasis role="italic">chesed</emphasis> (kindness) that Rochel did for Leah?</para>
         </listitem>
         <listitem>
-            <para>According to Razal (our Sages), What is the meaning of the name Reuven?</para>
+            <para>According to <emphasis role="italic">Razal</emphasis> (our Sages), what is the meaning of the name Reuven?</para>
         </listitem>
         <listitem>
             <para>What was the reason for the name Shimon? And Levi?</para>
         </listitem>
         <listitem>
-            <para>Did Leah and Roche} know how many sons Yaakov would have?</para>
+            <para>Did Leah and Rochel know how many sons Yaakov would have?</para>
         </listitem>
         <listitem>
-            <para>Why did the maloch (angel) Gavriel take Levi up to heaven for a while?</para>
+            <para>Why did the <emphasis role="italic">maloch</emphasis> (angel) Gavriel take Levi up to heaven for a while?</para>
         </listitem>
         <listitem>
             <para>Why did Leah offer thanks to Hashem at the birth of her fourth son? What was his name?</para>
         </listitem>
         <listitem>
-            <para>Why was Roche} jealous of Leah? What did she then say to Yaakov?</para>
+            <para>Why was Rochel jealous of Leah? What did she then say to Yaakov?</para>
         </listitem>
         <listitem>
-            <para>Why did Lavan give Zilpah t0 Leah ané Bilhah to Rachel for maiais?</para>
+            <para>Why did Lavan give Zilpah to Leah and Bilhah to Rachel for maids?</para>
         </listitem>
         <listitem>
             <para>Give the reasons for these names: Don, Naftali, and Asher.</para>
         </listitem>
         <listitem>
-            <para>Why is it noted that Reuven found flowers in the time of harvest?</para>
+            <para>Why is it noted that Reuven found flowers <emphasis role="bold">in the time of harvest</emphasis>?</para>
         </listitem>
         <listitem>
             <para>What strange thing happened to Dina prior to her birth? Why?</para>
@@ -110,25 +111,25 @@
             <para>“And Hashem remembered Rochel.” Which merits did He remember?</para>
         </listitem>
         <listitem>
-            <para>“He removed my shame.” Which shame did Roche} mean? (Two answers.)</para>
+            <para>“He removed my shame.” Which shame did Rochel mean? (Two answers.)</para>
         </listitem>
         <listitem>
-            <para>“May He add to me another son." Why did she only ask for one son?</para>
+            <para>“May He add to me another son." Why did she only ask for <emphasis role="bold">one</emphasis> son?</para>
         </listitem>
         <listitem>
             <para>Why did Yaakov decide to leave Lavan only after Yoseif was born?</para>
         </listitem>
         <listitem>
-            <para>Why was Lavan convinced that Yaakov's presence brought blessings?</para>
+            <para>Why was Lavan convinced that Yaakov’s presence brought blessings?</para>
         </listitem>
         <listitem>
             <para>What kind of a payment did Yaakov request for his work?</para>
         </listitem>
         <listitem>
-            <para>Which ’scientific’ method did Yaakov use to produce spotted sheep?</para>
+            <para>Which ‘scientific’ method did Yaakov use to produce spotted sheep?</para>
         </listitem>
         <listitem>
-            <para>What complaint did Lavan's sons make against Yaakov?</para>
+            <para>What complaint did Lavan’s sons make against Yaakov?</para>
         </listitem>
         <listitem>
             <para>What command did Yaakov get from Hashem at that time?</para>
@@ -137,19 +138,19 @@
             <para>It is said that Yaakov’s sheep were more expensive than others. Why?</para>
         </listitem>
         <listitem>
-            <para>Who was Yaakov’s main ’balabosteh'? Who else agreed on this?</para>
+            <para>Who was Yaakov’s main ‘balabosteh’? Who else agreed on this?</para>
         </listitem>
         <listitem>
             <para>How many times did Lavan change (cheat) Yaakov’s salary?</para>
         </listitem>
         <listitem>
-            <para>What ’case' did Yaakov make to his Wives? Were they convinced?</para>
+            <para>What ‘case’ did Yaakov make to his wives? Were they convinced?</para>
         </listitem>
         <listitem>
             <para>Finally Yaakov escaped from Lavan’s house. Why?</para>
         </listitem>
         <listitem>
-            <para>What did Roche} take away from her father? Why?</para>
+            <para>What did Rochel take away from her father? Why?</para>
         </listitem>
         <listitem>
             <para>Prove that a maloch could refer to himself as Hashem.</para>
@@ -161,7 +162,7 @@
             <para>Lavan’s daughters said that “he treated us like strangers.” Why?</para>
         </listitem>
         <listitem>
-            <para>is it desirable to hear good words from reshayim (sinners)? Proof? Why?</para>
+            <para>Is it desirable to hear good words from <emphasis role="italic">reshayim</emphasis> (sinners)? Proof? Why?</para>
         </listitem>
         <listitem>
             <para>Yaakov and Eisov treated men and women differently. How?</para>
@@ -173,7 +174,7 @@
             <para>How did Yaakov describe his style of work for Lavan?</para>
         </listitem>
         <listitem>
-            <para>What would have happened to Yaakov if Hashem didn't help him?</para>
+            <para>What would have happened to Yaakov if Hashem didn’t help him?</para>
         </listitem>
         <listitem>
             <para>What kind of covenant did Yaakov and Lavan establish?</para>
@@ -191,7 +192,8 @@
             <para>About how many years do the events in this parsha cover?</para>
         </listitem>
         <listitem>
-            <para>Where is there a reference hereto the prayer of Maari'v (evening prayer)? To Sheva Brachos (seven wedding blessings)?</para>
+            <para>Where is there a reference here to the prayer of <emphasis role="italic">Maariv</emphasis> (evening prayer)? To <emphasis role="italic">Sheva Brachos</emphasis>
+                (seven wedding blessings)?</para>
         </listitem>
     </orderedlist>
-</section>
+</chapter>

@@ -1,32 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+<chapter xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
     <title>Chayei Sara</title>
     <orderedlist>
         <listitem>
-            <para>Why is the word shonoh (year) repeated in the first posuk? Did Sara have a good life? What the troubles?</para>
+            <para>Why is the word <emphasis role="italic">shonoh</emphasis> (year) repeated in the first <emphasis role="italic">posuk</emphasis>?</para>
         </listitem>
         <listitem>
-            <para>Why was Hebron sailed Kiryas Arba (City of Four)? Is there a city by this name today? Where?</para>
+            <para>Did Sara have a good life? What about the troubles?</para>
+        </listitem>
+        <listitem>
+            <para>Why was Hebron called <emphasis role="italic">Kiryas Arba</emphasis> (City of Four)? Is there a city by this name today? Where?</para>
         </listitem>
         <listitem>
             <para>Why is Sara’s death mentioned right after the akeidah?</para>
         </listitem>
         <listitem>
-            <para>When Avrohom says, “I am a newcomer and an old settler,” What does he mean? (See posuk 4.) '</para>
+            <para>When Avrohom says, “I am a newcomer and an old settler,” What does he mean? (See posuk 4.)</para>
         </listitem>
         <listitem>
-            <para>Why was the Meoms Hamachpeila called by this name?</para>
+            <para>Why was the <emphasis role="italic">Meoros Hamachpeila</emphasis> called by this name?</para>
         </listitem>
         <listitem>
-            <para>What was special about Efiron? Was he a nice person?</para>
+            <para>What was special about Efron? Was he a nice person?</para>
         </listitem>
         <listitem>
             <para>How does the Torah hint to us about Efron’s character?</para>
         </listitem>
         <listitem>
-            <para>Did Avmhom's work make a difference in Hashem’s Kingship?</para>
+            <para>Did Avrohom’s work make a difference in Hashem’s Kingship?</para>
         </listitem>
         <listitem>
             <para>What did Avrohom ask from Eliezer? Why was it necessary (in your opinion)?</para>
@@ -38,20 +41,25 @@
             <para>Why didn’t Avrohom want Yitzchak to marry a girl from the local population (the people of Cnaan)?</para>
         </listitem>
         <listitem>
-            <para>How were Avrohom's camels recognizable in the street?</para>
+            <para>How were Avrohom’s camels recognizable in the street?</para>
         </listitem>
         <listitem>
-            <para>Eliezer had “all his master’s riches in his hand." How?</para>
+            <para>Eliezer had “all his master’s riches <emphasis role="bold">in his hand</emphasis>.” How?</para>
         </listitem>
         <listitem>
-            <para>What kind of midoh’s (trait) was the girl supposed to have? Why?</para>
+            <para>What kind of <emphasis role="italic">midoh</emphasis> (trait) was the girl supposed to have? Why?</para>
         </listitem>
         <listitem>
-            <para>How did Eliezer recognize that Rivkah was a special person (even before he spoke to her)? In What way did Rivkah offer to give more than she was
-                asked?</para>
+            <para>How did Eliezer recognize that Rivkah was a special person (even before he spoke to her)?</para>
         </listitem>
         <listitem>
-            <para>What was symbolized by the jewelry that Eliezer gave her? (Check the numbers.) Why did he ask her who she was after giving her the gifts?</para>
+            <para>In what way did Rivkah offer to give more than she was asked?</para>
+        </listitem>
+        <listitem>
+            <para>What was symbolized by the jewelry that Eliezer gave her? (Check the numbers.)</para>
+        </listitem>
+        <listitem>
+            <para>Why did he ask her who she was <emphasis role="bold">after</emphasis> giving her the gifts?</para>
         </listitem>
         <listitem>
             <para>What did Eliezer do and say after Rivkah invited him to the house?</para>
@@ -66,7 +74,8 @@
             <para>Why did Avrohom reject these plans?</para>
         </listitem>
         <listitem>
-            <para>How do we know that Eliezer had haderech (a miracle to quicken his trip) and why was it necessary (in your opinion)?</para>
+            <para>How do we know that Eliezer had <emphasis role="italic">kfitzas haderech</emphasis> (a miracle to quicken his trip) and why was it necessary (in your
+                opinion)?</para>
         </listitem>
         <listitem>
             <para>How do we know that the talk and stories of the Avos and their servants are more precious than our Torah learning?</para>
@@ -75,10 +84,11 @@
             <para>How many times is Eliezer’s story repeated in the parsha? Do you notice any changes in the recounting?</para>
         </listitem>
         <listitem>
-            <para>How do we know that even non-jews believed that a shidduch (match) is bashert (predestined)?</para>
+            <para>How do we know that even non-Jews believed that a <emphasis role="italic">shidduch</emphasis> (match) is <emphasis role="italic">bashert</emphasis>
+                (predestined)?</para>
         </listitem>
         <listitem>
-            <para>How can we tell that Rivkah’s brother was a Tasha (sinner)?</para>
+            <para>How can we tell that Rivkah’s brother was a <emphasis role="italic">rasha</emphasis> (sinner)?</para>
         </listitem>
         <listitem>
             <para>How do we know that one must thank Hashem for good news?</para>
@@ -90,7 +100,7 @@
             <para>From where do we learn that a woman must be asked whether she consents to a marriage and cannot be forced into it by her parents?</para>
         </listitem>
         <listitem>
-            <para>What ’daring’ answer did Rivkah give to her family?</para>
+            <para>What ‘daring’ answer did Rivkah give to her family?</para>
         </listitem>
         <listitem>
             <para>What was Yitzchak doing when Rivkah arrived?</para>
@@ -99,28 +109,28 @@
             <para>What were the special miracles and blessings that Sara had in her tent? Did Rivkah have them? Proof?</para>
         </listitem>
         <listitem>
-            <para>What kind of special gift did Yitzchak get from his father?</para>
+            <para>What kind of <emphasis role="bold">special gift</emphasis> did Yitzchak get from his father?</para>
         </listitem>
         <listitem>
-            <para>What strange gift did the other children get?</para>
+            <para>What <emphasis role="bold">strange gift</emphasis> did the other children get?</para>
         </listitem>
         <listitem>
-            <para>Why is the word shonoh repeated in connection with Avrohom's passing?</para>
+            <para>Why is the word <emphasis role="italic">shonoh</emphasis> repeated in connection with Avrohom’s passing?</para>
         </listitem>
         <listitem>
-            <para>How do we know that Yishmael did teshuvah (repented)?</para>
+            <para>How do we know that Yishmael did <emphasis role="italic">teshuvah</emphasis> (repented)?</para>
         </listitem>
         <listitem>
-            <para>Why was Avrohom afraid to biess Yitzchak? What did Hashem do?</para>
+            <para>Why was Avrohom afraid to bless Yitzchak? What did Hashem do?</para>
         </listitem>
         <listitem>
             <para>Which mitzvoh did Hashem do after Avrohom’s passing?</para>
         </listitem>
         <listitem>
-            <para>Where is Minchah (afternoon) davening mentioned in this parsha?</para>
+            <para>Where is <emphasis role="italic">Minchah</emphasis> (afternoon) davening mentioned in this parsha?</para>
         </listitem>
         <listitem>
-            <para>In this parsha there is a special hint to one of Rebbe's main mivtzoyim. Where?</para>
+            <para>In this parsha there is a special hint to one of Rebbe’s main <emphasis role="italic">mivtzoyim</emphasis>. Where?</para>
         </listitem>
     </orderedlist>
-</section>
+</chapter>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+<chapter xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
     <title>Miketz</title>
     <orderedlist>
         <listitem>
-            <para>"At the end of two years,” etc. From when are these years counted?</para>
+            <para>“At the end of two years,” etc. From when are these years counted?</para>
         </listitem>
         <listitem>
-            <para>The seven fat cows had 'good iooks.’ What is the symboiism in this?</para>
+            <para>The seven fat cows had ‘good iooks.’ What is the symboiism in this?</para>
         </listitem>
         <listitem>
             <para>How is Mitzrayim different from other countries in terms of rain?</para>
@@ -38,7 +38,7 @@
             <para>Name at least two changes in Paroh's dream as he recounts it to Yoseif.</para>
         </listitem>
         <listitem>
-            <para>“What Hashem wants to do He showed, told to Paroh,” etc‘ Why that change?</para>
+            <para>“What Hashem wants to do He showed, told to Paroh,” etc. Why that change?</para>
         </listitem>
         <listitem>
             <para>Why did the dream repeat itself to Paroh?</para>
@@ -86,7 +86,7 @@
             <para>How did Yaakov hint at a prophecy about the duration of the exiie in Mitzrayim?</para>
         </listitem>
         <listitem>
-            <para>“Yoseif's ten brothers went down to buy food.” Explain the emphasis.</para>
+            <para>“Yoseif’s ten brothers went down to buy food.” Explain the emphasis.</para>
         </listitem>
         <listitem>
             <para>y wasn’t Binyomin sent along? a? rule do we derive from this?</para>
@@ -182,13 +182,13 @@
             <para>What was so special about their drinking wine that day?</para>
         </listitem>
         <listitem>
-            <para>Binyomin is called ’the little one.’ Was he reaily a Rifle boy?</para>
+            <para>Binyomin is called ‘the little one.’ Was he reaily a Rifle boy?</para>
         </listitem>
         <listitem>
             <para>Here we find one of the ten examples of kal vachomer in the Torah. What is it?</para>
         </listitem>
         <listitem>
-            <para>What kind of punishment were the brothers willing to accept" for stealing the cup? What was the housekeeper’s response?</para>
+            <para>What kind of punishment were the brothers willing to accept for stealing the cup? What was the housekeeper’s response?</para>
         </listitem>
         <listitem>
             <para>Where did he start the search? Why? Where was it found?</para>
@@ -197,7 +197,7 @@
             <para>What did the brothers answer Yoseif as to Why they stole the cup?</para>
         </listitem>
         <listitem>
-            <para>What "was the exchange of offers behveen Yehuda and Yoseif?</para>
+            <para>What was the exchange of offers behveen Yehuda and Yoseif?</para>
         </listitem>
         <listitem>
             <para>This parsha is always read on Chanukah. Can you find any connection between Chanukah and this parsha?</para>
@@ -206,4 +206,4 @@
             <para>About how many years are covered in this parsha?</para>
         </listitem>
     </orderedlist>
-</section>
+</chapter>
