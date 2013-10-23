@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<chapter xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+<section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
     <title>Noach</title>
     <orderedlist>
         <listitem>
             <para>Why are Noach’s qualities, instead of his sons' names, mentioned in the first posuk?</para>
         </listitem>
         <listitem>
-            <para>“In his generations,” etc. (posuk 1) What is the dispute among <emphasis role="italic">Chazal</emphasis> (our Sages) about this?</para>
+            <para>“In his generations,” etc. (posuk 1) What is the dispute among <glossterm>Chazal</glossterm> (our Sages) about this?</para>
         </listitem>
         <listitem>
             <para>How does Noach compare to Avrohom's greatness? Proof?</para>
@@ -23,7 +23,7 @@
             <para>Which sin caused their final verdict to be sealed against them? Proof?</para>
         </listitem>
         <listitem>
-            <para>For how many years did Noach build the <emphasis role="italic">taiva</emphasis> (ark/box)? Why was <emphasis role="bold">this</emphasis> safety method
+            <para>For how many years did Noach build the <glossterm>taiva</glossterm> (ark/box)? Why was <emphasis role="bold">this</emphasis> safety method
                 used?</para>
         </listitem>
         <listitem>
@@ -42,7 +42,7 @@
             <para>In punishing the human race, Hashem partly agreed with advice of long ago. Explain.</para>
         </listitem>
         <listitem>
-            <para>What are the three meanings of the word <emphasis role="italic">mabul</emphasis> ? Why was a <emphasis role="bold">covenant</emphasis> necessary?</para>
+            <para>What are the three meanings of the word <glossterm>mabul</glossterm> ? Why was a <emphasis role="bold">covenant</emphasis> necessary?</para>
         </listitem>
         <listitem>
             <para>Since many of the animals became perverted, how did Noach know whom to admit?</para>
@@ -255,4 +255,4 @@
             <para>Until Avrohom there was Hashem’s anger in the world. And with Avrohom?</para>
         </listitem>
     </orderedlist>
-</chapter>
+</section>

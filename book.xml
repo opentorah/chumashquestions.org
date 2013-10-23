@@ -17,8 +17,9 @@
         </author>
         <copyright>
             <year>1995</year>
-            <holder>Mrs. M. Wichnin Morristown, NJ</holder>
-            <!-- TODO split holder from place; full copyright notice... -->
+            <holder>Mrs. M. Wichnin</holder>
+            <holder>Morristown, NJ</holder>
+            <!-- TODO full copyright notice... -->
         </copyright>
         <cover><para>Includes Holiday Questions</para></cover>
     </info>
@@ -118,7 +119,7 @@
         <para>
             This publication is designed to be an accurate rendering of the author's original work, which
             consisted of loose handouts intended for internal yeshiva use. They were not edited by the author
-            not prepared for publication and should, therefore, be viewed in this light.
+            nor prepared for publication and should, therefore, be viewed in this light.
         </para>
     </preface>
     <preface>
@@ -138,8 +139,9 @@
             the largest yeshivas in America for baalei teshuva (Iews who have returneé to the Iudaism of their ancestors) T. With humor, discipline and love, Rabbi Wiclmin
             taught and; guided thousands of students over the years. Students remember Rabbi Wichnin as both a tough and compassionate teacher and role~modei "who lead the
             yeshiva with exuberance. He also helped hundreds more as the rabbi of the Tzemach Tzedek
-            shul in Monsey, NY, where he 1ived with his wife and three children. He was sought out often for marital advice and performed imeasura‘ole acts of
-            kindness (often in secret), and carried out the mivtzoyz'm (mitzvah campaigns) of the Lubavitcher Rebbe.</para>
+            shul in Monsey, NY, where he 1ived with his wife and three children. He was sought out often for marital advice
+            and performed imeasurable acts of
+            kindness (often in secret), and carried out the mivtzoyi'm (mitzvah campaigns) of the Lubavitcher Rebbe.</para>
         <para>Chaim Dovid Nota Wichnin was born in 1938 in Bobroisk, White Russia, to Rabbi Nachman Dov and Faigy. Not long after his birth, his family fled to
             southeastern Russiar—as did many Lubavitcher Chassidim during World War II-wto escape the Nazis. In the Winter of 1941, his mothér and sister Hinda died in
             Samarkand, Russia. In 1946, he and his father fled from Russia, through Poland and Austria until they arrived in France. He remained in Paris where he attended
@@ -148,31 +150,83 @@
             Yeshiva in  Montreal Where he began to demonstrate his brilliance as a Torah scholar. In 1962 he received smicha (rabbinical ordination) from the Rabbinical College
             of Canada’s Yeshiva Tomchei Temimim in Montreal.</para>
         <para>In 1965, he began a long career as an educator when he took a position as a teacher at Central High School for Girls in Brooklyn, NY, where he taught
-            until 1972. He moved to Brookline, Mass, in 1972, Where he became principal of the New England Hebrew Day Academy until 1977. While living in Brookline, Rabbi
-            Wichnin became a favorite of Rav Yosef Dov Soloveitchik, 2”}, the late Torah authority and leader. In 1977 Rabbi Wichnin took on a new challenge, joining the staff
+            until 1972. He moved to Brookline, Mass, in 1972, where he became principal of the New England Hebrew Day Academy until 1977. While living in Brookline, Rabbi
+            Wichnin became a favorite of Rav Yosef Dov Soloveitchik, z"l, the late Torah authority and leader. In 1977 Rabbi Wichnin took on a new challenge, joining the staff
             of Tiferes Bachurim in Morristown where he helped establish it as a first-rate Torah learning center.</para>
     </preface>
-    <part>
-        <title>Chumash Questions</title>
-        <bridgehead>Chumash Bereishis</bridgehead>
-        <xi:include href="chumash/bereishis/noach.xml"/>
-        <xi:include href="chumash/bereishis/lech-lecha.xml"/>
-        <xi:include href="chumash/bereishis/vayeira.xml"/>
-        <xi:include href="chumash/bereishis/chayei-sara.xml"/>
-        <xi:include href="chumash/bereishis/toldos.xml"/>
-        <xi:include href="chumash/bereishis/vayeitzei.xml"/>
-        <xi:include href="chumash/bereishis/vayishlach.xml"/>
-        <xi:include href="chumash/bereishis/vayeishev.xml"/>
-        <xi:include href="chumash/bereishis/miketz.xml"/>
-        <xi:include href="chumash/bereishis/vayigash.xml"/>
-        <xi:include href="chumash/bereishis/vayechi.xml"/>
-        
-        <xi:include href="chumash/shemos/index.xml"/>
-        <xi:include href="chumash/vayikra/index.xml"/>
-        <xi:include href="chumash/bamidbar/index.xml"/>
-        <xi:include href="chumash/devarim/index.xml"/>
-    </part>
-    <part>
+
+    <chapter>
+        <title>Chumash Bereishis</title>
+        <xi:include href="bereishis/noach.xml"/>
+        <xi:include href="bereishis/lech-lecha.xml"/>
+        <xi:include href="bereishis/vayeira.xml"/>
+        <xi:include href="bereishis/chayei-sara.xml"/>
+        <xi:include href="bereishis/toldos.xml"/>
+        <xi:include href="bereishis/vayeitzei.xml"/>
+        <xi:include href="bereishis/vayishlach.xml"/>
+        <xi:include href="bereishis/vayeishev.xml"/>
+        <xi:include href="bereishis/miketz.xml"/>
+        <xi:include href="bereishis/vayigash.xml"/>
+        <xi:include href="bereishis/vayechi.xml"/>
+    </chapter>
+
+    <chapter>
+        <title>Chumash Shemos</title>
+        <xi:include href="shemos/shemos.xml"/>
+        <xi:include href="shemos/va-eira.xml"/>
+        <xi:include href="shemos/bo.xml"/>
+        <xi:include href="shemos/beshalach.xml"/>
+        <xi:include href="shemos/yisro.xml"/>
+        <xi:include href="shemos/mishpatim.xml"/>
+        <xi:include href="shemos/terumah.xml"/>
+        <xi:include href="shemos/tetzaveh.xml"/>
+        <xi:include href="shemos/ki-sissa.xml"/>
+        <xi:include href="shemos/vayakhel.xml"/>
+        <xi:include href="shemos/pekudei.xml"/>
+    </chapter>
+    
+    <chapter>
+        <title>Chumash Vayikra</title>
+        <xi:include href="vayikra/vayikra.xml"/>
+        <xi:include href="vayikra/tzav.xml"/>
+        <xi:include href="vayikra/shemini.xml"/>
+        <xi:include href="vayikra/tazria.xml"/>
+        <xi:include href="vayikra/metzorah.xml"/>
+        <xi:include href="vayikra/acharei.xml"/>
+        <xi:include href="vayikra/kedoshim.xml"/>
+        <xi:include href="vayikra/emor.xml"/>
+        <xi:include href="vayikra/behar.xml"/>
+        <xi:include href="vayikra/bechukosai.xml"/>
+    </chapter>
+    
+    <chapter>
+        <title>Chumash Bamidbar</title>
+        <xi:include href="bamidbar/bamidbar.xml"/>
+        <xi:include href="bamidbar/noso.xml"/>
+        <xi:include href="bamidbar/behaaloscha.xml"/>
+        <xi:include href="bamidbar/shelach.xml"/>
+        <xi:include href="bamidbar/korach.xml"/>
+        <xi:include href="bamidbar/chukas.xml"/>
+        <xi:include href="bamidbar/balak.xml"/>
+        <xi:include href="bamidbar/pinchas.xml"/>
+        <xi:include href="bamidbar/matos.xml"/>
+        <xi:include href="bamidbar/masei.xml"/>
+    </chapter>
+    
+    <chapter>
+        <title>Chumash Devarim</title>
+        <xi:include href="devarim/devarim.xml"/>
+        <xi:include href="devarim/vo-eschanan.xml"/>
+        <xi:include href="devarim/eikev.xml"/>
+        <xi:include href="devarim/re-eh.xml"/>
+        <xi:include href="devarim/shoftim.xml"/>
+        <xi:include href="devarim/ki-seitzei.xml"/>
+        <xi:include href="devarim/ki-savo.xml"/>
+        <xi:include href="devarim/nitzavim.xml"/>
+        <xi:include href="devarim/vayeilech.xml"/>
+    </chapter>
+    
+    <chapter>
         <title>Holiday Questions</title>
         <xi:include href="holidays/rosh-hashonoh.xml"/>
         <xi:include href="holidays/yom-kippur.xml"/>
@@ -185,5 +239,5 @@
         <xi:include href="holidays/shavuos.xml"/>
         <xi:include href="holidays/nine-days.xml"/>
         <xi:include href="holidays/tisha-b-av.xml"/>
-    </part>
+    </chapter>
 </book>

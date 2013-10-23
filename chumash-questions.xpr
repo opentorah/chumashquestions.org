@@ -14,7 +14,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>chumash/bereishis/noach.xml</String>
+                                    <String>book.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -30,6 +30,21 @@
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>chumash/</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>DocBook PDF - Copy</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>chumash/bereishis/noach.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -457,8 +472,6 @@
         <folder masterFiles="true" name="Master Files">
             <file name="book.xml"/>
         </folder>
-        <folder path="chumash/"/>
-        <folder path="holidays/"/>
-        <file name="book.xml"/>
+        <folder path="."/>
     </projectTree>
 </project>

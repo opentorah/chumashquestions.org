@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<chapter xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+<section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
     <title>Vayechi</title>
     <orderedlist>
         <listitem>
-            <para>This par'sha is dosed-in with the previous one. Give two reasons for this.</para>
+            <para>This parsha is closed-in with the previous one. Give two reasons for this.</para>
         </listitem>
         <listitem>
-            <para>How many years did Yaakov five in all? in Mitzrayim?</para>
+            <para>How many years did Yaakov live in all? in Mitzrayim?</para>
         </listitem>
         <listitem>
             <para>What request did Yaakov make to Yoseif? Was an oath involved?</para>
@@ -17,7 +17,7 @@
             <para>Among the three Avos, who lived the longest? The shortest?</para>
         </listitem>
         <listitem>
-            <para>The kindness that is done to the dead is call "true kindness.’ Why?</para>
+            <para>The kindness that is done to the dead is call ‘true kindness.’ Why?</para>
         </listitem>
         <listitem>
             <para>Yaakov asked not to be buried in Mitzrayim. Thee reasons are given. What are they?</para>
@@ -38,19 +38,19 @@
             <para>Prove that kings should be honored even if they personally are unworthy.</para>
         </listitem>
         <listitem>
-            <para>What kind of gift did Yaakov offer to Yoseif? Why did Yoseif get it?</para>
+            <para>What kind of gift did Yaakov offer to Yoseif? Why did <emphasis role="bold">Yoseif</emphasis> get it?</para>
         </listitem>
         <listitem>
-            <para>Why does Yaakov teH the story of Rachel’s death and burial here?</para>
+            <para>Why does Yaakov tell the story of Rochel’s death and burial here?</para>
         </listitem>
         <listitem>
-            <para>Where is Roche-21 buried? Why? What is so unusual about this? I</para>
+            <para>Where is Rochel buried? Why? What is so unusual about this?</para>
         </listitem>
         <listitem>
             <para>Yaakov knew his grandsons very well. Why then did he ask, “Who are they?”</para>
         </listitem>
         <listitem>
-            <para>Why did Yaakov 1052 his inspiration to bless Efrayim and Menashe?</para>
+            <para>Why did Yaakov lose his inspiration to bless Efrayim and Menashe?</para>
         </listitem>
         <listitem>
             <para>How did Yoseif prove the proper status of his sons? What else did Yoseif do to get Yaakov to bless his sons?</para>
@@ -62,7 +62,7 @@
             <para>Yaakov blessed his grandsons twice. What was the first blessing?</para>
         </listitem>
         <listitem>
-            <para>Why did Yaakov liken Efrayim and Menashe to fish?</para>
+            <para>Why did Yaakov liken Efrayim and Menashe to <emphasis role="bold">fish</emphasis>?</para>
         </listitem>
         <listitem>
             <para>Why did Yoseif attempt to change the position of Yaakov’s hands?</para>
@@ -80,37 +80,37 @@
             <para>What special portion in Eretz Yisroel did Yoseif get? Why?</para>
         </listitem>
         <listitem>
-            <para>What general blessing did Yajakov give Yoseif concerning all the brothers?</para>
+            <para>What general blessing did Yaakov give Yoseif concerning all the brothers?</para>
         </listitem>
         <listitem>
             <para>Before Yaakov blessed each of his sons he wanted to tell something to all. What? Why did he not say it?</para>
         </listitem>
         <listitem>
-            <para>In What way was Reuven supposeé to be greater than his brothers?</para>
+            <para>In what way was Reuven supposed to be greater than his brothers?</para>
         </listitem>
         <listitem>
             <para>He was punished and lost out. For which sin? Who got those honors?</para>
         </listitem>
         <listitem>
-            <para>Yaakov said that it was Shimon and Levi who wanted to kill Yoseif. Prove it.</para>
+            <para>Yaakov said that it was <emphasis role="bold">Shimon and Levi</emphasis> who wanted to kill Yoseif. Prove it.</para>
         </listitem>
         <listitem>
             <para>Where did Shimon and Levi learn these things?</para>
         </listitem>
         <listitem>
-            <para>Yaakov askecE that his name not be mentioned in their gatherings. Explain.</para>
+            <para>Yaakov asked that his name not be mentioned in their gatherings. Explain.</para>
         </listitem>
         <listitem>
-            <para>Why did Yaakov curse their angea‘? What future did he predict for them?</para>
+            <para>Why did Yaakov curse <emphasis role="bold">their anger</emphasis>? What future did he predict for them?</para>
         </listitem>
         <listitem>
-            <para>Which praise did Yehuda get in connection with Yoseif's story?</para>
+            <para>Which praise did Yehuda get in connection with Yoseif’s story?</para>
         </listitem>
         <listitem>
-            <para>Why was Yehuda referred to as young lion'?</para>
+            <para>Why was Yehuda referred to as ‘young lion’?</para>
         </listitem>
         <listitem>
-            <para>What was met by the prophecy, “Leadership will never depart from Yehuda”?</para>
+            <para>What was met by the prophecy, “Leadership will <emphasis role="bold">never</emphasis> depart from Yehuda”?</para>
         </listitem>
         <listitem>
             <para>“Until Shiloh will come,” etc. Who is meant here? Why that name?</para>
@@ -119,13 +119,13 @@
             <para>Which material blessings were predicted here for Yehuda?</para>
         </listitem>
         <listitem>
-            <para>What was Zevulun’s business? Where was his territqry (in Eretz Yisroel)?</para>
+            <para>What was Zevulun’s business? Where was his territory (in Eretz Yisroel)?</para>
         </listitem>
         <listitem>
             <para>What special arrangement did Zevulun have with Yissochor?</para>
         </listitem>
         <listitem>
-            <para>Rashi and Unkelos (Targum) explain differently the description 0f Yissochm’s blessing. How?</para>
+            <para>                 Rashi and Unkelos (Targum) explain differently the description 0f Yissochm’s blessing. How?</para>
         </listitem>
         <listitem>
             <para>What prophecy did Yaakov say about Shimshon 0f sheivet (the tribe of) Don?</para>
@@ -218,4 +218,4 @@
             <para>How many parshiyos are there in safer (the book of) Bereishié? Which is the longest? The shortest?</para>
         </listitem>
     </orderedlist>
-</chapter>
+</section>
