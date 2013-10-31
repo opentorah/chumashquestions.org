@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<chapter xmlns="http://docbook.org/ns/docbook"
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+    <title>Holiday Questions</title>
+    <xi:include href="rosh-hashonoh.xml"/>
+    <xi:include href="yom-kippur.xml"/>
+    <xi:include href="sukkos.xml"/>
+    <xi:include href="chanukah.xml"/>
+    <xi:include href="yud-shevat-and-tu-b-shevat.xml"/>
+    <xi:include href="purim.xml"/>
+    <xi:include href="pesach.xml"/>
+    <xi:include href="sefiras-ha-omer.xml"/>
+    <xi:include href="shavuos.xml"/>
+    <xi:include href="nine-days.xml"/>
+    <xi:include href="tisha-b-av.xml"/>
+</chapter>
+

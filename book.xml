@@ -155,89 +155,10 @@
             of Tiferes Bachurim in Morristown where he helped establish it as a first-rate Torah learning center.</para>
     </preface>
 
-    <chapter>
-        <title>Chumash Bereishis</title>
-        <xi:include href="bereishis/noach.xml"/>
-        <xi:include href="bereishis/lech-lecha.xml"/>
-        <xi:include href="bereishis/vayeira.xml"/>
-        <xi:include href="bereishis/chayei-sara.xml"/>
-        <xi:include href="bereishis/toldos.xml"/>
-        <xi:include href="bereishis/vayeitzei.xml"/>
-        <xi:include href="bereishis/vayishlach.xml"/>
-        <xi:include href="bereishis/vayeishev.xml"/>
-        <xi:include href="bereishis/miketz.xml"/>
-        <xi:include href="bereishis/vayigash.xml"/>
-        <xi:include href="bereishis/vayechi.xml"/>
-    </chapter>
-
-    <chapter>
-        <title>Chumash Shemos</title>
-        <xi:include href="shemos/shemos.xml"/>
-        <xi:include href="shemos/va-eira.xml"/>
-        <xi:include href="shemos/bo.xml"/>
-        <xi:include href="shemos/beshalach.xml"/>
-        <xi:include href="shemos/yisro.xml"/>
-        <xi:include href="shemos/mishpatim.xml"/>
-        <xi:include href="shemos/terumah.xml"/>
-        <xi:include href="shemos/tetzaveh.xml"/>
-        <xi:include href="shemos/ki-sissa.xml"/>
-        <xi:include href="shemos/vayakhel.xml"/>
-        <xi:include href="shemos/pekudei.xml"/>
-    </chapter>
-    
-    <chapter>
-        <title>Chumash Vayikra</title>
-        <xi:include href="vayikra/vayikra.xml"/>
-        <xi:include href="vayikra/tzav.xml"/>
-        <xi:include href="vayikra/shemini.xml"/>
-        <xi:include href="vayikra/tazria.xml"/>
-        <xi:include href="vayikra/metzorah.xml"/>
-        <xi:include href="vayikra/acharei.xml"/>
-        <xi:include href="vayikra/kedoshim.xml"/>
-        <xi:include href="vayikra/emor.xml"/>
-        <xi:include href="vayikra/behar.xml"/>
-        <xi:include href="vayikra/bechukosai.xml"/>
-    </chapter>
-    
-    <chapter>
-        <title>Chumash Bamidbar</title>
-        <xi:include href="bamidbar/bamidbar.xml"/>
-        <xi:include href="bamidbar/noso.xml"/>
-        <xi:include href="bamidbar/behaaloscha.xml"/>
-        <xi:include href="bamidbar/shelach.xml"/>
-        <xi:include href="bamidbar/korach.xml"/>
-        <xi:include href="bamidbar/chukas.xml"/>
-        <xi:include href="bamidbar/balak.xml"/>
-        <xi:include href="bamidbar/pinchas.xml"/>
-        <xi:include href="bamidbar/matos.xml"/>
-        <xi:include href="bamidbar/masei.xml"/>
-    </chapter>
-    
-    <chapter>
-        <title>Chumash Devarim</title>
-        <xi:include href="devarim/devarim.xml"/>
-        <xi:include href="devarim/vo-eschanan.xml"/>
-        <xi:include href="devarim/eikev.xml"/>
-        <xi:include href="devarim/re-eh.xml"/>
-        <xi:include href="devarim/shoftim.xml"/>
-        <xi:include href="devarim/ki-seitzei.xml"/>
-        <xi:include href="devarim/ki-savo.xml"/>
-        <xi:include href="devarim/nitzavim.xml"/>
-        <xi:include href="devarim/vayeilech.xml"/>
-    </chapter>
-    
-    <chapter>
-        <title>Holiday Questions</title>
-        <xi:include href="holidays/rosh-hashonoh.xml"/>
-        <xi:include href="holidays/yom-kippur.xml"/>
-        <xi:include href="holidays/sukkos.xml"/>
-        <xi:include href="holidays/chanukah.xml"/>
-        <xi:include href="holidays/yud-shevat-and-tu-b-shevat.xml"/>
-        <xi:include href="holidays/purim.xml"/>
-        <xi:include href="holidays/pesach.xml"/>
-        <xi:include href="holidays/sefiras-ha-omer.xml"/>
-        <xi:include href="holidays/shavuos.xml"/>
-        <xi:include href="holidays/nine-days.xml"/>
-        <xi:include href="holidays/tisha-b-av.xml"/>
-    </chapter>
+    <xi:include href="bereishis/index.xml"/>
+    <xi:include href="shemos/index.xml"/>
+    <xi:include href="vayikra/index.xml"/>
+    <xi:include href="bamidbar/index.xml"/>
+    <xi:include href="devarim/index.xml"/>
+    <xi:include href="holidays/index.xml"/>
 </book>

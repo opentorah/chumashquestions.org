@@ -14,11 +14,26 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>bereishis/index.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>DocBook PDF - Custom</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>book.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>DocBook PDF - Copy</String>
+                                        <String>DocBook PDF - Custom</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -29,41 +44,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>chumash/</String>
+                                    <String>bereishis/chayei-sara.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>DocBook PDF - Copy</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>chumash/bereishis/noach.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>DocBook PDF - Copy</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>questions.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>DocBook PDF - Copy</String>
+                                        <String>DocBook PDF - Custom</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -82,7 +67,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>DocBook PDF - Copy</String>
+                                    <String>DocBook PDF - Custom</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -100,7 +85,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${frameworks}/docbook/xsl/fo/docbook_custom.xsl</String>
+                                    <String>${pdu}/customization.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
@@ -121,7 +106,7 @@
                                     <Boolean>true</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>${cfd}/out/pdf/${cfn}.pdf</File>
+                                    <File>${pd}/out/pdf/${cfn}.pdf</File>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
@@ -472,6 +457,13 @@
         <folder masterFiles="true" name="Master Files">
             <file name="book.xml"/>
         </folder>
-        <folder path="."/>
+        <folder path="bamidbar/"/>
+        <folder path="bereishis/"/>
+        <folder path="devarim/"/>
+        <folder path="holidays/"/>
+        <folder path="shemos/"/>
+        <folder path="vayikra/"/>
+        <file name="book.xml"/>
+        <file name="customization.xsl"/>
     </projectTree>
 </project>

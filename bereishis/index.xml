@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<chapter xmlns="http://docbook.org/ns/docbook"
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+    <title>Chumash Bereishis</title>
+    <xi:include href="noach.xml"/>
+    <xi:include href="lech-lecha.xml"/>
+    <xi:include href="vayeira.xml"/>
+    <xi:include href="chayei-sara.xml"/>
+    <xi:include href="toldos.xml"/>
+    <xi:include href="vayeitzei.xml"/>
+    <xi:include href="vayishlach.xml"/>
+    <xi:include href="vayeishev.xml"/>
+    <xi:include href="miketz.xml"/>
+    <xi:include href="vayigash.xml"/>
+    <xi:include href="vayechi.xml"/>
+</chapter>
+
