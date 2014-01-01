@@ -12,9 +12,11 @@
     <xi:include href="yisro.xml"/>
     <xi:include href="mishpatim.xml"/>
     <xi:include href="terumah.xml"/>
+    <!--
     <xi:include href="tetzaveh.xml"/>
     <xi:include href="ki-sissa.xml"/>
     <xi:include href="vayakhel.xml"/>
     <xi:include href="pekudei.xml"/>
+    -->
 </chapter>
 

@@ -3,138 +3,218 @@
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
     <title>Terumah</title>
-            <orderedlist>
+    <orderedlist>
+        <listitem>
+            <para dir="ltr">Which items of the <glossterm>Mishkan</glossterm> (Tabernacle) are described in this parsha?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">How many items (materials) were needed for the building of the Mishkan?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Three different types of contributions are hinted at in the first posuk. Find the hints and describe the contributions.</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">A number of precious metals are mentioned. Which one had to be contributed in equal amounts by all?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">The wool they used had to be of various colors. Which?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">They used two (or three) types of animal skins. Of which animals?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Which item was availabie (by a miracle) only then and is no more?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What was the oil used for? The spices (<glossterm>besomim</glossterm>)? The precious stones?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">How did they get <glossterm>sheetim</glossterm> (cedar) wood in the desert?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">In posuk 9 why does it say “and so you shall do” after saying it in posuk 8? Were the <glossterm>keilim</glossterm> (utensils) in the first Beis
+                Hamikdash similar to those in the Mishkan? Why?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Why does it say in posuk 8, “And i shall dwell <emphasis role="bold">in them</emphasis>,” rather than in <emphasis role="bold"
+                >it</emphasis>?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">How was the <glossterm>aron</glossterm> (ark) ‘covered’ with gold inside and outside? What were its dimensions? Which
+                <glossterm>neis</glossterm> (miracle) is related to its space?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Why was there a ‘crown’ made on top of the aron?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What other parts did the aron have besides the ‘boxes’ and the ‘crown’?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What were these: <glossterm>taba’os</glossterm>, <glossterm>badim</glossterm>, <glossterm>eidus</glossterm>, <glossterm>kapores</glossterm>,
+                <glossterm>za’ir</glossterm>, <glossterm>tzalos</glossterm>?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">How many <glossterm>keruvim</glossterm> were there? How were they made? What kind of ‘face’ did they have? Where were the keruvim
+                located?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">“And I shall speak to you from on top of the kapores.” Where did the Voice really come from and where did Moshe hear it?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">The <glossterm>shulchon</glossterm> (table) also had a ‘crown.’ Why? Where was it placed?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What other parts did the shulchon have? What food was on it?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Why is the bread called <glossterm>Iechem</glossterm>
+                <glossterm><emphasis role="bold">hapanim</emphasis></glossterm>? Who ate it? When?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Why does it say the menorah <emphasis role="bold">should be made</emphasis> rather than <emphasis role="bold">you shall make
+                it</emphasis>?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">How many candlesticks did the menorah have? How many other parts? How tall was it? Which kind of tools served the menorah?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Where was Moshe shown the works of the Mishkan?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">How many curtains did the Mishkan have? What were their dimensions?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What was the roof of the Mishkan made of? Dimensions?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">How many boards (<glossterm>kerashim</glossterm>) did they use? Dimensions of each <glossterm>keresh</glossterm>?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What were the <glossterm>adonim</glossterm>? What were they used for? How many were there? Which donations went into the making of the
+                adonim?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What were the <glossterm>brichim</glossterm>, <glossterm>tabaas</glossterm>, <glossterm>yados</glossterm>?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What was the <glossterm>paroches</glossterm>? What was it used for? Dimensions?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What was the name of the paroches in the (first) Beis Hamikdash? Dimensions?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Where was each of these placed: <glossterm>shulchon</glossterm>, <glossterm>menorah</glossterm>, <glossterm>aron</glossterm>?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">The Gemora says that if one wants to pray for wisdom he should turn southward, and for riches, northward. Can you find a reason for it
+                here?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What was the mizbeyach made from? Its dimensions?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What other keilim belonged to the mizbeyach? What were they made of? Which part of the mizbeyach was similar (by name and purpose) to the aron
+                and shulchon?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">How big was the <glossterm>chatzeir</glossterm> (courtyard) of the Mishkan? And its curtains?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">What was the purpose of the <glossterm>masach</glossterm> for the Mishkan and the one for the chatzeir? Their dimensions?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Is there a mitzvoh that still applies in our times (also) that we learn from this parsha?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">Define and state the purpose of these:</para>
+            <orderedlist numeration="upperalpha" columns="3">
                 <listitem>
-                    <para dir="ltr">Which items of the Mishkan (Tabernacle) are described in this parsha?</para>
+                    <para dir="ltr"><glossterm>Vovim</glossterm></para>
                 </listitem>
                 <listitem>
-                    <para dir="ltr">How many items (materials) were needed for the building of the Mishkan?</para>
+                    <para dir="ltr"><glossterm>Amudim</glossterm></para>
                 </listitem>
                 <listitem>
-                    <para dir="ltr">Three different types of contributions are hinted at in the first posuk. Find the hints and describe the contributions.</para>
+                    <para dir="ltr"><glossterm>Siros</glossterm></para>
                 </listitem>
                 <listitem>
-                    <para dir="ltr">A number of precious metals are mentioned. Which one had to be contributed in equal amounts by all?</para>
+                    <para dir="ltr"><glossterm>Ya'im</glossterm></para>
                 </listitem>
                 <listitem>
-                    <para dir="ltr">The Wool they used had to be of various colors. Which?</para>
+                    <para dir="ltr"><glossterm>Mizrkos</glossterm></para>
                 </listitem>
                 <listitem>
-                    <para dir="ltr">They used two (or three) types of animal skins. Of which animals?</para>
+                    <para dir="ltr"><glossterm>Mizlgos</glossterm></para>
                 </listitem>
                 <listitem>
-                    <para dir="ltr">Which item was availabie (by a miracle) only then and is no more?</para>
+                    <para dir="ltr"><glossterm>Machtos</glossterm></para>
                 </listitem>
                 <listitem>
-                    <para dir="ltr">What was the oil used for? The spices (besomim)? The precious stones?</para>
+                    <para dir="ltr"><glossterm>Michbar</glossterm></para>
                 </listitem>
                 <listitem>
-                    <para dir="ltr">How did they get sheetim (cedar) wood in the desert?</para>
+                    <para dir="ltr"><glossterm>Karkov</glossterm></para>
                 </listitem>
                 <listitem>
-                    <para dir="ltr">In posuk 9 Why does it say “and so you shall do” after saying it in posuk 8? Were the keilim (utensils) in the first Beis Hamikdash similar to
-                        those in the Mishkan? Why?</para>
+                    <para dir="ltr"><glossterm>Reshes</glossterm></para>
                 </listitem>
                 <listitem>
-                    <para dir="ltr">Why does it say in posuk 8, "And i shall dwell in them," rather than in it?</para>
+                    <para dir="ltr"><glossterm>Kilayim</glossterm></para>
                 </listitem>
                 <listitem>
-                    <para dir="ltr">How was the men (ark) ’covered’ with gold inside and outside?-What were its dimensions? Which neis (miracle) is related to its space?</para>
+                    <para dir="ltr"><glossterm>Kronos</glossterm></para>
                 </listitem>
                 <listitem>
-                    <para dir="ltr">Why was there a ’crown' made on top of the axon?</para>
+                    <para dir="ltr"><glossterm>Yeseidos</glossterm></para>
                 </listitem>
                 <listitem>
-                    <para dir="ltr">What other parts did the aron have besides the ’boxes' and the ‘crown’?</para>
+                    <para dir="ltr"><glossterm>Krosim</glossterm></para>
                 </listitem>
                 <listitem>
-                    <para dir="ltr">What were these: taba’os, badim, eidus, kapores, tzalos?</para>
+                    <para dir="ltr"><glossterm>Lulaos</glossterm></para>
                 </listitem>
                 <listitem>
-                    <para dir="ltr">How many keruvim were there? How were they made? What kind of ‘face’ did. they have? Where were the keruvim iocated?</para>
+                    <para dir="ltr"><glossterm>Malkochos</glossterm></para>
                 </listitem>
                 <listitem>
-                    <para dir="ltr">"And I shall speak to you from on top of the kapores.” Where did the Voice really come from and Where did Moshe hear it?</para>
+                    <para dir="ltr"><glossterm>Kaftorim</glossterm></para>
                 </listitem>
                 <listitem>
-                    <para dir="ltr">The shulchon (table) also had a 'crown.’ Why? Where was it placed?</para>
+                    <para dir="ltr"><glossterm>Konim</glossterm></para>
                 </listitem>
                 <listitem>
-                    <para dir="ltr">What other parts did the shulchon have? What food was on it?</para>
+                    <para dir="ltr"><glossterm>Gviyim</glossterm></para>
                 </listitem>
                 <listitem>
-                    <para dir="ltr">Why is the bread caiied Iechem hapanim? Who ate it? When?</para>
+                    <para dir="ltr"><glossterm>Prachim</glossterm></para>
                 </listitem>
                 <listitem>
-                    <para dir="ltr">Why does it say the menorah shouid be made rather than you shall make it?</para>
+                    <para dir="ltr"><glossterm>Ke’oros</glossterm></para>
                 </listitem>
                 <listitem>
-                    <para dir="ltr">How many candlesticks did the menorah have? How many other parts? How tail was it? Which kind of tools served the menorah?</para>
+                    <para dir="ltr"><glossterm>Kapos</glossterm></para>
                 </listitem>
                 <listitem>
-                    <para dir="ltr">Where was Moshe shown the works of the Mishkan?</para>
+                    <para dir="ltr"><glossterm>Ksavos</glossterm></para>
                 </listitem>
                 <listitem>
-                    <para dir="ltr">How many curtains did the Mishkan have? What were their dimensions?</para>
+                    <para dir="ltr"><glossterm>Menakiyos</glossterm></para>
                 </listitem>
                 <listitem>
-                    <para dir="ltr">What was the roof of the Mishkan made of? Dimensions?</para>
+                    <para dir="ltr"><glossterm>Misgeres</glossterm></para>
                 </listitem>
                 <listitem>
-                    <para dir="ltr">How many boards (kerashim) did they use? Dimensions of each keresh?</para>
+                    <para dir="ltr"><glossterm>Za’ir</glossterm></para>
                 </listitem>
                 <listitem>
-                    <para dir="ltr">What were the adonim? What were they used for? How many were there? Which donations went into the making of the adonim?</para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr">What were the brichim, tabaas, yados?</para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr">What was the paroches? What was it used for? Dimensions?</para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr">What was the name of the paroches in the (first) Beis Hamikdash? Dimensions?</para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr">Where was each of these placed: shuichon, menomh, men?</para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr">The Gemora says that if one wants to pray for wisdom he shouid tum southward, and for riches, northward. Can you find a reason for it
-                        here?</para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr">What was the mizbeyach made from? Its dimensions?</para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr">What other keilim belonged to the mizbeyach? What were they made of? Which part of the mizbeyach was similar (by name and purpose) to the aron
-                        and shulchon?</para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr">How big was the chatzeir (courtyard) of the Mishkan? And its curtains?</para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr">What was the purpose of the masach for the Mishkan and the one for the chatzeir? Their dimensions?</para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr">Is there a mitzvoh that still applies in our times (also) that we learn from this parsha?</para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr">Define and state the purpose of these:</para>
+                    <para dir="ltr"><glossterm>Kenafayim</glossterm>
+                    </para>
                 </listitem>
             </orderedlist>
-            <para dir="ltr">A. Vovim Rashes S.</para>
-            <para dir="ltr">B. Amudim K. Kiiayim T. Prachim C. Sims L. Kronos U. Ke’oros</para>
-            <para dir="ltr">D. Ya'im M. Yeseidos V. Kapos</para>
-            <para dir="ltr">E. Mizrkos N. Krosim W. Ksavos</para>
-            <para dir="ltr">F. Mizlgos O. Lulaos X. Menakiyos G. Machtos P. Malkochos Y. Misgeres H. Michbar Q. Kaftorim Z. Za’ir</para>
-            <para dir="ltr">I. Karkov R. Konim AA. Kenafayim</para>
-            <orderedlist>
-                <listitem>
-                    <para dir="ltr">There are five (or six) pesukim in the Torah which contain a word that could be read</para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr">with the first half or with the second half of the posuk. These doubts have not been resolved. This parsha has one of these pesukim. Which is
-                        it?</para>
-                </listitem>
-            </orderedlist>
+        </listitem>
+        <listitem>
+            <para dir="ltr">There are five (or six) pesukim in the Torah which contain a word that could be read with the first half <emphasis role="bold">or</emphasis>
+                with the second half of the posuk. These doubts have not been resolved. This parsha has one of these pesukim. Which is it?</para>
+        </listitem>
+    </orderedlist>
 </section>
