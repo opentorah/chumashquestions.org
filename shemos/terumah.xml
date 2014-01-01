@@ -127,7 +127,7 @@
         </listitem>
         <listitem>
             <para dir="ltr">Define and state the purpose of these:</para>
-            <orderedlist numeration="upperalpha" columns="3">
+            <orderedlist numeration="upperalpha">
                 <listitem>
                     <para dir="ltr"><glossterm>Vovim</glossterm></para>
                 </listitem>
