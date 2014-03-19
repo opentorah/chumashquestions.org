@@ -23,7 +23,7 @@
             <para dir="ltr">They used two (or three) types of animal skins. Of which animals?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">Which item was availabie (by a miracle) only then and is no more?</para>
+            <para dir="ltr">Which item was available (by a miracle) only then and is no more?</para>
         </listitem>
         <listitem>
             <para dir="ltr">What was the oil used for? The spices (<glossterm>besomim</glossterm>)? The precious stones?</para>
@@ -127,90 +127,35 @@
         </listitem>
         <listitem>
             <para dir="ltr">Define and state the purpose of these:</para>
-            <orderedlist numeration="upperalpha">
-                <listitem>
-                    <para dir="ltr"><glossterm>Vovim</glossterm></para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr"><glossterm>Amudim</glossterm></para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr"><glossterm>Siros</glossterm></para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr"><glossterm>Ya'im</glossterm></para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr"><glossterm>Mizrkos</glossterm></para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr"><glossterm>Mizlgos</glossterm></para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr"><glossterm>Machtos</glossterm></para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr"><glossterm>Michbar</glossterm></para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr"><glossterm>Karkov</glossterm></para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr"><glossterm>Reshes</glossterm></para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr"><glossterm>Kilayim</glossterm></para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr"><glossterm>Kronos</glossterm></para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr"><glossterm>Yeseidos</glossterm></para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr"><glossterm>Krosim</glossterm></para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr"><glossterm>Lulaos</glossterm></para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr"><glossterm>Malkochos</glossterm></para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr"><glossterm>Kaftorim</glossterm></para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr"><glossterm>Konim</glossterm></para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr"><glossterm>Gviyim</glossterm></para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr"><glossterm>Prachim</glossterm></para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr"><glossterm>Ke’oros</glossterm></para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr"><glossterm>Kapos</glossterm></para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr"><glossterm>Ksavos</glossterm></para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr"><glossterm>Menakiyos</glossterm></para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr"><glossterm>Misgeres</glossterm></para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr"><glossterm>Za’ir</glossterm></para>
-                </listitem>
-                <listitem>
-                    <para dir="ltr"><glossterm>Kenafayim</glossterm>
-                    </para>
-                </listitem>
-            </orderedlist>
+            <simplelist columns="3">
+                <member>A. <glossterm>Vovim</glossterm></member>
+                <member>B. <glossterm>Amudim</glossterm></member>
+                <member>C. <glossterm>Siros</glossterm></member>
+                <member>D. <glossterm>Ya'im</glossterm></member>
+                <member>E. <glossterm>Mizrkos</glossterm></member>
+                <member>F. <glossterm>Mizlgos</glossterm></member>
+                <member>G. <glossterm>Machtos</glossterm></member>
+                <member>H. <glossterm>Michbar</glossterm></member>
+                <member>I. <glossterm>Karkov</glossterm></member>
+                <member>J. <glossterm>Reshes</glossterm></member>
+                <member>K. <glossterm>Kilayim</glossterm></member>
+                <member>L. <glossterm>Kronos</glossterm></member>
+                <member>M. <glossterm>Yeseidos</glossterm></member>
+                <member>N. <glossterm>Krosim</glossterm></member>
+                <member>O. <glossterm>Lulaos</glossterm></member>
+                <member>P. <glossterm>Malkochos</glossterm></member>
+                <member>Q. <glossterm>Kaftorim</glossterm></member>
+                <member>R. <glossterm>Konim</glossterm></member>
+                <member>S. <glossterm>Gviyim</glossterm></member>
+                <member>T. <glossterm>Prachim</glossterm></member>
+                <member>U. <glossterm>Ke’oros</glossterm> </member>
+                <member>V. <glossterm>Kapos</glossterm></member>
+                <member>W. <glossterm>Ksavos</glossterm></member>
+                <member>X. <glossterm>Menakiyos</glossterm></member>
+                <member>Y. <glossterm>Misgeres</glossterm></member>
+                <member>Z. <glossterm>Za’ir</glossterm></member>
+                <member>AA. <glossterm>Kenafayim</glossterm></member>
+            </simplelist>
         </listitem>
         <listitem>
             <para dir="ltr">There are five (or six) pesukim in the Torah which contain a word that could be read with the first half <emphasis role="bold">or</emphasis>
