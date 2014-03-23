@@ -4,7 +4,7 @@
     exclude-result-prefixes="xs"
     version="1.0">
 
-    <!-- TODO what do I need to do to not cause a connection attempt to the schema YRL?  -->
+    <!-- TODO what do I need to do to not cause a connection attempt to the schema URL?  -->
     <xsl:import href="http://docbook.sourceforge.net/release/xsl/current/fo/docbook.xsl"/>
     
     <xsl:attribute-set name="section.title.level1.properties">
