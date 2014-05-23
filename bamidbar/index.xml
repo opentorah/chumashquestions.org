@@ -8,6 +8,7 @@
     <xi:include href="bamidbar.xml"/>
     <xi:include href="noso.xml"/>
     <xi:include href="behaaloscha.xml"/>
+    <!--
     <xi:include href="shelach.xml"/>
     <xi:include href="korach.xml"/>
     <xi:include href="chukas.xml"/>
@@ -15,5 +16,6 @@
     <xi:include href="pinchas.xml"/>
     <xi:include href="matos.xml"/>
     <xi:include href="masei.xml"/>
+-->
 </chapter>
 

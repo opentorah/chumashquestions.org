@@ -1,5 +1,3 @@
-Section titles: loose "Section.
-Section titles on the page.
 "Extra" subsection formatting and continous numbering.
 "Holiday" subsection formatting and continous numbering.
 Word list formatting: multi-column etc.

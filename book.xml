@@ -5,6 +5,7 @@
         xmlns:xi="http://www.w3.org/2001/XInclude"
         xmlns:xlink="http://www.w3.org/1999/xlink"
         version="5.0">
+<!--
     <info>
         <title>The Chumash Questions</title>
         <subtitle>A workbook for the weekly sedra based on the commentary of Rashi</subtitle>
@@ -19,7 +20,7 @@
             <year>1995</year>
             <holder>Mrs. M. Wichnin</holder>
             <holder>Morristown, NJ</holder>
-            <!-- TODO full copyright notice... -->
+            TODO full copyright notice... 
         </copyright>
         <cover><para>Includes Holiday Questions</para></cover>
     </info>
@@ -154,11 +155,13 @@
             Wichnin became a favorite of Rav Yosef Dov Soloveitchik, z"l, the late Torah authority and leader. In 1977 Rabbi Wichnin took on a new challenge, joining the staff
             of Tiferes Bachurim in Morristown where he helped establish it as a first-rate Torah learning center.</para>
     </preface>
-
+-->
     <xi:include href="bereishis/index.xml"/>
     <xi:include href="shemos/index.xml"/>
     <xi:include href="vayikra/index.xml"/>
+<!--
     <xi:include href="bamidbar/index.xml"/>
     <xi:include href="devarim/index.xml"/>
     <xi:include href="holidays/index.xml"/>
+-->
 </book>
