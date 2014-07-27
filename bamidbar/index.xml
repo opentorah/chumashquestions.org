@@ -11,11 +11,9 @@
     <xi:include href="shelach.xml"/>
     <xi:include href="korach.xml"/>
     <xi:include href="chukas.xml"/>
-    <!--
     <xi:include href="balak.xml"/>
     <xi:include href="pinchas.xml"/>
     <xi:include href="matos.xml"/>
     <xi:include href="masei.xml"/>
--->
 </chapter>
 
