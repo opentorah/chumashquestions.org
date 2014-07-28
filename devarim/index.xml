@@ -6,9 +6,9 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
     <title>Chumash Devarim</title>
     <xi:include href="devarim.xml"/>
-<!--
     <xi:include href="vo-eschanan.xml"/>
     <xi:include href="eikev.xml"/>
+    <!--
     <xi:include href="re-eh.xml"/>
     <xi:include href="shoftim.xml"/>
     <xi:include href="ki-seitzei.xml"/>
