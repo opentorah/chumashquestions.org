@@ -1,3 +1,2 @@
 "Extra" subsection formatting and continous numbering.
 "Holiday" subsection formatting and continous numbering.
-Word list formatting: multi-column etc.

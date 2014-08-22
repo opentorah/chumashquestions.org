@@ -159,9 +159,7 @@
     <xi:include href="bereishis/index.xml"/>
     <xi:include href="shemos/index.xml"/>
     <xi:include href="vayikra/index.xml"/>
-<!--
     <xi:include href="bamidbar/index.xml"/>
     <xi:include href="devarim/index.xml"/>
     <xi:include href="holidays/index.xml"/>
--->
 </book>

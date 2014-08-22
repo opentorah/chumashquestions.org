@@ -2,7 +2,7 @@
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
-    <title>Vo'eschanan</title>
+    <title>Vo’eschanan</title>
     <orderedlist>
         <listitem>
             <para dir="ltr">Tzadikim could make a request in two ways. Which is the right one?</para>
@@ -95,7 +95,7 @@
             <para dir="ltr">Which mitzvos were given to them before Matan Torah? Give two examples.</para>
         </listitem>
         <listitem>
-            <para dir="ltr">In posuk 5:19 it says "<glossterm>velo yosof</glossterm>." What are the two meanings here?</para>
+            <para dir="ltr">In posuk 5:19 it says “<glossterm>velo yosof</glossterm>.” What are the two meanings here?</para>
         </listitem>
         <listitem>
             <para dir="ltr">After the Jews heard the divine voice from Har Sinai, they got fearful. Why? What did they request from Moshe? What did Hashem say about it?</para>
