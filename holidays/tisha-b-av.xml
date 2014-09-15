@@ -2,43 +2,40 @@
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
-    <title>Tisha b'Av</title>
+    <title>Tisha B’Av</title>
     <orderedlist>
         <listitem>
-            <para dir="ltr">When Tisha B'Av falis on a Sunday (Shabbos on Erev Tisha B’Av), which prayer is omitted at Minchah on Shabbos? Why?</para>
+            <para dir="ltr">When Tisha B’Av falls on a Sunday (Shabbos on Erev Tisha B’Av), which prayer is omitted at Minchah on Shabbos? Why?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">in such a case, by which time must Shalosh Seudos (the third meal) be finished on Shabbos/ Erev Tisha B’Av)?</para>
+            <para dir="ltr">in such a case, by which time must <glossterm>Shalosh Seudos</glossterm> (the third meal) be finished on Shabbos/Erev Tisha B’Av?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">And are there restrictions in Torah study on Shabbos afternoon?</para>
+            <para dir="ltr">And are there restrictions in Torah study on Shabbos afternoon? Should one take a pleasure stroll?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">Should one take a pleasure stroll?</para>
+            <para dir="ltr">And when are shoes removed on Motzei Shabbos? Why?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">I And when are shoes removed on Motzei Shabbos? Why?</para>
+            <para dir="ltr">And are there any restrictions in the enjoyment of this Shabbos (Erev Tisha B’Av)?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">And are there any festrictions in the enjoyment of this Shabbos (Erev Tisha B’Av)?</para>
+            <para dir="ltr">And when is Havdala made? Do we recite any part of Havdala after Shabbos?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">And when is Havdaia made? Do we recite any part of Havdala after Shabbos?</para>
+            <para dir="ltr">Finally, if someone forgot to say <glossterm>Atah Chonantanu</glossterm> what should he do?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">Finally, if someone forgot to say Atah Chonantanu what should he do?</para>
+            <para dir="ltr">What five tragic events happened on Tisha B’Av?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">What five tragic events happened on Tisha</para>
-        </listitem>
-        <listitem>
-            <para dir="ltr">What five things are prohibited on Tisha</para>
+            <para dir="ltr">What five things are prohibited on Tisha B’Av?</para>
         </listitem>
         <listitem>
             <para dir="ltr">On which other day are these five things prohibited?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">‘Nho is exempt from fasting on Tisha</para>
+            <para dir="ltr">Who is exempt from fasting on Tisha B’Av?</para>
         </listitem>
         <listitem>
             <para dir="ltr">Do these people have any restrictions in eating?</para>
@@ -47,22 +44,25 @@
             <para dir="ltr">Those who eat must first recite Havdala. Why?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">May one take medications on Tisha</para>
+            <para dir="ltr">May one take medications on Tisha B’Av?</para>
         </listitem>
         <listitem>
             <para dir="ltr">Washing is prohibited. How do we wash negel vasser?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">Is any washing (besides ’mitzcvoh washing’) permitted?</para>
+            <para dir="ltr">Is any washing (besides ‘mitzvoh washing’) permitted?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">May one wash one'seyes on Tisha</para>
+            <para dir="ltr">May one wash one’s eyes on Tisha B’Av?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">May one wash foods when doing 50 causes the hands to be washed too? Which activities are prohibited under the heading of ’anointing’?</para>
+            <para dir="ltr">May one wash foods when doing so causes the hands to be washed too?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">May one use creams, etc, for medical reasons?</para>
+            <para dir="ltr">Which activities are prohibited under the heading of ‘anointing’?</para>
+        </listitem>
+        <listitem>
+            <para dir="ltr">May one use creams, etc., for medical reasons?</para>
         </listitem>
         <listitem>
             <para dir="ltr">May we wear any other leather garments besides shoes?</para>
@@ -71,61 +71,58 @@
             <para dir="ltr">In certain cases a person is permitted to wear leather shoes. When?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">Why is there a prohibition on learning Torah on Tisha</para>
+            <para dir="ltr">Why is there a prohibition on learning Torah on Tisha B’Av?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">Which parts of Torah may one study on Tisha</para>
+            <para dir="ltr">Which parts of Torah may one study on Tisha B’Av?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">May we greet someone or respond to a greeting on Tisha</para>
+            <para dir="ltr">May we greet someone or respond to a greeting on Tisha B’Av?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">Which other activities are prohibited on Tisha B’Av because they divert one's mind. from mourning?</para>
+            <para dir="ltr">Which other activities are prohibited on Tisha B’Av because they divert one’s mind from mourning?</para>
         </listitem>
-    </orderedlist>
-    <para dir="ltr">CHUMASH UESTIONS</para>
-    <orderedlist>
         <listitem>
-            <para dir="ltr">Until when is sitting on. a chair (12 inches or higher) prohibited?</para>
+            <para dir="ltr">Until when is sitting on a chair (12 inches or higher) prohibited?</para>
         </listitem>
         <listitem>
             <para dir="ltr">Is smoking permitted?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">What type of work is permitted on Tisha</para>
+            <para dir="ltr">What type of work is permitted on Tisha B’Av?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">What warning is given to one who engages in prohibited work on Tisha</para>
+            <para dir="ltr">What warning is given to one who engages in prohibited work on Tisha B’Av?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">Why is the paroches (curtain in front of the Ark) removed?</para>
+            <para dir="ltr">Why is the <glossterm>paroches</glossterm> (curtain in front of the Ark) removed?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">Someone who is sitting shim, may he go to shul on Tisha</para>
+            <para dir="ltr">Someone who is sitting <glossterm>shiva</glossterm>, may he go to shul on Tisha B’Av?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">Why is the lighting in shul dimmed on Tisha</para>
+            <para dir="ltr">Why is the lighting in shul dimmed on Tisha B’Av?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">Why do we skip Tiskabel in the Kaddish of Tisha B'Av?</para>
+            <para dir="ltr">Why do we skip <glossterm>Tiskabel</glossterm> in the Kaddish of Tisha B'Av?</para>
         </listitem>
         <listitem>
             <para dir="ltr">What is the special way Eicha (Lamentations) is read?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">How do we decrease comfort in sleeping on Tisha</para>
+            <para dir="ltr">How do we decrease comfort in sleeping on Tisha B’Av?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">Why are tallis and tefillin not worn on the morning of Tisha</para>
+            <para dir="ltr">Why are tallis and tefillin not worn on the morning of Tisha B’Av?</para>
         </listitem>
         <listitem>
             <para dir="ltr">Which brocho do we skip in the morning brochos?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">Why don’t we say Tachanun or Avinu Maikeinu on Tisha B’Av (as on other fast days)?</para>
+            <para dir="ltr">Why don’t we say Tachanun or Avinu Malkeinu on Tisha B’Av (as on other fast days)?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">What is the Torah reading on Tisha B'Av? How many aliyos? Who gets maftir?</para>
+            <para dir="ltr">What is the Torah reading on Tisha B’Av? How many aliyos? Who gets maftir?</para>
         </listitem>
         <listitem>
             <para dir="ltr">What do we recite after krias haTorah (after davening)?</para>
@@ -134,19 +131,19 @@
             <para dir="ltr">What is said during the when we put on tefillin in the evening?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">What are the krias haTorah and maftir during Minc'hah?</para>
+            <para dir="ltr">What are the krias haTorah and maftir during Minchah?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">What is the special additional prayer in the Shmoneh Esrei of Minéhah?</para>
+            <para dir="ltr">What is the special additional prayer in the Shmoneh Esrei of Minchah?</para>
         </listitem>
         <listitem>
             <para dir="ltr">If one forgot to say this prayer, when can he correct it?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">Which special mitzvoh do we look forward to on Motzei Tisha B'Av? How do we prepare for it?</para>
+            <para dir="ltr">Which special mitzvoh do we look forward to on Motzei Tisha B’Av? How do we prepare for it?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">When do the prohibitions of the ’Nine Days' become permitted again?</para>
+            <para dir="ltr">When do the prohibitions of the ‘Nine Days’ become permitted again?</para>
         </listitem>
     </orderedlist>
 </section>

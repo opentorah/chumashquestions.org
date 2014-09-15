@@ -2,23 +2,22 @@
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <section xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
-    <title>Purim</title>
+    <title>Purim<footnote><para>based on the ‘Kitzur’ Siman 141, 142</para></footnote></title>
     <orderedlist>
         <listitem>
-            <para dir="ltr">How is the Fast of Esther diflerent than the other fast days of the year in its reasons and observance?</para>
+            <para dir="ltr">How is the Fast of Esther different than the other fast days of the year in its reasons and observance?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">Why is it named Taanis Esther?</para>
+            <para dir="ltr">Why is it named <glossterm>Taanis Esther</glossterm>?</para>
         </listitem>
         <listitem>
             <para dir="ltr">If a person eats on this day does he have to make up the fast?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">What is the reason for the machatzias hashekel? How many are given? Why?</para>
+            <para dir="ltr">What is the reason for the <glossterm>machatzias hashekel</glossterm>? How many are given? Why?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">What is the earliest time to read the Megifiah at night? During the day? The latest? When is the right time for the other mi’zzvos of
-                Purim?</para>
+            <para dir="ltr">What is the earliest time to read the Megillah at night? During the day? The latest? When is the right time for the other mitzvos of Purim?</para>
         </listitem>
         <listitem>
             <para dir="ltr">Where is the best place to read the Megillah? Why? Second best?</para>
@@ -30,19 +29,19 @@
             <para dir="ltr">What should listeners have in mind when these blessings are said?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">What shouldn’t you answer when you hear these blessings? Why?</para>
+            <para dir="ltr">What <emphasis role="bold">shouldn’t</emphasis> you answer when you hear these blessings? Why?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">In the morning reading, What should you have in mind during the third blessing?</para>
+            <para dir="ltr">In the morning reading, what should you have in mind during the third blessing?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">How many words can you skip in listening and still be yotzei (exempt)?</para>
+            <para dir="ltr">How many words can you skip in listening and still be <glossterm>yotzei</glossterm> (exempt)?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">What's the surest way to listen to the reading in order to be yotzei?</para>
+            <para dir="ltr">What’s the surest way to listen to the reading in order to be yotzei?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">Why does the reader (and everyone else) fold up the Megiliah when reading?</para>
+            <para dir="ltr">Why does the reader (and everyone else) fold up the Megillah when reading?</para>
         </listitem>
         <listitem>
             <para dir="ltr">if you listen from a Chumash, is it better to say the words quietly? Why?</para>
@@ -52,7 +51,7 @@
                 children?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">On Purim morning, does the davening start early or fate? Why?</para>
+            <para dir="ltr">On Purim morning, does the davening start early or late? Why?</para>
         </listitem>
         <listitem>
             <para dir="ltr">What part is read in the Torah? How many aliyos are there?</para>
@@ -61,7 +60,7 @@
             <para dir="ltr">Which is read first, the Torah or the Megillah? Why?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">How many food gifts must you send to do the mitzvoh of shalach manos?</para>
+            <para dir="ltr">How many food gifts must you send to do the mitzvoh of <glossterm>shalach manos</glossterm>?</para>
         </listitem>
         <listitem>
             <para dir="ltr">How much money must you give (to how many poor people) to be yotzei?</para>
@@ -73,26 +72,26 @@
             <para dir="ltr">Is there a mitzvoh to eat on the (first) night of Purim? .</para>
         </listitem>
         <listitem>
-            <para dir="ltr">When is the proper time to give matnnos Ia’evyonim and shalach manos?</para>
+            <para dir="ltr">When is the proper <emphasis role="bold">time</emphasis> to give <glossterm>matanos Ia’evyonim</glossterm> and shalach manos?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">Why is there a mitzvoh to drink more w_ine on Purim than on other holidays?</para>
+            <para dir="ltr">Why is there a mitzvoh to drink more wine on Purim than on other holidays?</para>
         </listitem>
         <listitem>
             <para dir="ltr">Why is it especially proper to learn some Torah before the Purim meal?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">When is the right time to start the Purim seudah? * based on the Siman 141, 142</para>
+            <para dir="ltr">When is the right time to start the Purim seudah?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">If one forgets AZ Hanissim in davening or bentching, What should he do?</para>
+            <para dir="ltr">If one forgets <glossterm>Al Hanissim</glossterm> in davening or bentching, what should he do?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">Where is Purim celebrafied on the 15th of Adar? Why? What is this day to us?</para>
+            <para dir="ltr">Where is Purim celebrated on the 15th of Adar? Why? What is this day to us?</para>
         </listitem>
     </orderedlist>
-    <para dir="ltr">THE MEGILLAH</para>
-    <orderedlist>
+    <para dir="ltr"><emphasis role="bold">THE MEGILLAH</emphasis></para>
+    <orderedlist startingnumber="29">
         <listitem>
             <para dir="ltr">In relation to the Beis Hamikdash period, when did the story of Purim take place?</para>
         </listitem>
@@ -109,10 +108,10 @@
             <para dir="ltr">Mordechai and Esther announced three days of fasting. Which time of the year were they in?</para>
         </listitem>
         <listitem>
-            <para dir="ltr">What are the reasons that Hashem's name is not mentioned in the Megillah? (Two reasons.)</para>
+            <para dir="ltr">What are the reasons that Hashem’s name is not mentioned in the Megillah? (Two reasons.)</para>
         </listitem>
         <listitem>
-            <para dir="ltr">Which posuk tells us that Iews re—accepted the Torah upon themselves at that time?</para>
+            <para dir="ltr">Which posuk tells us that Jews re-accepted the Torah upon themselves at that time?</para>
         </listitem>
     </orderedlist>
 </section>

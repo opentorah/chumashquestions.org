@@ -5,10 +5,11 @@
         xmlns:xi="http://www.w3.org/2001/XInclude"
         xmlns:xlink="http://www.w3.org/1999/xlink"
         version="5.0">
-<!--
+
     <info>
         <title>The Chumash Questions</title>
         <subtitle>A workbook for the weekly sedra based on the commentary of Rashi</subtitle>
+        <cover><para>Includes Holiday Questions</para></cover>
         <author>
             <personname>
                 <honorific>Rabbi</honorific>
@@ -20,18 +21,21 @@
             <year>1995</year>
             <holder>Mrs. M. Wichnin</holder>
             <holder>Morristown, NJ</holder>
-            TODO full copyright notice... 
         </copyright>
-        <cover><para>Includes Holiday Questions</para></cover>
+        <legalnotice>
+            <para>All Rights Reserved</para>
+            <para>No part of this book may be reproduced in any form or by any means, electronic or mechanical, including photocopying,
+            recording, or by any information storage and retrieval system, without written permission of the copyright holder.</para>
+        </legalnotice>
     </info>
+
     <dedication>
         <para>
-            This publication is dedicated to the Lubavitcher Rebbe
-            to whom the author, Rabbi Dovid Wichnin,
-            was mekushar with every fiber of his being
-            and whose shlichus he carried out with the utmost devotion.
+            This publication is dedicated to the Lubavitcher Rebbe to whom the author, Rabbi Dovid Wichnin,
+            was mekushar with every fiber of his being and whose shlichus he carried out with the utmost devotion.
         </para>
     </dedication>
+
     <acknowledgements>
         <para>The inspiration and continued support for this project has come from: Mr. and Mrs. Yosef Chaim Lester</para>
         <para>Managing editor
@@ -80,8 +84,7 @@
                 <surname>Wichnin</surname>
             </personname>
         </para>
-        <para>Photo courtecy of
-            <personname>
+        <para>Photo courtesy of <personname>
                 <firstname>Albie</firstname>
                 <surname>Rosenhaus</surname>
             </personname>
@@ -115,14 +118,16 @@
             and family.
         </para>
     </acknowledgements>
+
     <preface>
         <title>Note</title>
         <para>
-            This publication is designed to be an accurate rendering of the author's original work, which
+            This publication is designed to be an accurate rendering of the author’s original work, which
             consisted of loose handouts intended for internal yeshiva use. They were not edited by the author
             nor prepared for publication and should, therefore, be viewed in this light.
         </para>
     </preface>
+
     <preface>
         <title>
             <person>
@@ -134,28 +139,117 @@
             </person>
             1938-1995
         </title>
-        <para>Rabbi, teacher, mentor, counselor, guide, mashpia. Which word best describes Rabbi Dovid Wichnin, z"l?
-            Allof the above and more, In a word, he was a Chossid of the Rebbe striving to carry out his shlichus.</para>
-        <para>For 18 years, Rabbi David Wichnin was the Rosh Yeshiva of the Rabbinical College of America’s Yeshiva Tiferes Bachurim in Morristown, N], one of
-            the largest yeshivas in America for baalei teshuva (Iews who have returneé to the Iudaism of their ancestors) T. With humor, discipline and love, Rabbi Wiclmin
-            taught and; guided thousands of students over the years. Students remember Rabbi Wichnin as both a tough and compassionate teacher and role~modei "who lead the
-            yeshiva with exuberance. He also helped hundreds more as the rabbi of the Tzemach Tzedek
-            shul in Monsey, NY, where he 1ived with his wife and three children. He was sought out often for marital advice
-            and performed imeasurable acts of
-            kindness (often in secret), and carried out the mivtzoyi'm (mitzvah campaigns) of the Lubavitcher Rebbe.</para>
-        <para>Chaim Dovid Nota Wichnin was born in 1938 in Bobroisk, White Russia, to Rabbi Nachman Dov and Faigy. Not long after his birth, his family fled to
-            southeastern Russiar—as did many Lubavitcher Chassidim during World War II-wto escape the Nazis. In the Winter of 1941, his mothér and sister Hinda died in
-            Samarkand, Russia. In 1946, he and his father fled from Russia, through Poland and Austria until they arrived in France. He remained in Paris where he attended
-            Yeshiva until 1951.</para>
-        <para>In 1951, Rabbi Wichnin and his father immigrated to Canada, settling in Montreal. He learned at the Lubavitch
-            Yeshiva in  Montreal Where he began to demonstrate his brilliance as a Torah scholar. In 1962 he received smicha (rabbinical ordination) from the Rabbinical College
-            of Canada’s Yeshiva Tomchei Temimim in Montreal.</para>
-        <para>In 1965, he began a long career as an educator when he took a position as a teacher at Central High School for Girls in Brooklyn, NY, where he taught
-            until 1972. He moved to Brookline, Mass, in 1972, where he became principal of the New England Hebrew Day Academy until 1977. While living in Brookline, Rabbi
-            Wichnin became a favorite of Rav Yosef Dov Soloveitchik, z"l, the late Torah authority and leader. In 1977 Rabbi Wichnin took on a new challenge, joining the staff
-            of Tiferes Bachurim in Morristown where he helped establish it as a first-rate Torah learning center.</para>
+        <mediaobject>
+            <imageobject>
+                <imagedata fileref="author.jpg" align="center" width="2in"/>
+            </imageobject>
+        </mediaobject>
+        <para>Rabbi, teacher, mentor, counselor, guide, <glossterm>mashpia</glossterm>. Which word best describes Rabbi Dovid Wichnin, z”l? All of the above and more. In a word, he
+            was a <glossterm>Chossid</glossterm> of the Rebbe striving to carry out his <glossterm>shlichus</glossterm>.</para>
+        <para>For 18 years, Rabbi David Wichnin was the Rosh Yeshiva of the Rabbinical College of America’s Yeshiva Tiferes Bachurim in Morristown, N], one of the largest yeshivas
+            in America for <glossterm>baalei teshuva</glossterm> (Jews who have returned to the Judaism of their ancestors) With humor, discipline and love, Rabbi Wichnin taught
+            and guided thousands of students over the years. Students remember Rabbi Wichnin as both a tough and compassionate teacher and role-model who lead the yeshiva with
+            exuberance.</para>
+        <para> He also helped hundreds more as the rabbi of the Tzemach Tzedek shul in Monsey, NY, where he lived with his wife and three children. He was sought out often for
+            marital advice and performed immeasurable acts of kindness (often in secret), and carried out the <glossterm>mivtzoyim</glossterm> (mitzvah campaigns) of the
+            Lubavitcher Rebbe.</para>
+        <para>Chaim Dovid Nota Wichnin was born in 1938 in Bobroisk, White Russia, to Rabbi Nachman Dov and Faigy. Not long after his birth, his family fled to southeastern Russia
+            — as did many Lubavitcher Chassidim during World War II — to escape the Nazis. In the winter of 1941, his mother and sister Hinda died in Samarkand, Russia. In 1946, he
+            and his father fled from Russia, through Poland and Austria until they finally arrived in France. He remained in Paris where he attended Yeshiva until 1951.</para>
+        <para>In 1951, Rabbi Wichnin and his father immigrated to Canada, settling in Montreal. He learned at the Lubavitch Yeshiva in Montreal where he began to demonstrate his
+            brilliance as a Torah scholar. In 1962 he received <glossterm>smicha</glossterm> (rabbinical ordination) from the Rabbinical College of Canada’s Yeshiva Tomchei Temimim
+            in Montreal.</para>
+        <para>In 1965, he began a long career as an educator when he took a position as a teacher at Central High School for Girls in Brooklyn, NY, where he taught until 1972. He
+            moved to Brookline, Mass, in 1972, where he became principal of the New England Hebrew Day Academy until 1977. While living in Brookline, Rabbi Wichnin became a
+            favorite of Rav Yosef Dov Soloveitchik, z”l, the late Torah authority and leader. In 1977 Rabbi Wichnin took on a new challenge, joining the staff of Tiferes Bachurim
+            in Morristown where he helped establish it as a first-rate Torah learning center.</para>
     </preface>
--->
+
+    <preface>
+        <title>FOREWORD</title>
+        <para>Anyone who has ever been a student at Yeshivas Tiferes Bachurim knows that one of the regular features of the yeshiva <glossterm>seder</glossterm> was Rabbi Wichnin’s
+            Chumash questions. Weekly he would stand at the <glossterm>bimah</glossterm> at the center of the <glossterm>beis medrash</glossterm>, and with wit and wisdom review
+            the timely Torah portion, using a series of penetrating questions he developed over the years. Whether these ‘parsha sheets’ contained nineteen or ninety-nine
+            questions, each student was required to complete them on his own time outside this already rigorous schedule. During his weekly review, no student was exempt from being
+            called upon by name to answer at least one of the questions. Even though Rabbi Wichnin demanded unambiguous and thorough answers, he was nevertheless gifted at making
+            his students comfortable.</para>
+        <para>While still a student in yeshiva, I realized the value of these questions and gathered the well-worn, xeroxed pasrha sheets, collected over the years, and presented
+            to Rabbi Wichnin the idea of printing them in book form. Such a workbook would be made available to each yeshiva student in order that he would have year‘s worth of
+            parsha sheets at his fingertips, rather then collect them on a weekly basis.</para>
+        <para>Rabbi Wichnin explained that the idea was not a novel one, but that no one had ever taken the initiative to carry it out. Without hesitation, the original questions
+            were re-typed and the process of producing a workbook was set in motion. Rabbi Wichnin agreed to write the questions on the three parshas
+                <glossterm>Bereishis</glossterm>, <glossterm>Haazenu</glossterm> and <glossterm>Vezos Habracha</glossterm>. (Since the yeshiva seder was not in session during the
+            Yomim Tovim, questions had not been written for these three parshahs.) Unfortunately, Rabbi Wichnin never had the opportunity to write the three missing parsha sheets,
+            nor to edit this book.</para>
+        <para>Now more then ever, Rabbi Wichnin’s students and former students are eager to have their beloved teacher’s Chumash questions in hand once again. With the help of the
+            alumni of Yeshivas Tiferes Bachurim, members of the Morristown community, friends, family and colleagues, Rabbi Wichnin’s serious educational work has been transformed
+            from the humble handouts into this handy workbook.</para>
+        <para>It is our hope that questions from the missing parshios, modeled after Rabbi Wichnin’s distinctive style — along with a book of answers — will be written and
+            published for the world to benefit from. In the meantime, this workbook has been prepared especially for the 26th of Av, to honor Rabbi Wichnin on the day of his
+                <glossterm>shloshim</glossterm>.</para>
+        <para>May the learning that comes forth from this book bring an <glossterm>aliyah</glossterm> for Rabbi Wichnin’s <glossterm>neshoma</glossterm>, and may our increased
+            learning merit us all to see <glossterm>tchias hameisim</glossterm>, and the <glossterm>hisgalus</glossterm> of <glossterm>Melech HaMoshiach</glossterm>, when we will
+            once again learn from our Rebbe, as well as from our beloved teacher and Rosh Yeshiva, Rabbi Wichnin. May it happen <glossterm>teichef umiyad mamash</glossterm> —
+            speedily and in our days!</para>
+        <para>
+            <personname>
+                <firstname>Yosef Chaim</firstname>
+                <surname>Lester</surname>
+            </personname>
+            <date>26 Menachem Av 5755</date>
+            <address>Morristown, NJ</address>
+        </para>
+    </preface>
+
+    <preface>
+        <title>INTRODUCTION</title>
+        <para><emphasis role="italic">The Chumash Questions</emphasis> is a powerful tool for anyone who wants to understand the Five Books of Moses. This questions, in the form of
+            weekly sheets on each Torah portion, were formulated by Rabbi Dovid Wichnin, 0.b.m, the Rosh Yeshivah of Yeshivas Tiferes Bachurim, in Morristown, New Jersey from
+            1978-1995. A master teacher, Rabbi Wichnin crafted his questions to allow the yeshivah’s entire range of students, from beginners to scholars, to sharpen their Chumash
+            comprehension skills. Over the course of nearly twenty years, thousands of students have used these questions to attain a comprehensive understanding of the written
+            Torah by understanding the most fundamental commentary — that of Rashi.</para>
+        <para>Rabbi Shlomo Yitzchaky, better known by the acronym <glossterm>Rashi</glossterm>, lived in France from 1040-1105 and is unarguably the most widely studied Torah
+            scholar in history. In fact, the Shulchon Oruch states that one might fulfill the requisite, “<glossterm>Shnayim mikrah v’echad targum</glossterm>” (reading the weekly
+            portion twice, and a translation once) by reading Rashi’s commentary on the verse. Still, it is advisable to read it with the customary translation of Onkelus.
+            Nevertheless, a G-d-fearing person will also be sure to read the Torah portion with Rashi’s commentary each week.</para>
+        <para>The commentary, which is printed in virtually every edition of the Torah, is a strict adherence to the <glossterm>pshat</glossterm> — the simple meaning of the verse.
+            Rashi himself emphasized that his goal was to make the Torah clear to virtually every student of the Written Torah, starting with ‘<glossterm>ben chameish
+                lemikrah</glossterm>’ — a five-year-old child who commences the study of the scripture — to the most erudite scholar who must still keep in mind that the simple
+            meaning of the verse will always remain.</para>
+        <para>Yet the saintly Shelah, Rabbi Yeshayah Horowitz, noted that within Rashi’s commentary on Chumash are hidden the secrets of the Torah. And the first Lubavitcher Rebbe,
+            the Alter Rebbe, called Rashi’s commentary “the wine of the Torah,” explaining that it opens the heart and reveals one’s essential love and fear of G-d.</para>
+        <para>When the Previous Rebbe, Rabbi Yosef Yitzchok Schneerson, o.b.m, instituted the <glossterm>Chitas</glossterm> — a daily schedule of Torah, Psalms, and Tanya study, he
+            stipulated that the Torah selection must be read with Rashi’s commentary. As he explained in one of his discourses, “It is necessary to study some of the Written Torah
+            daily with Rashi, for his commentaries are the <glossterm>terumos</glossterm> — the most select portion — of the interpretations of our Sages.”</para>
+        <para>Many commentators, including such Torah giants as the Mizrachi, the Maharal of Prague, the Baal Halevushim, and the Taz, have written books that discuss the
+            subtleties of Rashi’s commentary on the Torah.</para>
+        <para>Of special note is the Lubavitcher Rebbe’s contribution to Rashi scholarship. In 1965, after the passing of his saintly mother, the Rebbetzin Chana, the Rebbe would
+            dedicate a portion of his Shabbos talks to explaining a section of Rashi for that week’s Torah portion. He did this for more than two decades, bringing to light the
+            full range of meaning encoded within Rashi’s often-terse words. Hundreds of his novel explanations are published in <glossterm>Likutei Sichos</glossterm>, his collected
+            talks, as well as <glossterm>Biurim L’peirush Rashi</glossterm>, a five-volume set of books exclusively on the Rebbe’s Rashi novellae.</para>
+        <para>While Rashi’s commentary is essentially a collection of answers to the problems that one could raise about the simple meaning of the Chumash text, Rashi does not
+            specify which question he is resolving. In order to teach Rashi’s commentary to the yeshiva students, Rabbi Wichnin put into writing some of Rashi’s questions on each
+            Torah portions. Most questions will find their answer in one of Rashi’s commentaries of the Torah.</para>
+        <para>These questions stimulate and challenge the mind. Even after mastering the simple meaning, the student who uses <emphasis role="italic">The Chumash
+                Questions</emphasis> will come to appreciate Rashi in a new light. And in so doing, he or she will not only gain insight into Rashi’s commentary, but an even
+            greater insight into G-d’s Torah.</para>        
+    </preface>
+
+    <preface>
+        <title>A note on the Holiday Questions</title>
+        <para>In addition to the Chumash Questions, Rabbi Wichnin also supplied his students with worksheets on the Jewish festivals, high holidays, and Chassidic holidays. These
+            questions range from very simplistic to quite sophisticated, in order to accommodate the variety of yeshiva students. For most of the simple questions, the beginning
+            student will find the answers in the Kitzur Shulchon Oruch and for some of the more difficult questions, the more advanced student will find the answers in the Shulchon
+            Oruch of the Alter Rebbe. The halachic worksheets were obviously geared to the newcomer; nonetheless, everyone can benefit from these questions as preparation for the
+            holidays.</para>
+    </preface>
+
+    <preface>
+        <title>A note on the typographic conventions</title>
+        <para>For the convenience of the reader, Hebrew words are italicized the first time they appear in the text. (These first mentions are often followed by a definition in
+            parentheses.) Subsequent occurrences are set in standard (roman) type.</para>
+    </preface>
+
     <xi:include href="bereishis/index.xml"/>
     <xi:include href="shemos/index.xml"/>
     <xi:include href="vayikra/index.xml"/>
