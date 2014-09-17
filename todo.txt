@@ -1,2 +1,5 @@
-"Extra" subsection formatting and continous numbering.
-"Holiday" subsection formatting and continous numbering.
+"Extra" subsection formatting: try "bridgehead".
+Combine all the notes into a single preface.
+Add the picture of the matzeiva.
+Add Colophon.
+

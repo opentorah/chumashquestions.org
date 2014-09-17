@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<glossary xmlns="http://docbook.org/ns/docbook" version="5.0">
+    <title>Glossary</title>
+
+    <glossdiv>
+        <title>Translated Hebrew Words</title>
+    </glossdiv>
+    
+    <glossdiv>
+        <title>Untranslated Hebrew Words</title>
+    </glossdiv>
+    
+    <glossentry xml:id="xml">
+        <glossterm>Extensible Markup Language</glossterm>
+        <acronym>XML</acronym>
+        <glossdef>
+            <para>The definition of the XML language goes here.</para>
+            <glossseealso otherterm="sgml">SGML</glossseealso>
+        </glossdef>
+    </glossentry>
+</glossary>
+
+
+
+
+Chazal (our Sages)
+taiva (ark/box)
+mabul
+yona dove
+Moshiach
+korbanos (sacrifices)
+yetze’r horah (evil inclination)
+Olom Haboh (the World to Come)
+Beis Hamikdash (Sanctuary)
+dor haflaga (generation of dispersion)
+Yiska
+Avos (Patriarchs)
+    Mitzrayim (Egypt)
+    Damesek
+    merkava (chariot to Hashem
+    kos shel brocho</glossterm> (lit. ‘cup of blessing’
+        tzadik</glossterm> (righteous person)
+        yiras shamayim</glossterm> (fear of Heaven)
+        akeidah</glossterm> (binding)
+        ma’acheles
+        Shacharis</glossterm> (morning prayer)
+        shonoh</glossterm> (year)
+        posuk verse
+        Kiryas Arba</glossterm> (City of Four)
+        Meoros Hamachpeila
+        midoh</glossterm> (trait)
+        kfitzas haderech</glossterm> (a miracle to quicken his trip)
+        shidduch</glossterm> (match)
+        bashert</glossterm> (predestined)
+        rasha</glossterm> (sinner)
+        teshuvah</glossterm> (repented)
+        Minchah</glossterm> (afternoon)
+        mivtzoyim
+        tam
+        bechorah</glossterm> (birthright)
+        olah</glossterm> (sacrifice)
+        Esek</glossterm>
+        Sitnah</glossterm>
+        Rechovos
+        Shiveh</glossterm>
+        nachas</glossterm> (pleasure)
+        uforatzto ?
+        chesed</glossterm> (kindness)
+        Razal</glossterm> (our Sages)
+        maloch</glossterm> (angel)
+        reshayim</glossterm> (sinners)
+        Maariv</glossterm> (evening prayer)
+        Sheva Brachos</glossterm>
+        garti</glossterm> (I lived)
+        vayishokaihu
+        Chitas</glossterm> (Chumash, Tehillim, Tanya)
+        naar youngster
+        kesones pasim
+        Gehinom
+        yad</glossterm> (hand)
+        Avraich ?
+        ruach hakodesh</glossterm> (divine inspiration)
+        kal vachomer ?
+        hashgocha protis</glossterm> (divine providence)
+        Nefesh
+        tzedakah</glossterm> (charity)
+        sheivet</glossterm> (the tribe of
+        Meoras Hamachpeila
+        sefer</glossterm> (the book of)
+shira</glossterm> (song)
+Shvi’i shel Pesach</glossterm> (the seventh day of Pesach)
+Mitzri</glossterm> (Egyptian)
+halacha</glossterm> (Jewish law)
+mashal</glossterm> (example)
+Yam Suf</glossterm> (the Red Sea)
+techiyas hameisim</glossterm> (resurrection of the dead)
+Nevi’im</glossterm> (Prophets)
+yemincha ?
+Neviah</glossterm> (Prophetess)
+krias Yam Suf</glossterm> (the parting of the Red Sea)
+mon</glossterm> (manna)
+Bnei Yisroel</glossterm> (the Children of Israel)
+shidduch</glossterm> (marriage partner)
+parnasah</glossterm> (livelihood)
+arbeh</glossterm> (locusts)
+makas bechoros</glossterm>, slaying of the firstborn
+Korban Pesach</glossterm> (Passover sacrifice)
+Pesach ?
+matzo</glossterm> (unleavened bread)
+chametz</glossterm> (leaven)
+yetzias Mitzmyim</glossterm>, the exodus from Egypt
+parshiyos</glossterm> 
+<glossterm>Kadaish</glossterm>,
+<glossterm>Vehaya</glossterm>)
+sedra</glossterm> (parsha)</para>
+zuzim
+geira
+terumah
+kiyor ?
+ketores</glossterm> (incense)
+chochma</glossterm>
+tevuna</glossterm>
+daas</glossterm>
+binah</glossterm>
+Beshogeig</glossterm>
+bemeizid</glossterm>,
+behasraah
+Shabbos Shabbaton ?
+kallah
+Satan
+egel hazahav</glossterm> (golden calf)
+erev rav</glossterm> (Egyptian converts)
+Luchos</glossterm> (tablets)
+chet ha’egel</glossterm> (sin of the calf)
+midoh tovah
+midoh poranius
+Yom Tov aliyas haregel
+Torah Shebe’al Peh</glossterm> (Oral Law)
+veshomru
+Yomim Tovim</glossterm> (holidays)
+Shulchon Oruch
+eved Ivri</glossterm> (Jewish slave)
+shifcha Cnaanis</glossterm> (a gentile maidservant)
+eved nirtza
+avodim
+yi’ud</glossterm> ?
+simanim</glossterm> ?
+naarus</glossterm> ?
+bagrus</glossterm> ?
+sha’ir ?
+kesus</glossterm> ?
+onah</glossterm> ?
+Pirkei Avos</glossterm> (Ethics of our Fathers)
+nezek</glossterm> ?
+tzaar</glossterm> ?
+ripui</glossterm> ?
+sheves</glossterm> ?
+boshes</glossterm> ?
+mazik</glossterm> ?
+nizak</glossterm> ?
+tam</glossterm> ?
+mu’od</glossterm> ?
+kofer
+bor pit
+moneh
+kikar
+bigdei serod
+bigdei kehuna
+avneit</glossterm> (belt)
+posuk
+lashon horah</glossterm> (lit. evil tongue)
+mateh staff
+bris</glossterm> (circumcision)
+zekenim</glossterm> (elders)
+shotrim</glossterm> (policemen)
+Mishkan</glossterm> (Tabernacle)
+besomim spices
+sheetim</glossterm> (cedar)
+keilim</glossterm> (utensils)
+aron</glossterm> (ark)
+neis</glossterm> (miracle)
+taba’os ?
+badim ?
+eidus ?
+kapores ?
+za’ir ?
+tzalos ?
+keruvim
+shulchon</glossterm> (table)
+lechem bread
+hapanim ?
+kerashim boards
+keresh board
+adonim ?
+brichim ?
+tabaas ?
+yados ?
+paroches ?
+shulchon
+menorah
+aron
+chatzeir</glossterm> (courtyard)
+masach
+Vovim ?
+Amudim ?
+Siros ?
+Ya’im ?
+Mizrkos ?
+Mizlgos ?
+Machtos ?
+Michbar ?
+Karkov ?
+Reshes ?
+Kilayim ?
+Kronos ?
+Yeseidos ?
+Krosim ?
+Lulaos ?
+Malkochos ?
+Kaftorim ?
+Konim ?
+Gviyim ?
+Prachim ?
+Ke’oros ?
+Kapos ?
+Ksavos ?
+Menakiyos ?
+Misgeres ?
+Za’ir ?
+Kenafayim ?
+Korban Minchah
+tamid</glossterm> (steadily)
+lechem hapanim</glossterm> (showbread)
+Kohein Gadol</glossterm> (High Priest)
+choshen ?
+eifod ?
+kehuna ?
+Kohein ?
+shoham
+choshen hamishpot ?
+urim v’tumim ?
+tzitz ?
+din</glossterm> (law)
+tamid ?
+shatnez</glossterm> (mixture of wool and linen)
+shemen hamishcho
+par</glossterm> (ox)
+Korban Chatos
+lulov</glossterm> (four species)
+posul
+mussar rebuke
+makah</glossterm> (plague)
+arov</glossterm> (wild animals)
+sh’chin</glossterm> (boils)
+dever</glossterm> 
+bored</glossterm> (death and hail)
+tzefardeia</glossterm> (frogs)
+midoh</glossterm> (trait)
+melacha</glossterm> (work)
+nesiyim</glossterm> (heads of tribes; princes)
+shevatim</glossterm> (tribes)
+avodah</glossterm> (service)
+mizbeyach ha’olah
+mizbeyach hazahav,
+aron
+shulchon
+menorah
+kiyor
+aliyos
+kilayim
+midbar desert
+Matan Torah</glossterm> (the Giving of the Torah)
+geirim converts
+Har Sinai</glossterm> (Mount Sinai)
+Aseres Hadibros  Ten Commandments
+mizbeyach</glossterm> (altar)
