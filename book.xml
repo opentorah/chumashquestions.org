@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbookxi.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- TODO add 2nd edition blurb, credits, version, copyright holder's permission etc. -->
 <book xmlns="http://docbook.org/ns/docbook" 
         xmlns:xi="http://www.w3.org/2001/XInclude"
         xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -9,7 +10,10 @@
     <info>
         <title>The Chumash Questions</title>
         <subtitle>A workbook for the weekly sedra based on the commentary of Rashi</subtitle>
+
+        <!-- TODO doesn't show up in the output! -->
         <cover><para>Includes Holiday Questions</para></cover>
+
         <author>
             <personname>
                 <honorific>Rabbi</honorific>
@@ -36,65 +40,72 @@
     </dedication>
 
     <acknowledgements>
-        <para>The inspiration and continued support for this project has come from: Mr. and Mrs. Yosef Chaim Lester</para>
-        <para>Managing editor
+        <para>The inspiration and continued support for this project has come from:
+            <personname>
+                <honorific>Mr. and Mrs.</honorific>
+                <firstname>Yosef Chaim</firstname>
+                <surname>Lester</surname>
+            </personname>
+        </para>
+        <para><emphasis role="bold">Managing editor</emphasis>
             <personname>
                 <firstname>Pessy Leah</firstname>
                 <surname>Lester</surname>
             </personname>
         </para>
-        <para>Typing
+        <para><emphasis role="bold">Typing</emphasis>
             <personname>
                 <firstname>Devorah</firstname>
                 <surname>Hott</surname>
             </personname>
         </para>
-        <para>Copy editing, design, typesetting
+        <para><emphasis role="bold">Copy editing, design, typesetting</emphasis>
             <personname>
                 <firstname>Yael</firstname>
                 <surname>Resnick</surname>
             </personname>
         </para>
-        <para>Editorial consultant
+        <para><emphasis role="bold">Editorial consultant</emphasis>
             <personname>
                 <honorific>Rabbi</honorific>
                 <firstname>Zalman</firstname>
                 <surname>Wilschanski</surname>
             </personname>
         </para>
-        <para>Consultants
+        <para><emphasis role="bold">Consultants</emphasis>
             <personname>
                 <honorific>Rabbi</honorific>
                 <firstname>Zalman</firstname>
                 <surname>Dubinsky</surname>
-            </personname>
+            </personname>,
             <personname>
                 <honorific>Rabbi</honorific>
                 <firstname>Yeheskel</firstname>
                 <surname>Lebovic</surname>
-            </personname>
+            </personname>,
             <personname>
                 <honorific>Rabbi</honorific>
                 <firstname>Avraham</firstname>
                 <surname>Lipskier</surname>
-            </personname>
+            </personname>,
             <personname>
                 <firstname>Yisroel Noach</firstname>
                 <surname>Wichnin</surname>
             </personname>
         </para>
-        <para>Photo courtesy of <personname>
+        <para><emphasis role="bold">Photo courtesy of</emphasis>
+            <personname>
                 <firstname>Albie</firstname>
                 <surname>Rosenhaus</surname>
             </personname>
         </para>
-        <para>Cover design
+        <para><emphasis role="bold">Cover design</emphasis>
             <personname>
                 <firstname>Yael</firstname>
                 <surname>Resnick</surname>
             </personname>
         </para>
-        <para>Special thanks to:
+        <para><emphasis role="bold">Special thanks to:</emphasis>
             <personname>
                 <firstname>Sara</firstname>
                 <surname>Arno</surname>
@@ -104,17 +115,17 @@
                 <surname>Burdmam</surname>
             </personname>
         </para>
-        <para>This publication has been made possible in great measure by a generous donation from
-            <personname>
-                <firstname>Aaron</firstname>
-                <surname>Mayer</surname>
-            </personname>
-            and
-            <personname>
-                <firstname>Shifra</firstname>
-                <surname>Gellman</surname>
-            </personname>
-            and family.
+        <para>
+            <emphasis role="italic">This publication has been made possible in great measure by a generous donation from
+                <personname>
+                    <firstname>Aaron</firstname>
+                    <surname>Mayer</surname>
+                </personname> and
+                <personname>
+                    <firstname>Shifra</firstname>
+                    <surname>Gellman</surname>
+                </personname> and family.
+            </emphasis>
         </para>
     </acknowledgements>
 
@@ -130,10 +141,18 @@
             1938-1995
         </title>
 
+        <informalfigure>
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="tombstone.png"/>
+                </imageobject>
+            </mediaobject>
+        </informalfigure>
+
         <informalfigure floatstyle="left"> <!-- TODO FOP doesn't do floats... -->
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="author.jpg" width="2in"/>
+                    <imagedata fileref="author.png" width="2in"/>
                 </imageobject>
             </mediaobject>
         </informalfigure>
@@ -250,6 +269,7 @@
         </formalpara>
 
         <formalpara>
+            <!-- TODO different glossary conventions are used! -->
             <title>Typographic Conventions</title>
             <para>For the convenience of the reader, Hebrew words are italicized the first time they appear in the text. (These first mentions are often followed by a definition in
                 parentheses.) Subsequent occurrences are set in standard (roman) type.</para>
@@ -264,4 +284,14 @@
     <xi:include href="holidays/index.xml"/>
 
     <xi:include href="glossary.xml"/>
+
+    <!-- TODO doesn't show up in the output! -->
+    <!-- TODO do the credits belong here? -->
+    <colophon>
+        <para>Original paper edition was scanned by <personname><firstname>Nina</firstname><surname>Dubinsky</surname></personname>,
+        uploaded to Google Drive for Optical Character Recognition and formatted in DocBook using Oxygen XML Editor by
+        <personname><firstname>Leonid</firstname><surname>Dubinsky</surname></personname>.</para>
+        <para>Proofreading by <personname><firstname>Menucha Rochel</firstname><surname>Dubinsky</surname></personname>.</para>
+        <para>Production of PDF, EPUB and HTML uses DocBook XSL stylesheets.</para>
+    </colophon>
 </book>
