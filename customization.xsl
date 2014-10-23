@@ -6,13 +6,15 @@
     exclude-result-prefixes="xs"
     version="1.0">
 
-    <!-- TODO what do I need to do to not cause a connection attempt to the schema URL?
-        Use this for import?
-        href="/usr/share/xml/docbook/stylesheet/docbook-xsl-ns/fo/docbook.xsl"
-    -->
-    <xsl:import href="http://docbook.sourceforge.net/release/xsl/current/fo/docbook.xsl"/>
+    <xsl:import href="/usr/share/sgml/docbook/xsl-ns-stylesheets/fo/docbook.xsl"/>
     
     <xsl:param name="local.l10n.xml" select="document('')"/> 
+
+    <!-- remove trailing period after honorific -->
+    <xsl:param name="punct.honorific"/>    
+
+    <!-- remove trailing period after run-in head (e.g., formal paragraph title) -->
+    <xsl:param name="runinhead.default.title.end.punct"/>    
     
     <!-- remove "Chapter" in chapter title. -->
     <l:i18n xmlns:l="http://docbook.sourceforge.net/xmlns/l10n/1.0">
@@ -23,6 +25,7 @@
         </l:l10n>
     </l:i18n>
 
+    <!-- break before each section -->
     <xsl:attribute-set name="section.title.level1.properties">
         <xsl:attribute name="break-before">page</xsl:attribute>
     </xsl:attribute-set>

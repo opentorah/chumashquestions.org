@@ -20,7 +20,6 @@
         <copyright>
             <year>1995</year>
             <holder>Mrs. M. Wichnin</holder>
-            <holder>Morristown, NJ</holder>
         </copyright>
         <legalnotice>
             <para>All Rights Reserved</para>
@@ -120,15 +119,6 @@
     </acknowledgements>
 
     <preface>
-        <title>Note</title>
-        <para>
-            This publication is designed to be an accurate rendering of the author’s original work, which
-            consisted of loose handouts intended for internal yeshiva use. They were not edited by the author
-            nor prepared for publication and should, therefore, be viewed in this light.
-        </para>
-    </preface>
-
-    <preface>
         <title>
             <person>
                 <personname>
@@ -139,11 +129,15 @@
             </person>
             1938-1995
         </title>
-        <mediaobject>
-            <imageobject>
-                <imagedata fileref="author.jpg" align="center" width="2in"/>
-            </imageobject>
-        </mediaobject>
+
+        <informalfigure floatstyle="left"> <!-- TODO FOP doesn't do floats... -->
+            <mediaobject>
+                <imageobject>
+                    <imagedata fileref="author.jpg" width="2in"/>
+                </imageobject>
+            </mediaobject>
+        </informalfigure>
+        
         <para>Rabbi, teacher, mentor, counselor, guide, <glossterm>mashpia</glossterm>. Which word best describes Rabbi Dovid Wichnin, z”l? All of the above and more. In a word, he
             was a <glossterm>Chossid</glossterm> of the Rebbe striving to carry out his <glossterm>shlichus</glossterm>.</para>
         <para>For 18 years, Rabbi David Wichnin was the Rosh Yeshiva of the Rabbinical College of America’s Yeshiva Tiferes Bachurim in Morristown, N], one of the largest yeshivas
@@ -166,7 +160,7 @@
     </preface>
 
     <preface>
-        <title>FOREWORD</title>
+        <title>Foreword</title>
         <para>Anyone who has ever been a student at Yeshivas Tiferes Bachurim knows that one of the regular features of the yeshiva <glossterm>seder</glossterm> was Rabbi Wichnin’s
             Chumash questions. Weekly he would stand at the <glossterm>bimah</glossterm> at the center of the <glossterm>beis medrash</glossterm>, and with wit and wisdom review
             the timely Torah portion, using a series of penetrating questions he developed over the years. Whether these ‘parsha sheets’ contained nineteen or ninety-nine
@@ -202,9 +196,9 @@
     </preface>
 
     <preface>
-        <title>INTRODUCTION</title>
+        <title>Introduction</title>
         <para><emphasis role="italic">The Chumash Questions</emphasis> is a powerful tool for anyone who wants to understand the Five Books of Moses. This questions, in the form of
-            weekly sheets on each Torah portion, were formulated by Rabbi Dovid Wichnin, 0.b.m, the Rosh Yeshivah of Yeshivas Tiferes Bachurim, in Morristown, New Jersey from
+            weekly sheets on each Torah portion, were formulated by Rabbi Dovid Wichnin, o.b.m, the Rosh Yeshivah of Yeshivas Tiferes Bachurim, in Morristown, New Jersey from
             1978-1995. A master teacher, Rabbi Wichnin crafted his questions to allow the yeshivah’s entire range of students, from beginners to scholars, to sharpen their Chumash
             comprehension skills. Over the course of nearly twenty years, thousands of students have used these questions to attain a comprehensive understanding of the written
             Torah by understanding the most fundamental commentary — that of Rashi.</para>
@@ -236,18 +230,30 @@
     </preface>
 
     <preface>
-        <title>A note on the Holiday Questions</title>
-        <para>In addition to the Chumash Questions, Rabbi Wichnin also supplied his students with worksheets on the Jewish festivals, high holidays, and Chassidic holidays. These
-            questions range from very simplistic to quite sophisticated, in order to accommodate the variety of yeshiva students. For most of the simple questions, the beginning
-            student will find the answers in the Kitzur Shulchon Oruch and for some of the more difficult questions, the more advanced student will find the answers in the Shulchon
-            Oruch of the Alter Rebbe. The halachic worksheets were obviously geared to the newcomer; nonetheless, everyone can benefit from these questions as preparation for the
-            holidays.</para>
-    </preface>
+        <title>Notes</title>
+        <formalpara>
+            <title>Holiday Questions</title>
+            <para>In addition to the Chumash Questions, Rabbi Wichnin also supplied his students with worksheets on the Jewish festivals, high holidays, and Chassidic holidays. These
+                questions range from very simplistic to quite sophisticated, in order to accommodate the variety of yeshiva students. For most of the simple questions, the beginning
+                student will find the answers in the Kitzur Shulchon Oruch and for some of the more difficult questions, the more advanced student will find the answers in the Shulchon
+                Oruch of the Alter Rebbe. The halachic worksheets were obviously geared to the newcomer; nonetheless, everyone can benefit from these questions as preparation for the
+                holidays.</para>
+        </formalpara>
 
-    <preface>
-        <title>A note on the typographic conventions</title>
-        <para>For the convenience of the reader, Hebrew words are italicized the first time they appear in the text. (These first mentions are often followed by a definition in
-            parentheses.) Subsequent occurrences are set in standard (roman) type.</para>
+        <formalpara>
+            <title>Editing</title>
+            <para>
+                This publication is designed to be an accurate rendering of the author’s original work, which
+                consisted of loose handouts intended for internal yeshiva use. They were not edited by the author
+                nor prepared for publication and should, therefore, be viewed in this light.
+            </para>
+        </formalpara>
+
+        <formalpara>
+            <title>Typographic Conventions</title>
+            <para>For the convenience of the reader, Hebrew words are italicized the first time they appear in the text. (These first mentions are often followed by a definition in
+                parentheses.) Subsequent occurrences are set in standard (roman) type.</para>
+        </formalpara>
     </preface>
 
     <xi:include href="bereishis/index.xml"/>
@@ -256,4 +262,6 @@
     <xi:include href="bamidbar/index.xml"/>
     <xi:include href="devarim/index.xml"/>
     <xi:include href="holidays/index.xml"/>
+
+    <xi:include href="glossary.xml"/>
 </book>

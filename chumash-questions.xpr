@@ -14,37 +14,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>devarim/index.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>DocBook PDF - Custom</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>bamidbar/chukas.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>DocBook PDF - Custom</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>bamidbar/index.xml</String>
+                                    <String>devarim/ki-savo.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -74,7 +44,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>bereishis/chayei-sara.xml</String>
+                                    <String>bamidbar/chukas.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -104,7 +74,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>shemos/index.xml</String>
+                                    <String>bereishis/chayei-sara.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -120,6 +90,51 @@
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>bereishis/index.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>DocBook PDF - Custom</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>devarim/index.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>DocBook PDF - Custom</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>bamidbar/index.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>DocBook PDF - Custom</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>shemos/index.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -540,6 +555,7 @@
         <folder path="vayikra/"/>
         <file name="book.xml"/>
         <file name="customization.xsl"/>
+        <file name="glossary.xml"/>
         <file name="todo.txt"/>
     </projectTree>
 </project>

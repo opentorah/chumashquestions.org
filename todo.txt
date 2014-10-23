@@ -1,5 +1,6 @@
-"Extra" subsection formatting: try "bridgehead".
-Combine all the notes into a single preface.
+Switch pictures to PNG.
+Make figures float.
 Add the picture of the matzeiva.
+Cover information doesn't appear :(
 Add Colophon.
-
+Make processing run from the command line/Maven.
