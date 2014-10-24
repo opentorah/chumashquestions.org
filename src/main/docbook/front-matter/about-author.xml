@@ -24,7 +24,7 @@
         </mediaobject>
     </informalfigure>
     
-    <informalfigure floatstyle="left"> <!-- TODO FOP doesn't do floats... -->
+    <informalfigure floatstyle="left"> <!-- FOP doesn't do floats... -->
         <mediaobject>
             <imageobject>
                 <imagedata fileref="author.png" width="2in"/>

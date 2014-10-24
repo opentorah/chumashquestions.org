@@ -1,3 +1,0 @@
-Cover information doesn't appear :(
-Colophon does not appear.
-Make processing run from the command line/Maven.

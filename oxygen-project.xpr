@@ -145,6 +145,5 @@
         </folder>
         <folder path="src/main/docbook/"/>
         <folder path="src/main/xsl/"/>
-        <file name="todo.txt"/>
     </projectTree>
 </project>
