@@ -11,7 +11,7 @@
     <name>Chumash Questions</name>
     <version>2.0-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <url>http://calendar.podval.org</url>
+    <url>https://github.com/dubinsky/chumash-questions</url>
     
     <licenses>
         <license>
@@ -71,7 +71,7 @@
                             <version>1.1</version>
                             <scope>runtime</scope>
                             <!-- FOP 1.1 POM asks for Avalon 4.2.0, which is not in the repositories (?).
-                                I excluded it and specified a dependency on the latest Avalon Framework below.
+                                I excluded it and specified a dependency on the latest (?) Avalon Framework below.
                              -->
                             <exclusions>
                                 <exclusion>
@@ -96,9 +96,9 @@
                     <executions>
                         <execution>
                             <goals>
-                                <goal>generate-html</goal>
                                 <goal>generate-pdf</goal>
-                                <!-- <goal>generate-epub</goal>-->
+                                <goal>generate-html</goal>
+                                <goal>generate-epub</goal>
                             </goals>
                             <phase>package</phase>
                         </execution>
@@ -119,18 +119,9 @@
 
                     <targetDirectory>${project.build.directory}/docbkx</targetDirectory>
 
-                    <!-- HTML -->
-                    <paraPropagatesStyle>yes</paraPropagatesStyle> <!-- "role" attribute on "para" will become "class" in HTML -->
-                    
-                    <chunkedOutput>true</chunkedOutput>
-                    <chunkerOutputEncoding>UTF-8</chunkerOutputEncoding>
-                    <chunkerOutputIndent>yes</chunkerOutputIndent>
-                    
-                    <!-- PDF -->
                     <foCustomization>src/main/xsl/pdf.xsl</foCustomization>
+                    <htmlCustomization>src/main/xsl/html.xsl</htmlCustomization>
                     
-                    <insertXrefPageNumber>yes</insertXrefPageNumber>
-
                     <entities>
                         <entity>
                             <name>version</name>

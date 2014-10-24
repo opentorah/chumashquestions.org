@@ -7,51 +7,27 @@
 
     <xsl:import href="/usr/share/sgml/docbook/xsl-ns-stylesheets/fo/docbook.xsl"/>
 
-
-    <xsl:param name="local.l10n.xml" select="document('')"/>
+    <xsl:import href="common.xsl"/>
+    
 
     <!-- Paper size; double-sidedness; not a draft -->
     <xsl:param name="paper.type">USletter</xsl:param>
     <xsl:param name="double.sided">1</xsl:param>
     <xsl:param name="draft.mode">no</xsl:param>
 
-    <!-- Font family and size -->
-    <xsl:param name="body.font.family">sans-serif</xsl:param>
-    <xsl:param name="body.font.master">14</xsl:param>
-
     <!-- FOP extensions -->
     <xsl:param name="fop.extensions">0</xsl:param>
     <xsl:param name="fop1.extensions">1</xsl:param>
 
-    <!-- Remove trailing period after honorific -->
-    <xsl:param name="punct.honorific"/>
-
-    <!-- Remove trailing period after run-in head (e.g., formal paragraph title) -->
-    <xsl:param name="runinhead.default.title.end.punct"/>    
-
-    <!-- Remove "Chapter" in chapter title -->
-    <l:i18n xmlns:l="http://docbook.sourceforge.net/xmlns/l10n/1.0">
-        <l:l10n language="en"> 
-            <l:context name="title-numbered">
-                <l:template name="chapter" text="%n.&#160;%t"/>
-            </l:context>
-        </l:l10n>
-    </l:i18n>
-
-    <!-- Number the chapters arabically -->
-    <xsl:param name="chapter.autolabel">1</xsl:param>    
     
     <!-- Break before each section -->
     <xsl:attribute-set name="section.title.level1.properties">
         <xsl:attribute name="break-before">page</xsl:attribute>
     </xsl:attribute-set>
 
-    <!-- Do not number the sections -->
-    <xsl:param name="section.autolabel">0</xsl:param>    
-
     <!-- Suppress content indent -->
     <xsl:param name="body.start.indent">0pt</xsl:param>
 
-    <!-- Some space for the list labels -->
+    <!-- TODO Do I need this? Some space for the list labels -->
     <xsl:param name="orderedlist.label.width">2em</xsl:param>
 </xsl:stylesheet>
