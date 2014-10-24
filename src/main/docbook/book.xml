@@ -42,6 +42,7 @@
     <xi:include href="front-matter/introduction.xml"/>
     <xi:include href="front-matter/notes.xml"/>
 
+
     <!-- content -->
     <xi:include href="bereishis/index.xml"/>
     <xi:include href="shemos/index.xml"/>
@@ -49,6 +50,7 @@
     <xi:include href="bamidbar/index.xml"/>
     <xi:include href="devarim/index.xml"/>
     <xi:include href="holidays/index.xml"/>
+
 
     <!-- back matter -->
     <xi:include href="back-matter/glossary.xml"/>
