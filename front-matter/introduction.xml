@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbookxi.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<preface xmlns="http://docbook.org/ns/docbook" 
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+
+    <title>Introduction</title>
+    <para><emphasis role="italic">The Chumash Questions</emphasis> is a powerful tool for anyone who wants to understand the Five Books of Moses. This questions, in the form of
+        weekly sheets on each Torah portion, were formulated by Rabbi Dovid Wichnin, o.b.m, the Rosh Yeshivah of Yeshivas Tiferes Bachurim, in Morristown, New Jersey from
+        1978-1995. A master teacher, Rabbi Wichnin crafted his questions to allow the yeshivah’s entire range of students, from beginners to scholars, to sharpen their Chumash
+        comprehension skills. Over the course of nearly twenty years, thousands of students have used these questions to attain a comprehensive understanding of the written
+        Torah by understanding the most fundamental commentary — that of Rashi.</para>
+    <para>Rabbi Shlomo Yitzchaky, better known by the acronym <glossterm>Rashi</glossterm>, lived in France from 1040-1105 and is unarguably the most widely studied Torah
+        scholar in history. In fact, the Shulchon Oruch states that one might fulfill the requisite, “<glossterm>Shnayim mikrah v’echad targum</glossterm>” (reading the weekly
+        portion twice, and a translation once) by reading Rashi’s commentary on the verse. Still, it is advisable to read it with the customary translation of Onkelus.
+        Nevertheless, a G-d-fearing person will also be sure to read the Torah portion with Rashi’s commentary each week.</para>
+    <para>The commentary, which is printed in virtually every edition of the Torah, is a strict adherence to the <glossterm>pshat</glossterm> — the simple meaning of the verse.
+        Rashi himself emphasized that his goal was to make the Torah clear to virtually every student of the Written Torah, starting with ‘<glossterm>ben chameish
+            lemikrah</glossterm>’ — a five-year-old child who commences the study of the scripture — to the most erudite scholar who must still keep in mind that the simple
+        meaning of the verse will always remain.</para>
+    <para>Yet the saintly Shelah, Rabbi Yeshayah Horowitz, noted that within Rashi’s commentary on Chumash are hidden the secrets of the Torah. And the first Lubavitcher Rebbe,
+        the Alter Rebbe, called Rashi’s commentary “the wine of the Torah,” explaining that it opens the heart and reveals one’s essential love and fear of G-d.</para>
+    <para>When the Previous Rebbe, Rabbi Yosef Yitzchok Schneerson, o.b.m, instituted the <glossterm>Chitas</glossterm> — a daily schedule of Torah, Psalms, and Tanya study, he
+        stipulated that the Torah selection must be read with Rashi’s commentary. As he explained in one of his discourses, “It is necessary to study some of the Written Torah
+        daily with Rashi, for his commentaries are the <glossterm>terumos</glossterm> — the most select portion — of the interpretations of our Sages.”</para>
+    <para>Many commentators, including such Torah giants as the Mizrachi, the Maharal of Prague, the Baal Halevushim, and the Taz, have written books that discuss the
+        subtleties of Rashi’s commentary on the Torah.</para>
+    <para>Of special note is the Lubavitcher Rebbe’s contribution to Rashi scholarship. In 1965, after the passing of his saintly mother, the Rebbetzin Chana, the Rebbe would
+        dedicate a portion of his Shabbos talks to explaining a section of Rashi for that week’s Torah portion. He did this for more than two decades, bringing to light the
+        full range of meaning encoded within Rashi’s often-terse words. Hundreds of his novel explanations are published in <glossterm>Likutei Sichos</glossterm>, his collected
+        talks, as well as <glossterm>Biurim L’peirush Rashi</glossterm>, a five-volume set of books exclusively on the Rebbe’s Rashi novellae.</para>
+    <para>While Rashi’s commentary is essentially a collection of answers to the problems that one could raise about the simple meaning of the Chumash text, Rashi does not
+        specify which question he is resolving. In order to teach Rashi’s commentary to the yeshiva students, Rabbi Wichnin put into writing some of Rashi’s questions on each
+        Torah portions. Most questions will find their answer in one of Rashi’s commentaries of the Torah.</para>
+    <para>These questions stimulate and challenge the mind. Even after mastering the simple meaning, the student who uses <emphasis role="italic">The Chumash
+        Questions</emphasis> will come to appreciate Rashi in a new light. And in so doing, he or she will not only gain insight into Rashi’s commentary, but an even
+        greater insight into G-d’s Torah.</para>        
+</preface>

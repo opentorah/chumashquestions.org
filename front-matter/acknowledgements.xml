@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbookxi.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<acknowledgements xmlns="http://docbook.org/ns/docbook" 
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+
+    <para>The inspiration and continued support for this project has come from:
+        <personname>
+            <honorific>Mr. and Mrs.</honorific>
+            <firstname>Yosef Chaim</firstname>
+            <surname>Lester</surname>
+        </personname>
+    </para>
+    <para><emphasis role="bold">Managing editor</emphasis>
+        <personname>
+            <firstname>Pessy Leah</firstname>
+            <surname>Lester</surname>
+        </personname>
+    </para>
+    <para><emphasis role="bold">Typing</emphasis>
+        <personname>
+            <firstname>Devorah</firstname>
+            <surname>Hott</surname>
+        </personname>
+    </para>
+    <para><emphasis role="bold">Copy editing, design, typesetting</emphasis>
+        <personname>
+            <firstname>Yael</firstname>
+            <surname>Resnick</surname>
+        </personname>
+    </para>
+    <para><emphasis role="bold">Editorial consultant</emphasis>
+        <personname>
+            <honorific>Rabbi</honorific>
+            <firstname>Zalman</firstname>
+            <surname>Wilschanski</surname>
+        </personname>
+    </para>
+    <para><emphasis role="bold">Consultants</emphasis>
+        <personname>
+            <honorific>Rabbi</honorific>
+            <firstname>Zalman</firstname>
+            <surname>Dubinsky</surname>
+        </personname>,
+        <personname>
+            <honorific>Rabbi</honorific>
+            <firstname>Yeheskel</firstname>
+            <surname>Lebovic</surname>
+        </personname>,
+        <personname>
+            <honorific>Rabbi</honorific>
+            <firstname>Avraham</firstname>
+            <surname>Lipskier</surname>
+        </personname>,
+        <personname>
+            <firstname>Yisroel Noach</firstname>
+            <surname>Wichnin</surname>
+        </personname>
+    </para>
+    <para><emphasis role="bold">Photo courtesy of</emphasis>
+        <personname>
+            <firstname>Albie</firstname>
+            <surname>Rosenhaus</surname>
+        </personname>
+    </para>
+    <para><emphasis role="bold">Cover design</emphasis>
+        <personname>
+            <firstname>Yael</firstname>
+            <surname>Resnick</surname>
+        </personname>
+    </para>
+    <para><emphasis role="bold">Special thanks to:</emphasis>
+        <personname>
+            <firstname>Sara</firstname>
+            <surname>Arno</surname>
+        </personname>
+        <personname>
+            <firstname>Rus Devorah</firstname>
+            <surname>Burdmam</surname>
+        </personname>
+    </para>
+    <para>
+        <emphasis role="italic">This publication has been made possible in great measure by a generous donation from
+            <personname>
+                <firstname>Aaron</firstname>
+                <surname>Mayer</surname>
+            </personname> and
+            <personname>
+                <firstname>Shifra</firstname>
+                <surname>Gellman</surname>
+            </personname> and family.
+        </emphasis>
+    </para>
+</acknowledgements>

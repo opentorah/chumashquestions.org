@@ -124,19 +124,20 @@
             </serialized>
         </options>
     </meta>
-    <projectTree name="chumash-questions.xpr">
+    <projectTree name="oxygen-project.xpr">
         <folder masterFiles="true" name="Master Files">
             <file name="book.xml"/>
         </folder>
+        <folder path="back-matter/"/>
         <folder path="bamidbar/"/>
         <folder path="bereishis/"/>
         <folder path="devarim/"/>
+        <folder path="front-matter/"/>
         <folder path="holidays/"/>
         <folder path="shemos/"/>
         <folder path="vayikra/"/>
         <file name="book.xml"/>
         <file name="customization.xsl"/>
-        <file name="glossary.xml"/>
         <file name="todo.txt"/>
     </projectTree>
 </project>
