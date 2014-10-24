@@ -44,6 +44,7 @@
     
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <docbkx.output.directory>${project.build.directory}/docbkx</docbkx.output.directory>
     </properties>
     
     <build>
@@ -113,7 +114,7 @@
                             <goal>generate-pdf</goal>
                         </goals>
                         <configuration>
-                            <targetDirectory>${project.build.directory}/docbkx/pdf</targetDirectory>
+                            <targetDirectory>${docbkx.output.directory}/pdf</targetDirectory>
                             <foCustomization>src/main/xsl/pdf.xsl</foCustomization>
                         </configuration>
                     </execution>
@@ -124,7 +125,7 @@
                             <goal>generate-html</goal>
                         </goals>
                         <configuration>
-                            <targetDirectory>${project.build.directory}/docbkx/html</targetDirectory>
+                            <targetDirectory>${docbkx.output.directory}/html</targetDirectory>
                             <htmlCustomization>src/main/xsl/html.xsl</htmlCustomization>
                         </configuration>
                     </execution>
@@ -135,12 +136,36 @@
                             <goal>generate-epub</goal>
                         </goals>
                         <configuration>
-                            <targetDirectory>${project.build.directory}/docbkx/epub/expanded</targetDirectory>
+                            <targetDirectory>${docbkx.output.directory}/epub/expanded</targetDirectory>
                             <!-- TODO How to configure EPUB customization?! -->
                         </configuration>
                     </execution>
                 </executions>
             </plugin>
-        </plugins>
+
+            <plugin>
+                <artifactId>maven-resources-plugin</artifactId>
+                <version>2.7</version>
+                <executions>
+                    <execution>
+                        <id>copy-images</id>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>copy-resources</goal>
+                        </goals>
+                        <configuration>
+                            <outputDirectory>${docbkx.output.directory}/html</outputDirectory>
+                            <resources>          
+                                <resource>
+                                    <directory>src/main/docbook/front-matter</directory>
+                                    <includes>
+                                        <include>**/*.png</include>
+                                    </includes>
+                                </resource>
+                            </resources>              
+                        </configuration>            
+                    </execution>
+                </executions>
+            </plugin>        </plugins>
     </build>
 </project>

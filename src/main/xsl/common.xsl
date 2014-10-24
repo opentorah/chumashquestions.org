@@ -6,7 +6,7 @@
     exclude-result-prefixes="xs"
     version="1.0">
 
-    <!-- TODO What is this for? -->
+    <!-- This is needed for template-tweaking customizations, like removal of "Chapter" in chapter title. -->
     <xsl:param name="local.l10n.xml" select="document('')"/>
 
 

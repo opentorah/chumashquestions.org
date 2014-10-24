@@ -28,6 +28,6 @@
     <!-- Suppress content indent -->
     <xsl:param name="body.start.indent">0pt</xsl:param>
 
-    <!-- TODO Do I need this? Some space for the list labels -->
+    <!-- Some space for the list labels -->
     <xsl:param name="orderedlist.label.width">2em</xsl:param>
 </xsl:stylesheet>

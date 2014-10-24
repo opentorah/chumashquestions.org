@@ -12,7 +12,5 @@
     <xsl:param name="chunker.output.encoding">UTF-8</xsl:param>
     <xsl:param name="chunker.output.indent">yes</xsl:param>  <!-- Pretty-print the HTML -->
 
-    <!-- TODO do I need this? -->
-    <!-- TODO Explicitly italicized stuff is not italicized in the output! -->
     <xsl:param name="para.propagates.style">yes</xsl:param>  <!-- "role" attribute on "para" will become "class" in HTML -->
 </xsl:stylesheet>
