@@ -1,4 +1,4 @@
 Cover information doesn't appear :(
 Colophon does not appear.
 Make processing run from the command line/Maven.
-Make parameters defined in the customization (like font family) actually affect the output when Oxygen is used.
+Change to XSLT 2.0.

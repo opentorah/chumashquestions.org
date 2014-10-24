@@ -2,7 +2,6 @@
 <xsl:stylesheet
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    xmlns:fo="http://www.w3.org/1999/XSL/Format"
     exclude-result-prefixes="xs"
     version="1.0">
 
@@ -17,7 +16,7 @@
     <xsl:param name="draft.mode">no</xsl:param>
 
     <!-- Font family and size -->
-    <xsl:param name="body.font.famil" select="'sans-serif'"/>
+    <xsl:param name="body.font.family">sans-serif</xsl:param>
     <xsl:param name="body.font.master">14</xsl:param>
 
     <!-- FOP extensions -->
