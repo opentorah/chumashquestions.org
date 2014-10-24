@@ -144,7 +144,7 @@
         <informalfigure>
             <mediaobject>
                 <imageobject>
-                    <imagedata fileref="tombstone.png"/>
+                    <imagedata fileref="tombstone.png" width="5in"/>
                 </imageobject>
             </mediaobject>
         </informalfigure>

@@ -1,6 +1,4 @@
-Switch pictures to PNG.
-Make figures float.
-Add the picture of the matzeiva.
 Cover information doesn't appear :(
-Add Colophon.
+Colophon does not appear.
 Make processing run from the command line/Maven.
+Make parameters defined in the customization (like font family) actually affect the output when Oxygen is used.
