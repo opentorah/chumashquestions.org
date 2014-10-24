@@ -118,6 +118,7 @@
                             <foCustomization>src/main/xsl/pdf.xsl</foCustomization>
                         </configuration>
                     </execution>
+
                     <execution>
                         <id>html</id>
                         <phase>package</phase>
@@ -129,6 +130,7 @@
                             <htmlCustomization>src/main/xsl/html.xsl</htmlCustomization>
                         </configuration>
                     </execution>
+
                     <execution>
                         <id>epub</id>
                         <phase>package</phase>
@@ -137,7 +139,7 @@
                         </goals>
                         <configuration>
                             <targetDirectory>${docbkx.output.directory}/epub/expanded</targetDirectory>
-                            <!-- TODO How to configure EPUB customization?! -->
+                            <epubCustomization>src/main/xsl/epub.xsl</epubCustomization>
                         </configuration>
                     </execution>
                 </executions>
@@ -159,13 +161,14 @@
                                 <resource>
                                     <directory>src/main/docbook/front-matter</directory>
                                     <includes>
-                                        <include>**/*.png</include>
+                                        <include>*.png</include>
                                     </includes>
                                 </resource>
                             </resources>              
                         </configuration>            
                     </execution>
                 </executions>
-            </plugin>        </plugins>
+            </plugin>
+        </plugins>
     </build>
 </project>
