@@ -38,12 +38,20 @@
         </l:l10n>
     </l:i18n>
 
+    <!-- Number the chapters arabically -->
+    <xsl:param name="chapter.autolabel">1</xsl:param>    
+    
     <!-- Break before each section -->
     <xsl:attribute-set name="section.title.level1.properties">
         <xsl:attribute name="break-before">page</xsl:attribute>
     </xsl:attribute-set>
 
+    <!-- Do not number the sections -->
+    <xsl:param name="section.autolabel">0</xsl:param>    
+
+    <!-- Suppress content indent -->
     <xsl:param name="body.start.indent">0pt</xsl:param>
 
+    <!-- Some space for the list labels -->
     <xsl:param name="orderedlist.label.width">2em</xsl:param>
 </xsl:stylesheet>

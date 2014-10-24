@@ -1,0 +1,144 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    
+    <prerequisites>
+        <maven>3.1.0</maven>
+    </prerequisites>
+    
+    <groupId>org.podval</groupId>
+    <artifactId>chumash-questions</artifactId>
+    <name>Chumash Questions</name>
+    <version>2.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <url>http://calendar.podval.org</url>
+    
+    <licenses>
+        <license>
+            <name>Apache 2</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+            <comments>A business-friendly OSS license</comments>
+        </license>
+    </licenses>
+    
+    <organization>
+        <name>Podval Group</name>
+        <url>http://www.podval.org</url>
+    </organization>
+    
+    <developers>
+        <developer>
+            <id>dub</id>
+            <name>Leonid Dubinsky</name>
+            <email>dub@podval.org</email>
+            <url>http://dub.podval.org</url>
+            <organization>Podval Group</organization>
+            <organizationUrl>http://www.podval.org</organizationUrl>
+            <roles>
+                <role>developer</role>
+            </roles>
+            <timezone>-5</timezone>
+        </developer>
+    </developers>
+    
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+    
+    <build>
+        <pluginManagement>
+            <plugins>
+                <plugin>
+                    <groupId>com.agilejava.docbkx</groupId>
+                    <artifactId>docbkx-maven-plugin</artifactId>
+                    <version>2.0.15</version>
+                    
+                    <dependencies>
+                        <dependency>
+                            <groupId>net.sf.docbook</groupId>
+                            <artifactId>docbook-xml</artifactId>
+                            <version>5.0-all</version>
+                            <classifier>resources</classifier>
+                            <type>zip</type>
+                            <scope>runtime</scope>
+                        </dependency>
+                        
+                        <!-- By default, docbkx plugin brings in FOP 1.0, but I want 1.1 -->
+                        <dependency>
+                            <groupId>org.apache.xmlgraphics</groupId>
+                            <artifactId>fop</artifactId>
+                            <version>1.1</version>
+                            <scope>runtime</scope>
+                            <!-- FOP 1.1 POM asks for Avalon 4.2.0, which is not in the repositories (?).
+                                I excluded it and specified a dependency on the latest Avalon Framework below.
+                             -->
+                            <exclusions>
+                                <exclusion>
+                                    <groupId>org.apache.avalon.framework</groupId>
+                                    <artifactId>avalon-framework-api</artifactId>
+                                </exclusion>
+                                <exclusion>
+                                    <groupId>org.apache.avalon.framework</groupId>
+                                    <artifactId>avalon-framework-impl</artifactId>
+                                </exclusion>
+                            </exclusions>
+                        </dependency>
+                        
+                        <dependency>
+                            <groupId>org.apache.avalon.framework</groupId>
+                            <artifactId>avalon-framework-api</artifactId>
+                            <version>4.3.1</version>
+                            <scope>runtime</scope>
+                        </dependency>
+                    </dependencies>
+                    
+                    <executions>
+                        <execution>
+                            <goals>
+                                <goal>generate-html</goal>
+                                <goal>generate-pdf</goal>
+                                <!-- <goal>generate-epub</goal>-->
+                            </goals>
+                            <phase>package</phase>
+                        </execution>
+                    </executions>
+                </plugin>
+            </plugins>
+        </pluginManagement>
+        
+        <plugins>
+            <plugin>
+                <groupId>com.agilejava.docbkx</groupId>
+                <artifactId>docbkx-maven-plugin</artifactId>
+
+                <configuration>
+                    <sourceDirectory>src/main/docbook</sourceDirectory>
+                    <includes>book.xml</includes>
+                    <xincludeSupported>true</xincludeSupported>
+
+                    <targetDirectory>${project.build.directory}/docbkx</targetDirectory>
+
+                    <!-- HTML -->
+                    <paraPropagatesStyle>yes</paraPropagatesStyle> <!-- "role" attribute on "para" will become "class" in HTML -->
+                    
+                    <chunkedOutput>true</chunkedOutput>
+                    <chunkerOutputEncoding>UTF-8</chunkerOutputEncoding>
+                    <chunkerOutputIndent>yes</chunkerOutputIndent>
+                    
+                    <!-- PDF -->
+                    <foCustomization>src/main/xsl/pdf.xsl</foCustomization>
+                    
+                    <insertXrefPageNumber>yes</insertXrefPageNumber>
+
+                    <entities>
+                        <entity>
+                            <name>version</name>
+                            <value>${project.version}</value>
+                        </entity>
+                    </entities>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>
