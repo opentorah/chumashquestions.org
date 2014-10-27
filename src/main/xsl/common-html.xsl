@@ -23,5 +23,8 @@
     <xsl:param name="phrase.propagates.style">yes</xsl:param>
 
     <!-- CSS stylesheet -->
-    <xsl:param name="html.stylesheet">docbook.css</xsl:param>
+    <xsl:param name="html.stylesheet">css/docbook.css</xsl:param>
+
+    <!-- Images -->
+    <xsl:param name="img.src.path">images/</xsl:param>
 </xsl:stylesheet>

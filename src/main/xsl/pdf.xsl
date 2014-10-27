@@ -30,4 +30,8 @@
 
     <!-- Some space for the list labels -->
     <xsl:param name="orderedlist.label.width">2em</xsl:param>
+
+
+    <!-- XInclude shouldn't affect image URIs -->
+    <xsl:param name="keep.relative.image.uris">1</xsl:param>
 </xsl:stylesheet>
