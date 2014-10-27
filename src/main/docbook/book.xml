@@ -42,12 +42,12 @@
 
 
     <!-- content -->
-    <xi:include href="bereishis/index.xml"/>
-    <xi:include href="shemos/index.xml"/>
-    <xi:include href="vayikra/index.xml"/>
-    <xi:include href="bamidbar/index.xml"/>
-    <xi:include href="devarim/index.xml"/>
-    <xi:include href="holidays/index.xml"/>
+    <xi:include href="body-matter/bereishis/index.xml"/>
+    <xi:include href="body-matter/shemos/index.xml"/>
+    <xi:include href="body-matter/vayikra/index.xml"/>
+    <xi:include href="body-matter/bamidbar/index.xml"/>
+    <xi:include href="body-matter/devarim/index.xml"/>
+    <xi:include href="body-matter/holidays/index.xml"/>
 
 
     <!-- back matter -->
