@@ -169,5 +169,7 @@
         <folder path="src/main/docbook/"/>
         <folder path="src/main/images/"/>
         <folder path="src/main/xsl/"/>
+        <file name="pom.xml"/>
+        <file name="README.md"/>
     </projectTree>
 </project>

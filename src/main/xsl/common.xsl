@@ -10,11 +10,6 @@
     <xsl:param name="local.l10n.xml" select="document('')"/>
 
 
-    <!-- Font family and size -->
-    <xsl:param name="body.font.family">sans-serif</xsl:param>
-    <xsl:param name="body.font.master">14</xsl:param>
-
-
     <!-- Remove trailing period after honorific -->
     <xsl:param name="punct.honorific"/>
     

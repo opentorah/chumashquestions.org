@@ -40,6 +40,10 @@ book > info > title{
     border-bottom: 2px solid #004477;    
 }
 
+div.book {
+    font-family: @body.font.family@;
+}
+
 /*
     A Dedication is a section at the very 
     beginning of a book (before any other body matter) 

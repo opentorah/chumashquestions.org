@@ -16,10 +16,4 @@
     
     <!-- Use ids as names -->
     <xsl:param name="use.id.as.filename">yes</xsl:param>
-    
-    <!-- CSS stylesheet -->
-    <xsl:param name="html.stylesheet">css/docbook.css</xsl:param>
-
-    <!-- Images -->
-    <xsl:param name="img.src.path">images/</xsl:param>
 </xsl:stylesheet>
