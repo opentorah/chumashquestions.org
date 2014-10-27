@@ -17,11 +17,6 @@
     <!-- Use ids as names -->
     <xsl:param name="use.id.as.filename">yes</xsl:param>
     
-    <!-- "role" attribute on "para", "emphasis", "phrase" will become "class" in HTML -->
-    <xsl:param name="para.propagates.style">yes</xsl:param>
-    <xsl:param name="emphasis.propagates.style">yes</xsl:param>
-    <xsl:param name="phrase.propagates.style">yes</xsl:param>
-
     <!-- CSS stylesheet -->
     <xsl:param name="html.stylesheet">css/docbook.css</xsl:param>
 
