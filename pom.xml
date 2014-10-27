@@ -45,6 +45,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <xsl.directory>src/main/xsl</xsl.directory>
+        <css.directory>src/main/css</css.directory>
         <docbkx.output.directory>${project.build.directory}/docbkx</docbkx.output.directory>
         <docbkx.html.output.directory>${docbkx.output.directory}/html</docbkx.html.output.directory>
         <docbkx.epub.output.directory>${docbkx.output.directory}/epub/expanded</docbkx.epub.output.directory>
@@ -133,6 +134,9 @@
                             <htmlCustomization>${xsl.directory}/html.xsl</htmlCustomization>
                             <preProcess>
                                 <copy todir="${docbkx.html.output.directory}">
+                                    <fileset dir="${css.directory}"/>
+                                </copy>
+                                <copy todir="${docbkx.html.output.directory}">
                                     <fileset dir="src/main/docbook/front-matter">
                                         <include name="*.png"/>
                                     </fileset>
@@ -150,6 +154,9 @@
                         <configuration>
                             <targetDirectory>${docbkx.epub.output.directory}</targetDirectory>
                             <epubCustomization>${xsl.directory}/epub.xsl</epubCustomization>
+                            <copy todir="${docbkx.epub.output.directory}">
+                                <fileset dir="${css.directory}"/>
+                            </copy>
                             <preProcess>
                                 <copy todir="${docbkx.epub.output.directory}">
                                     <fileset dir="src/main/docbook/front-matter">

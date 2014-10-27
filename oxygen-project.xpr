@@ -143,6 +143,7 @@
         <folder masterFiles="true" name="Master Files">
             <file name="src/main/docbook/book.xml"/>
         </folder>
+        <folder path="src/main/css/"/>
         <folder path="src/main/docbook/"/>
         <folder path="src/main/xsl/"/>
     </projectTree>

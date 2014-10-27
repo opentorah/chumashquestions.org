@@ -21,4 +21,7 @@
     <xsl:param name="para.propagates.style">yes</xsl:param>
     <xsl:param name="emphasis.propagates.style">yes</xsl:param>
     <xsl:param name="phrase.propagates.style">yes</xsl:param>
+
+    <!-- CSS stylesheet -->
+    <xsl:param name="html.stylesheet">docbook.css</xsl:param>
 </xsl:stylesheet>
