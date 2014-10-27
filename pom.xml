@@ -135,8 +135,6 @@
                             <preProcess>
                                 <copy todir="${docbkx.html.output.directory}">
                                     <fileset dir="${css.directory}"/>
-                                </copy>
-                                <copy todir="${docbkx.html.output.directory}">
                                     <fileset dir="src/main/docbook/front-matter">
                                         <include name="*.png"/>
                                     </fileset>
@@ -154,11 +152,9 @@
                         <configuration>
                             <targetDirectory>${docbkx.epub.output.directory}</targetDirectory>
                             <epubCustomization>${xsl.directory}/epub.xsl</epubCustomization>
-                            <copy todir="${docbkx.epub.output.directory}">
-                                <fileset dir="${css.directory}"/>
-                            </copy>
                             <preProcess>
                                 <copy todir="${docbkx.epub.output.directory}">
+                                    <fileset dir="${css.directory}"/>
                                     <fileset dir="src/main/docbook/front-matter">
                                         <include name="*.png"/>
                                     </fileset>
