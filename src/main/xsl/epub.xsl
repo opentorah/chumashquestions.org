@@ -7,12 +7,5 @@
 
     <xsl:import href="/usr/share/sgml/docbook/xsl-ns-stylesheets/epub/docbook.xsl"/>
 
-    <xsl:import href="common.xsl"/>
-
-    <!--
-    <xsl:param name="chunker.output.encoding">UTF-8</xsl:param>
-    <xsl:param name="chunker.output.indent">yes</xsl:param>  --> <!-- Pretty-print the HTML -->
-
-    <!-- <xsl:param name="para.propagates.style">yes</xsl:param>  --> <!-- "role" attribute on "para" will become "class" in HTML -->
-    
+    <xsl:import href="common-html.xsl"/>
 </xsl:stylesheet>

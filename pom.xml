@@ -44,7 +44,10 @@
     
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <xsl.directory>src/main/xsl</xsl.directory>
         <docbkx.output.directory>${project.build.directory}/docbkx</docbkx.output.directory>
+        <docbkx.html.output.directory>${docbkx.output.directory}/html</docbkx.html.output.directory>
+        <docbkx.epub.output.directory>${docbkx.output.directory}/epub/expanded</docbkx.epub.output.directory>
     </properties>
     
     <build>
@@ -115,7 +118,7 @@
                         </goals>
                         <configuration>
                             <targetDirectory>${docbkx.output.directory}/pdf</targetDirectory>
-                            <foCustomization>src/main/xsl/pdf.xsl</foCustomization>
+                            <foCustomization>${xsl.directory}/pdf.xsl</foCustomization>
                         </configuration>
                     </execution>
 
@@ -126,8 +129,15 @@
                             <goal>generate-html</goal>
                         </goals>
                         <configuration>
-                            <targetDirectory>${docbkx.output.directory}/html</targetDirectory>
-                            <htmlCustomization>src/main/xsl/html.xsl</htmlCustomization>
+                            <targetDirectory>${docbkx.html.output.directory}</targetDirectory>
+                            <htmlCustomization>${xsl.directory}/html.xsl</htmlCustomization>
+                            <preProcess>
+                                <copy todir="${docbkx.html.output.directory}">
+                                    <fileset dir="src/main/docbook/front-matter">
+                                        <include name="*.png"/>
+                                    </fileset>
+                                </copy>
+                            </preProcess>
                         </configuration>
                     </execution>
 
@@ -138,34 +148,16 @@
                             <goal>generate-epub</goal>
                         </goals>
                         <configuration>
-                            <targetDirectory>${docbkx.output.directory}/epub/expanded</targetDirectory>
-                            <epubCustomization>src/main/xsl/epub.xsl</epubCustomization>
+                            <targetDirectory>${docbkx.epub.output.directory}</targetDirectory>
+                            <epubCustomization>${xsl.directory}/epub.xsl</epubCustomization>
+                            <preProcess>
+                                <copy todir="${docbkx.epub.output.directory}">
+                                    <fileset dir="src/main/docbook/front-matter">
+                                        <include name="*.png"/>
+                                    </fileset>
+                                </copy>
+                            </preProcess>
                         </configuration>
-                    </execution>
-                </executions>
-            </plugin>
-
-            <plugin>
-                <artifactId>maven-resources-plugin</artifactId>
-                <version>2.7</version>
-                <executions>
-                    <execution>
-                        <id>copy-images</id>
-                        <phase>package</phase>
-                        <goals>
-                            <goal>copy-resources</goal>
-                        </goals>
-                        <configuration>
-                            <outputDirectory>${docbkx.output.directory}/html</outputDirectory>
-                            <resources>          
-                                <resource>
-                                    <directory>src/main/docbook/front-matter</directory>
-                                    <includes>
-                                        <include>*.png</include>
-                                    </includes>
-                                </resource>
-                            </resources>              
-                        </configuration>            
                     </execution>
                 </executions>
             </plugin>
