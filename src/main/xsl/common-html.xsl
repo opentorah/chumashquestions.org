@@ -16,4 +16,7 @@
     
     <!-- Use ids as names -->
     <xsl:param name="use.id.as.filename">yes</xsl:param>
+
+    <!-- Do not bundle start of the chapter and first section in the same chunk -->
+    <xsl:param name="chunk.first.sections">1</xsl:param>
 </xsl:stylesheet>
