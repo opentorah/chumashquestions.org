@@ -119,7 +119,7 @@
                     
                     <entities>
                         <entity>
-                            <name>version</name>
+                            <name>project-version</name>
                             <value>${project.version}</value>
                         </entity>
                     </entities>
