@@ -42,14 +42,6 @@
         </developer>
     </developers>
     
-    <!--
-        I tried to minimize the POM and put as much of the DocBook XSL configuration as possible into the XSL customization layer, so that Oxygen build is easier to configure:
-        only what is done here needs to be replicated in Oxygen.
-        On the other hand, some configuration that could be placed in the XSL files was consolidated here:
-        - to be near the related bits of configuration (img.src.path and copying of the images) or
-        - to centralize configuration and avoid duplication (font configuration).
-     -->
-
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
@@ -60,6 +52,7 @@
 
         <!-- Output directories -->
         <docbkx.output.directory>${project.build.directory}/docbkx</docbkx.output.directory>
+        <docbkx.pdf.output.directory>${docbkx.output.directory}/pdf</docbkx.pdf.output.directory>
         <docbkx.html.output.directory>${docbkx.output.directory}/html</docbkx.html.output.directory>
         <docbkx.epub.output.directory>${docbkx.output.directory}/epub/expanded</docbkx.epub.output.directory>
 
@@ -133,12 +126,12 @@
                             <goal>generate-pdf</goal>
                         </goals>
                         <configuration>
-                            <targetDirectory>${docbkx.output.directory}/pdf</targetDirectory>
+                            <targetDirectory>${docbkx.pdf.output.directory}</targetDirectory>
                             <foCustomization>${xsl.directory}/pdf.xsl</foCustomization>
 
                             <!-- Fonts -->
-                            <body.font.family>${body.font.family}</body.font.family>
-                            <body.font.master>${body.font.master}</body.font.master>
+                            <bodyFontFamily>${body.font.family}</bodyFontFamily>
+                            <bodyFontMaster>${body.font.master}</bodyFontMaster>
                             
                             <!-- Images -->
                             <imgSrcPath>${basedir}/src/main/images/</imgSrcPath>
