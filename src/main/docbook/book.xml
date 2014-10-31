@@ -8,9 +8,7 @@
 
     <info>
         <title>The Chumash Questions</title>
-        <subtitle>A workbook for the weekly sedra based on the commentary of Rashi</subtitle>
-
-        <cover><para>Includes Holiday Questions</para></cover>
+        <subtitle>A workbook for the weekly <glossterm>sedra</glossterm> based on the commentary of Rashi; includes holiday questions.</subtitle>
 
         <author>
             <personname>
@@ -29,6 +27,7 @@
             <para>All Rights Reserved</para>
             <para>No part of this book may be reproduced in any form or by any means, electronic or mechanical, including photocopying,
             recording, or by any information storage and retrieval system, without written permission of the copyright holder.</para>
+            <para>Second edition published with permission.</para>
         </legalnotice>
     </info>
 

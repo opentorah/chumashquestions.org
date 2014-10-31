@@ -92,4 +92,15 @@
             </personname> and family.
         </emphasis>
     </para>
+
+    <bridgehead>Second Edition</bridgehead>
+
+    <para>Nina Dubinsky originated the idea to republish the book, and scanned a copy of the original edition
+        provided by Dovid Malenkovich.</para>
+
+    <para>Aryeh Leyb Dubinsky converted the content to DocBook.</para>
+
+    <para>Menucha Rochel Dubinsky assisted with the proofreading and glossary compilation.</para>
+
+    <para>Michael Partensky and Isaac Mushinsky encouraged the project.</para>
 </acknowledgements>

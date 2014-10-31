@@ -5,9 +5,10 @@
     xmlns:xi="http://www.w3.org/2001/XInclude"
     xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
 
-    <para>Original paper edition was scanned by <personname><firstname>Nina</firstname><surname>Dubinsky</surname></personname>,
-        uploaded to Google Drive for Optical Character Recognition and formatted in DocBook using Oxygen XML Editor by
-        <personname><firstname>Leonid</firstname><surname>Dubinsky</surname></personname>.</para>
-    <para>Proofreading by <personname><firstname>Menucha Rochel</firstname><surname>Dubinsky</surname></personname>.</para>
-    <para>Production of PDF, EPUB and HTML uses DocBook XSL stylesheets.</para>
+    <para>Google Drive was used for optical character recognition.</para>
+    <para>DockBook authored in Oxygen XML Editor.</para>
+    <para>Transformation into PDF, EPUB and HTML by DocBook XSL stylesheets.</para>
+    <para>XSLT Processor: Saxon. XSL-FO Processor: Apache FOP.</para>
+    <para>Build is done using Apache Maven using the docbkx plugin.</para>
+    <para>Source repository is hosted by GitHub.</para>
 </colophon>
