@@ -39,6 +39,7 @@
     <xi:include href="front-matter/about-author.xml"/>
     <xi:include href="front-matter/foreword.xml"/>
     <xi:include href="front-matter/introduction.xml"/>
+    <xi:include href="front-matter/preface-2e.xml"/>
     <xi:include href="front-matter/notes.xml"/>
 
 
