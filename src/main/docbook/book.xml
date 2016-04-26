@@ -39,7 +39,9 @@
     <xi:include href="front-matter/about-author.xml"/>
     <xi:include href="front-matter/foreword.xml"/>
     <xi:include href="front-matter/introduction.xml"/>
+    <!--
     <xi:include href="front-matter/preface-2e.xml"/>
+    -->
     <xi:include href="front-matter/notes.xml"/>
 
 
@@ -53,6 +55,8 @@
 
 
     <!-- back matter -->
+    <!--
     <xi:include href="back-matter/glossary.xml"/>
+    -->
     <xi:include href="back-matter/colophon.xml"/>
 </book>

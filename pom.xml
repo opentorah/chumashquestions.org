@@ -1,228 +1,228 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
-    <modelVersion>4.0.0</modelVersion>
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
 
-    <prerequisites>
-        <maven>3.1.0</maven>
-    </prerequisites>
+  <prerequisites>
+    <maven>3.1.0</maven>
+  </prerequisites>
 
-    <groupId>org.podval.chumashquestions</groupId>
-    <artifactId>book</artifactId>
-    <version>2.0-SNAPSHOT</version>
+  <groupId>org.podval.chumashquestions</groupId>
+  <artifactId>book</artifactId>
+  <version>2.0-SNAPSHOT</version>
 
-    <name>Chumash Questions Book</name>
-    <packaging>jar</packaging>
+  <name>Chumash Questions Book</name>
+  <packaging>jar</packaging>
 
-    <url>https://www.chumashquestions.org</url>
+  <url>https://www.chumashquestions.org</url>
 
-    <licenses>
-        <license>
-            <name>Creative Commons Attribution 4.0 International License</name>
-            <url>http://creativecommons.org/licenses/by/4.0</url>
-            <distribution>repo</distribution>
-        </license>
-    </licenses>
-    
-    <organization>
-        <name>Podval Group</name>
-        <url>http://www.podval.org</url>
-    </organization>
-    
-    <developers>
-        <developer>
-            <id>dub</id>
-            <name>Leonid Dubinsky</name>
-            <email>dub@podval.org</email>
-            <url>http://dub.podval.org</url>
-            <organization>Podval Group</organization>
-            <organizationUrl>http://www.podval.org</organizationUrl>
-            <roles>
-                <role>developer</role>
-            </roles>
-            <timezone>-5</timezone>
-        </developer>
-    </developers>
-    
-    <properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  <licenses>
+    <license>
+      <name>Creative Commons Attribution 4.0 International License</name>
+      <url>http://creativecommons.org/licenses/by/4.0</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
 
-        <!-- Input directories -->
-        <xsl.directory>src/main/xsl</xsl.directory>
-        <css.directory>src/main/css</css.directory>
-        <images.directory>src/main/images</images.directory>
+  <organization>
+    <name>Podval Group</name>
+    <url>http://www.podval.org</url>
+  </organization>
 
-        <!-- Output directories -->
-        <docbkx.output.directory>${project.build.directory}/docbkx</docbkx.output.directory>
-        <docbkx.pdf.output.directory>${docbkx.output.directory}/pdf</docbkx.pdf.output.directory>
-        <docbkx.html.output.directory>${docbkx.output.directory}/html</docbkx.html.output.directory>
-        <docbkx.epub.output.directory>${docbkx.output.directory}/epub/expanded</docbkx.epub.output.directory>
-        <docbkx.epub.expanded.output.directory>${docbkx.epub.output.directory}/expanded</docbkx.epub.expanded.output.directory>
+  <developers>
+    <developer>
+      <id>dub</id>
+      <name>Leonid Dubinsky</name>
+      <email>dub@podval.org</email>
+      <url>http://dub.podval.org</url>
+      <organization>Podval Group</organization>
+      <organizationUrl>http://www.podval.org</organizationUrl>
+      <roles>
+        <role>developer</role>
+      </roles>
+      <timezone>-5</timezone>
+    </developer>
+  </developers>
 
-        <!-- Fonts -->
-        <body.font.family>sans-serif</body.font.family>
-        <body.font.master>14</body.font.master>
-    </properties>
-    
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>com.agilejava.docbkx</groupId>
-                <artifactId>docbkx-maven-plugin</artifactId>
-                <version>2.0.15</version>
-                
-                <dependencies>
-                    <dependency>
-                        <groupId>net.sf.docbook</groupId>
-                        <artifactId>docbook-xml</artifactId>
-                        <version>5.0-all</version>
-                        <classifier>resources</classifier>
-                        <type>zip</type>
-                        <scope>runtime</scope>
-                    </dependency>
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-                    <!-- By default, docbkx plugin brings in FOP 1.0, but I want 1.1 -->
-                    <dependency>
-                        <groupId>org.apache.xmlgraphics</groupId>
-                        <artifactId>fop</artifactId>
-                        <version>1.1</version>
-                        <scope>runtime</scope>
-                        <!-- FOP 1.1 POM asks for Avalon 4.2.0, which is not in the repositories. I excluded it and specified a dependency on the latest (?) Avalon Framework below. -->
-                        <exclusions>
-                            <exclusion>
-                                <groupId>org.apache.avalon.framework</groupId>
-                                <artifactId>avalon-framework-api</artifactId>
-                            </exclusion>
-                            <exclusion>
-                                <groupId>org.apache.avalon.framework</groupId>
-                                <artifactId>avalon-framework-impl</artifactId>
-                            </exclusion>
-                        </exclusions>
-                    </dependency>
+    <!-- Input directories -->
+    <xsl.directory>src/main/xsl</xsl.directory>
+    <css.directory>src/main/css</css.directory>
+    <images.directory>src/main/images</images.directory>
 
-                    <dependency>
-                        <groupId>org.apache.avalon.framework</groupId>
-                        <artifactId>avalon-framework-api</artifactId>
-                        <version>4.3.1</version>
-                        <scope>runtime</scope>
-                    </dependency>
-                </dependencies>
+    <!-- Output directories -->
+    <docbkx.output.directory>${project.build.directory}/docbkx</docbkx.output.directory>
+    <docbkx.pdf.output.directory>${docbkx.output.directory}/pdf</docbkx.pdf.output.directory>
+    <docbkx.html.output.directory>${docbkx.output.directory}/html</docbkx.html.output.directory>
+    <docbkx.epub.output.directory>${docbkx.output.directory}/epub/expanded</docbkx.epub.output.directory>
+    <docbkx.epub.expanded.output.directory>${docbkx.epub.output.directory}/expanded</docbkx.epub.expanded.output.directory>
 
-                <configuration>
-                    <sourceDirectory>src/main/docbook</sourceDirectory>
-                    <includes>book.xml</includes>
-                    <xincludeSupported>true</xincludeSupported>
+    <!-- Fonts -->
+    <body.font.family>sans-serif</body.font.family>
+    <body.font.master>14</body.font.master>
+  </properties>
 
-                    <entities>
-                        <entity>
-                            <name>project-version</name>
-                            <value>${project.version}</value>
-                        </entity>
-                    </entities>
-                </configuration>
-                
-                <executions>
-                    <execution>
-                        <id>pdf</id>
-                        <phase>package</phase>
-                        <goals>
-                            <goal>generate-pdf</goal>
-                        </goals>
-                        <configuration>
-                            <targetDirectory>${docbkx.pdf.output.directory}</targetDirectory>
-                            <foCustomization>${xsl.directory}/pdf.xsl</foCustomization>
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>com.agilejava.docbkx</groupId>
+        <artifactId>docbkx-maven-plugin</artifactId>
+        <version>2.0.17</version>
 
-                            <!-- Fonts -->
-                            <bodyFontFamily>${body.font.family}</bodyFontFamily>
-                            <bodyFontMaster>${body.font.master}</bodyFontMaster>
-                            
-                            <!-- Images -->
-                            <imgSrcPath>${basedir}/src/main/images/</imgSrcPath>
-                        </configuration>
-                    </execution>
+        <dependencies>
+          <dependency>
+            <groupId>net.sf.docbook</groupId>
+            <artifactId>docbook-xml</artifactId>
+            <version>5.0-all</version>
+            <classifier>resources</classifier>
+            <type>zip</type>
+            <scope>runtime</scope>
+          </dependency>
 
-                    <execution>
-                        <id>html</id>
-                        <phase>package</phase>
-                        <goals>
-                            <goal>generate-html</goal>
-                        </goals>
-                        <configuration>
-                            <targetDirectory>${docbkx.html.output.directory}</targetDirectory>
-                            <htmlCustomization>${xsl.directory}/html.xsl</htmlCustomization>
+          <!-- By default, docbkx plugin brings in FOP 1.0, but I want 1.1 -->
+          <dependency>
+            <groupId>org.apache.xmlgraphics</groupId>
+            <artifactId>fop</artifactId>
+            <version>1.1</version>
+            <scope>runtime</scope>
+            <!-- FOP 1.1 POM asks for Avalon 4.2.0, which is not in the repositories. I excluded it and specified a dependency on the latest (?) Avalon Framework below. -->
+            <exclusions>
+              <exclusion>
+                <groupId>org.apache.avalon.framework</groupId>
+                <artifactId>avalon-framework-api</artifactId>
+              </exclusion>
+              <exclusion>
+                <groupId>org.apache.avalon.framework</groupId>
+                <artifactId>avalon-framework-impl</artifactId>
+              </exclusion>
+            </exclusions>
+          </dependency>
 
-                            <!-- CSS -->
-                            <htmlStylesheet>css/docbook.css</htmlStylesheet>
+          <dependency>
+            <groupId>org.apache.avalon.framework</groupId>
+            <artifactId>avalon-framework-api</artifactId>
+            <version>4.3.1</version>
+            <scope>runtime</scope>
+          </dependency>
+        </dependencies>
 
-                            <!-- Images -->
-                            <imgSrcPath>images/</imgSrcPath>
+        <configuration>
+          <sourceDirectory>src/main/docbook</sourceDirectory>
+          <includes>book.xml</includes>
+          <xincludeSupported>true</xincludeSupported>
 
-                            <preProcess>
-                                <copy todir="${docbkx.html.output.directory}/css" filtering="true">
-                                    <fileset dir="${css.directory}"/>
-                                    <!-- Fonts (via filtering) -->
-                                    <filterset>
-                                        <filter token="body.font.family" value="${body.font.family}"/>
-                                    </filterset>
-                                </copy>
-                                <copy todir="${docbkx.html.output.directory}/images">
-                                    <fileset dir="${images.directory}"/>
-                                </copy>
-                            </preProcess>
-                        </configuration>
-                    </execution>
+          <entities>
+            <entity>
+              <name>project-version</name>
+              <value>${project.version}</value>
+            </entity>
+          </entities>
+        </configuration>
 
-                    <execution>
-                        <id>epub</id>
-                        <phase>package</phase>
-                        <goals>
-                            <goal>generate-epub</goal>
-                        </goals>
+        <executions>
+          <execution>
+            <id>pdf</id>
+            <phase>package</phase>
+            <goals>
+              <goal>generate-pdf</goal>
+            </goals>
+            <configuration>
+              <targetDirectory>${docbkx.pdf.output.directory}</targetDirectory>
+              <foCustomization>${xsl.directory}/pdf.xsl</foCustomization>
 
-                        <configuration>
-                            <targetDirectory>${docbkx.epub.expanded.output.directory}</targetDirectory>
-                            <epubCustomization>${xsl.directory}/epub.xsl</epubCustomization>
+              <!-- Fonts -->
+              <bodyFontFamily>${body.font.family}</bodyFontFamily>
+              <bodyFontMaster>${body.font.master}</bodyFontMaster>
 
-                            <!-- CSS -->
-                            <htmlStylesheet>css/docbook.css</htmlStylesheet>
+              <!-- Images -->
+              <imgSrcPath>${basedir}/src/main/images/</imgSrcPath>
+            </configuration>
+          </execution>
 
-                            <!-- Images -->
-                            <imgSrcPath>images/</imgSrcPath>
+          <execution>
+            <id>html</id>
+            <phase>package</phase>
+            <goals>
+              <goal>generate-html</goal>
+            </goals>
+            <configuration>
+              <targetDirectory>${docbkx.html.output.directory}</targetDirectory>
+              <htmlCustomization>${xsl.directory}/html.xsl</htmlCustomization>
 
-                            <preProcess>
-                                <copy todir="${docbkx.epub.expanded.output.directory}/css" filtering="true">
-                                    <fileset dir="${css.directory}"/>
-                                    <!-- Fonts (via filtering) -->
-                                    <filterset>
-                                        <filter token="body.font.family" value="${body.font.family}"/>
-                                    </filterset>
-                                </copy>
-                                <copy todir="${docbkx.epub.expanded.output.directory}/images">
-                                    <fileset dir="${images.directory}"/>
-                                </copy>
-                            </preProcess>
-                        </configuration>
-                    </execution>
-                </executions>
-            </plugin>
+              <!-- CSS -->
+              <htmlStylesheet>css/docbook.css</htmlStylesheet>
 
-            <plugin>
-                <artifactId>maven-assembly-plugin</artifactId>
-                <version>2.5.3</version>
-                <configuration>
-                    <descriptors>
-                        <descriptor>src/main/assembly/assembly.xml</descriptor>
-                    </descriptors>
-                </configuration>
-                <executions>
-                    <execution>
-                        <id>make-assembly</id>
-                        <phase>package</phase>
-                        <goals>
-                            <goal>single</goal>
-                        </goals>
-                    </execution>
-                </executions>
-            </plugin>
-        </plugins>
-    </build>
+              <!-- Images -->
+              <imgSrcPath>images/</imgSrcPath>
+
+              <preProcess>
+                <copy todir="${docbkx.html.output.directory}/css" filtering="true">
+                  <fileset dir="${css.directory}"/>
+                  <!-- Fonts (via filtering) -->
+                  <filterset>
+                    <filter token="body.font.family" value="${body.font.family}"/>
+                  </filterset>
+                </copy>
+                <copy todir="${docbkx.html.output.directory}/images">
+                  <fileset dir="${images.directory}"/>
+                </copy>
+              </preProcess>
+            </configuration>
+          </execution>
+
+          <execution>
+            <id>epub</id>
+            <phase>package</phase>
+            <goals>
+              <goal>generate-epub</goal>
+            </goals>
+
+            <configuration>
+              <targetDirectory>${docbkx.epub.expanded.output.directory}</targetDirectory>
+              <epubCustomization>${xsl.directory}/epub.xsl</epubCustomization>
+
+              <!-- CSS -->
+              <htmlStylesheet>css/docbook.css</htmlStylesheet>
+
+              <!-- Images -->
+              <imgSrcPath>images/</imgSrcPath>
+
+              <preProcess>
+                <copy todir="${docbkx.epub.expanded.output.directory}/css" filtering="true">
+                  <fileset dir="${css.directory}"/>
+                  <!-- Fonts (via filtering) -->
+                  <filterset>
+                    <filter token="body.font.family" value="${body.font.family}"/>
+                  </filterset>
+                </copy>
+                <copy todir="${docbkx.epub.expanded.output.directory}/images">
+                  <fileset dir="${images.directory}"/>
+                </copy>
+              </preProcess>
+            </configuration>
+          </execution>
+        </executions>
+      </plugin>
+
+      <plugin>
+        <artifactId>maven-assembly-plugin</artifactId>
+        <version>2.6</version>
+        <configuration>
+          <descriptors>
+            <descriptor>src/main/assembly/assembly.xml</descriptor>
+          </descriptors>
+        </configuration>
+        <executions>
+          <execution>
+            <id>make-assembly</id>
+            <phase>package</phase>
+            <goals>
+              <goal>single</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+    </plugins>
+  </build>
 </project>
