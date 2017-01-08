@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbookxi.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://docbook.org/xml/5.0/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<acknowledgements xml:id="acknowledgements" xmlns="http://docbook.org/ns/docbook" 
-    xmlns:xi="http://www.w3.org/2001/XInclude"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+<acknowledgements xml:id="acknowledgements" xmlns="http://docbook.org/ns/docbook"
+    xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
 
-    <para>The inspiration and continued support for this project has come from:
-        <personname>
+    <bridgehead>Firts Edition</bridgehead>
+
+    <para>The inspiration and continued support for this project has come from: <personname>
             <honorific>Mr. and Mrs.</honorific>
             <firstname>Yosef Chaim</firstname>
             <surname>Lester</surname>
-        </personname>
+        </personname>.
     </para>
-    <para><emphasis role="bold">Managing editor</emphasis>
+    <para><emphasis role="italic">Managing editor</emphasis>
         <personname>
             <firstname>Pessy Leah</firstname>
             <surname>Lester</surname>
-        </personname>
+        </personname>.
     </para>
-    <para><emphasis role="bold">Typing</emphasis>
+    <para><emphasis role="italic">Typing</emphasis>
         <personname>
             <firstname>Devorah</firstname>
             <surname>Hott</surname>
-        </personname>
+        </personname>.
     </para>
-    <para><emphasis role="bold">Copy editing, design, typesetting</emphasis>
+    <para><emphasis role="italic">Copy editing, design, typesetting</emphasis>
         <personname>
             <firstname>Yael</firstname>
             <surname>Resnick</surname>
-        </personname>
+        </personname>.
     </para>
-    <para><emphasis role="bold">Editorial consultant</emphasis>
+    <para><emphasis role="italic">Editorial consultant</emphasis>
         <personname>
             <honorific>Rabbi</honorific>
             <firstname>Zalman</firstname>
             <surname>Wilschanski</surname>
-        </personname>
+        </personname>.
     </para>
-    <para><emphasis role="bold">Consultants</emphasis>
+    <para><emphasis role="italic">Consultants</emphasis>
         <personname>
             <honorific>Rabbi</honorific>
             <firstname>Zalman</firstname>
@@ -56,21 +56,21 @@
         <personname>
             <firstname>Yisroel Noach</firstname>
             <surname>Wichnin</surname>
-        </personname>
+        </personname>.
     </para>
-    <para><emphasis role="bold">Photo courtesy of</emphasis>
+    <para><emphasis role="italic">Photo courtesy of</emphasis>
         <personname>
             <firstname>Albie</firstname>
             <surname>Rosenhaus</surname>
-        </personname>
+        </personname>.
     </para>
-    <para><emphasis role="bold">Cover design</emphasis>
+    <para><emphasis role="italic">Cover design</emphasis>
         <personname>
             <firstname>Yael</firstname>
             <surname>Resnick</surname>
-        </personname>
+        </personname>.
     </para>
-    <para><emphasis role="bold">Special thanks to:</emphasis>
+    <para><emphasis role="italic">Special thanks to:</emphasis>
         <personname>
             <firstname>Sara</firstname>
             <surname>Arno</surname>
@@ -78,30 +78,32 @@
         <personname>
             <firstname>Rus Devorah</firstname>
             <surname>Burdman</surname>
-        </personname>
+        </personname>.
     </para>
-    <para>
-        <emphasis role="italic">This publication has been made possible in great measure by a generous donation from
-            <personname>
-                <firstname>Aaron</firstname>
-                <surname>Mayer</surname>
-            </personname> and
-            <personname>
-                <firstname>Shifra</firstname>
-                <surname>Gellman</surname>
-            </personname> and family.
-        </emphasis>
+    <para>This publication has been made possible in great measure by a generous donation from
+        <personname>
+            <firstname>Aaron</firstname>
+            <surname>Mayer</surname>
+         </personname> and
+         <personname>
+            <firstname>Shifra</firstname>
+            <surname>Gellman</surname>
+         </personname> and family.
     </para>
 
     <bridgehead>Second Edition</bridgehead>
 
-    <para>Nina Dubinsky originated the idea to republish the book, and scanned a copy of the original edition provided
-        by Dovid Malenkovich. Michael Partensky and Isaac Mushinsky encouraged the project.</para>
+    <para>
+      <personname><firstname>Nina</firstname><surname>Dubinsky</surname></personname> originated the idea to
+        republish the book, and scanned a copy of the original edition provided by
+      <personname><firstname>Dovid</firstname><surname>Malenkovich</surname></personname>. Michael Partensky
+        and Isaac Mushinsky encouraged the project.</para>
 
-    <para>Aryeh Leyb Dubinsky converted the content to DocBook. Menucha Rochel Dubinsky assisted with the proofreading.</para>
+    <para>Aryeh Leyb Dubinsky converted the content to DocBook. Menucha Rochel Dubinsky assisted with the
+        proofreading.</para>
 
-    <para>Avrohom Hillel Weissman made available, from his personal archives, additional questions on Parshas Yisro, Mishpatim,
-        Pinchas, Shoftim and Vayikra missing from the original edition of the book, as well as questions on
+    <para>Avrohom Hillel Weissman made available, from his personal archives, questions on Parshas Yisro, Mishpatim,
+        Pinchas, Shoftim and Vayikra that were missing from the original edition of the book, as well as questions on
         Parsha Bereishis that were included with some copies of the book. Michael Partensky transcribed these
         additions.</para>
 </acknowledgements>
