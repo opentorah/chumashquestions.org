@@ -19,15 +19,27 @@
         </author>
 
         <copyright>
-            <year>1995</year>
-            <holder>Mrs. M. Wichnin</holder>
+            <year>1995-2017</year>
+            <holder>Wichnin family</holder>
         </copyright>
 
         <legalnotice>
-            <para>All Rights Reserved</para>
-            <para>No part of this book may be reproduced in any form or by any means, electronic or mechanical, including photocopying,
-            recording, or by any information storage and retrieval system, without written permission of the copyright holder.</para>
-            <para>Second edition published with permission.</para>
+            <para>
+                <link xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+                    <inlinemediaobject>
+                        <imageobject>
+                            <imagedata fileref="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png"/>
+                        </imageobject>
+                    </inlinemediaobject>
+                </link>
+            </para>
+
+            <para>
+                “The Chumash Questions” by Wichnin family is licensed under a
+                <link xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+                    Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License
+                </link>.
+            </para>
         </legalnotice>
     </info>
 
