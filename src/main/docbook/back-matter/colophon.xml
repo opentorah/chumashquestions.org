@@ -11,4 +11,8 @@
     <para>XSLT Processor: Saxon. XSL-FO Processor: Apache FOP.</para>
     <para>Build is done using Apache Maven using the docbkx plugin.</para>
     <para>Source repository is hosted by GitHub.</para>
+    <para>The text is maintained by <link xlink:href="https://github.com/dubinsky">Aryeh Leyb Dubinsky</link>
+        at GitHub: <link xlink:href="https://github.com/chumashquestions/book">chumashquestions/book</link>.
+        Corrections, additions and suggestions are <link xlink:href="mailto:dub@podval.org">welcome</link>. 
+    </para>
 </colophon>
