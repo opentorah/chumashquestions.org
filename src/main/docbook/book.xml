@@ -31,7 +31,7 @@
                 making it available to be widely distributed, printed, copied and used.</para>
 
             <para>People who made this publication possible are listed in the
-                <link linkend="acknowledgements">Acknowledgements</link> section.
+                <link linkend="acknowledgements">Acknowledgements</link>.
             </para>
                         
             <para>
@@ -41,11 +41,11 @@
             
             <para>
                 The source is hosted at
-                <link xlink:href="https://github.com/chumashquestions/book">github.com/chumashquestions/book</link>.
+                <link xlink:href="https://github.com/chumashquestions/book">https://github.com/chumashquestions/book</link>.
             </para>
             
             <para>Corrections, additions and suggestions are welcome at
-                <link xlink:href="mailto:dub@chumashquestions.org">dub@chumashquestions.org</link>.</para>
+                <link xlink:href="mailto:dub@chumashquestions.org">mailto:dub@chumashquestions.org</link>.</para>
 
             <para>
                 <link xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
