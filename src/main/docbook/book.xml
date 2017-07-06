@@ -24,6 +24,29 @@
         </copyright>
 
         <legalnotice>
+            <para>This is a re-publication of Rabbi Wichnin's Chumash Questions book,
+                first edition of which, published in 1995, is long since out of print.</para>
+            
+            <para>On behalf of the copyright holders, Rabbi Nachmon Dov Wichnin re-licensed the book,
+                making it available to be widely distributed, printed, copied and used.</para>
+
+            <para>People who made this publication possible are listed in the
+                <link linkend="acknowledgements">Acknowledgements</link> section.
+            </para>
+                        
+            <para>
+                The book is hosted at
+                <link xlink:href="http://chumashquestions.org">http://chumashquestions.org</link>.
+            </para>
+            
+            <para>
+                The source is hosted at
+                <link xlink:href="https://github.com/chumashquestions/book">github.com/chumashquestions/book</link>.
+            </para>
+            
+            <para>Corrections, additions and suggestions are welcome at
+                <link xlink:href="mailto:dub@chumashquestions.org">dub@chumashquestions.org</link>.</para>
+
             <para>
                 <link xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
                     <inlinemediaobject>
