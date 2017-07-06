@@ -9,28 +9,28 @@
     <bridgehead>Second Edition</bridgehead>
     
     <para>
-        <personname><firstname>Nina</firstname><surname>Dubinsky</surname></personname> originated the idea to
-        republish the book, and scanned a copy of the original edition provided by
-        <personname><firstname>Dovid</firstname><surname>Malenkovich</surname></personname>.
-        <personname><firstname>Michael</firstname><surname>Partensky</surname></personname>
-        and <personname><firstname>Isaac</firstname><surname>Mushinsky</surname></personname>
-        encouraged the project.</para>
-    
-    <para>
-      <personname><firstname>Aryeh Leyb</firstname><surname>Dubinsky</surname></personname>
-      converted the content to <code>DocBook</code>.
-      <personname><firstname>Menucha Rochel</firstname><surname>Dubinsky</surname></personname>
-      assisted with proofreading.</para>
+      <personname><firstname>Nina</firstname><surname>Dubinsky</surname></personname> originated the idea to
+      republish the book, and scanned a copy of the original edition provided by
+      <personname><firstname>Dovid</firstname><surname>Malenkovich</surname></personname>.
+      <personname><firstname>Michael</firstname><surname>Partensky</surname></personname>
+      and <personname><firstname>Isaac</firstname><surname>Mushinsky</surname></personname>
+      encouraged the project.</para>
     
     <para>
       <personname><firstname>Avrohom Hillel</firstname><surname>Weissman</surname></personname>
       made available, from his personal archives, questions on Parshas Yisro, Mishpatim, Pinchas,
       Shoftim and Vayikra that were missing from the original edition of the book, as well as
-      questions on Parsha Bereishis that were included with some copies of the book.
+      questions on Parshas Bereishis that were included with some copies of the book.
       <personname><firstname>Michael</firstname><surname>Partensky</surname></personname>
       transcribed these additions.</para>
 
-    <bridgehead>Firts Edition</bridgehead>
+    <para>
+      <personname><firstname>Aryeh Leyb</firstname><surname>Dubinsky</surname></personname>
+      converted the content to <code>DocBook</code>.
+      <personname><firstname>Menucha Rochel</firstname><surname>Dubinsky</surname></personname>
+      proofread the material.</para>
+
+    <bridgehead>First Edition</bridgehead>
 
     <para>The inspiration and continued support for this project has come from: <personname>
             <honorific>Mr. and Mrs.</honorific>
