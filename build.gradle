@@ -1,0 +1,8 @@
+apply from: "docbook.gradle"
+
+docbookPdf {
+  sourceFileName = "src/main/docbook/book.xml"
+  stylesheet = file("src/main/xsl/pdf.xsl")
+  sourceDirectory = file("src/main/docbook")
+  docsDir = new File(project.getBuildDir(), "docs");
+}
