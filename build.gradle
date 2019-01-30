@@ -1,8 +1,52 @@
-apply from: "docbook.gradle"
+buildscript {
+  repositories {
+    jcenter()
+  }
 
-docbookPdf {
-  sourceFileName = "src/main/docbook/book.xml"
-  stylesheet = file("src/main/xsl/pdf.xsl")
-  sourceDirectory = file("src/main/docbook")
-  docsDir = new File(project.getBuildDir(), "docs");
+  dependencies {
+    classpath 'org.podval.docbook:org.podval.docbook-gradle-plugin:+'
+  }
+}
+
+repositories {
+  jcenter()
+}
+
+apply plugin: 'base'
+
+apply plugin: 'org.podval.docbook-gradle-plugin'
+
+docBook {
+  documentName = "book"
+
+  parameters = [
+//    "title.font.family"    : "DejaVu Sans",
+    "body.font.family"     : "sans-serif",
+//    "sans.font.family"     : "DejaVu Sans",
+//    "monospace.font.family": "DejaVu Sans Mono",
+    "body.font.master": "14",
+  ]
+}
+
+task publish(type: Copy) {
+  group = 'publishing'
+  dependsOn docBookProcess
+  from "$buildDir/docBook/"
+  into 'docs'
+}
+
+apply plugin: 'idea'
+
+idea {
+  project {
+    jdkName = '1.8'
+    vcs = 'Git'
+  }
+
+  module {
+    excludeDirs += [
+      file('.idea'),
+      file('gradle')
+    ]
+  }
 }

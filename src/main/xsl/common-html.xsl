@@ -9,6 +9,7 @@
     
     <xsl:import href="common.xsl"/>
 
+    <xsl:param name="chunked.output">true</xsl:param>
     <xsl:param name="chunker.output.encoding">UTF-8</xsl:param>
     
     <!-- Pretty-print the HTML -->
@@ -19,4 +20,9 @@
 
     <!-- Do not bundle start of the chapter and first section in the same chunk -->
     <xsl:param name="chunk.first.sections">1</xsl:param>
+
+    <!-- "role" attribute on "para" will become "class" in HTML -->
+    <xsl:param name="para.propagates.style">yes</xsl:param>
+
+    <xsl:param name="insert.xref.page.number">yes</xsl:param>
 </xsl:stylesheet>

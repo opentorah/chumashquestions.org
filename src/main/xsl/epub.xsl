@@ -5,7 +5,8 @@
     exclude-result-prefixes="xs"
     version="1.0">
 
-    <xsl:import href="urn:docbkx:stylesheet"/>
+    <xsl:import href="http://docbook.sourceforge.net/release/xsl-ns/current/epub/docbook.xsl"/>
 
     <xsl:import href="common-html.xsl"/>
 </xsl:stylesheet>
+

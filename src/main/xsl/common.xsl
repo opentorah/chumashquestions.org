@@ -30,5 +30,12 @@
     <xsl:param name="chapter.autolabel">1</xsl:param>    
 
     <!-- Do not number the sections -->
-    <xsl:param name="section.autolabel">0</xsl:param>    
+    <xsl:param name="section.autolabel">0</xsl:param>
+
+    <!-- Number everything arabically -->
+    <xsl:param name="part.auto.label">1</xsl:param>
+    <xsl:param name="chapter.auto.label">1</xsl:param>
+    <xsl:param name="section.auto.label">1</xsl:param>
+    <xsl:param name="section.auto.label.max.depth">6</xsl:param>
+    <xsl:param name="appendix.autolabel">1</xsl:param>
 </xsl:stylesheet>

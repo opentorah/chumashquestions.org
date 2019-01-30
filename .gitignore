@@ -1,3 +1,6 @@
-target
-.idea/
+.gradle/
+.idea
+build/
 *.iml
+out/
+*.log

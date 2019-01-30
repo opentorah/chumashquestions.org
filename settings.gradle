@@ -1,0 +1,3 @@
+rootProject.name = 'chumashquestions'
+
+includeBuild '../../docbook.gradle'
