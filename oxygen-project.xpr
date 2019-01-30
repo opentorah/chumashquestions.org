@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="16.0">
+<project version="20.0">
     <meta>
         <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
         <options>
-            <serialized version="16.0" xml:space="preserve">
+            <serialized version="20.0" xml:space="preserve">
                 <serializableOrderedMap>
                     <entry>
                         <String>enable.project.master.files.support</String>
@@ -92,6 +92,9 @@
                                 </field>
                                 <field name="outputFile">
                                     <File>${pd}/target/oxygen/pdf/${cfn}.pdf</File>
+                                </field>
+                                <field name="outputResource">
+                                    <String>${pd}/target/oxygen/pdf/${cfn}.pdf</String>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
@@ -205,13 +208,11 @@
     </meta>
     <projectTree name="oxygen-project.xpr">
         <folder masterFiles="true" name="Master Files">
-            <file name="src/main/docbook/book.xml"/>
+            <file name="src/main/docBook/book.xml"/>
         </folder>
         <folder path="src/main/css/"/>
-        <folder path="src/main/docbook/"/>
+        <folder path="src/main/docBook/"/>
         <folder path="src/main/images/"/>
         <folder path="src/main/xsl/"/>
-        <file name="pom.xml"/>
-        <file name="README.md"/>
     </projectTree>
 </project>
