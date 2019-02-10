@@ -1,6 +1,4 @@
-chumash-questions
-=================
+# Rabbi Wichnin's Chumash Questions #
 
-Rabbi Wichnin's Chumash Questions
+The book is available at [chumashquestions.org](http://www.chumashquestions.org/)
 
-See <http://blog.dub.podval.org/2011/11/publishing-papers-on-web.html> about technical details of the publication.

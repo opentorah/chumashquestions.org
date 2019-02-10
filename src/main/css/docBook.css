@@ -4,7 +4,6 @@ body {
   font-family: @body.font.family@;
 }
 
-
 div.dedication {
   display:block;
   background-color: #FFEEEE;
