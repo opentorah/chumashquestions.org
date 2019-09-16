@@ -1,33 +1,56 @@
 plugins {
-  id "org.podval.docbook-gradle-plugin" version "0.2.2"
+  id 'com.github.ben-manes.versions' version "0.25.0"
+  id 'base'
+  id "org.podval.docbook-gradle-plugin" version "0.7.10"
+  id 'idea'
 }
 
 repositories {
   jcenter()
 }
 
-apply plugin: 'base'
-
 docBook {
-  documentName = "book"
+  document = "book"
 
   outputFormats = ["html", "pdf", "epub2"]
 
-  xslParameters = [
-    "title.font.family"    : "sans-serif",
-    "body.font.master"     : "14"
+  parameters.common = [
+          "chapter.autolabel": "1",
+          "section.autolabel": "0",
+
+          // Remove trailing period after honorific
+          "punct.honorific"  : "",
+
+          // Remove trailing period after run-in head (e.g., formal paragraph title)
+          "runinhead.default.title.end.punct": ""
   ]
+
+  parameters.pdf = [
+          "title.font.family"       : "DejaVu Sans",
+          "body.font.family"        : "DejaVu Sans",
+          "sans.font.family"        : "DejaVu Sans",
+          "monospace.font.family"   : "DejaVu Sans Mono",
+          "symbol.font.family"      : "DejaVu Sans",
+          // "footnote.font.size"   : "10"
+          "body.font.master"        : "14",
+          "body.start.indent"       : "0pt", // Suppress content indent
+          "orderedlist.label.width" : "2em", // Some space for the list labels
+          "keep.relative.image.uris": "yes" // TODO need this? XInclude shouldn't affect image URIs
+  ]
+
+  mathJax {
+    isEnabled = false
+  }
 }
 
 build.dependsOn processDocBook
 build.doLast {
   project.sync {
-    from "$buildDir/docBook/"
+//    from project.tasks.getByPath('processDocBook').outputDirectory
+    from processDocBook.outputDirectory
     into 'docs/book'
   }
 }
-
-apply plugin: 'idea'
 
 idea {
   project {
