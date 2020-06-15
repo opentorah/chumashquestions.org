@@ -1,7 +1,7 @@
 plugins {
-  id 'com.github.ben-manes.versions' version "0.27.0"
+  id 'com.github.ben-manes.versions' version '0.28.0'
   id 'base'
-  id "org.podval.docbook-gradle-plugin" version "0.7.10"
+  id 'org.opentorah.docbook' version '0.7.50'
   id 'idea'
 }
 
@@ -45,10 +45,6 @@ docBook {
           "orderedlist.label.width" : "2em", // Some space for the list labels
           "keep.relative.image.uris": "yes" // TODO need this? XInclude shouldn't affect image URIs
   ]
-
-  mathJax {
-    isEnabled = false
-  }
 }
 
 build.dependsOn processDocBook
