@@ -1,0 +1,24 @@
+[#shemos-index]
+== Chumash Shemos
+
+include::shemos.adoc[]
+
+include::va-eira.adoc[]
+
+include::bo.adoc[]
+
+include::beshalach.adoc[]
+
+include::yisro.adoc[]
+
+include::mishpatim.adoc[]
+
+include::terumah.adoc[]
+
+include::tetzaveh.adoc[]
+
+include::ki-sissa.adoc[]
+
+include::vayakhel.adoc[]
+
+include::pekudei.adoc[]

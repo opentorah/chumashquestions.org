@@ -1,0 +1,11 @@
+= {title}
+:doctype: book
+:toc:
+
+include::{docfile}/../blurb.adoc[]
+
+include::{docfile}/../front-matter/front-matter-index.adoc[]
+
+include::{docfile}/../body-matter/body-matter-index.adoc[]
+
+include::{docfile}/../back-matter/back-matter-index.adoc[]

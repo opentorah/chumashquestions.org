@@ -1,0 +1,599 @@
+[#glossary]
+[glossary]
+== Glossary
+
+Translated Terms
+[glossary]
+[[ach]]ach:: but, only
+[[am-yisroel]]Am Yisroel:: the Jewish nation
+[[arbeh]]arbeh:: locusts
+
+// aron (ark)
+// arov (wild animals)
+// Aseres Hadibros  Ten Commandments
+// Aseres Yemei Teshuvah (Ten Days of Repentance)
+// Atzeres seventh day of Pesach
+// aveira (sin)
+// aveiros (sins)
+[[avneit]]avneit:: belt
+// avodah (service)
+// Avos (Patriarchs)
+// baal tashcis
+[[bamah]]bamah:: private altars
+// Baruch Shem  second posuk of Shma
+// bashert (predestined)
+// bas kol   Heavenly voice
+// bechorah (birthright)
+// bechor firstborn
+// bechorim (firstborn)
+// beged (garment)
+// Beis Hamikdash (Sanctuary)
+// ben sorer umoreh   rebellious son
+// besomim spices
+// bikurim
+// bitachon (trust)
+// Bnei Yisroel (the Children of Israel)
+// bored (death and hail)
+// bor pit
+// bris (circumcision)
+// bris (covenant)
+// chametz (leaven)
+// chatzeir (courtyard)
+// Chazal (our Sages)
+// cheilev (forbidden fats)
+// chesed (kindness)
+// chet ha’egel (sin of the calf)
+// Chitas (Chumash, Tehillim, Tanya)
+// Chol Hamoed (intermediate days)
+// chumrahs (restrictions)
+// din (law)
+// dor haflaga (generation of dispersion)
+// edim zomemin  contradicted witnesses
+// egel hazahav (golden calf)
+// egloh arufoh (the chopped-off calf)
+// eilim rams
+// erev rav (Egyptian converts)
+// eved Ivri (Jewish slave)
+// Galus Bavel (Babylonian Exile)
+// gair (convert)
+// garti (I lived)
+// geirim converts
+// get divorce
+// goel hadam  (avenger of the blood)
+// Golus (Exile)
+// ha’anakah  farewell gift
+// Hadasim (myrtle)
+// halacha (Jewish law)
+// Har Sinai (Mount Sinai)
+// hashgocha protis (divine providence)
+// hayom (today)
+// ir hanidachas (a deviant city)
+[[issur]]issur:: prohibition
+[[kapitl]]kapitl:: psalm
+// kavana (intention)
+// kaves (sticks)
+// kavod (honor)
+// kedusha (sanctity)
+// keilim (utensils)
+// kerashim boards
+// keresh board
+// ketores (incense)
+// kevasim lambs
+// kfitzas haderech (a miracle to quicken his trip)
+// kilayim (mixing seeds)
+// Kiryas Arba (City of Four)
+// kittel (white robe/coat)
+// Kohein Gadol (High Priest)
+// korbanos (sacrifices)
+// Korban Pesach (Passover sacrifice)
+// korech (sandwich)
+// kos shel brocho (lit. ‘cup of blessing’
+// krias Yam Suf (the parting of the Red Sea)
+// lashon horah (lit. evil tongue)
+// lechem bread
+// lechem hapanim (showbread)
+// lechem oni (bread of poverty)
+// lekach honey-cake
+// Likutei Torah
+// loshon ho’ro
+// Luchos (tablets)
+// lulov (four species)
+// maamor
+// maamorim
+// Maariv (evening prayer)
+// ma’aser
+// machatzis ha’shekel
+// machlokes (discord)
+// makah (plague)
+// makas bechoros, slaying of the firstborn
+// makos floggings
+// maloch (angel)
+// malochim    (Nevi’im)
+// mashal (example)
+// mashkon  security
+// matanos kehuna (gifts)
+// Matan Torah (the Giving of the Torah)
+// mateh staff
+// matzo (unleavened bread)
+// mehudar (choicest)
+// meis (dead body)
+[[mekoshesh]]mekoshesh:: wood gatherer
+[[melacha]]melacha:: work
+[[meraglim]]meraglim:: spies
+[[merkava]]merkava:: chariot to Hashem
+[[midbar]]midbar:: desert
+[[mi-deoraisa]]mi-deoraisa:: from the Torah
+[[mi-dirabonon]]mi-dirabonon:: from the Rabbis
+[[midoh]]midoh:: trait
+// milchemes ho’rshus (optional war)
+// Minchah (afternoon)
+// minhag (custom)
+// minyan  community
+// Mishkan (Tabernacle)
+// mishmor (period)
+// Mitzrayim (Egypt)
+// Mitzri (Egyptian)
+// mitzvoh asei (positive mitzvoh)
+// mitzvoh lo ta'asei (negative mitzvoh)
+[[mivtzoyim]]mivtzoyim:: mitzvah campaigns
+// mizbeyach (altar)
+[[mizmor]]mizmor:: psalm
+// modeh b’miktzas
+// mon (manna)
+// mussar rebuke
+// Naaseh venishmah’ (we shall do and we shall listen)
+// nachas (pleasure)
+// neder (vow)
+// nedorim
+// nedovos
+// nefesh habahamis  animal soul
+[[neis]]neis:: miracle
+// nesiyim (heads of tribes)
+// nesiyim (heads of tribes; princes)
+// neshamah (soul)
+// nesochim   wine and oil offerings
+// Neviah (Prophetess)
+// Nevi’im (Prophets)
+// nisim (miracles)
+// olah (sacrifice)
+// Olom Haboh (the World to Come)
+// para adumah (red heifer)
+// parnasah (livelihood)
+// paroches (curtain in front of the Ark)
+// par (ox)
+// Pesach
+// pidyon ha’ben (redemption of the first born)
+// Pirkei Avos (Ethics of our Fathers)
+// porim  (bulls)
+// posuk (verse)
+// rasha (sinner)
+// Razal (our Sages)
+// rebbi (teacher)
+// reshayim (sinners)
+// ruach hakodesh (divine inspiration)
+// ruchniyus (spirituality)
+// s’chach covering for the Sukkah
+// sedra (parsha)
+// sefer (the book of)
+// Shacharis (morning prayer)
+// shatnez (mixture of wool and linen)
+// Shavous
+// sh’chin (boils)
+// sh’chutei chutz (outside offerings)
+// Shechina (Divine Presence)
+// sheetim (cedar)
+// sheivet (the tribe of
+// shevatim (tribes)
+// shidduch (marriage partner)
+// shidduch (match)
+// shifcha Cnaanis (a gentile maidservant)
+// shira (song)
+// shmurah (hand-baked) matzo
+// sho’eil
+// shomer khinom
+// shomer sokhor
+// shonoh (year)
+// shotrim (policemen)
+// shulchon (table)
+// Shvi’i shel Pesach (the seventh day of Pesach)
+// smicha (rabbinical ordination)
+// soicher
+// Sukkos
+// Taanis Esther  Fast of Ester
+// tahor (pure)
+// taiva (ark/box)
+// talmid (student)
+// tamid (steadily)
+// techiyas hameisim (resurrection of the dead)
+// tenufah (lifting)
+// terumah
+// teshuvah (repented)
+// tochecha (curses, punishments)
+// tomei (impure)
+// Torah Shebe’al Peh (Oral Law)
+// totafos tefillin
+// tzadik (righteous person)
+// tzav (command)
+// tzedakah (charity)
+// tzefardeia (frogs)
+// vlad hatumah (second level tumah)
+// yad (hand)
+// Yam Suf (the Red Sea)
+// Yarden (Jordan)
+// yetze’r horah (evil inclination)
+// yetzias Mitzmyim, the exodus from Egypt
+// yirah (fear, respect)
+// yiras shamayim (fear of Heaven)
+// Yomim Tovim (holidays)
+// yotzei (exempt)
+// zechus (merit)
+// zekenim (elders)
+//
+
+Untranslated Terms
+[glossary]
+[[badim]]badim:: ?
+
+// taba’os ?
+// eidus ?
+// kapores ?
+// za’ir ?
+// tzalos ?
+// keruvim
+// hapanim ?
+// adonim ?
+// brichim ?
+// tabaas ?
+// yados ?
+// paroches ?
+// shulchon
+// menorah
+// aron
+// masach
+// Vovim ?
+// Amudim ?
+// Siros ?
+// Ya’im ?
+// Mizrkos ?
+// Mizlgos ?
+// Machtos ?
+// Michbar ?
+// Karkov ?
+// Reshes ?
+// Kilayim ?
+// Kronos ?
+// Yeseidos ?
+// Krosim ?
+// Lulaos ?
+// Malkochos ?
+// Kaftorim ?
+// Konim ?
+// Gviyim ?
+// Prachim ?
+// Ke’oros ?
+// Kapos ?
+// Ksavos ?
+// Menakiyos ?
+// Misgeres ?
+// Za’ir ?
+// Kenafayim ?
+// Korban Minchah
+// Pesach ?
+// parshiyos
+// Kadaish
+// Vehaya
+// zuzim
+// geira
+// terumah
+// kiyor ?
+// chochma
+// tevuna
+// daas
+// binah
+// Beshogeig
+// bemeizid,
+// behasraah
+// Shabbos Shabbaton ?
+// kallah
+// Satan
+// midoh tovah
+// midoh poranius
+// Yom Tov aliyas haregel
+// veshomru
+// Shulchon Oruch
+// eved nirtza
+// avodim
+// yi’ud ?
+// simanim ?
+// naarus ?
+// bagrus ?
+// sha’ir ?
+// kesus ?
+// onah ?
+// nezek ?
+// tzaar ?
+// ripui ?
+// sheves ?
+// boshes ?
+// mazik ?
+// nizak ?
+// tam ?
+// mu’od ?
+// kofer
+// moneh
+// kikar
+// bigdei serod
+// bigdei kehuna
+// posuk
+[[mabul]]mabul:: מבול
+// yona dove
+// Moshiach
+// Yiska
+// Damesek
+// ma’acheles
+// Meoros Hamachpeila
+// tam
+// Esek
+// Sitnah
+// Rechovos
+// Shiveh
+// uforatzto ?
+// Sheva Brachos
+// vayishokaihu
+// naar youngster
+// kesones pasim
+// Gehinom
+// Avraich ?
+// kal vachomer ?
+// Nefesh
+// Meoras Hamachpeila
+// yemincha ?
+// seder
+// bimah
+// beis medrash
+// Bereishis
+// Haazenu
+// Vezos Habracha
+// shloshim
+// aliyah
+// neshoma
+// tchias hameisim
+// hisgalus
+// Melech HaMoshiach
+// teichef umiyad mamash
+// Rashi
+// Shnayim mikrah v’echad targum
+// pshat
+// ben chameish lemikrah
+// Chitas
+// terumos
+// Likutei Sichos
+// Biurim L’peirush Rashi
+// choshen ?
+// eifod ?
+// kehuna ?
+// Kohein ?
+// shoham
+// choshen hamishpot ?
+// urim v’tumim ?
+// tzitz ?
+// tamid ?
+// shemen hamishcho
+// Korban Chatos
+// posul
+// dever
+// mizbeyach ha’olah
+// mizbeyach hazahav
+// aron
+// shulchon
+// menorah
+// kiyor
+// aliyos
+// kilayim
+// mikvah
+// hekdesh
+// tzedakah
+// maaser
+// sefira
+// Yovel
+// neder
+// nedava
+// Pesach ?
+// Atzeres
+// esrog
+// pri eitz hadar
+// lashon horah
+// rechilus
+// shatnez
+// etz erez
+// shei
+// tolaas
+// ezov
+// zav
+// zavah
+// tumas magah
+// tumas masah
+// negayim
+// towel
+// negah
+// s’ais
+// sapachas
+// baheres
+// tzoraas
+// nesek ?
+// bohak ?
+// tzareves ?
+// keireiach ?
+// giveiach ?
+// terumas hadeshen ?
+// kometz
+// kedoshim kalim
+// kodshai kedoshim
+// Chatos
+// Olah
+// Asham
+// Shlomim
+// Minchah
+// koreis
+// Ohel Moed
+// miluim
+// pesulim
+// Olah
+// shlomim ?
+// behaaloscha
+// Malchiyos
+// Zichronos
+// Shofros
+// amos
+// chukah
+// Avi Avos Hatumah
+// Av Hatumah
+// Rishon
+// Sheini
+// Risma
+// arei miklot
+// ger
+// terumah
+// bikurim
+// Sotah
+// Nazir
+// Birkas Kohanim
+// hai
+// yud
+// challa
+// tzitzis
+// avodah zorah
+// Shabbos
+// Refayim
+// Kaftorim
+// Avim
+// bentching
+// Ve’ahavta
+// yoreh
+// malkosh
+// maasros
+// Vidui
+// baal koreh
+// shiluach hakan
+// motzi sheim rah
+// pe’ah
+// malkos
+// yibum
+// chalitzah
+// Hanavi
+// maaser sheini
+// leket ?
+// shikcha ?
+// pe’ah ?
+// hefker ?
+// reishis hagez
+// kosem ?
+// me’onen ?
+// menachesh ?
+// mechashef ?
+// chover
+// masos
+// osos
+// mofsim
+// milchamah
+// velo yosof ?
+// Shma Yisroel
+// veshinantam
+// mizbeyach ?
+// matzeivo ?
+// ashairo ?
+// pesilim
+// shamash
+// Shehecheyanu
+// Al Hanissim
+// Haneiros Halalu
+// marror
+// zroah
+// charoses
+// siyum
+// gebrokts ?
+// hechsher
+// bitul chametz
+// biyur chametz
+// mechiras chametz
+// machatzias hashekel
+// shalach manos
+// matanos la’evyonim
+// Al Hanissim
+// Yehi Ratzon
+// Hallel
+// laining ‘trop’
+// krias haTorah
+// tekioh
+// kezayis
+// eruv tavshillin
+// Tekiah ?
+// Teruah ?
+// Shevarim ?
+// Tekias di’me’umad ?
+// Tekias di’meyushav ?
+// Me’ah kolos ?
+// Kesivah vachasimah tovah ?
+// Gemar chasimah tovah ?
+// Sifron shel tzadikim, pidyon, ohel ?
+// Le’alter lechayim ?
+// Shonoh tovah umesukah ?
+// Malchiyos, zichronos, shofros ?
+// Hatoras nedarim ?
+// Korban Ha’Omer
+// Horahamon
+// Ana Bekoach
+// Ribono Shel Olom
+// Tikun
+// Tachanun
+// akdamus ?
+// Shalosh Seudos
+// Atah Chonantanu
+// shiva
+// Tiskabel
+// niftar
+// maamar
+// Basi Legani
+// histalkus
+// shtus d’kedusha
+// klipah
+// Hoshana Rabbah
+// Hakofos
+// Simchas Beis Hashoevah
+// Arba minim ?
+// Noy sukkah ?
+// Hoshanos ?
+// Aravos ?
+// Hadasim ?
+// Ushpizin ?
+// Nisuch hamayim ?
+// Tefilas geshem ?
+// Isru chag ?
+// Chassan Torah ?
+// Chassan Bereishis ?
+// Tikun ?
+// Kapores
+// Kol Nidrei
+// Yizkor
+// negel vasser
+// Kiddush Levana
+// Avodah ?
+// Ne’ilah ?
+// Duchenen ?
+// Kohein Gadol ?
+// Asara harugei malchus ?
+// Chamisha inuyim ?
+// Kori’in ?
+// Tevilohs ?
+// Bigdei lavan ?
+// Bigdei zahav ?
+// Sei’ir la’azazel ?
+// Gemar chasimah tovah ?
+// mashpia
+// Chossid
+// shlichus
+// baalei teshuva
+// Rosh
+// Erev
+// Kaddish
+

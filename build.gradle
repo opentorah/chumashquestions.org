@@ -1,71 +1,102 @@
 plugins {
-  id 'com.github.ben-manes.versions' version '0.28.0'
-  id 'base'
-  id 'org.opentorah.docbook' version '0.7.50'
-  id 'idea'
+  id 'com.github.ben-manes.versions' version '0.44.0'
+  id 'org.asciidoctor.jvm.convert'   version '3.3.2'
+  id 'org.asciidoctor.jvm.gems'      version '3.3.2'
+  id 'org.asciidoctor.jvm.pdf'       version '3.3.2'
 }
 
 repositories {
-  jcenter()
+  mavenCentral()
+  ruby.gems()
 }
 
-docBook {
-  document = "book"
-
-  outputFormats = ["html", "pdf", "epub2"]
-
-  parameters.common = [
-          "chapter.autolabel": "1",
-          "section.autolabel": "0",
-
-          // Remove trailing period after honorific
-          "punct.honorific"  : "",
-
-          // Remove trailing period after run-in head (e.g., formal paragraph title)
-          "runinhead.default.title.end.punct": ""
-  ]
-
-  parameters.htmlCommon = [
-          // "role" attribute on "para" will become "class" in HTML
-          "para.propagates.style": "yes",
-
-          // Include page number in cross-references
-          "insert.xref.page.number": "yes"
-  ]
-
-  parameters.pdf = [
-          "title.font.family"       : "DejaVu Sans",
-          "body.font.family"        : "DejaVu Sans",
-          "sans.font.family"        : "DejaVu Sans",
-          "monospace.font.family"   : "DejaVu Sans Mono",
-          "symbol.font.family"      : "DejaVu Sans",
-          // "footnote.font.size"   : "10"
-          "body.font.master"        : "14",
-          "body.start.indent"       : "0pt", // Suppress content indent
-          "orderedlist.label.width" : "2em", // Some space for the list labels
-          "keep.relative.image.uris": "yes" // TODO need this? XInclude shouldn't affect image URIs
-  ]
+dependencies {
+  asciidoctorGems 'rubygems:asciidoctor-multipage:0.0.16'
 }
 
-build.dependsOn processDocBook
-build.doLast {
-  project.sync {
-//    from project.tasks.getByPath('processDocBook').outputDirectory
-    from processDocBook.outputDirectory
-    into 'docs/book'
-  }
-}
+final File asciidocSourceDir = file("$projectDir/src/docs/asciidoc/")
+final File asciidocOutputDir = file("$buildDir/docs/asciidoc")
+final File siteDir = file("$projectDir/docs")
 
-idea {
-  project {
-    jdkName = '1.8'
-    vcs = 'Git'
+asciidoctor {
+  dependsOn(asciidoctorGemsPrepare)
+
+  sourceDir asciidocSourceDir
+  inputs.dir(asciidocSourceDir)
+
+  sources {
+    include 'book.adoc'
+    include 'index.adoc'
   }
 
-  module {
-    excludeDirs += [
-      file('.idea'),
-      file('gradle')
+  outputDir asciidocOutputDir
+
+  outputOptions {
+    backends = [
+      'pdf',
+      'html5',
+      'multipage_html5',
     ]
   }
+
+  doFirst {
+    project.delete(asciidocOutputDir)
+  }
+
+  doLast {
+    project.sync {
+      from "$asciidocOutputDir/multipage_html5"
+      into "$siteDir/html"
+    }
+    project.sync {
+      from "$asciidocOutputDir/html5"
+      into "$siteDir/html-one"
+    }
+    project.sync {
+      from "$asciidocOutputDir/pdf"
+      into "$siteDir/pdf"
+    }
+    project.copy {
+      from "$asciidocOutputDir/html5/index.html"
+      into siteDir
+    }
+  }
+
+  attributes = [
+    reproducible: true,
+    revdate: '2023-04-09',
+
+    favicon: '/images/favicon-author.png',
+    title: 'The Chumash Questions',
+    author: 'Rabbi Dovid Wichnin',
+    'license-url': 'http://creativecommons.org/licenses/by-nc-nd/4.0/',
+    'license-title': 'CC by-nc-nd',
+    docinfo: 'shared',
+    'docinfo-dir': "$asciidocSourceDir/docinfo/",
+    'allow-uri-read': true,
+    sectlinks: true,
+    sectanchors: true,
+    'hide-uri-scheme': true
+  ]
+
+  asciidoctorj {
+    requires 'asciidoctor-multipage'
+    modules.pdf.version '2.3.4'
+  }
+}
+
+build.dependsOn(asciidoctor)
+
+final String httpPort = '8080'
+tasks.register('serveSite', Exec) {
+  group = 'documentation'
+
+  dependsOn(asciidoctor)
+
+  doFirst {
+    logger.lifecycle("Serving " + siteDir + " on port " + httpPort)
+  }
+
+  workingDir siteDir
+  commandLine 'python', '-m', 'http.server', httpPort
 }

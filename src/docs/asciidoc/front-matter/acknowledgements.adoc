@@ -1,0 +1,36 @@
+[#acknowledgements]
+[acknowledgments]
+== Acknowledgements
+
+[discrete]
+=== Second Edition
+    
+Nina Dubinsky originated the idea to republish the book, and scanned a copy of the original edition provided by Dovid Malenkovich. Michael Partensky and Isaac Mushinsky encouraged the project.
+
+Avrohom Hillel Weissman made available, from his personal archives, questions on Parshas Yisro, Mishpatim, Pinchas, Shoftim and Vayikra that were missing from the original edition of the book, as well as questions on Parshas Bereishis that were included with some copies of the book. Michael Partensky transcribed these additions.
+
+Aryeh Leyb Dubinsky converted the content to DocBook (and later to Asciidoc).
+Menucha Rochel Dubinsky proofread the material.
+
+[discrete]
+=== First Edition
+
+The inspiration and continued support for this project has come from Mr. and Mrs. Yosef Chaim Lester.
+
+_Managing editor_ Pessy Leah Lester.
+
+_Typing_ Devorah Hott.
+
+_Copy editing, design, typesetting_ Yael Resnick.
+
+_Editorial consultant_ Rabbi Zalman Wilschanski.
+
+_Consultants_ Rabbi Zalman Dubinsky, Rabbi Yeheskel Lebovic, Rabbi Avraham Lipskier, Yisroel Noach Wichnin.
+
+_Photo courtesy of_ Albie Rosenhaus.
+
+_Cover design_ Yael Resnick.
+
+_Special thanks to:_ Sara Arno, Rus Devorah Burdman.
+
+This publication has been made possible in great measure by a generous donation from Aaron Mayer and Shifra Gellman and family.
