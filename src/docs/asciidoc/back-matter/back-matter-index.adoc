@@ -1,3 +1,0 @@
-include::glossary.adoc[]
-
-include::colophon.adoc[]

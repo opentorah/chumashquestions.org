@@ -65,14 +65,11 @@ asciidoctor {
   attributes = [
     reproducible: true,
     revdate: '2023-04-09',
-
-    favicon: '/images/favicon-author.png',
-    title: 'The Chumash Questions',
+    title: 'The Chumash Questions: A workbook for the weekly Torah portion based on the commentary of Rashi; includes holiday questions. 2nd edition.',
     author: 'Rabbi Dovid Wichnin',
-    'license-url': 'http://creativecommons.org/licenses/by-nc-nd/4.0/',
-    'license-title': 'CC by-nc-nd',
+    favicon: '/images/favicon-author.png',
     docinfo: 'shared',
-    'docinfo-dir': "$asciidocSourceDir/docinfo/",
+    docinfodir: "$asciidocSourceDir/docinfo/",
     'allow-uri-read': true,
     sectlinks: true,
     sectanchors: true,

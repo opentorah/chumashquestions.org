@@ -1,0 +1,20 @@
+[#devarim-index]
+= Chumash Devarim
+
+include::devarim.adoc[]
+
+include::vo-eschanan.adoc[]
+
+include::eikev.adoc[]
+
+include::re-eh.adoc[]
+
+include::shoftim.adoc[]
+
+include::ki-seitzei.adoc[]
+
+include::ki-savo.adoc[]
+
+include::nitzavim.adoc[]
+
+include::vayeilech.adoc[]

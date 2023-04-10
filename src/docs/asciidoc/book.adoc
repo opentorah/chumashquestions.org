@@ -2,10 +2,33 @@
 :doctype: book
 :toc:
 
-include::{docfile}/../blurb.adoc[]
+[#colophon]
+[colophon]
+= Colophon
+include::{docfile}/../colophon.adoc[]
 
-include::{docfile}/../front-matter/front-matter-index.adoc[]
+include::{docfile}/../dedication.adoc[]
 
-include::{docfile}/../body-matter/body-matter-index.adoc[]
+include::{docfile}/../acknowledgements.adoc[]
 
-include::{docfile}/../back-matter/back-matter-index.adoc[]
+include::{docfile}/../about-author.adoc[]
+
+include::{docfile}/../foreword.adoc[]
+
+include::{docfile}/../introduction.adoc[]
+
+include::{docfile}/../notes.adoc[]
+
+include::{docfile}/../bereishis/bereishis-index.adoc[]
+
+include::{docfile}/../shemos/shemos-index.adoc[]
+
+include::{docfile}/../vayikra/vayikra-index.adoc[]
+
+include::{docfile}/../bamidbar/bamidbar-index.adoc[]
+
+include::{docfile}/../devarim/devarim-index.adoc[]
+
+include::{docfile}/../holidays/holidays-index.adoc[]
+
+include::{docfile}/../glossary.adoc[]

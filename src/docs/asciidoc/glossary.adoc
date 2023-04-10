@@ -1,0 +1,585 @@
+[#glossary]
+[glossary]
+= Glossary
+
+[glossary]
+
+[[ach]]ach:: but, only
+[[adonim]]adonim::
+[[akdamus]]akdamus::
+[[akeidah]]akeidah::
+[[al-hanissim]]Al Hanissim::
+[[aliyah]]aliyah::
+[[aliyos]]aliyos::
+[[amos]]amos::
+[[Amudim]]Amudim::
+[[am-yisroel]]Am Yisroel:: the Jewish nation
+[[ana-bekoach]]Ana Bekoach::
+[[Aravos]]Aravos::
+[[arba-minim]]Arba minim::
+[[arbeh]]arbeh:: locusts
+[[arei-miklot]]arei miklot:: cities of refuge
+[[aron]]aron:: ark
+[[arov]]arov:: wild animals
+[[asara-harugei-malchus]]Asara harugei malchus::
+[[aseres-hadibros]]Aseres Hadibros:: Ten Commandments
+[[aseres-yemei-teshuvah]]Aseres Yemei Teshuvah:: Ten Days of Repentance
+[[ashairo]]ashairo::
+[[Asham]]Asham::
+[[atah-chonantanu]]Atah Chonantanu::
+[[atzeres]]Atzeres::
+[[aveiro]]aveiro:: sin
+[[aveiros]]aveiros:: sins
+[[av-hatumah]]Av Hatumah::
+[[avi-avos-hatumah]]Avi Avos Hatumah::
+[[Avim]]Avim::
+[[avinu-malkeinu]]Avinu Malkeinu::
+[[avneit]]avneit:: belt
+[[avodah]]avodah:: service
+[[avodas-ha-korbonos-b-ruchnius]]avodas ha’korbonos b’ruchnius
+[[avodah-zorah]]avodah zorah::
+[[avodim]]avodim::
+[[Avos]]Avos:: Patriarchs
+[[Avraich]]Avraich::
+
+[[baal-koreh]]baal koreh::
+[[baal-tashcis]]baal tashcis::
+[[baalei-teshuva]]baalei teshuva::
+[[badim]]badim::
+[[bagrus]]bagrus::
+[[baheres]]baheres::
+[[bamah]]bamah:: private altars
+[[baruch-shem]]Baruch Shem:: second <<posuk>> of Shma
+[[basi-legani]]Bosi Legani::
+[[bashert]]bashert:: predestined
+[[bas-kol]]bas kol:: Heavenly voice
+[[bechorah]]bechorah:: birthright
+[[bechor]]bechor:: firstborn
+[[bechorim]]bechorim:: firstborn
+[[bedikas-chametz]]bedikas chametz::
+[[beged]]beged:: garment
+[[behaaloscha-term]]behaaloscha::
+[[behasraah]]behasraah::
+[[beis-hamikdash]]Beis Hamikdash:: Sanctuary
+[[beis-medrash]]beis medrash::
+[[bemeizid]]bemeizid::
+[[ben-chameish-lemikrah]]ben chameish lemikrah::
+[[ben-sorer-umoreh]]ben sorer umoreh:: rebellious son
+[[bentching]]bentching::
+[[beshogeig]]beshogeig::
+[[besomim]]besomim:: spices
+[[bigdei-kehuna]]bigdei kehuna::
+[[bigdei-lavan]]Bigdei lavan::
+[[bigdei-serod]]bigdei serod::
+[[bigdei-zahav]]Bigdei zahav::
+[[bikurim]]bikurim::
+[[bimah]]bimah::
+[[binah]]binah::
+[[birkas-kohanim]]Birkas Kohanim::
+[[bitachon]]bitachon:: trust
+[[bitul-chametz]]bitul chametz::
+[[biurim-l-peirush-rashi]]Biurim L’peirush Rashi::
+[[biyur-chametz]]biyur chametz::
+[[bnei-yisroel]]Bnei Yisroel:: the Children of Israel
+[[bohak]]bohak::
+[[bored]]bored:: hail
+[[bor]]bor:: pit
+[[boshes]]boshes::
+[[brichim]]brichim::
+[[bris]]bris:: covenant; circumcision
+[[brocho]]brocho:: blessing
+
+[[chalitzah]]chalitzah::
+[[challa]]challa::
+[[chametz]]chametz:: leaven
+[[chamisha-inuyim]]Chamisha inuyim::
+[[charoses]]charoses::
+[[chassan-torah]]Chassan Torah::
+[[chassan-bereishis]]Chassan Bereishis::
+[[Chatos]]Chatos::
+[[chatzeir]]chatzeir:: courtyard
+[[Chazal]]Chazal:: our Sages
+[[cheilev]]cheilev:: forbidden fats
+[[chesed]]chesed:: kindness
+[[chet-ha-egel]]chet ha’egel:: sin of the calf
+[[Chitas]]Chitas:: <<Chumash>>, Tehillim, Tanya
+[[chochma]]chochma::
+[[chol-hamoed]]Chol Hamoed:: intermediate days
+[[choshen]]choshen::
+[[choshen-hamishpot]]choshen hamishpot::
+[[Chossid]]Chossid::
+[[chover]]chover::
+[[chukah]]chukah::
+[[Chumash]]Chumash::
+[[chumrahs]]chumrahs:: restrictions
+
+[[daas]]daas::
+[[Damesek]]Damesek::
+[[dever]]dever:: death
+[[din]]din:: law
+[[dor-haflaga]]dor haflaga:: generation of dispersion
+[[Duchenen]]Duchenen::
+
+[[edim-zomemin]]edim zomemin:: contradicted witnesses
+[[eidus]]eidus::
+[[egel-hazahav]]egel hazahav:: golden calf
+[[egloh-arufoh]]egloh arufoh:: the chopped-off calf
+[[eifod]]eifod::
+[[eilim]]eilim:: rams
+[[Erev]]Erev::
+[[erev-rav]]erev rav:: Egyptian converts
+[[eruv-tavshillin]]eruv tavshillin::
+[[Esek]]Esek::
+[[esrog]]esrog::
+[[etz-erez]]etz erez::
+[[eved-ivri]]eved Ivri:: Jewish slave
+[[eved-nirtza]]eved nirtza::
+[[ezov]]ezov::
+
+[[galus-bavel]]Galus Bavel:: Babylonian Exile
+[[garti]]garti:: I lived
+[[gebrokts]]gebrokts::
+[[Gehinom]]Gehinom::
+[[geira]]geira::
+[[geirim]]geirim:: converts
+[[gemar-chasimah-tovah]]Gemar chasimah tovah::
+[[ger]]ger:: convert
+[[get]]get:: divorce
+[[giveiach]]giveiach::
+[[goel-hadam]]goel hadam:: avenger of the blood
+[[Golus]]Golus:: Exile
+[[Gviyim]]Gviyim::
+
+[[Haazenu]]Haazenu::
+[[ha-anakah]]ha’anakah:: farewell gift
+[[Hadasim]]Hadasim:: myrtle
+[[hai]]hai::
+[[Hakofos]]Hakofos::
+[[halacha]]halacha:: Jewish law
+[[Hallel]]Hallel::
+[[Hanavi]]Hanavi::
+[[haneiros-halalu]]Haneiros Halalu::
+[[har-sinai]]Har Sinai:: Mount Sinai
+[[hatoras-nedarim]]Hatoras nedarim::
+[[hashgocha-protis]]hashgocha protis:: divine providence
+[[hayom]]hayom:: today
+[[hechsher]]hechsher::
+[[hefker]]hefker::
+[[hekdesh]]hekdesh::
+[[hisgalus]]hisgalus::
+[[Horahamon]]Horahamon::
+[[Hoshanos]]Hoshanos::
+[[hoshana-rabbah]]Hoshana Rabbah::
+[[histalkus]]histalkus:: passing
+
+[[ir-hanidachas]]ir hanidachas:: a deviant city
+[[isru-chag]]Isru chag::
+[[issur]]issur:: prohibition
+
+[[kallah]]kallah::
+[[kapitl]]kapitl:: psalm
+[[Karkov]]Karkov::
+[[kavana]]kavana:: intention
+[[kaves]]kaves:: sticks
+[[kavod]]kavod:: honor
+[[kedusha]]kedusha:: sanctity
+[[kehuna]]kehuna::
+[[keilim]]keilim:: utensils
+[[kerashim]]kerashim:: boards
+[[keresh]]keresh:: board
+[[ketores]]ketores:: incense
+[[kevasim]]kevasim:: lambs
+[[kfitzas-haderech]]kfitzas haderech:: a miracle to quicken his trip
+[[kilayim]]:: mixing
+[[kiryas-arba]]Kiryas Arba:: City of Four
+[[kittel]]kittel:: white robe/coat
+[[Kohanim]]Kohanim:: priests
+[[Kohein]]Kohein:: Priest
+[[kohein-gadol]]Kohein Gadol:: High Priest
+[[korban]]korban:: sacrifice
+[[korbanos]]korbanos:: sacrifices
+[[korban-pesach]]Korban Pesach:: Passover sacrifice
+[[korech]]korech:: sandwich
+[[kos-shel-brocho]]kos shel brocho:: lit. ‘cup of blessing’
+[[krias-yam-suf]]krias Yam Suf:: the parting of the Red Sea
+
+[[trop]]laining ‘trop’:: cantillation/musical notes
+[[le-alter-lechayim]]Le’alter lechayim::
+[[lechem]]lechem:: bread
+[[lechem-hapanim]]lechem hapanim:: showbread
+[[lechem-oni]]lechem oni:: bread of poverty
+[[lekach]]lekach:: honey-cake
+[[likutei-torah]]Likutei Torah::
+[[loshon-horo]]loshon horo:: lit. evil tongue
+[[Luchos]]Luchos:: tablets
+[[Lulaos]]Lulaos::
+[[lulov]]lulov:: four species
+
+[[maamar]]maamar::
+[[maamorim]]maamorim::
+[[Maariv]]Maariv:: evening prayer
+[[maaser]]maaser:: tithe
+[[maasros]]maasros:: tithes
+[[machatzis-ha-shekel]]machatzis ha’shekel::
+[[machlokes]]machlokes:: discord
+[[makah]]makah:: plague
+[[makas-bechoros]]makas bechoros:: slaying of the firstborn
+[[makos]]makos:: floggings; plagues
+[[maloch]]maloch:: angel
+[[malochim]]malochim:: angels
+[[masach]]masach::
+[[mashal]]mashal:: example
+[[mashkon]]mashkon:: security
+[[mashpia]]mashpia::
+[[matanos-kehuna]]matanos kehuna:: gifts
+[[matan-torah]]Matan Torah:: the Giving of the Torah
+[[mateh]]mateh:: staff
+[[matzo]]matzo:: unleavened bread
+[[mehudar]]mehudar:: choicest
+[[mekushar]]mekushar::
+[[meis]]meis:: dead body
+[[mekoshesh]]mekoshesh:: wood gatherer
+[[melacha]]melacha:: work
+[[menorah]]menorah::
+[[meraglim]]meraglim:: spies
+[[merkava]]merkava:: chariot to Hashem
+[[midbar]]midbar:: desert
+[[mi-deoraisa]]mi-deoraisa:: from the Torah
+[[mi-dirabonon]]mi-dirabonon:: from the Rabbis
+[[midoh]]midoh:: trait
+[[milchemes-ho-rshus]]milchemes ho’rshus:: optional war
+[[Minchah]]Minchah:: afternoon
+[[minhag]]minhag:: custom
+[[minyan]]minyan:: community
+[[Mishkan]]Mishkan:: Tabernacle
+[[mishmor]]mishmor:: period
+[[Mitzrayim]]Mitzrayim:: Egypt
+[[Mitzri]]Mitzri:: Egyptian
+[[mitzvoh-asei]]mitzvoh asei:: positive mitzvoh
+[[mitzvos-asei]]mitzvos asei:: positive mitzvos
+//? [[mitzvoh-lo-ta-asei]]mitzvoh lo ta'asei:: negative mitzvoh
+[[mitzvos-lo-ta-asei]]mitzvos lo ta'asei:: negative mitzvos
+[[mivtzoyim]]mivtzoyim:: mitzvah campaigns
+[[mizbeyach]]mizbeyach:: altar
+[[mizmor]]mizmor:: psalm
+[[modeh-b-miktzas]]modeh b’miktzas::
+[[mon]]mon:: manna
+[[mussar]]mussar:: rebuke
+
+[[naaseh-venishmah]]Naaseh venishmah:: we shall do and we shall listen
+[[nachas]]nachas:: pleasure
+[[neder]]neder:: vow
+[[nedorim]]nedorim::
+[[nedovos]]nedovos::
+[[nefesh-habahamis]]nefesh habahamis::  animal soul
+[[neis]]neis:: miracle
+[[nesiyim]]nesiyim:: heads of tribes; princes
+[[neshamah]]neshamah:: soul
+[[nesochim]]nesochim:: wine and oil offerings
+[[Neviah]]Neviah:: Prophetess
+[[Nevi-im]]Nevi’im:: Prophets
+[[nisim]]nisim:: miracles
+
+[[ohel]]ohel::
+[[Olah]]Olah:: sacrifice
+[[olom-haboh]]Olom Haboh:: the World to Come
+[[onah]]onah::
+
+[[para-adumah]]para adumah:: red heifer
+[[parsha]]parsha::
+[[parnasah]]parnasah:: livelihood
+[[paroches]]paroches:: curtain in front of the Ark
+[[par]]par:: ox
+[[parshiyos]]parshiyos::
+[[Pesach]]Pesach:: Passover
+[[pidyon]]pidyon::
+[[pidyon-ha-ben]]pidyon ha’ben:: redemption of the first born
+[[pirkei-avos]]Pirkei Avos:: Ethics of our Fathers
+[[porim]]porim:: bulls
+[[posuk]]posuk:: verse
+[[pesukim]]pesukim:: verses
+
+[[rasha]]rasha:: sinner
+[[Razal]]Razal:: our Sages
+[[rebbi]]rebbi:: teacher
+[[rechilus]]rechilus::
+[[Rechovos]]Rechovos::
+[[Refayim]]Refayim::
+[[reishis-hagez]]reishis hagez::
+[[reshayim]]reshayim:: sinners
+[[Reshes]]Reshes::
+[[ribono-shel-olom]]Ribono Shel Olom::
+[[ripui]]ripui::
+[[Rishon]]Rishon::
+[[Risma]]Risma::
+[[ruach-hakodesh]]ruach hakodesh:: divine inspiration
+[[ruchniyus]]ruchniyus:: spirituality
+
+[[s-ais]]s’ais::
+[[sapachas]]sapachas::
+[[Satan]]Satan::
+[[s-chach]]s’chach:: covering for the Sukkah
+[[seder]]seder::
+[[sedra]]sedra:: parsha
+[[sefer]]sefer:: the book of
+[[sefer-torah]]Sefer Torah::
+[[sefira]]Sefira::
+[[sei-ir-la-azazel]]Sei’ir la’azazel::
+[[Shabbos]]Shabbos::
+[[shabbos-shabbaton]]Shabbos Shabbaton::
+[[Shacharis]]Shacharis:: morning prayer
+[[sha-ir]]sha’ir::
+[[shalach-manos]]shalach manos::
+[[shalosh-seudos]]Shalosh Seudos::
+[[shamash]]shamash::
+[[shatnez]]shatnez:: mixture of wool and linen
+[[Shavous]]Shavous::
+[[sh-chin]]sh’chin:: boils
+[[sh-chutei-chutz]]sh’chutei chutz:: outside offerings
+[[Shechina]]Shechina:: Divine Presence
+[[sheetim]]sheetim:: cedar
+[[Shehecheyanu]]Shehecheyanu::
+[[shei]]shei::
+[[Sheini]]Sheini::
+[[sheivet]]sheivet:: the tribe of
+[[shemen-hamishcho]]shemen hamishcho::
+[[shemini-atzeres]]Shemini Atzeres::
+[[sheva-brachos]]Sheva Brachos::
+[[Shevarim]]Shevarim::
+[[shevatim]]shevatim:: tribes
+[[sheves]]sheves::
+[[shidduch]]shidduch:: marriage partner; match
+[[shifcha-cnaanis]]shifcha Cnaanis:: a gentile maidservant
+[[shikcha]]shikcha::
+[[shiluach-hakan]]shiluach hakan::
+[[shira]]shira:: song
+[[shiva]]shiva::
+[[Shiveh]]Shiveh::
+[[shlichus]]shlichus::
+[[Shlomim]]Shlomim::
+[[shloshim]]shloshim::
+[[shma-yisroel]]Shma Yisroel::
+[[shmurah]]shmurah:: hand-baked matzo
+[[shnayim-mikrah-v-echad-targum]]Shnayim mikrah v’echad targum::
+[[sho-eil]]sho’eil::
+[[shofros]]Shofros::
+[[shoham]]shoham::
+[[shomer-khinom]]shomer khinom::
+[[shomer-sokhor]]shomer sokhor::
+[[shonoh]]shonoh:: year
+[[shonoh-tovah-umesukah]]Shonoh tovah umesukah::
+[[shotrim]]shotrim:: policemen
+[[shtus-d-kedusha]]shtus d’kedusha::
+[[shulchon]]shulchon:: table
+[[shulchon-oruch]]Shulchon Oruch::
+[[shvi-i-shel-pesach]]Shvi’i shel Pesach:: the seventh day of Pesach
+[[sifron-shel-tzadikim]]Sifron shel tzadikim::
+[[simanim]]simanim::
+[[simchas-beis-hashoevah]]Simchas Beis Hashoevah::
+[[Siros]]Siros::
+[[Sitnah]]Sitnah::
+[[siyum]]siyum::
+[[smicha]]smicha:: rabbinical ordination
+[[soicher]]soicher::
+[[Sotah]]Sotah::
+[[Sukkos]]Sukkos::  TODO 2 omonims
+
+[[taanis-esther]]Taanis Esther:: Fast of Esther
+[[tabaas]]tabaas::
+[[taba-os]]taba’os::
+[[taharah]]taharah:: purity
+[[tahor]]tahor:: pure
+[[taiva]]taiva:: ark/box
+[[talmid]]talmid:: student
+[[Tamid]]Tamid::
+[[tamid]]tamid:: steadily
+[[techiyas-hameisim]]techiyas hameisim:: resurrection of the dead
+[[tekias-di-me-umad]]Tekias di’me’umad::
+[[tekias-di-meyushav]]Tekias di’meyushav::
+[[tenufah]]tenufah:: lifting
+[[terumah-term]]terumah::
+[[terumos]]terumos::
+[[teshuvah]]teshuvah:: repentance
+[[tevuna]]tevuna::
+[[tfilas]]Tfilas::
+[[tochecha]]Tochecha:: curses, punishments
+[[tomei]]tomei:: impure
+[[torah-shebe-al-peh]]Torah Shebe’al Peh:: Oral Law
+[[totafos]]totafos:: tefillin
+[[tumah]]tumah:: impurity
+[[tzadik]]tzadik:: righteous person
+[[tzadikim]]tzadikim:: righteous persons
+[[tzalos]]tzalos::
+[[tzav-term]]tzav:: command
+[[tzedakah]]tzedakah:: charity
+[[tzefardeia]]tzefardeia:: frogs
+[[tzitz]]tzitz::
+
+[[uforatzto]]uforatzto::
+[[Ushpizin]]Ushpizin::
+
+[[vayishokaihu]]vayishokaihu::
+[[Vehaya]]Vehaya::
+[[veshomru]]veshomru::
+[[Vezos-Habracha]]Vezos Habracha::
+[[Vidui]]Vidui:: confession statement
+[[vlad-hatumah]]vlad hatumah:: second level tumah
+[[Vovim]]Vovim::
+
+[[yad]]yad:: hand
+[[yados]]yados::
+[[ya-im]]Ya’im::
+[[yam-suf]]Yam Suf:: the Red Sea
+[[Yarden]]Yarden:: Jordan
+[[yehi-ratzon]]Yehi Ratzon::
+[[yemincha]]yemincha::
+[[Yeseidos]]Yeseidos::
+[[yetzer-horah]]yetze’r horah:: evil inclination
+[[yetzias-mitzmyim]]yetzias Mitzmyim:: the exodus from Egypt
+[[yirah]]yirah:: fear, respect
+[[yiras-shamayim]]yiras shamayim:: fear of Heaven
+[[Yiska]]Yiska::
+[[yi-ud]]yi’ud::
+[[Yizkor]]Yizkor::
+[[yomim-tovim]]Yomim Tovim (holidays)
+[[yom-tov-aliyas-haregel]]Yom Tov aliyas haregel:: going up to the <<beis-hamikdash>> for the holidays
+[[yona]]yona:: dove
+[[yotzei]]yotzei:: exempt
+[[yud-shvat]]Yud Shvat::
+
+[[za-ir]]Za’ir::
+[[zechus]]zechus:: merit
+[[zekenim]]zekenim:: elders
+[[zroah]]zroah::
+[[zuzim]]zuzim::
+
+
+
+[[keruvim]]keruvim::
+[[Mizrkos]]Mizrkos::
+[[Mizlgos]]Mizlgos::
+[[Machtos]]Machtos::
+[[Michbar]]Michbar::
+[[Kilayim]]Kilayim::
+[[Kronos]]Kronos::
+[[Krosim]]Krosim::
+[[Malkochos]]Malkochos::
+[[Konim]]Konim::
+[[Prachim]]Prachim::
+[[ke-oros]]Ke’oros::
+[[Kapos]]Kapos::
+[[Ksavos]]Ksavos::
+[[Menakiyos]]Menakiyos::
+[[Misgeres]]Misgeres::
+[[Kenafayim]]Kenafayim::
+[[korban-minchah]]Korban Minchah::
+[[Kadaish]]Kadaish::
+[[kiyor]]kiyor::
+[[midoh-tovah]]midoh tovah::
+[[midoh-poranius]]midoh poranius::
+[[naarus]]naarus::
+[[kesus]]kesus::
+[[nezek]]nezek::
+[[tzaar]]tzaar::
+[[mazik]]mazik::
+[[nizak]]nizak::
+[[tam]]tam::
+[[mu-od]]mu’od::
+[[kofer]]kofer::
+[[moneh]]moneh::
+[[kikar]]kikar::
+[[mabul]]mabul:: מבול
+[[Moshiach]]Moshiach::
+[[ma-acheles]]ma’acheles::
+[[meoros-hamachpeila]]Meoros Hamachpeila::
+[[naar]]naar:: youngster
+[[kesones-pasim]]kesones pasim::
+[[kal-vachomer]]kal vachomer::
+[[Nefesh]]Nefesh::
+[[tchias-hameisim]]tchias hameisim::
+[[melech-ha-moshiach]]Melech HaMoshiach::
+[[teichef-umiyad-mamash]]teichef umiyad mamash::
+[[pshat]]pshat::
+[[likutei-sichos]]Likutei Sichos::
+[[urim-v-tumim]]urim v’tumim::
+[[posul]]posul::
+[[mizbeyach-ha-olah]]mizbeyach ha’olah::
+[[mizbeyach-hazahav]]mizbeyach hazahav::
+[[mikvah]]mikvah::
+[[Yovel]]Yovel::
+[[nedava]]nedava::
+[[pri-eitz-hadar]]pri eitz hadar::
+[[tolaas]]tolaas::
+[[zav]]zav::
+[[zavah]]zavah::
+[[tumas-magah]]tumas magah::
+[[tumas-masah]]tumas masah::
+[[negayim]]negayim::
+[[towel]]towel::
+[[negah]]negah::
+[[tzoraas]]tzoraas::
+[[nesek]]nesek::
+[[tzareves]]tzareves::
+[[keireiach]]keireiach::
+[[terumas-hadeshen]]terumas hadeshen::
+[[kometz]]kometz::
+[[kedoshim-kalim]]kedoshim kalim::
+[[kodshai-kedoshim]]kodshai kedoshim::
+[[koreis]]koreis::
+[[ohel-moed]]Ohel Moed::
+[[miluim]]miluim::
+[[pesulim]]pesulim::
+[[malchiyos]]Malchiyos::
+[[zichronos]]Zichronos::
+[[Nazir]]Nazir::
+[[yud]]yud::
+[[tzitzis]]tzitzis::
+[[Kaftorim]]Kaftorim::
+[[ve-ahavta]]Ve’ahavta::
+[[yoreh]]yoreh::
+[[malkosh]]malkosh::
+[[motzi-sheim-rah]]motzi sheim rah::
+[[pe-ah]]// pe’ah::
+[[malkos]]malkos::
+[[yibum]]yibum::
+[[maaser-sheini]]maaser sheini::
+[[leket]]leket::
+[[kosem]]kosem::
+[[me-onen]]me’onen::
+[[menachesh]]menachesh::
+[[mechashef]]mechashef::
+[[masos]]masos::
+[[osos]]osos::
+[[mofsim]]mofsim::
+[[milchamah]]milchamah::
+[[velo-yosof]]velo yosof::
+[[veshinantam]]veshinantam::
+[[matzeivo]]matzeivo::
+[[pesilim]]pesilim::
+[[marror]]marror::
+[[mechiras-chametz]]mechiras chametz::
+[[machatzias-hashekel]]machatzias hashekel::
+[[matanos-la-evyonim]]matanos la’evyonim::
+[[krias-haTorah]]krias haTorah::
+[[kezayis]]kezayis::
+[[Tekiah]]Tekiah::
+[[Teruah]]Teruah::
+[[me-ah-kolos]]Me’ah kolos::
+[[kesivah-vachasimah-tovah]]Kesivah vachasimah tovah::
+[[korban-ha-omer]]Korban Ha’Omer::
+[[Tikun]]Tikun::
+[[Tachanun]]Tachanun::
+[[Tiskabel]]Tiskabel::
+[[niftar]]niftar::
+[[klipah]]klipah::
+[[noy-sukkah]]Noy sukkah::
+[[nisuch-hamayim]]Nisuch hamayim::
+[[tefilas-geshem]]Tefilas geshem::
+[[kapores]]kapores:: TODO: 2 omonims?
+[[kol-nidrei]]Kol Nidrei::
+[[negel-vasser]]negel vasser::
+[[kiddush-levana]]Kiddush Levana::
+[[ne-ilah]]Ne’ilah::
+[[kori-in]]Kori’in::
+[[Tevilohs]]Tevilohs::
+[[Kaddish]]Kaddish::

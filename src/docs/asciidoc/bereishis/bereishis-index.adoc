@@ -1,0 +1,26 @@
+[#bereishis-index]
+= Chumash Bereishis
+
+include::bereishis.adoc[]
+
+include::noach.adoc[]
+
+include::lech-lecha.adoc[]
+
+include::vayeira.adoc[]
+
+include::chayei-sara.adoc[]
+
+include::toldos.adoc[]
+
+include::vayeitzei.adoc[]
+
+include::vayishlach.adoc[]
+
+include::vayeishev.adoc[]
+
+include::miketz.adoc[]
+
+include::vayigash.adoc[]
+
+include::vayechi.adoc[]

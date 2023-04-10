@@ -5,7 +5,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
-## [] - 2023-04-09 migrated from DocBook to Asciidoc
+## [] - 2023-04-09
+- migrated from DocBook to Asciidoc;
+- glossary terms;
+- each Chumash is a part (and so is Glossary);
+- Colophon moved to the front;
+- directory structure simplifications;
+- added license link to the HTML metadata;
+- added Google Analytics tag.
 
 ## [] - 2019-01-30
 - publishing 'docs' directory at www.chumashquestions.org;
