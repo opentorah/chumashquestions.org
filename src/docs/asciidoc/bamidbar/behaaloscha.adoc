@@ -65,7 +65,7 @@
 
 . When were the two trumpets used and when was only one used?
 
-. How do we derive the need to recite <<malchiyos>>, <<zichronos>>, and <<shofros>>?
+. How do we derive the need to recite [.verse]#malchiyos#{ltr}, [.verse]#zichronos#{ltr}, and [.verse]#shofros#{ltr}?
 
 . How much time did the people stay at <<har-sinai>>?
 

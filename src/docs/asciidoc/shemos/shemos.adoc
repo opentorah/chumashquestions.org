@@ -129,13 +129,13 @@
 
 . What was special about the donkey that Moshe used for travel?
 
-. Why didn’t Moshe do the <<bris>> (circumcision) for his son Eliezer earlier?
+. Why didn’t Moshe do the [.verse]#bris#{ltr} (circumcision) for his son Eliezer earlier?
 
 . How were Moshe and Aharon able to come and go to Paroh -- weren’t they supposed to be working?
 
 . What was the new decree from Paroh after Moshe requested freedom?
 
-. The <<zekenim>> (elders) and the <<shotrim>> (policemen) acted differently. How? Their pay?
+. The [.verse]#zekenim#{ltr} (elders) and the [.verse]#shotrim#{ltr} (policemen) acted differently. How? Their pay?
 
 . What did the Jewish people tell Moshe and Aharon when conditions got worse?
 

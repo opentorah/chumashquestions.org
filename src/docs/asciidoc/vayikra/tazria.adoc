@@ -21,11 +21,11 @@
 
 . When is a person locked up for a *second time*? For how long?
 
-. Sometimes the person is declared <<tahor>> yet must wash (<<towel>>) himself and his clothes. Why?
+. Sometimes the person is declared <<tahor>> yet must wash ([.verse]#towel#{ltr}) himself and his clothes. Why?
 
 . After being locked up what has to happen to his <<negah>> to make him <<tomei>>? <<tahor>>?
 
-. What is the general difference between these: <<s-ais>>, <<sapachas>>, <<baheres>>?
+. What is the general difference between these: [.verse]#s'ais#{ltr}, [.verse]#sapachas#{ltr}, [.verse]#baheres#{ltr}?
 
 . May a <<Kohein>> decide on a person with a <<negah>> by *getting information* about its condition? Proof?
 
@@ -37,7 +37,7 @@
 
 . If a <<Kohein>> mistakenly declares a person ‘<<tahor>>’ who is really <<tomei>>, is it OK?
 
-. Explain these: <<nesek>>, <<bohak>>, <<tzareves>>, <<keireiach>>, <<giveiach>>.
+. Explain these: [.verse]#nesek#{ltr}, [.verse]#bohak#{ltr}, [.verse]#tzareves#{ltr}, [.verse]#keireiach#{ltr}, [.verse]#giveiach#{ltr}.
 
 . What is a <<metzorah>> supposed to do to his clothes? To his hair? What does he announce?
 

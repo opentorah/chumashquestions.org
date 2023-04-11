@@ -84,7 +84,7 @@ Why?
 
 . It says that the raven had another destination later in history. Which?
 
-. The dove (<<yona>>) was sent out many times. How many? What happened each time?
+. The dove ([.verse]#yona#{ltr}) was sent out many times. How many? What happened each time?
 
 . What was the symbol of the olive leaves in the dove’s mouth?
 
@@ -162,7 +162,7 @@ Why?
 
 . What was the difference between Avrohom’s faith and that of Horon?
 
-. Sara was called <<Yiska>>. What are the various meanings of this name?
+. Sara was called [.verse]#Yiska#{ltr}. What are the various meanings of this name?
 
 . “And Terach died in Choron.” Did he actually die at this time? Explain.
 

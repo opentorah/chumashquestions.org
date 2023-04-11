@@ -7,7 +7,7 @@
 
 . How was Moshe shown the half-Shekel? What else was he shown in this way?
 
-. How many <<zuzim>> in a Shekel? How many <<geira>> in a zuz?
+. How many [.verse]#zuzim#{ltr} in a Shekel? How many [.verse]#geira#{ltr} in a [.verse]#zuz#{ltr}?
 
 . Why is the word <<terumah-term>> mentioned three times?
 
@@ -15,9 +15,9 @@
 
 . Why was the count exactly the same both times? Was there a miracle in it?
 
-. What was the <<kiyor>>? Who used it? For what?
+. What was the [.verse]#kiyor#{ltr}? Who used it? For what?
 
-. Which <<halacha>> is derived from the parsha of <<kiyor>>?
+. Which <<halacha>> is derived from the <<parsha>> of [.verse]#kiyor#{ltr}?
 
 . What did the oil contain besides the olive oil?
 
@@ -38,7 +38,7 @@ what?
 
 . Into how many portions was it divided? Why? What about the extras?
 
-. How does Rashi explain <<chochma>>, <<tevuna>>, <<daas>>? Is this similar to the explanation given in Tanya for <<chochma>>, <<binah>>, <<daas>>? How?
+. How does Rashi explain [.verse]#chochma#{ltr}, [.verse]#tevuna#{ltr}, [.verse]#daas#{ltr}? Is this similar to the explanation given in Tanya for [.verse]#chochma#{ltr}, [.verse]#binah#{ltr}, [.verse]#daas#{ltr}? How?
 
 . Why is the subject of <<Shabbos>> mentioned here?
 
@@ -46,7 +46,7 @@ what?
 
 . For whom is this sign intended? Purpose?
 
-. What are the punishments for desecrating the <<Shabbos>>? <<beshogeig>>, <<bemeizid>>, <<behasraah>>?
+. What are the punishments for desecrating the <<Shabbos>>? [.verse]#beshogeig#{ltr}, [.verse]#bemeizid#{ltr}, [.verse]#behasraah#{ltr}?
 
 . Why is <<Shabbos>> called <<shabbos-shabbaton>>? What else is called by this title?
 
@@ -54,7 +54,7 @@ what?
 
 . What wording is used in the Hebrew version of the above rule?
 
-. Why is the Torah likened to a <<kallah>>? (Two reasons.)
+. Why is the Torah likened to a [.verse]#kallah#{ltr}? (Two reasons.)
 
 . How was it possible for Moshe to learn the whole Torah in such a short time?
 
@@ -68,7 +68,7 @@ what?
 
 . Who actually donated the jewelry? Proof?
 
-. After Aharon threw the gold into the fire, *who* produced the <<egel-hazahav>> (golden calf)? (Two opinions.)
+. After Aharon threw the gold into the fire, *who* produced the [.verse]#egel hazahav#{ltr} (golden calf)? (Two opinions.)
 
 . Prove that the mixed multitude of <<erev-rav>> (Egyptian converts) started the whole thing.
 
@@ -206,7 +206,7 @@ what?
 [start=100]
 . When else do we read the first part of this parsha?
 
-. When do we recite the <<pesukim>> of <<veshomru>> (31:16)?
+. When do we recite the <<pesukim>> of [.verse]#veshomru#{ltr} (31:16)?
 
 . When do we read (from the Torah) <<pesukim>> 34:1-10? Why?
 

@@ -13,7 +13,7 @@
 
 . There were two general kinds of <<korban-minchah>> that the Israelites brought. Which?
 
-. If the <<kometz>> from the above Menachos was taken without <<kavana>> (intention), is it OK?
+. If the [.verse]#kometz#{ltr} from the above Menachos was taken without <<kavana>> (intention), is it OK?
 
 . Can blemished <<Kohanim>> eat from the Menachos? Proof?
 
@@ -27,7 +27,7 @@
 
 . How long is the ‘eating time’ for a <<korban>> <<Shlomim>>?
 
-. When is eating a <<korban>> punishable by <<koreis>>?
+. When is eating a <<korban>> punishable by [.verse]#koreis#{ltr}?
 
 . What is the punishment for eating <<cheilev>> (forbidden fats)? Blood?
 
@@ -49,7 +49,7 @@
 
 . Besides the <<shemen-hamishcho>>, what else was put on Aharon and his sons?
 
-. One part of a <<korban>> was burned on the <<mizbeyach>> *only during the <<miluim>>*. Which?
+. One part of a <<korban>> was burned on the <<mizbeyach>> *only during the [.verse]#miluim#{ltr}*. Which?
 
 . Where is there a hint here about the separation of the <<kohein-gadol>> before Yom Kippur?
 

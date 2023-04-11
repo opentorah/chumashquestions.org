@@ -41,8 +41,8 @@
 
 . How tall was Adam? “Was there ever such a *great thing*”? Which thing?
 
-. What are the examples given for these deeds: <<masos>>, <<osos>>, <<mofsim>>,
-<<milchamah>>? (See <<posuk>> 4:34.)
+. What are the examples given for these deeds: [.verse]#masos#{ltr}, [.verse]#osos#{ltr}, [.verse]#mofsim#{ltr},
+[.verse]#milchamah#{ltr}? (See <<posuk>> 4:34.)
 
 . “You have been *shown to* know that there is nothing besides G-d.” How was it shown?
 
@@ -60,7 +60,7 @@
 
 . Which mitzvos were given to them before <<matan-torah>>? Give two examples.
 
-. In <<posuk>> 5:19 it says “<<velo-yosof>>.” What are the two meanings here?
+. In <<posuk>> 5:19 it says “[.verse]#velo-yosof#{ltr}.” What are the two meanings here?
 
 . After the Jews heard the divine voice from <<har-sinai>>, they got fearful. Why? What did they request from Moshe? What did Hashem say about it?
 
@@ -78,7 +78,7 @@
 
 . How does a person get to love Hashem (according to the context here)?
 
-. Why is the word <<veshinantam>> used here for the study and teaching of Torah?
+. Why is the word [.verse]#veshinantam#{ltr} used here for the study and teaching of Torah?
 
 . How is the relationship between a <<rebbi>> (teacher) and <<talmid>> (student) described here?
 
@@ -112,8 +112,7 @@
 
 . *Hard question:* Prove that a son of a Jewish mother and a non-Jewish father is considered Jewish, but not a son of a non-Jewish mother and Jewish father.
 
-. Explain the differences: <<mizbeyach>>, <<matzeivo>>, <<ashairo>>,
-<<pesilim>>. (See <<posuk>> 7:6.)
+. Explain the differences: [.verse]#mizbeyach#{ltr}, [.verse]#matzeivo#{ltr}, [.verse]#ashairo#{ltr}, [.verse]#pesilim#{ltr}. (See <<posuk>> 7:6.)
 
 . “Not because of your greatness (in population),” etc. What different traits of Jews and non-Jews are described here (according to the Midrash)? Examples?
 

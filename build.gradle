@@ -23,63 +23,41 @@ asciidoctor {
 
   sourceDir asciidocSourceDir
   inputs.dir(asciidocSourceDir)
-
   sources {
     include 'book.adoc'
     include 'index.adoc'
   }
 
   outputDir asciidocOutputDir
-
+  outputs.dir(asciidocOutputDir)
   outputOptions {
-    backends = [
-      'pdf',
-      'html5',
-      'multipage_html5',
-    ]
-  }
-
-  doFirst {
-    project.delete(asciidocOutputDir)
+    backends = ['pdf', 'html5', 'multipage_html5']
   }
 
   doLast {
-    project.sync {
-      from "$asciidocOutputDir/multipage_html5"
-      into "$siteDir/html"
-    }
-    project.sync {
-      from "$asciidocOutputDir/html5"
-      into "$siteDir/html-one"
-    }
-    project.sync {
-      from "$asciidocOutputDir/pdf"
-      into "$siteDir/pdf"
+    project.copy {
+      into siteDir
+
+      from "$asciidocOutputDir/html5/styles.css"
+      from "$asciidocOutputDir/html5/index.html"
+      from "$asciidocOutputDir/html5/book.html"
+      from "$asciidocOutputDir/pdf/book.pdf"
     }
     project.copy {
-      from "$asciidocOutputDir/html5/index.html"
-      into siteDir
+      into "$siteDir/html"
+      from "$asciidocOutputDir/multipage_html5"
+      exclude 'index.html'
     }
+  }
+
+  asciidoctorj {
+    modules.pdf.version '2.3.4'
+    requires 'asciidoctor-multipage'
   }
 
   attributes = [
-    reproducible: true,
-    revdate: '2023-04-09',
-    title: 'The Chumash Questions: A workbook for the weekly Torah portion based on the commentary of Rashi; includes holiday questions. 2nd edition.',
-    author: 'Rabbi Dovid Wichnin',
-    favicon: '/images/favicon-author.png',
-    docinfo: 'shared',
-    docinfodir: "$asciidocSourceDir/docinfo/",
-    'allow-uri-read': true,
-    sectlinks: true,
-    sectanchors: true,
-    'hide-uri-scheme': true
+    'allow-uri-read': true // API/CLI only
   ]
-
-  asciidoctorj {
-    requires 'asciidoctor-multipage'
-    modules.pdf.version '2.3.4'
-  }
 }
 
 build.dependsOn(asciidoctor)
@@ -87,13 +65,10 @@ build.dependsOn(asciidoctor)
 final String httpPort = '8080'
 tasks.register('serveSite', Exec) {
   group = 'documentation'
-
   dependsOn(asciidoctor)
-
   doFirst {
     logger.lifecycle("Serving " + siteDir + " on port " + httpPort)
   }
-
   workingDir siteDir
   commandLine 'python', '-m', 'http.server', httpPort
 }

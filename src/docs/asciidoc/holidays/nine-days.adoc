@@ -17,7 +17,7 @@ Based on the Kitzur <<shulchon-oruch>>, Chapters 122-125 and Rabbi Eider’s “
 
 . May some people eat meat? Is chicken different in this <<halacha>>?
 
-. What is a <<siyum>>? When is it made? Who can participate? Why?
+. What is a [.verse]#siyum#{ltr}? When is it made? Who can participate? Why?
 
 . Why is it prohibited to launder clothes? Is wearing freshly laundered clothes permitted?
 

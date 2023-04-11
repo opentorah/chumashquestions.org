@@ -15,11 +15,11 @@
 
 . Why did Moshe compliment Betzalel, saying, “You were in the shadow of Hashem”?
 
-. How many <<moneh>> does a regular <<kikar>> hold? A ‘holy’ kikar?
+. How many [.verse]#moneh#{ltr} does a regular [.verse]#kikar#{ltr} hold? A ‘holy’ [.verse]#kikar#{ltr}?
 
 . How do we get a number (count) of 100 <<kikar>> plus 1775 shekalim?
 
-. Which <<adonim>> were made of silver and which of copper?
+. Which [.verse]#adonim#{ltr} were made of silver and which of copper?
 
 . “They made the <<bigdei-serod>>,” etc. Prove that this does not refer to <<bigdei-kehuna>>?
 
@@ -37,7 +37,7 @@
 
 . On which day was the <<Mishkan>> put up (permanently)?
 
-. What was done with the <<shulchon>>, <<menorah>>, <<kiyor>>, and <<mizbeyach>> on that day?
+. What was done with the [.verse]#shulchon#{ltr}, [.verse]#menorah#{ltr}, [.verse]#kiyor#{ltr}, and [.verse]#mizbeyach#{ltr} on that day?
 
 . What did Moshe have to do *after* the <<Mishkan>> and <<keilim>> were set up?
 

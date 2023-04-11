@@ -1,7 +1,7 @@
 [#chukas]
 == Chukas
 
-. Why is the word <<chukah>> mentioned here? What are the two categories of mitzvos called?
+. Why is the word [.verse]#chukah#{ltr} mentioned here? What are the two categories of mitzvos called?
 
 . How many black hairs disqualify a <<para-adumah>> (red heifer)? Proof?
 

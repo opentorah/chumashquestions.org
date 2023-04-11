@@ -13,12 +13,12 @@
 
 . This subject (stealing and swearing) is repeated here for the second time. Why?
 
-. “And if the man has no relative,” etc. (5:8) Why must this refer to a <<ger>>?
+. “And if the man has no relative,” etc. (5:8) Why must this refer to a [.verse]#ger#{ltr}?
 
-. In <<posuk>> 5:9, <<terumah-term>> is mentioned but Rashi interprets this as *<<bikurim>>*.
+. In <<posuk>> 5:9, [.verse]#terumah#{ltr} is mentioned but Rashi interprets this as *<<bikurim>>*.
 Why?
 
-. Which important <<din>> do we learn here about <<bikurim>>? How does that prove the rule of our sages, “the words of Torah are poor in one place and
+. Which important [.verse]#din#{ltr} do we learn here about <<bikurim>>? How does that prove the rule of our sages, “the words of Torah are poor in one place and
 rich in another”?
 
 . What kind of authority does the owner (Yisroel) have on his tithes that are given away?

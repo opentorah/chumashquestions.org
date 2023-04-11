@@ -15,7 +15,7 @@
 
 . What were the five materials from which the garments were made?
 
-. What were the special garments of <<choshen>> and <<eifod>>?
+. What were the special garments of [.verse]#choshen#{ltr} and [.verse]#eifod#{ltr}?
 
 . What does the word <<kehuna>> (or <<Kohein>>) mean?
 
@@ -31,19 +31,19 @@
 
 . What kind of precious stones were installed in the <<choshen-hamishpot>>?
 
-. What were the <<urim-v-tumim>>? Where were they inserted?
+. What were the [.verse]#urim v'tumim#{ltr}? Where were they inserted?
 
-. In the second <<beis-hamikdash>> did they have the <<choshen>>? Complete? What other differences were there in the <<keilim>> of the second?
+. In the second <<beis-hamikdash>> did they have the [.verse]#choshen#{ltr}? Complete? What other differences were there in the <<keilim>> of the second?
 
-. What was attached to the <<choshen>> that caused Aharon to announce his arrival? What lesson in good manners could be learned from it?
+. What was attached to the [.verse]#choshen#{ltr} that caused Aharon to announce his arrival? What lesson in good manners could be learned from it?
 
-. What was the <<tzitz>>? Who wore it? When? It also has a second name. What is it? The Gemora learns out a <<din>> (law) about tefillin from the <<tzitz>>. Which?
+. What was the [.verse]#tzitz#{ltr}? Who wore it? When? It also has a second name. What is it? The Gemora learns out a [.verse]#din#{ltr} (law) about tefillin from the [.verse]#tzitz#{ltr}. Which?
 
-. The <<tzitz>> brought Hashem’s forgiveness for certain sins. Which?
+. The [.verse]#tzitz#{ltr} brought Hashem’s forgiveness for certain sins. Which?
 
-. There are two opinions about the meaning of <<tamid>> written in connection with the <<tzitz>>. What are they?
+. There are two opinions about the meaning of <<tamid>> written in connection with the [.verse]#tzitz#{ltr}. What are they?
 
-. How many garments did a regular <<Kohein>> wear? What were they? Did they wear a <<tzitz>>? Did they wear <<shatnez>> (mixture of wool and linen)?
+. How many garments did a regular <<Kohein>> wear? What were they? Did they wear a [.verse]#tzitz#{ltr}? Did they wear <<shatnez>> (mixture of wool and linen)?
 
 . If a <<Kohein>> is missing a garment, can he serve? What if he does? What were some other prohibitions in the service of the <<Kohanim>>?
 

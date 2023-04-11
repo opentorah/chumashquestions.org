@@ -73,7 +73,7 @@
 
 . May one eat before ‘<<bentching>> <<lulov>>’? On <<mivtzoyim>>?
 
-. May one enjoy the good aroma of the <<esrog>>? <<Hadasim>> (myrtle)? Why?
+. May one enjoy the good aroma of the <<esrog>>? [.verse]#Hadasim#{ltr} (myrtle)? Why?
 
 . It is said that the four species symbolize the unity of the four categories of Jews. How?
 
@@ -115,16 +115,16 @@
 
 . Explain these terms:
 [upperalpha]
-.. <<arba-minim>>
-.. <<noy-sukkah>>
-.. <<Hoshanos>>
-.. <<Aravos>>
-.. <<Hadasim>>
-.. <<Ushpizin>>
-.. <<nisuch-hamayim>>
-.. <<tefilas-geshem>>
-.. <<isru-chag>>
-.. <<chassan-torah>>
-.. <<chassan-bereishis>>
-.. <<Tikun>>
+.. [.verse]#arba-minim#{ltr}
+.. [.verse]#noy sukkah#{ltr}
+.. [.verse]#Hoshanos#{ltr}
+.. [.verse]#Aravos#{ltr}
+.. [.verse]#Hadasim#{ltr}
+.. [.verse]#Ushpizin#{ltr}
+.. [.verse]#nisuch hamayim#{ltr}
+.. [.verse]#tefilas geshem#{ltr}
+.. [.verse]#isru chag#{ltr}
+.. [.verse]#chassan torah#{ltr}
+.. [.verse]#chassan bereishis#{ltr}
+.. [.verse]#Tikun#{ltr}
 

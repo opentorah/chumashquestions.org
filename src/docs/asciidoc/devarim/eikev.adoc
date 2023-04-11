@@ -103,7 +103,7 @@
 
 . Certain things are repeated here from the parsha of <<ve-ahavta>>. Why?
 
-. “And I shall give your rain in time, <<yoreh>> and <<malkosh>>. What do these names mean? When is the right time for rain?
+. “And I shall give your rain in time, [.verse]#yoreh#{ltr} and [.verse]#malkosh#{ltr}. What do these names mean? When is the right time for rain?
 
 . What are the special blessings promised here for the grass (for animals)? For food (for humans)?
 

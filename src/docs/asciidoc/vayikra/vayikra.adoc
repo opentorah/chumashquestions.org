@@ -15,7 +15,7 @@
 
 . Why is *Adam* mentioned in connection with the <<korbanos>>?
 
-. There are six categories of <<pesulim>> in <<korbanos>>. Which?
+. There are six categories of [.verse]#pesulim#{ltr} in <<korbanos>>. Which?
 
 . If an <<Olah>> gets mixed in with other sheep, what happens?
 
@@ -53,7 +53,7 @@
 
 . What two items cannot be brought with a <<korban-minchah>>?
 
-. All <<korbanos>> required *salt*.Why is this called <<bris>> (covenant)?
+. All <<korbanos>> required *salt*.Why is this called [.verse]#bris#{ltr} (covenant)?
 
 . Most Menachos are voluntary except one. Which?
 

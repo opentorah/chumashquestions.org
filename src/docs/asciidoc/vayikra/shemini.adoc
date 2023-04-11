@@ -71,7 +71,7 @@
 
 . Are people allowed to feed non kosher meat to small children? Proof?
 
-. Carrying a sheretz (rodent) is worse than just touching it. How? (Difference between <<tumas-magah>> and <<tumas-masah>>.)
+. Carrying a sheretz (rodent) is worse than just touching it. How? (Difference between [.verse]#tumas magah#{ltr} and [.verse]#tumas masah#{ltr}.)
 
 . A person who has a sheretz for a pet, is he <<tomei>> (impure)? Proof?
 

@@ -21,7 +21,7 @@
 
 . Why is there a <<minhag>> to stay up the first night of Shavuos?
 
-. Many communities say <<Tikun>> Shavuos night (and some study). Why?
+. Many communities say [.verse]#Tikun#{ltr} Shavuos night (and some study). Why?
 
 . Why is there a <<minhag>> to daven <<Maariv>> *late* on Shavuos night?
 

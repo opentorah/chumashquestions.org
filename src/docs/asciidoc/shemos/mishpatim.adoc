@@ -15,7 +15,7 @@
 
 . What if the <<eved-ivri>> refuses to leave until after six years?
 
-. Can an <<eved-nirtza>> be a slave forever? Until when? Source?
+. Can an [.verse]#eved nirtza#{ltr} be a slave forever? Until when? Source?
 
 . Which ear is pierced? Why the *ear* (not the nose)? (Different reasons for different <<avodim>>, slaves).
 
@@ -27,7 +27,14 @@
 
 . How does a young girl go free from slavery? (Three or four ways.)
 
-. Explain these terms: <<yi-ud>>, <<simanim>>, <<naarus>>, <<bagrus>>, <<sha-ir>>, <<kesus>>, <<onah>>.
+. Explain these terms:
+[.verse]#yi-ud#,
+[.verse]#simanim#,
+[.verse]#naarus#,
+[.verse]#bagrus#,
+[.verse]#שְׁאֵר#{ltr},
+[.verse]#כְּסוּת#{ltr},
+[.verse]#עֹנָה#{ltr}.
 
 . Which two laws in the punishment for killing do we derive from <<posuk>> 12?
 
@@ -43,7 +50,7 @@
 
 . What kind of payments are required if one maimed a person?
 
-. Explain these terms: <<nezek>>, <<tzaar>>, <<ripui>>, <<sheves>>, <<boshes>>.
+. Explain these terms: [.verse]#nezek#{ltr}, [.verse]#tzaar#{ltr}, [.verse]#ripui#{ltr}, [.verse]#sheves#{ltr}, [.verse]#boshes#{ltr}.
 
 . If the master (or a stranger) kills a non-Jewish slave, what is his punishment?
 
@@ -57,9 +64,9 @@
 
 . When a person’s ox kills another ox what happens to the owner?
 
-. Explain the terms: <<mazik>>, <<nizak>>, <<tam>>, <<mu-od>>, <<kofer>>.
+. Explain the terms: [.verse]#mazik#{ltr}, [.verse]#nizak#{ltr}, [.verse]#tam#{ltr}, [.verse]#mu'od#{ltr}, [.verse]#kofer#{ltr}.
 
-. When a person makes a pit (<<bor>>), which kind of damages is he responsible for?
+. When a person makes a pit ([.verse]#bor#{ltr}), which kind of damages is he responsible for?
 
 . For which kind of stealing does the thief pay 4 times as much? 5 times? Why this difference?
 
@@ -69,17 +76,17 @@
 
 .  If animals went and trampled or ate someone’s grain, who pays for it?
 
-.  If a <<shomer-khinom>> claims the article was stolen, what happens to him?
+.  If a [.verse]#shomer khinom#{ltr} claims the article was stolen, what happens to him?
 
-.  In the case of a <<shomer-sokhor>>, when is he held responsible?
+.  In the case of a [.verse]#shomer sokhor#{ltr}, when is he held responsible?
 
-.  A person who is a <<sho-eil>> (one who borrowed), could he ever be exempt from payment?
+.  A person who is a [.verse]#sho'eil#{ltr} (one who borrowed), could he ever be exempt from payment?
 
-.  What about a person who rents a tool from someone (a <<soicher>>), how is he responsible?
+.  What about a person who rents a tool from someone (a [.verse]#soicher#{ltr}), how is he responsible?
 
 . For which kind of worship-of-idols does one get the death penalty?
 
-. What kind of prohibitions are written concerning a <<ger>> (convert)? Reason?
+. What kind of prohibitions are written concerning a [.verse]#ger#{ltr} (convert)? Reason?
 
 . What are the punishments for the mistreatment of orphans and widows?
 
@@ -87,11 +94,11 @@
 
 . What comparison is made between the soul (<<neshamah>>) at night and taking a pledge?
 
-. Where is the <<din>> of <<modeh-b-miktzas>> (partial admission) derived from?
+. Where is the [.verse]#din#{ltr} of [.verse]#modeh b'miktzas#{ltr} (partial admission) derived from?
 
-. What are the warnings given about <<bikurim>> (first fruits), <<terumah-term>> and <<maaser>>?
+. What are the warnings given about [.verse]#bikurim#{ltr} (first fruits), [.verse]#terumah#{ltr} and [.verse]#maaser#{ltr}?
 
-. Why is the <<din>> of <<pidyon-ha-ben>> (redemption of the first born) mentioned here again?
+. Why is the [.verse]#din#{ltr} of <<pidyon-ha-ben>> (redemption of the first born) mentioned here again?
 
 . “And *holy people* you shall be unto Me…”, etc. How do we become holy?
 

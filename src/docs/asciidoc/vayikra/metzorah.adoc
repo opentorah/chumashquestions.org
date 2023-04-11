@@ -11,7 +11,7 @@
 
 . The species of the birds is not mentioned. Which birds are not acceptable?
 
-. Why does the metzorah bring the <<etz-erez>>, <<shei>>, <<tolaas>>, <<ezov>>?
+. Why does the metzorah bring the [.verse]#etz erez#{ltr}, [.verse]#shei#{ltr}, [.verse]#tolaas#{ltr}, [.verse]#ezov#{ltr}?
 
 . What is done with the *two birds* (with the items from the previous question)?
 

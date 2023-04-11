@@ -1,0 +1,5 @@
+= The Chumash Questions
+
+Sources of the Rabbi Dovid Wichnin's book.
+The book is available at https://www.chumashquestions.org[].
+

@@ -105,13 +105,13 @@ say it?
 
 . Explain:
 [upperalpha]
-.. <<Tekiah>>, <<Teruah>>, <<Shevarim>>
-.. <<tekias-di-me-umad>>, <<tekias-di-meyushav>>
-.. <<me-ah-kolos>>
-.. <<kesivah-vachasimah-tovah>>
-.. <<gemar-chasimah-tovah>>
-.. <<sifron-shel-tzadikim>>, <<pidyon>>, <<ohel>>
-.. <<le-alter-lechayim>>
-.. <<shonoh-tovah-umesukah>>
-.. <<malchiyos>>, <<zichronos>>, <<shofros>>
-.. <<hatoras-nedarim>>
+.. [.verse]#Tekiah#{ltr}, [.verse]#Teruah#{ltr}, [.verse]#Shevarim#{ltr}
+.. [.verse]#tekias di'me'umad#{ltr}, [.verse]#tekias di'meyushav#{ltr}
+.. [.verse]#me'ah kolos#{ltr}
+.. [.verse]#kesivah vachasimah tovah#{ltr}
+.. [.verse]#gemar chasimah tovah#{ltr}
+.. [.verse]#sifron shel tzadikim#{ltr}, [.verse]#pidyon#{ltr}, [.verse]#ohel#{ltr}
+.. [.verse]#le'alter lechayim#{ltr}
+.. [.verse]#shonoh tovah umesukah#{ltr}
+.. [.verse]#malchiyos#{ltr}, [.verse]#zichronos#{ltr}, [.verse]#shofros#{ltr}
+.. [.verse]#hatoras nedarim#{ltr}

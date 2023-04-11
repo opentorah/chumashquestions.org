@@ -31,7 +31,7 @@
 
 . Which mitzvos and warnings are given about rebuking a friend?
 
-. What is the difference between the sins of <<loshon-horo>> and <<rechilus>>?
+. What is the difference between the sins of [.verse]#loshon-horo#{ltr} and [.verse]#rechilus#{ltr}?
 
 . What else is forbidden along with the prohibition against revenge?
 

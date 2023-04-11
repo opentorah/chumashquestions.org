@@ -37,7 +37,7 @@
 
 . Why do we take *three* matzos? What are their titles?
 
-. What do we take for <<zroah>> (according to the Lubavitcher custom)?
+. What do we take for [.verse]#zroah#{ltr} (according to the Lubavitcher custom)?
 
 . How is the <<charoses>> prepared? The salt water? Why do we eat less than a <<kezayis>>?
 
@@ -63,7 +63,7 @@
 
 . What should one do after the Seder?
 
-. When do the <<bechorim>> fast if the first day of <<Pesach>> falls on a Sunday? When is a <<siyum>> made?
+. When do the <<bechorim>> fast if the first day of <<Pesach>> falls on a Sunday? When is a [.verse]#siyum#{ltr} made?
 
 . Which new mitzvoh do we start on the second night of <<Pesach>>?
 

@@ -25,17 +25,17 @@
 
 . What strange announcement did Moshe command to announce in the camp?
 
-. How many <<adonim>> and how many <<yados>> were there per <<keresh>>?
+. How many [.verse]#adonim#{ltr} and how many [.verse]#yados#{ltr} were there per [.verse]#keresh#{ltr}?
 
-. “And Betzalel made the <<aron>>,” etc. Did he personally make it?
+. “And Betzalel made the [.verse]#aron#{ltr},” etc. Did he personally make it?
 
 . The order of the <<Mishkan>> work is different here than in parshas Terumah. How?
 
-. What special contribution did the women bring for the <<kiyor>>?
+. What special contribution did the women bring for the [.verse]#kiyor#{ltr}?
 
 . Was Moshe happy to accept it? Why? What did Hashem say to him?
 
-. Why was the women’s contribution used for the <<kiyor>>?
+. Why was the women’s contribution used for the [.verse]#kiyor#{ltr}?
 
 . Which items that were needed for the <<avodah>> (service) are not mentioned here?
 
@@ -44,7 +44,7 @@
 [discrete]
 ==== Extra
 [start=21]
-. What were the dimensions of the following: <<mizbeyach-ha-olah>>, <<mizbeyach-hazahav>>, <<aron>>, <<shulchon>>, <<menorah>>, <<kiyor>>?
+. What were the dimensions of the following: [.verse]#mizbeyach-ha-olah#{ltr}, [.verse]#mizbeyach-hazahav#{ltr}, [.verse]#aron#{ltr}, [.verse]#shulchon#{ltr}, [.verse]#menorah#{ltr}, [.verse]#kiyor#{ltr}?
 
 . Why is the prohibition against fire on <<Shabbos>> mentioned here? (See Sforno, Rambam.)
 

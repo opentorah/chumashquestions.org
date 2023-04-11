@@ -23,7 +23,7 @@
 
 . When a person uproots idols, how is he supposed to do it? Proof?
 
-. Not just the idols must be destroyed, but also the *<<mizbeyach>>*, *<<matzeivo>>*, the *<<ashairo>>*, and even the *names* of the idols. Explain.
+. Not just the idols must be destroyed, but also the *[.verse]#mizbeyach#{ltr}*, *[.verse]#matzeivo#{ltr}*, the *[.verse]#ashairo#{ltr}*, and even the *names* of the idols. Explain.
 
 . “Don’t do such (things) to Hashem.” What is being prohibited here?
 
@@ -117,7 +117,7 @@
 
 . What is the rule about eating <<maaser-sheini>> (where, how, etc)?
 
-. Explain: <<leket>>, <<shikcha>>, <<pe-ah>>, <<hefker>>.
+. Explain: [.verse]#leket#{ltr}, [.verse]#shikcha#{ltr}, [.verse]#pe'ah#{ltr}, [.verse]#hefker#{ltr}.
 
 . Why are all the above *exempt* from the obligation of <<maaser>>?
 

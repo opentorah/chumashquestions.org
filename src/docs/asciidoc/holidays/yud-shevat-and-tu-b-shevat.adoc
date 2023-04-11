@@ -19,9 +19,9 @@
 
 . How are spiritual fire and water different than the physical types?
 
-. Why was the <<Mishkan>> built with <<sheetim>> wood?
+. Why was the [.verse]#Mishkan#{ltr} built with [.verse]#sheetim#{ltr} wood?
 
-. What is the definition of <<shtus-d-kedusha>> and shtus of <<klipah>>?
+. What is the definition of <<shtus-d-kedusha>> and shtus of [.verse]#klipah#{ltr}?
 
 . Which example of <<shtus-d-kedusha>> is brought from the Gemora?
 

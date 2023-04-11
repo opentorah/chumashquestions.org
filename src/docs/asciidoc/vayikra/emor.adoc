@@ -45,7 +45,7 @@
 
 . May a <<Kohein>>’s daughter who is married to a Levi eat <<terumah-term>>? When?
 
-. If a non-<<Kohein>> eats <<terumah-term>>, <<beshogeig>> or <<bemeizid>>, what happens to him? Can he atone for it in some way?
+. If a non-<<Kohein>> eats [.verse]#terumah#{ltr}, [.verse]#beshogeig#{ltr} or [.verse]#bemeizid#{ltr}, what happens to him? Can he atone for it in some way?
 
 . What is the difference between a <<neder>> and a <<nedava>>?
 

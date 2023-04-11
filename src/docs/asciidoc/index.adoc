@@ -1,3 +1,14 @@
-= {title}
+= The Chumash Questions
+:author: Rabbi Dovid Wichnin
+:srcDir: {docfile}/..
+:linkcss:
+:copycss: {srcDir}/styles.css
+:stylesdir: .
+:stylesheet: styles.css
+:docinfo: shared
+:docinfodir: {srcDir}
+:reproducible:
+:revdate: 2023-04-09
+:hide-uri-scheme:
 
-include::{docfile}/../colophon.adoc[]
+include::{srcDir}/colophon.adoc[]

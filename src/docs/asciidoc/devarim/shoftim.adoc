@@ -51,12 +51,12 @@
 
 . How many lambs must one be shearing to be obligated in <<reishis hagez>>?
 
-. Can a <<Kohein>> work during a time which is not his <<mishmor>> (period)? Does he share in the <<korbanos>> if he did work? Explain.
+. Can a <<Kohein>> work during a time which is not his [.verse]#mishmor#{ltr} (period)? Does he share in the <<korbanos>> if he did work? Explain.
 
 . “Do not *learn to do* their abomination,” etc. Can you *sometimes* learn it?
 
-. Explain the following: <<kosem>>, <<me-onen>>, <<menachesh>>, <<mechashef>>,
-<<chover>>.
+. Explain the following: [.verse]#kosem#{ltr}, [.verse]#me'onen#{ltr}, [.verse]#menachesh#{ltr}, [.verse]#mechashef#{ltr},
+[.verse]#chover#{ltr}.
 
 . Because the non-Jewish nations do all of the above, they’re punished. How?
 
@@ -100,9 +100,9 @@
 
 . “Yiftach in his generation is like Shmuel in his.” What is meant by this?
 
-. When are the *contradicted witnesses* (<<edim-zomemin>>) punished? How? When not?
+. When are the *contradicted witnesses* ([.verse]#edim zomemin#{ltr}) punished? How? When not?
 
-. In which case is it said that the <<edim-zomemin>> are punished like the man but not like the woman?
+. In which case is it said that the [.verse]#edim zomemin#{ltr} are punished like the man but not like the woman?
 
 . Are the witnesses punished privately or publicly? Proof?
 
