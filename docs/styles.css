@@ -11,3 +11,7 @@
 .verse {
     /*direction: rtl;*/
 }
+
+/*.verse::after {*/
+/*    content: "\E2808E";*/
+/*}*/

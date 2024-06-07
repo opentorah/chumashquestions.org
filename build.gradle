@@ -1,40 +1,65 @@
 plugins {
+  id 'base'
   id 'com.github.ben-manes.versions' version '0.44.0'
-  id 'org.asciidoctor.jvm.gems'      version '3.3.2'
-  id 'org.asciidoctor.jvm.convert'   version '3.3.2'
-  id 'org.asciidoctor.jvm.pdf'       version '3.3.2'
 }
 
 repositories {
   mavenCentral()
-  ruby.gems()
-}
-
-dependencies {
-  asciidoctorGems 'rubygems:asciidoctor-multipage:0.0.16'
 }
 
 final File asciidocSourceDir = file("$projectDir/src/docs/asciidoc/")
+//final File buildDirectory = layout.buildDirectory.asFile.get()
 final File asciidocOutputDir = file("$buildDir/docs/asciidoc")
 final File siteDir = file("$projectDir/docs")
 
-asciidoctor {
-  dependsOn(asciidoctorGemsPrepare)
+final List<String> asciidoctorArgs = [
+  "--source-dir=$asciidocSourceDir",
+  '--verbose',
+  '--trace',
+  "--attribute=allow-uri-read=true",
+//  "--attribute=reproducible=true",
+//  "--attribute=toclevels=1",
+//  "--attribute=multipage-level=1",
+//  "--attribute=hide-uri-scheme=true",
 
-  sourceDir asciidocSourceDir
-  inputs.dir(asciidocSourceDir)
-  sources {
-    include 'book.adoc'
-    include 'index.adoc'
+  // Note: only when both the `--source-dir` is specified *and* there is a glob in the input files
+  // does Asciidoctor preserve the directory structure: https://github.com/asciidoctor/asciidoctor/issues/1394
+  "**/book.adoc",
+  "**/index.adoc"
+]
+
+ext.asciidoctorRun = { additionalArguments ->
+  exec {
+    executable = "asciidoctor"
+    args = additionalArguments + asciidoctorArgs
   }
+}
 
-  outputDir asciidocOutputDir
+tasks.register('asciidoctorExternal') {
+  group = 'documentation'
+
   outputs.dir(asciidocOutputDir)
-  outputOptions {
-    backends = ['pdf', 'html5', 'multipage_html5']
-  }
+  inputs.dir(asciidocSourceDir)
 
   doLast {
+    // Note: there seems to be no analogue for the Asciidoctor Gradle plugin's
+    // `separateOutputDirs` (https://asciidoctor.github.io/asciidoctor-gradle-plugin/development-3.x/user-guide/),
+    // so I am running Asciidoctor separately for each backend with appropriate `--destination-dir`.
+    asciidoctorRun([
+      "--destination-dir=$asciidocOutputDir/multipage_html5",
+      "--require=asciidoctor-multipage",
+      "--backend=multipage_html5"
+    ])
+    asciidoctorRun([
+      "--destination-dir=$asciidocOutputDir/html5",
+      "--backend=html5"
+    ])
+    asciidoctorRun([
+      "--destination-dir=$asciidocOutputDir/pdf",
+      "--require=asciidoctor-pdf",
+      "--backend=pdf"
+    ])
+
     project.copy {
       into siteDir
 
@@ -49,23 +74,16 @@ asciidoctor {
       exclude 'index.html'
     }
   }
-
-  asciidoctorj {
-    modules.pdf.version '2.3.4'
-    requires 'asciidoctor-multipage'
-  }
-
-  attributes = [
-    'allow-uri-read': true // API/CLI only
-  ]
 }
 
-build.dependsOn(asciidoctor)
+tasks.named('build') {
+  dependsOn(asciidoctorExternal)
+}
 
 final String httpPort = '8080'
 tasks.register('serveSite', Exec) {
   group = 'documentation'
-  dependsOn(asciidoctor)
+  dependsOn(asciidoctorExternal)
   doFirst {
     logger.lifecycle("Serving " + siteDir + " on port " + httpPort)
   }
