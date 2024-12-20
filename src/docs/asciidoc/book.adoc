@@ -24,7 +24,7 @@ include::{srcDir}/colophon.adoc[]
 
 include::{srcDir}/dedication.adoc[]
 
-include::{srcDir}/acknowledgements.adoc[]
+include::{srcDir}/acknowledgments.adoc[]
 
 include::{srcDir}/about-author.adoc[]
 

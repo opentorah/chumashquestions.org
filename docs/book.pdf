@@ -4402,7 +4402,7 @@ endobj
 << /Border [0 0 0]
 /A << /Type /Action
 /S /URI
-/URI (/html/acknowledgements.html)
+/URI (/html/acknowledgments.html)
 >>
 /Subtype /Link
 /Rect [66.93 647.24 164.60079 661.52]
@@ -195719,7 +195719,7 @@ endobj
 endobj
 1808 0 obj
 << /Limits [(ach) (amos)]
-/Names [(ach) 1807 0 R (acharei) 869 0 R (acknowledgements) 48 0 R (akdamus) 1809 0 R (akeidah) 1810 0 R (al-hanissim) 1811 0 R (aliyah) 1812 0 R (aliyos) 1813 0 R (am-yisroel) 1815 0 R (amos) 1814 0 R]
+/Names [(ach) 1807 0 R (acharei) 869 0 R (acknowledgments) 48 0 R (akdamus) 1809 0 R (akeidah) 1810 0 R (al-hanissim) 1811 0 R (aliyah) 1812 0 R (aliyos) 1813 0 R (am-yisroel) 1815 0 R (amos) 1814 0 R]
 >>
 endobj
 1809 0 obj
@@ -210047,7 +210047,7 @@ endobj
 endobj
 2265 0 obj
 << /Border [0 0 0]
-/Dest (acknowledgements)
+/Dest (acknowledgments)
 /Subtype /Link
 /Rect [48.24 711.83 145.91079 726.11]
 /Type /Annot
@@ -210055,7 +210055,7 @@ endobj
 endobj
 2266 0 obj
 << /Border [0 0 0]
-/Dest (acknowledgements)
+/Dest (acknowledgments)
 /Subtype /Link
 /Rect [541.1705 711.83 547.04 726.11]
 /Type /Annot
