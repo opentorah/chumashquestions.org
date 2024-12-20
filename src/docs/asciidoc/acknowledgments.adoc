@@ -1,6 +1,6 @@
-[#acknowledgements]
+[#acknowledgments]
 [acknowledgments]
-== Acknowledgements
+== Acknowledgments
 
 [discrete]
 === Second Edition

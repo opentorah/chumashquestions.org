@@ -5,7 +5,7 @@ Published by the http://www.opentorah.org[Open Torah Project].
 
 This is a re-publication of Rabbi Wichnin's Chumash Questions book, first edition of which, published in 1995, is long since out of print.
 People who made this publication possible are listed in the
-link:/html/acknowledgements.html[Acknowledgements].
+link:/html/acknowledgments.html[Acknowledgments].
 
 Corrections, additions and suggestions are welcome at dub@chumashquestions.org.
 

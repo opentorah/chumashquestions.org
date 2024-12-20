@@ -42,7 +42,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Avrohom Hillel Weissman sent in some stuff;
 - added missing questions to parshas Pinchas, Shoftim, Mishpatim, Yisro, Vayikra;
 - added questions for parshas Bereishis that were added to his copy of the book;
-- added acknowledgement;
+- added acknowledgment;
 
 ## [] - 2015-02-01
 - publishing site repository at www.chumashquestions.org.
@@ -53,7 +53,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Maven-standard layout and build;
 - moved TODOs to GitHub issues;
 - HTML stylesheet;
-- README.md, Preface 2e, colophon and acknowledgements.
+- README.md, Preface 2e, colophon and acknowledgments.
 
 ## [] - 2014-09-17
 - holiday questions;
