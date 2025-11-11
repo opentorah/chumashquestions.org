@@ -1,6 +1,6 @@
 plugins {
   id 'base'
-  id 'com.github.ben-manes.versions' version '0.44.0'
+  id 'com.github.ben-manes.versions' version '0.53.0'
 }
 
 repositories {
@@ -9,7 +9,7 @@ repositories {
 
 final File asciidocSourceDir = file("$projectDir/src/docs/asciidoc/")
 //final File buildDirectory = layout.buildDirectory.asFile.get()
-final File asciidocOutputDir = file("$buildDir/docs/asciidoc")
+final File asciidocOutputDir = file("${layout.buildDirectory.get()}/docs/asciidoc")
 final File siteDir = file("$projectDir/docs")
 
 final List<String> asciidoctorArgs = [
