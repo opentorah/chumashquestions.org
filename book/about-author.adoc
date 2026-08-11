@@ -2,9 +2,9 @@
 [preface]
 = Rabbi Dovid Wichnin, 1938-1995
 
-image:http://www.chumashquestions.org/images/tombstone.png[tombstone]
+image:../assets/images/tombstone.png[tombstone]
 
-image:http://www.chumashquestions.org/images/author.png[]
+image:../assets/images/author.png[]
     
 Rabbi, teacher, mentor, counselor, guide, <<mashpia>>. Which word best describes Rabbi Dovid Wichnin, z”l? All of the above and more. In a word, he was a <<Chossid>> of the Rebbe striving to carry out his <<shlichus>>.
 
