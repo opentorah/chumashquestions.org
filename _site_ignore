@@ -1,0 +1,5 @@
+docs/
+book/*
+!book/book.adoc
+!book/index.adoc
+docinfo.html

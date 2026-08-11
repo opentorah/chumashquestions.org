@@ -5,3 +5,4 @@ build/
 out/
 *.log
 /Gemfile.lock
+/_site/

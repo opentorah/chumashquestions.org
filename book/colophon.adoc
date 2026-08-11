@@ -1,0 +1,34 @@
+A workbook for the weekly Torah portion based on the commentary of Rashi; includes holiday questions.
+
+Second edition.
+Published by the http://www.opentorah.org[Open Torah Project].
+
+This is a re-publication of Rabbi Wichnin's Chumash Questions book, first edition of which, published in 1995, is long since out of print.
+People who made this publication possible are listed in the
+link:/book/book/acknowledgments.html[Acknowledgments].
+
+Corrections, additions and suggestions are welcome at dub@chumashquestions.org.
+
+The book is hosted by
+https://pages.github.com/[GitHub Pages] at
+http://www.chumashquestions.org in multiple formats:
+link:/book/book/book.html[chunked HTML],
+link:/book/book.html[one HTML file],
+link:/book/book.pdf[PDF].
+
+The sources are hosted by https://github.com[GitHub] at
+https://github.com/opentorah/chumashquestions.org.
+https://support.google.com/drive/answer/176692?hl=en&co=GENIE.Platform%3DDesktop[Google Drive]
+was used for optical character recognition.
+Book sources in https://docs.asciidoctor.org[Asciidoc] authored in
+https://www.jetbrains.com/idea/[IntelliJ Idea].
+Built with https://gradle.org/[Gradle] using
+https://github.com/dubinsky/site-publisher[Podval site publisher].
+
+Copyright 1995-2023 by the Wichnin family.
+On behalf of the copyright holders, Rabbi Nachmon Dov Wichnin re-licensed the book,
+making it available to be widely distributed, printed, copied and used.
+The book is licensed under the
+http://creativecommons.org/licenses/by-nc-nd/4.0/[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License].
+
+image:https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png[]

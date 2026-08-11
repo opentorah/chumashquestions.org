@@ -1,0 +1,42 @@
+---
+author: Rabbi Dovid Wichnin
+modified_time: 2023-04-09
+toc-depth: 2
+chunk: true
+chunk-depth: 2
+pdf: true
+---
+:doctype: book
+
+= The Chumash Questions
+
+[#colophon]
+[colophon]
+= Colophon
+include::colophon.adoc[]
+
+include::dedication.adoc[]
+
+include::acknowledgments.adoc[]
+
+include::about-author.adoc[]
+
+include::foreword.adoc[]
+
+include::introduction.adoc[]
+
+include::notes.adoc[]
+
+include::bereishis/bereishis-index.adoc[]
+
+include::shemos/shemos-index.adoc[]
+
+include::vayikra/vayikra-index.adoc[]
+
+include::bamidbar/bamidbar-index.adoc[]
+
+include::devarim/devarim-index.adoc[]
+
+include::holidays/holidays-index.adoc[]
+
+include::glossary.adoc[]
