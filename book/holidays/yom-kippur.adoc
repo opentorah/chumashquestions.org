@@ -91,15 +91,15 @@
 
 . Explain these terms:
 [upperalpha]
-.. [.verse]#avodah#{ltr}
-.. [.verse]#ne'ilah#{ltr}
-.. [.verse]#Duchenen#{ltr}
-.. [.verse]#kohein-gadol#{ltr}
-.. [.verse]#asara harugei malchus#{ltr}
-.. [.verse]#chamisha inuyim#{ltr}
-.. [.verse]#kori'in#{ltr}
-.. [.verse]#Tevilohs#{ltr}
-.. [.verse]#bigdei lavan#{ltr}
-.. [.verse]#bigdei zahav#{ltr}
-.. [.verse]#sei'ir la'azazel#{ltr}
-.. [.verse]#gemar-chasimah-tovah#{ltr}
+.. [.verse]#avodah#
+.. [.verse]#ne'ilah#
+.. [.verse]#Duchenen#
+.. [.verse]#kohein-gadol#
+.. [.verse]#asara harugei malchus#
+.. [.verse]#chamisha inuyim#
+.. [.verse]#kori'in#
+.. [.verse]#Tevilohs#
+.. [.verse]#bigdei lavan#
+.. [.verse]#bigdei zahav#
+.. [.verse]#sei'ir la'azazel#
+.. [.verse]#gemar-chasimah-tovah#

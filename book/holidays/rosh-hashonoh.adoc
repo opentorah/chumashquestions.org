@@ -105,13 +105,13 @@ say it?
 
 . Explain:
 [upperalpha]
-.. [.verse]#Tekiah#{ltr}, [.verse]#Teruah#{ltr}, [.verse]#Shevarim#{ltr}
-.. [.verse]#tekias di'me'umad#{ltr}, [.verse]#tekias di'meyushav#{ltr}
-.. [.verse]#me'ah kolos#{ltr}
-.. [.verse]#kesivah vachasimah tovah#{ltr}
-.. [.verse]#gemar chasimah tovah#{ltr}
-.. [.verse]#sifron shel tzadikim#{ltr}, [.verse]#pidyon#{ltr}, [.verse]#ohel#{ltr}
-.. [.verse]#le'alter lechayim#{ltr}
-.. [.verse]#shonoh tovah umesukah#{ltr}
-.. [.verse]#malchiyos#{ltr}, [.verse]#zichronos#{ltr}, [.verse]#shofros#{ltr}
-.. [.verse]#hatoras nedarim#{ltr}
+.. [.verse]#Tekiah#, [.verse]#Teruah#, [.verse]#Shevarim#
+.. [.verse]#tekias di'me'umad#, [.verse]#tekias di'meyushav#
+.. [.verse]#me'ah kolos#
+.. [.verse]#kesivah vachasimah tovah#
+.. [.verse]#gemar chasimah tovah#
+.. [.verse]#sifron shel tzadikim#, [.verse]#pidyon#, [.verse]#ohel#
+.. [.verse]#le'alter lechayim#
+.. [.verse]#shonoh tovah umesukah#
+.. [.verse]#malchiyos#, [.verse]#zichronos#, [.verse]#shofros#
+.. [.verse]#hatoras nedarim#

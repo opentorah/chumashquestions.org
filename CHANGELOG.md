@@ -7,6 +7,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [] - 2026-08-
 - switched to Podval site publisher;
+- feat: favicon, license;
+- correct handling of Hebrew;
 - updates;
 
 ## [] - 2024-06-
