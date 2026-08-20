@@ -7,7 +7,7 @@ Based on the Kitzur <<shulchon-oruch>>, Chapters 122-125 and Rabbi Eider’s “
 
 . Is it permissible to cut nails during the Nine Days?
 
-. “Mishenichnas Av memaatin besimcha.” Does this include Rosh Chodesh?
+. “[.verse]#מִי שֶׁנִּכְנַס אָב מְמַעֲטִין בְּשִׂמְחָה#.” Does this include Rosh Chodesh?
 
 . If one has a lawsuit in court, what should he try to do? Why?
 
@@ -17,7 +17,7 @@ Based on the Kitzur <<shulchon-oruch>>, Chapters 122-125 and Rabbi Eider’s “
 
 . May some people eat meat? Is chicken different in this <<halacha>>?
 
-. What is a [.verse]#siyum#? When is it made? Who can participate? Why?
+. What is a [.verse]#סִיּוּם#? When is it made? Who can participate? Why?
 
 . Why is it prohibited to launder clothes? Is wearing freshly laundered clothes permitted?
 

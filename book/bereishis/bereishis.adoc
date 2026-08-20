@@ -31,9 +31,9 @@ These questions for parshas Bereishis (which were found in handwritten form) wer
 
 . How did the upper waters remain standing in their place?
 
-. Why is “ki tov” not mentioned on the second day but mentioned twice on the third?
+. Why is “[.verse]#כִּי טוֹב#” not mentioned on the second day but mentioned twice on the third?
 
-. Why is heaven called shamayim? (Three reasons.)
+. Why is heaven called [.verse]#שָׁמַיִם#? (Three reasons.)
 
 . If all the seas are really one body of water, why are they called “seas,” in plural, instead of “sea,” in the singular?
 

@@ -15,7 +15,7 @@
 
 . Why is *Adam* mentioned in connection with the <<korbanos>>?
 
-. There are six categories of [.verse]#pesulim# in <<korbanos>>. Which?
+. There are six categories of [.verse]#פְּסוּלִים# in <<korbanos>>. Which?
 
 . If an <<Olah>> gets mixed in with other sheep, what happens?
 
@@ -37,9 +37,9 @@
 
 . Why are the doves burned on the <<mizbeyach>> with their *wings*?
 
-. Regarding both sheep and fowl, it says, _‘Reyach nichoach laShem.’_ What does this teach us?
+. Regarding both sheep and fowl, it says, _‘[.verse]#רֵיחַ נִיחֹחַ לַה׳#.’_ What does this teach us?
 
-. Why does it say _‘Venefesh ki sakriv’_ only in reference to a <<korban-minchah>>?
+. Why does it say _‘[.verse]#וְנֶפֶשׁ כִּי תַקְרִיב#’_ only in reference to a <<korban-minchah>>?
 
 . Which parts of a <<korban-minchah>> could be done by non-<<Kohanim>>? Which part must the <<Kohein>> do?
 
@@ -53,7 +53,7 @@
 
 . What two items cannot be brought with a <<korban-minchah>>?
 
-. All <<korbanos>> required *salt*.Why is this called [.verse]#bris# (covenant)?
+. All <<korbanos>> required *salt*. Why is this called [.verse]#בְּרִית# (covenant)?
 
 . Most Menachos are voluntary except one. Which?
 

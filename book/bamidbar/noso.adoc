@@ -13,12 +13,12 @@
 
 . This subject (stealing and swearing) is repeated here for the second time. Why?
 
-. “And if the man has no relative,” etc. (5:8) Why must this refer to a [.verse]#ger#?
+. “And if the man has no relative,” etc. (5:8) Why must this refer to a [.verse]#גֵּר#?
 
-. In <<posuk>> 5:9, [.verse]#terumah# is mentioned but Rashi interprets this as *<<bikurim>>*.
+. In <<posuk>> 5:9, [.verse]#תְּרוּמָה# is mentioned but Rashi interprets this as *<<bikurim>>*.
 Why?
 
-. Which important [.verse]#din# do we learn here about <<bikurim>>? How does that prove the rule of our sages, “the words of Torah are poor in one place and
+. Which important [.verse]#דִּין# do we learn here about <<bikurim>>? How does that prove the rule of our sages, “the words of Torah are poor in one place and
 rich in another”?
 
 . What kind of authority does the owner (Yisroel) have on his tithes that are given away?
@@ -84,7 +84,7 @@ David?
 
 . Find an example here to the saying of the Mishna, “One mitzvoh brings another one.”
 
-. Who paid for these gifts, the nasi or his tribe? Proof?
+. Who paid for these gifts, the [.verse]#נָשִׂיא# or his tribe? Proof?
 
 . “He offered. . .he offered his <<korban>>,” etc. Why is ‘he offered’ repeated in connection with the tribe of Yissochor?
 
@@ -92,7 +92,7 @@ David?
 
 . What is the significance of these numbers: 930, 130, 500, 20, 7O, 10?
 
-. Which nasi brought his <<korban>> (gift) on <<Shabbos>>? (See Baal Haturim.)
+. Which [.verse]#נָשִׂיא# brought his <<korban>> (gift) on <<Shabbos>>? (See Baal Haturim.)
 
 . Why is the weight of the utensils mentioned separately and also together?
 

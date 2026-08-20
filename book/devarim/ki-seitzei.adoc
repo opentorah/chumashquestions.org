@@ -53,7 +53,7 @@
 
 . Prove that the Torah considers a child’s (even a grown child’s) behavior a reflection of his or her upbringing.
 
-. What are the two penalties for a [.verse]#motzi sheim rah#?
+. What are the two penalties for a [.verse]#מוֹצִיא שֵׁם רַע#?
 
 . Who is punished more severely, an engaged woman or a married woman who sinned?
 
@@ -93,7 +93,7 @@
 
 . A person who is working in someone’s vineyard, may he eat lots of grapes?
 
-. How does a divorce ([.verse]#get#) proceed? May the divorced couple remarry each other?
+. How does a divorce ([.verse]#גֵּט#) proceed? May the divorced couple remarry each other?
 
 . The first year of marriage, the exemption from the draft is bigger than other exemptions. How?
 
@@ -117,17 +117,17 @@
 
 . There is one mitzvoh which can *never* be done with <<kavana>>! Which?
 
-. Do we give [.verse]#pe'ah# from fruit trees? Proof?
+. Do we give [.verse]#פֵּאָה# from fruit trees? Proof?
 
 . What is *incorrect* in this statement: The prohibition against muzzling (closing the mouth) of animals is applicable only ‘for an ox while he threshes the grain’?
 
-. Why is the subject of [.verse]#malkos# written next to the above prohibition?
+. Why is the subject of [.verse]#מַלְקוֹת# written next to the above prohibition?
 
 . Prove that it is against the Torah law to hit a person (even a bad person).
 
-. In what cases does the mitzvoh of [.verse]#yibum# *not* apply?
+. In what cases does the mitzvoh of [.verse]#יִבּוּם# *not* apply?
 
-. And where does [.verse]#chalitzah# apply? How is it done?
+. And where does [.verse]#חֲלִיצָה# apply? How is it done?
 
 . What is Amalek compared to?
 

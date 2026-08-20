@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - switched to Podval site publisher;
 - feat: favicon, license;
 - correct handling of Hebrew;
+- feat: restored transliterations to their originals;
 - updates;
 
 ## [] - 2024-06-

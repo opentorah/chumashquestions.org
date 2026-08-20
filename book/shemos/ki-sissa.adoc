@@ -7,7 +7,7 @@
 
 . How was Moshe shown the half-Shekel? What else was he shown in this way?
 
-. How many [.verse]#zuzim# in a Shekel? How many [.verse]#geira# in a [.verse]#zuz#?
+. How many [.verse]#זוּזִים# in a Shekel? How many [.verse]#גֵּרָה# in a [.verse]#זוּז#?
 
 . Why is the word <<terumah-term>> mentioned three times?
 
@@ -15,9 +15,9 @@
 
 . Why was the count exactly the same both times? Was there a miracle in it?
 
-. What was the [.verse]#kiyor#? Who used it? For what?
+. What was the [.verse]#כִּיּוֹר#? Who used it? For what?
 
-. Which <<halacha>> is derived from the <<parsha>> of [.verse]#kiyor#?
+. Which <<halacha>> is derived from the <<parsha>> of [.verse]#כִּיּוֹר#?
 
 . What did the oil contain besides the olive oil?
 
@@ -38,7 +38,8 @@ what?
 
 . Into how many portions was it divided? Why? What about the extras?
 
-. How does Rashi explain [.verse]#chochma#, [.verse]#tevuna#, [.verse]#daas#? Is this similar to the explanation given in Tanya for [.verse]#chochma#, [.verse]#binah#, [.verse]#daas#? How?
+. How does Rashi explain [.verse]#חָכְמָה#, [.verse]#תְּבוּנָה#, [.verse]#דַּעַת#?
+Is this similar to the explanation given in Tanya for [.verse]#חָכְמָה#, [.verse]#בִּינָה#, [.verse]#דַּעַת#? How?
 
 . Why is the subject of <<Shabbos>> mentioned here?
 
@@ -46,7 +47,7 @@ what?
 
 . For whom is this sign intended? Purpose?
 
-. What are the punishments for desecrating the <<Shabbos>>? [.verse]#beshogeig#, [.verse]#bemeizid#, [.verse]#behasraah#?
+. What are the punishments for desecrating the <<Shabbos>>? [.verse]#בְּשׁוֹגֵג#, [.verse]#בְּמֵזִיד#, [.verse]#בְּהַתְרָאָה#?
 
 . Why is <<Shabbos>> called <<shabbos-shabbaton>>? What else is called by this title?
 
@@ -54,7 +55,7 @@ what?
 
 . What wording is used in the Hebrew version of the above rule?
 
-. Why is the Torah likened to a [.verse]#kallah#? (Two reasons.)
+. Why is the Torah likened to a [.verse]#כַּלָּה#? (Two reasons.)
 
 . How was it possible for Moshe to learn the whole Torah in such a short time?
 
@@ -68,7 +69,7 @@ what?
 
 . Who actually donated the jewelry? Proof?
 
-. After Aharon threw the gold into the fire, *who* produced the [.verse]#egel hazahav# (golden calf)? (Two opinions.)
+. After Aharon threw the gold into the fire, *who* produced the [.verse]#עֵגֶל הַזָּהָב# (golden calf)? (Two opinions.)
 
 . Prove that the mixed multitude of <<erev-rav>> (Egyptian converts) started the whole thing.
 
@@ -172,7 +173,7 @@ what?
 
 . Why is Hashem mentioned twice in the 13 Attributes of Mercy? Explain. Why the need for mercy before the sin?
 
-. Explain the following (two meanings): _notzer chesed la’alafim; noseh avon vafesha; vechatah; venakeh; lo yenakeh_.
+. Explain the following (two meanings): _[.verse]#נֹצֵר חֶסֶד לָאֲלָפִים#; [.verse]#נֹשֵׂא עָוֹן וָפֶשַׁע#; [.verse]#וְחַטָּאָה#; [.verse]#וְנַקֵּה#; [.verse]#לֹא יְנַקֶּה#_.
 
 . Prove that the <<midoh-tovah>> is *500 times* greater than the <<midoh-poranius>>.
 
@@ -186,7 +187,8 @@ what?
 
 . “They shouldn’t come empty handed to see me.” (34:20) What are the two meanings here?
 
-. “And you shall rest from plowing and harvesting.” What does this teach us about <<Shabbos>>? What other interpretation is there concerning the laws of the seventh year (Shmittah)?
+. “And you shall rest from plowing and harvesting.” What does this teach us about <<Shabbos>>?
+What other interpretation is there concerning the laws of the seventh year (Shmittah)?
 
 . Why are some prohibitions (and mitzvos) repeated several times in the Torah?
 
@@ -206,7 +208,7 @@ what?
 [start=100]
 . When else do we read the first part of this parsha?
 
-. When do we recite the <<pesukim>> of [.verse]#veshomru# (31:16)?
+. When do we recite the <<pesukim>> of [.verse]#וְשָׁמְרוּ# (31:16)?
 
 . When do we read (from the Torah) <<pesukim>> 34:1-10? Why?
 

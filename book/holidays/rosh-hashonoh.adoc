@@ -105,13 +105,13 @@ say it?
 
 . Explain:
 [upperalpha]
-.. [.verse]#Tekiah#, [.verse]#Teruah#, [.verse]#Shevarim#
-.. [.verse]#tekias di'me'umad#, [.verse]#tekias di'meyushav#
-.. [.verse]#me'ah kolos#
-.. [.verse]#kesivah vachasimah tovah#
-.. [.verse]#gemar chasimah tovah#
-.. [.verse]#sifron shel tzadikim#, [.verse]#pidyon#, [.verse]#ohel#
-.. [.verse]#le'alter lechayim#
-.. [.verse]#shonoh tovah umesukah#
-.. [.verse]#malchiyos#, [.verse]#zichronos#, [.verse]#shofros#
-.. [.verse]#hatoras nedarim#
+.. [.verse]#תְּקִיעָה#, [.verse]#תְּרוּעָה#, [.verse]#שְׁבָרִים#
+.. [.verse]#תְּקִיעַת דִּמְעוּמָד#, [.verse]#תְּקִיעַת דִּמְיוּשָׁב#
+.. [.verse]#מֵאָה קוֹלוֹת#
+.. [.verse]#כְּתִיבָה וַחֲתִימָה טוֹבָה#
+.. [.verse]#גְּמַר חֲתִימָה טוֹבָה#
+.. [.verse]#סִפְרָן שֶׁל צַדִּיקִים#, [.verse]#פִּדְיוֹן#, [.verse]#אֹהֶל#
+.. [.verse]#לְאַלְתַּר לְחַיִּים#
+.. [.verse]#שָׁנָה טוֹבָה וּמְתוּקָה#
+.. [.verse]#מַלְכִיּוֹת#, [.verse]#זִכְרוֹנוֹת#, [.verse]#שׁוֹפָרוֹת#
+.. [.verse]#הַתָּרַת נְדָרִים#

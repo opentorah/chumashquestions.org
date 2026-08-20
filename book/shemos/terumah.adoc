@@ -29,17 +29,17 @@
 
 . What other parts did the <<aron>> have besides the ‘boxes’ and the ‘crown’?
 
-. What were these: [.verse]#taba'os#, [.verse]#badim#, [.verse]#eidus#, [.verse]#kapores#, [.verse]#za'ir#, [.verse]#tzalos#?
+. What were these: [.verse]#טַבָּעֹת#, [.verse]#בַּדִּים#, [.verse]#עֵדֻת#, [.verse]#כַּפֹּרֶת#, [.verse]#זֵר#, [.verse]#צַלְעֹת#?
 
-. How many [.verse]#keruvim# were there? How were they made? What kind of ‘face’ did they have? Where were the [.verse]#keruvim# located?
+. How many [.verse]#כְּרֻבִים# were there? How were they made? What kind of ‘face’ did they have? Where were the [.verse]#כְּרֻבִים# located?
 
 . “And I shall speak to you from on top of the <<kapores>>.” Where did the Voice really come from and where did Moshe hear it?
 
-. The [.verse]#shulchon# (table) also had a ‘crown.’ Why? Where was it placed?
+. The [.verse]#שֻׁלְחָן# (table) also had a ‘crown.’ Why? Where was it placed?
 
-. What other parts did the [.verse]#shulchon# have? What food was on it?
+. What other parts did the [.verse]#שֻׁלְחָן# have? What food was on it?
 
-. Why is the bread called [.verse]#lechem *hapanim*#? Who ate it? When?
+. Why is the bread called [.verse]#לֶחֶם *הַפָּנִים*#? Who ate it? When?
 
 . Why does it say the <<menorah>> *should be made* rather than *you shall make it*?
 
@@ -51,17 +51,17 @@
 
 . What was the roof of the <<Mishkan>> made of? Dimensions?
 
-. How many boards ([.verse]#kerashim#) did they use? Dimensions of each [.verse]#keresh#?
+. How many boards ([.verse]#קְרָשִׁים#) did they use? Dimensions of each [.verse]#קֶרֶשׁ#?
 
-. What were the [.verse]#adonim#? What were they used for? How many were there? Which donations went into the making of the [.verse]#adonim#?
+. What were the [.verse]#אֲדָנִים#? What were they used for? How many were there? Which donations went into the making of the [.verse]#אֲדָנִים#?
 
-. What were the [.verse]#brichim#, [.verse]#tabaas#, [.verse]#yados#?
+. What were the [.verse]#בְּרִיחִים#, [.verse]#טַבַּעַת#, [.verse]#יָדוֹת#?
 
-. What was the [.verse]#paroches#? What was it used for? Dimensions?
+. What was the [.verse]#פָּרֹכֶת#? What was it used for? Dimensions?
 
-. What was the name of the [.verse]#paroches# in the (first) <<beis-hamikdash>>? Dimensions?
+. What was the name of the [.verse]#פָּרֹכֶת# in the (first) <<beis-hamikdash>>? Dimensions?
 
-. Where was each of these placed: [.verse]#shulchon#, [.verse]#menorah#, [.verse]#aron#?
+. Where was each of these placed: [.verse]#שֻׁלְחָן#, [.verse]#מְנֹרָה#, [.verse]#אָרוֹן#?
 
 . The Gemora says that if one wants to pray for wisdom he should turn southward, and for riches, northward. Can you find a reason for it here?
 
@@ -69,41 +69,41 @@
 
 . What other <<keilim>> belonged to the <<mizbeyach>>? What were they made of? Which part of the <<mizbeyach>> was similar (by name and purpose) to the <<aron>> and <<shulchon>>?
 
-. How big was the [.verse]#chatzeir# (courtyard) of the <<Mishkan>>? And its curtains?
+. How big was the [.verse]#חָצֵר# (courtyard) of the <<Mishkan>>? And its curtains?
 
-. What was the purpose of the [.verse]#masach# for the <<Mishkan>> and the one for the [.verse]#chatzeir#? Their dimensions?
+. What was the purpose of the [.verse]#מָסָךְ# for the <<Mishkan>> and the one for the [.verse]#חָצֵר#? Their dimensions?
 
 . Is there a mitzvoh that still applies in our times (also) that we learn from this parsha?
 
 . Define and state the purpose of these:
 [upperalpha]
-.. [.verse]#Vovim#
-.. [.verse]#Amudim#
-.. [.verse]#Siros#
-.. [.verse]#ya'im#
-.. [.verse]#Mizrkos#
-.. [.verse]#Mizlgos#
-.. [.verse]#Machtos#
-.. [.verse]#Michbar#
-.. [.verse]#Karkov#
-.. [.verse]#Reshes#
-.. [.verse]#Kilayim#
-.. [.verse]#Kronos#
-.. [.verse]#Yeseidos#
-.. [.verse]#Krosim#
-.. [.verse]#Lulaos#
-.. [.verse]#Malkochos#
-.. [.verse]#Kaftorim#
-.. [.verse]#Konim#
-.. [.verse]#Gviyim#
-.. [.verse]#Prachim#
-.. [.verse]#Ke'oros#
-.. [.verse]#Kapos#
-.. [.verse]#Ksavos#
-.. [.verse]#Menakiyos#
-.. [.verse]#Misgeres#
-.. [.verse]#za'ir#
-.. [.verse]#Kenafayim#
+.. [.verse]#וָוִים#
+.. [.verse]#עַמֻּדִים#
+.. [.verse]#סִירֹת#
+.. [.verse]#יָעִים#
+.. [.verse]#מִזְרָקֹת#
+.. [.verse]#מִזְלָגֹת#
+.. [.verse]#מַחְתֹּת#
+.. [.verse]#מִכְבָּר#
+.. [.verse]#כַּרְכֹּב#
+.. [.verse]#רֶשֶׁת#
+.. [.verse]#קְלָעִים#
+.. [.verse]#קַרְנֹת#
+.. [.verse]#יְתֵדֹת#
+.. [.verse]#קְרָסִים#
+.. [.verse]#לֻלָאֹת#
+.. [.verse]#מַלְקָחֹת#
+.. [.verse]#כַּפְתֹּרִים#
+.. [.verse]#קָנִים#
+.. [.verse]#גְּבִיעִים#
+.. [.verse]#פְּרָחִים#
+.. [.verse]#קְעָרֹת#
+.. [.verse]#כַּפֹּת#
+.. [.verse]#קְשָׂוֹת#
+.. [.verse]#מְנַקִּיּוֹת#
+.. [.verse]#מִסְגֶּרֶת#
+.. [.verse]#זֵר#
+.. [.verse]#כְּנָפַיִם#
 
 . There are five (or six) <<pesukim>> in the Torah which contain a word that could be read with the first half *or* with the second half of the <<posuk>>. These doubts have not been resolved. This <<parsha>> has one of these <<pesukim>>. Which is it?
 

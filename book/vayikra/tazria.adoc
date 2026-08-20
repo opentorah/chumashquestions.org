@@ -21,11 +21,11 @@
 
 . When is a person locked up for a *second time*? For how long?
 
-. Sometimes the person is declared <<tahor>> yet must wash ([.verse]#towel#) himself and his clothes. Why?
+. Sometimes the person is declared <<tahor>> yet must wash ([.verse]#טוֹבֵל#) himself and his clothes. Why?
 
 . After being locked up what has to happen to his <<negah>> to make him <<tomei>>? <<tahor>>?
 
-. What is the general difference between these: [.verse]#s'ais#, [.verse]#sapachas#, [.verse]#baheres#?
+. What is the general difference between these: [.verse]#שְׂאֵת#, [.verse]#סַפַּחַת#, [.verse]#בַּהֶרֶת#?
 
 . May a <<Kohein>> decide on a person with a <<negah>> by *getting information* about its condition? Proof?
 
@@ -37,9 +37,9 @@
 
 . If a <<Kohein>> mistakenly declares a person ‘<<tahor>>’ who is really <<tomei>>, is it OK?
 
-. Explain these: [.verse]#nesek#, [.verse]#bohak#, [.verse]#tzareves#, [.verse]#keireiach#, [.verse]#giveiach#.
+. Explain these: [.verse]#נֶתֶק#, [.verse]#בֹּהַק#, [.verse]#צָרֶבֶת#, [.verse]#קֵרֵחַ#, [.verse]#גִּבֵּחַ#.
 
-. What is a <<metzorah>> supposed to do to his clothes? To his hair? What does he announce?
+. What is a [.verse]#מְצֹרָע# supposed to do to his clothes? To his hair? What does he announce?
 
 . What kind of clothes (materials) can develop <<negayim>>? What colors are they?
 
