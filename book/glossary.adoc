@@ -4,7 +4,6 @@
 
 [glossary]
 
-[[ach]]ach:: but, only
 [[akdamus]]akdamus::
 [[akeidah]]akeidah::
 [[al-hanissim]]Al Hanissim::
@@ -21,12 +20,10 @@
 [[aseres-yemei-teshuvah]]Aseres Yemei Teshuvah:: Ten Days of Repentance
 [[Asham]]Asham::
 [[atah-chonantanu]]Atah Chonantanu::
-[[atzeres]]Atzeres::
 [[aveiro]]aveiro:: sin
 [[aveiros]]aveiros:: sins
 [[av-hatumah]]Av Hatumah::
 [[avi-avos-hatumah]]Avi Avos Hatumah::
-[[Avim]]Avim::
 [[avinu-malkeinu]]Avinu Malkeinu::
 [[avneit]]avneit:: belt
 [[avodah]]avodah:: service
@@ -34,7 +31,6 @@
 [[avodah-zorah]]avodah zorah::
 [[avodim]]avodim::
 [[Avos]]Avos:: Patriarchs
-[[Avraich]]Avraich::
 
 [[baal-koreh]]baal koreh::
 [[baal-tashcis]]baal tashcis::
@@ -49,7 +45,6 @@
 [[bechorim]]bechorim:: firstborn
 [[bedikas-chametz]]bedikas chametz::
 [[beged]]beged:: garment
-[[behaaloscha-term]]behaaloscha::
 [[behasraah]]behasraah::
 [[beis-hamikdash]]Beis Hamikdash:: Sanctuary
 [[beis-medrash]]beis medrash::
@@ -58,7 +53,6 @@
 [[bentching]]bentching::
 [[besomim]]besomim:: spices
 [[bigdei-kehuna]]bigdei kehuna::
-[[bigdei-serod]]bigdei serod::
 [[bikurim]]bikurim::
 [[bimah]]bimah::
 [[birkas-kohanim]]Birkas Kohanim::
@@ -84,7 +78,6 @@
 [[Chumash]]Chumash::
 [[chumrahs]]chumrahs:: restrictions
 
-[[Damesek]]Damesek::
 [[dever]]dever:: death
 [[dor-haflaga]]dor haflaga:: generation of dispersion
 
@@ -93,19 +86,16 @@
 [[Erev]]Erev::
 [[erev-rav]]erev rav:: Egyptian converts
 [[eruv-tavshillin]]eruv tavshillin::
-[[Esek]]Esek::
 [[esrog]]esrog::
 [[eved-ivri]]eved Ivri:: Jewish slave
 
 [[galus-bavel]]Galus Bavel:: Babylonian Exile
-[[garti]]garti:: I lived
 [[gebrokts]]gebrokts::
 [[Gehinom]]Gehinom::
 [[goel-hadam]]goel hadam:: avenger of the blood
 [[Golus]]Golus:: Exile
 
 [[ha-anakah]]ha’anakah:: farewell gift
-[[hai]]hai::
 [[Hakofos]]Hakofos::
 [[halacha]]halacha:: Jewish law
 [[Hallel]]Hallel::
@@ -113,7 +103,6 @@
 [[haneiros-halalu]]Haneiros Halalu::
 [[har-sinai]]Har Sinai:: Mount Sinai
 [[hashgocha-protis]]hashgocha protis:: divine providence
-[[hayom]]hayom:: today
 [[hechsher]]hechsher::
 [[hekdesh]]hekdesh::
 [[hisgalus]]hisgalus::
@@ -126,7 +115,6 @@
 
 [[Kadaish]]Kadaish::
 [[Kaddish]]Kaddish::
-[[Kaftorim]]Kaftorim::
 [[kal-vachomer]]kal vachomer::
 [[kapitl]]kapitl:: psalm
 [[kapores]]kapores::
@@ -135,7 +123,6 @@
 [[kavod]]kavod:: honor
 [[kedoshim-kalim]]kedoshim kalim::
 [[kedusha]]kedusha:: sanctity
-[[kehuna]]kehuna::
 [[keilim]]keilim:: utensils
 [[kesones-pasim]]kesones pasim::
 [[ketores]]ketores:: incense
@@ -145,7 +132,6 @@
 [[kiddush-levana]]Kiddush Levana::
 [[kikar]]kikar::
 [[kilayim]]:: mixing
-[[kiryas-arba]]Kiryas Arba:: City of Four
 [[kittel]]kittel:: white robe/coat
 [[kodshai-kedoshim]]kodshai kedoshim::
 [[Kohanim]]Kohanim:: priests
@@ -165,7 +151,6 @@
 [[trop]]laining ‘trop’:: cantillation/musical notes
 [[lechem]]lechem:: bread
 [[lechem-hapanim]]lechem hapanim:: showbread
-[[lechem-oni]]lechem oni:: bread of poverty
 [[lekach]]lekach:: honey-cake
 [[likutei-sichos]]Likutei Sichos::
 [[likutei-torah]]Likutei Torah::
@@ -173,7 +158,6 @@
 [[Luchos]]Luchos:: tablets
 [[lulov]]lulov:: four species
 
-[[ma-acheles]]ma’acheles::
 [[maamar]]maamar::
 [[maamorim]]maamorim::
 [[Maariv]]Maariv:: evening prayer
@@ -237,14 +221,12 @@
 [[mussar]]mussar:: rebuke
 
 [[naar]]naar:: youngster
-[[naaseh-venishmah]]Naaseh venishmah:: we shall do and we shall listen
 [[nachas]]nachas:: pleasure
 [[Nazir]]Nazir::
 [[neder]]neder:: vow
 [[nedorim]]nedorim::
 [[nedava]]nedava::
 [[nedovos]]nedovos::
-[[Nefesh]]Nefesh::
 [[nefesh-habahamis]]nefesh habahamis::  animal soul
 [[negah]]negah::
 [[negayim]]negayim::
@@ -253,12 +235,10 @@
 [[nesiyim]]nesiyim:: heads of tribes; princes
 [[neshamah]]neshamah:: soul
 [[nesochim]]nesochim:: wine and oil offerings
-[[Neviah]]Neviah:: Prophetess
 [[Nevi-im]]Nevi’im:: Prophets
 [[niftar]]niftar::
 [[nisim]]nisim:: miracles
 
-[[ohel-moed]]Ohel Moed::
 [[Olah]]Olah:: sacrifice
 [[olom-haboh]]Olom Haboh:: the World to Come
 [[osos]]osos::
@@ -276,19 +256,15 @@
 [[porim]]porim:: bulls
 [[posuk]]posuk:: verse
 [[posul]]posul::
-[[pri-eitz-hadar]]pri eitz hadar::
 [[pshat]]pshat::
 
 [[rasha]]rasha:: sinner
 [[Razal]]Razal:: our Sages
 [[rebbi]]rebbi:: teacher
-[[Rechovos]]Rechovos::
-[[Refayim]]Refayim::
 [[reishis-hagez]]reishis hagez::
 [[reshayim]]reshayim:: sinners
 [[ribono-shel-olom]]Ribono Shel Olom::
 [[Rishon]]Rishon::
-[[Risma]]Risma::
 [[ruach-hakodesh]]ruach hakodesh:: divine inspiration
 [[ruchniyus]]ruchniyus:: spirituality
 
@@ -301,7 +277,6 @@
 [[sefira]]Sefira::
 [[sei-ir-la-azazel]]Sei’ir la’azazel::
 [[Shabbos]]Shabbos::
-[[shabbos-shabbaton]]Shabbos Shabbaton::
 [[Shacharis]]Shacharis:: morning prayer
 [[shalach-manos]]shalach manos::
 [[shalosh-seudos]]Shalosh Seudos::
@@ -324,21 +299,17 @@
 [[shiluach-hakan]]shiluach hakan::
 [[shira]]shira:: song
 [[shiva]]shiva::
-[[Shiveh]]Shiveh::
 [[shlichus]]shlichus::
 [[Shlomim]]Shlomim::
 [[shloshim]]shloshim::
-[[shma-yisroel]]Shma Yisroel::
 [[shmurah]]shmurah:: hand-baked matzo
 [[shnayim-mikrah-v-echad-targum]]Shnayim mikrah v’echad targum::
 [[shoham]]shoham::
-[[shonoh]]shonoh:: year
 [[shtus-d-kedusha]]shtus d’kedusha::
 [[shulchon]]shulchon:: table
 [[shulchon-oruch]]Shulchon Oruch::
 [[shvi-i-shel-pesach]]Shvi’i shel Pesach:: the seventh day of Pesach
 [[simchas-beis-hashoevah]]Simchas Beis Hashoevah::
-[[Sitnah]]Sitnah::
 [[smicha]]smicha:: rabbinical ordination
 [[Sotah]]Sotah::
 [[Sukkos]]Sukkos::  TODO 2 omonims
@@ -349,13 +320,10 @@
 [[tahor]]tahor:: pure
 [[taiva]]taiva:: ark/box
 [[talmid]]talmid:: student
-[[tam]]tam::
 [[Tamid]]Tamid::
-[[tamid]]tamid:: steadily
 [[techiyas-hameisim]]techiyas hameisim:: resurrection of the dead
 [[teichef-umiyad-mamash]]teichef umiyad mamash::
 [[Tekiah]]Tekiah::
-[[tenufah]]tenufah:: lifting
 [[terumah-term]]terumah::
 [[terumos]]terumos::
 [[terumas-hadeshen]]terumas hadeshen::
@@ -365,26 +333,20 @@
 [[tochecha]]Tochecha:: curses, punishments
 [[tomei]]tomei:: impure
 [[torah-shebe-al-peh]]Torah Shebe’al Peh:: Oral Law
-[[totafos]]totafos:: tefillin
 [[tumah]]tumah:: impurity
 [[tzadik]]tzadik:: righteous person
 [[tzadikim]]tzadikim:: righteous persons
-[[tzav-term]]tzav:: command
 [[tzedakah]]tzedakah:: charity
 [[tzefardeia]]tzefardeia:: frogs
 [[tzitzis]]tzitzis::
 [[tzoraas]]tzoraas::
 
-[[uforatzto]]uforatzto::
-
-[[vayishokaihu]]vayishokaihu::
 [[ve-ahavta]]Ve’ahavta::
 [[Vehaya]]Vehaya::
 [[Vezos-Habracha]]Vezos Habracha::
 [[Vidui]]Vidui:: confession statement
 [[vlad-hatumah]]vlad hatumah:: second level tumah
 
-[[yad]]yad:: hand
 [[yam-suf]]Yam Suf:: the Red Sea
 [[Yarden]]Yarden:: Jordan
 [[yehi-ratzon]]Yehi Ratzon::
@@ -397,7 +359,6 @@
 [[yom-tov-aliyas-haregel]]Yom Tov aliyas haregel:: going up to the <<beis-hamikdash>> for the holidays
 [[yotzei]]yotzei:: exempt
 [[Yovel]]Yovel::
-[[yud]]yud::
 [[yud-shvat]]Yud Shvat::
 
 [[zav]]zav::

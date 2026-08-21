@@ -3,7 +3,7 @@
 
 . Why is this parsha written right next to the parsha of the <<nesiyim>>?
 
-. Rashi gives two reasons why the word <<behaaloscha-term>> is used. What are they?
+. Rashi gives two reasons why the word [.verse]#בְּהַעֲלֹתְךָ# is used. What are they?
 
 . What is the meaning of the mitzvoh, “*toward the front of the <<menorah>>,*” etc? The reason for it?
 
@@ -19,7 +19,7 @@
 
 . Why did the whole community have to gather at the dedication of the Levi’im?
 
-. Why is the word <<tenufah>> (lifting) mentioned here three times?
+. Why is the word [.verse]#תְּנוּפָה# (lifting) mentioned here three times?
 
 . Why are there differences in words of the <<pesukim>> in connection with the lifting?
 

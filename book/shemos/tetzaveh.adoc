@@ -7,7 +7,7 @@
 
 . Which oil was kosher for a <<korban-minchah>> but not for the <<menorah>>? Why?
 
-. How is the word <<tamid>> (steadily) interpreted in the halachos of the <<menorah>> differently than in the halachos of the <<lechem-hapanim>> (showbread)?
+. How is the word [.verse]#תָּמִיד# (steadily) interpreted in the halachos of the <<menorah>> differently than in the halachos of the <<lechem-hapanim>> (showbread)?
 
 . How much oil was poured into the <<menorah>> every night? Why?
 
@@ -17,7 +17,7 @@
 
 . What were the special garments of [.verse]#חֹשֶׁן# and [.verse]#אֵפֹד#?
 
-. What does the word <<kehuna>> (or <<Kohein>>) mean?
+. What does the word [.verse]#כְּהֻנָּה# (or <<Kohein>>) mean?
 
 . What was inscribed on the two <<shoham>> stones? What for?
 
@@ -41,7 +41,7 @@
 
 . The [.verse]#צִיץ# brought Hashem’s forgiveness for certain sins. Which?
 
-. There are two opinions about the meaning of <<tamid>> written in connection with the [.verse]#צִיץ#. What are they?
+. There are two opinions about the meaning of [.verse]#תָּמִיד# written in connection with the [.verse]#צִיץ#. What are they?
 
 . How many garments did a regular <<Kohein>> wear? What were they? Did they wear a [.verse]#צִיץ#? Did they wear <<shatnez>> (mixture of wool and linen)?
 

@@ -1,7 +1,7 @@
 [#tzav]
 == Tzav
 
-. According to Rabbi Shimon, why does it say here ‘<<tzav-term>>’ (command) instead of ‘[.verse]#דַּבֵּר#’ (speak)?
+. According to Rabbi Shimon, why does it say here ‘[.verse]#צַו#’ (command) instead of ‘[.verse]#דַּבֵּר#’ (speak)?
 
 . What does <<posuk>> 2 tell us about the fats and limbs?
 
@@ -37,7 +37,7 @@
 
 . “Take Aharon,” etc. How is Moshe supposed to take him?
 
-. “And gather the community at the door of the <<ohel-moed>>.” What for?
+. “And gather the community at the door of the [.verse]#אֹהֶל מוֹעֵד#.” What for?
 
 . What special miracle occurred at this gathering?
 

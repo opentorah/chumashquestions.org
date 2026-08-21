@@ -31,7 +31,7 @@
 
 . What kind of questions did Eisov ask his father? What for?
 
-. Yaakov is described as a ‘<<tam>>’ and a ‘sitter in tents.’ Explain.
+. Yaakov is described as a ‘[.verse]#תָּם#’ and a ‘sitter in tents.’ Explain.
 
 . Why did Yaakov cook a soup of *lentils* on *that day*?
 
@@ -51,7 +51,7 @@
 
 . What did the Plishtim do to Yitzchak’s wells? Reasons (the real, and the other)?
 
-. Why were Yitzchak’s new wells called <<Esek>>, <<Sitnah>>, <<Rechovos>>, and <<Shiveh>>?
+. Why were Yitzchak’s new wells called [.verse]#עֵשֶׂק#, [.verse]#שִׂטְנָה#, [.verse]#רְחֹבוֹת#, and [.verse]#שִׁבְעָה#?
 
 . After Avimelech *sent* Yitzchak away, he *came down to visit* Yitzchak. What reasons did Avimelech
 give for both actions?

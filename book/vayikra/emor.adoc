@@ -91,9 +91,9 @@
 
 . How do we sanctify Yom Kippur? And the other <<yomim-tovim>>?
 
-. Why is the name <<atzeres>> given to the last day of <<Sukkos>>? The example for it?
+. Why is the name [.verse]#עֲצֶרֶת# given to the last day of <<Sukkos>>? The example for it?
 
-. Why is the <<esrog>> called <<pri-eitz-hadar>>?
+. Why is the <<esrog>> called [.verse]#פְּרִי עֵץ הָדָר#?
 
 . Why was the western light of the <<menorah>> called ‘testimony’?
 

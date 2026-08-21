@@ -68,7 +68,7 @@
 
 . Was Moshe happy about the request? Why? The proof?
 
-. How does Rashi explain the great statement of “<<shma-yisroel>>” (in <<posuk>> 1)?
+. How does Rashi explain the great statement of “[.verse]#שְׁמַע יִשְׂרָאֵל#” (in <<posuk>> 1)?
 
 . “And you shall love Hashem,” etc. Why is it preferable to serve out of love rather than fear?
 
@@ -86,7 +86,7 @@
 
 . “When you go to sleep and when you wake up.” What mitzvoh is meant here?
 
-. How does the word <<totafos>> mean tefillin?
+. How does the word [.verse]#טוֹטָפֹת# mean tefillin?
 
 . Prove that we aren’t obligated to put mezuzos on *both* doorposts.
 
@@ -122,7 +122,7 @@
 
 . His enemies also get rewarded. Why? Is it good for them?
 
-. Twice in the parsha is the word <<hayom>> (today) emphasized (“That I command you *today*”). What are the two messages here?
+. Twice in the parsha is the word [.verse]#הַיּוֹם# (today) emphasized (“That I command you *today*”). What are the two messages here?
 
 . What is the special name and mood for this <<Shabbos>>?
 
