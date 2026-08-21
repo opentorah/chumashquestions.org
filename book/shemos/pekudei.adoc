@@ -17,7 +17,7 @@
 
 . How many [.verse]#מָנֶה# does a regular [.verse]#כִּכָּר# hold? A ‘holy’ [.verse]#כִּכָּר#?
 
-. How do we get a number (count) of 100 <<kikar>> plus 1775 shekalim?
+. How do we get a number (count) of 100 <<kikar>> plus 1775 Shekalim?
 
 . Which [.verse]#אֲדָנִים# were made of silver and which of copper?
 
