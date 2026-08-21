@@ -1,13 +1,13 @@
 [#nine-days]
 == The ‘Nine Days’
 
-Based on the Kitzur <<shulchon-oruch>>, Chapters 122-125 and Rabbi Eider’s “Summary of Halachos of the Three Weeks”.
+Based on the <<Kitzur>> <<shulchon-oruch>>, Chapters 122-125 and Rabbi Eider’s “Summary of <<halachos>> of the <<Three-Weeks>>”.
 
 . May engagements take place during the Nine Days? How?
 
 . Is it permissible to cut nails during the Nine Days?
 
-. “[.verse]#מִי שֶׁנִּכְנַס אָב מְמַעֲטִין בְּשִׂמְחָה#.” Does this include Rosh Chodesh?
+. “<<mi-shenichnas-av>>.” Does this include <<Rosh-Chodesh>>?
 
 . If one has a lawsuit in court, what should he try to do? Why?
 
@@ -17,7 +17,7 @@ Based on the Kitzur <<shulchon-oruch>>, Chapters 122-125 and Rabbi Eider’s “
 
 . May some people eat meat? Is chicken different in this <<halacha>>?
 
-. What is a [.verse]#סִיּוּם#? When is it made? Who can participate? Why?
+. What is a <<siyum>>? When is it made? Who can participate? Why?
 
 . Why is it prohibited to launder clothes? Is wearing freshly laundered clothes permitted?
 
@@ -27,11 +27,11 @@ Based on the Kitzur <<shulchon-oruch>>, Chapters 122-125 and Rabbi Eider’s “
 
 . How does one ‘prepare’ clean clothes for the ‘Nine Days’?
 
-. Are linen, towels, or tablecloths included in the <<issur>> (prohibition)?
+. Are linen, towels, or tablecloths included in the <<issur>>?
 
 . Which of the above prohibitions are lifted for <<Shabbos>>?
 
-. May one purchase new sneakers for Tisha B’Av? Why?
+. May one purchase new sneakers for <<Tisha-B-Av>>? Why?
 
 . Needlework and embroidery are prohibited. How about repairing and patching?
 
@@ -41,11 +41,11 @@ Based on the Kitzur <<shulchon-oruch>>, Chapters 122-125 and Rabbi Eider’s “
 
 . May one wash one’s face, hands, or feet with cold or warm water?
 
-. From the seventh day of Av, restrictions are more serious. Why?
+. From the seventh day of <<Av>>, restrictions are more serious. Why?
 
-. How is Havdala made on Motzei <<Shabbos>> (parshas Matos/Masei)?
+. How is <<Havdala>> made on <<Motzei-Shabbos>> (<<parshas>> Matos/Masei)?
 
-. The <<Shabbos>> prior to Tisha B’Av has a special name. What? Why?
+. The <<Shabbos>> prior to <<Tisha-B-Av>> has a special name. What? Why?
 
 . Is singing permissible during the Nine Days?
 

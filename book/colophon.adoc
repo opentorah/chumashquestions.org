@@ -25,7 +25,7 @@ https://www.jetbrains.com/idea/[IntelliJ Idea].
 Built with https://gradle.org/[Gradle] using
 https://github.com/dubinsky/site-publisher[Podval site publisher].
 
-Copyright 1995-2023 by the Wichnin family.
+Copyright 1995-2026 by the Wichnin family.
 On behalf of the copyright holders, Rabbi Nachmon Dov Wichnin re-licensed the book,
 making it available to be widely distributed, printed, copied and used.
 The book is licensed under the

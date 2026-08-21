@@ -1,5 +1,5 @@
 [#devarim-index]
-= Chumash Devarim
+= <<Chumash>> Devarim
 
 include::devarim.adoc[]
 

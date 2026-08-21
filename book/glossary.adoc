@@ -4,363 +4,926 @@
 
 [glossary]
 
-[[akdamus]]akdamus::
-[[akeidah]]akeidah::
-[[al-hanissim]]Al Hanissim::
+[[Aba-Chonon]]Aba Chonon::
+[[ach]][.hebrew]#אַךְ#:: but, only
+[[Achashverosh]]Achashverosh::
+[[Agag]]Agag::
+[[Adam]]Adam::
+[[adanim]][.hebrew]#אֲדָנִים#::
+[[Adar]]Adar::
+[[Afikoman]]Afikoman::
+[[Aharon]]Aharon::
+[[akdamus]][.hebrew]#אַקְדָמוּת#::
+[[akeidah]][.hebrew]#עֲקֵידָה#:: binding
+[[al-hanissim]][.hebrew]#עַל הַנִּסִּים#::
+[[aleph]][.hebrew]#אָלֶף#::
 [[aliyah]]aliyah::
 [[aliyos]]aliyos::
-[[amos]]amos::
+[[Alter-Rebbe]]Alter Rebbe::
 [[am-yisroel]]Am Yisroel:: the Jewish nation
-[[ana-bekoach]]Ana Bekoach::
-[[arbeh]]arbeh:: locusts
-[[arei-miklot]]arei miklot:: cities of refuge
-[[aron]]aron:: ark
-[[arov]]arov:: wild animals
-[[aseres-hadibros]]Aseres Hadibros:: Ten Commandments
+[[Amalek]]Amalek::
+[[Amon]]Amon::
+[[amos]][.hebrew]#אַמּוֹת#::
+[[amudim]][.hebrew]#עַמֻּדִים#::
+[[ana-bekoach]][.hebrew]#אָנָּא בְּכֹחַ#::
+[[Antoninus]]Antoninus::
+[[aravos]][.hebrew]#עֲרָבוֹת#::
+[[arba-minim]][.hebrew]#אַרְבַּע מִינִים#::
+[[arbeh]][.hebrew]#אַרְבֶּה#:: locusts
+[[Arad]]Arad::
+[[arei-miklot]][.hebrew]#עָרֵי מִקְלָט#:: cities of refuge
+[[aron]][.hebrew]#אָרוֹן#:: ark
+[[Arnon]]Arnon::
+[[arov]][.hebrew]#עָרֹב#:: wild animals
+[[asarah-harugei-malchus]][.hebrew]#עֲשָׂרָה הֲרוּגֵי מַלְכוּת#::
+[[aseres-hadibros]][.hebrew]#עֲשֶׂרֶת הַדִּבְּרוֹת#:: Ten Commandments
 [[aseres-yemei-teshuvah]]Aseres Yemei Teshuvah:: Ten Days of Repentance
-[[Asham]]Asham::
-[[atah-chonantanu]]Atah Chonantanu::
+[[Asham]][.hebrew]#אָשָׁם#::
+[[asheirah]][.hebrew]#אֲשֵׁרָה#::
+[[Asher]]Asher::
+[[Ashkenazim]]Ashkenazim::
+[[Ashur]]Ashur::
+[[atah-chonantanu]][.hebrew]#אַתָּה חוֹנַנְתָּנוּ#::
+[[atzeres]][.hebrew]#עֲצֶרֶת#::
+[[av-hatumah]][.hebrew]#אַב הַטֻּמְאָה#::
 [[aveiro]]aveiro:: sin
 [[aveiros]]aveiros:: sins
-[[av-hatumah]]Av Hatumah::
-[[avi-avos-hatumah]]Avi Avos Hatumah::
+[[avi-avos-hatumah]][.hebrew]#אֲבִי אֲבוֹת הַטֻּמְאָה#::
+[[Av]]Av::
+[[Avihu]]Avihu::
+[[avim]][.hebrew]#עַוִּים#::
+[[Avimelech]]Avimelech::
 [[avinu-malkeinu]]Avinu Malkeinu::
-[[avneit]]avneit:: belt
-[[avodah]]avodah:: service
-[[avodas-ha-korbonos-b-ruchnius]]avodas ha’korbonos b’ruchnius
-[[avodah-zorah]]avodah zorah::
+[[Avirom]]Avirom::
+[[avneit]][.hebrew]#אַבְנֵט#:: belt
+[[avodah]][.hebrew]#עֲבוֹדָה#:: service
+[[avodah-zorah]][.hebrew]#עֲבוֹדָה זָרָה#::
+[[avodas-ha-korbonos-b-ruchnius]][.hebrew]#עֲבוֹדַת הַקָּרְבָּנוֹת בְּרוּחְנִיּוּת#::
 [[avodim]]avodim::
 [[Avos]]Avos:: Patriarchs
+[[avreich]][.hebrew]#אַבְרֵךְ#::
+[[Avrohom]]Avrohom::
+[[az-yashir]][.hebrew]#אָז יָשִׁיר#::
+[[Azarya]]Azarya::
+[[Azazeil]]Azazeil::
+[[Azur]]Azur::
+[[Ari-Zal]]Ari Zal::
 
+[[Baal-Halevushim]]Baal Halevushim::
+[[Baal-Haturim]]Baal Haturim::
 [[baal-koreh]]baal koreh::
-[[baal-tashcis]]baal tashcis::
+[[baal-tashcis]][.hebrew]#בַּל תַּשְׁחִית#::
 [[baalei-teshuva]]baalei teshuva::
-[[bamah]]bamah:: private altars
-[[baruch-shem]]Baruch Shem:: second <<posuk>> of Shma
-[[basi-legani]]Bosi Legani::
+[[Baal-Shem-Tov]]Baal Shem Tov::
+[[Baal-Tzfon]]Baal Tzfon::
+[[Baba-Kama]]Baba Kama::
+[[badim]][.hebrew]#בַּדִּים#::
+[[bagrus]][.hebrew]#בַּגְרוּת#::
+[[baheres]][.hebrew]#בַּהֶרֶת#::
+[[Balak]]Balak::
+[[bamah]][.hebrew]#בָּמָה#:: private altars
+[[baruch-shem]][.hebrew]#בָּרוּךְ שֵׁם#:: second <<posuk>> of <<Shma>>
+[[bas-kol]][.hebrew]#בַּת קוֹל#:: Heavenly voice
 [[bashert]]bashert:: predestined
-[[bas-kol]]bas kol:: Heavenly voice
-[[bechorah]]bechorah:: birthright
+[[basi-legani]]Bosi Legani::
 [[bechor]]bechor:: firstborn
+[[bechorah]][.hebrew]#בְּכוֹרָה#:: birthright
 [[bechorim]]bechorim:: firstborn
 [[bedikas-chametz]]bedikas chametz::
-[[beged]]beged:: garment
-[[behasraah]]behasraah::
+[[bedikah]]bedikah::
+[[Beer-Sheva]]Be’er Sheva::
+[[beged]][.hebrew]#בֶּגֶד#:: garment
+[[behaaloscha-term]][.hebrew]#בְּהַעֲלֹתְךָ#::
+[[behasraah]][.hebrew]#בְּהַתְרָאָה#::
 [[beis-hamikdash]]Beis Hamikdash:: Sanctuary
 [[beis-medrash]]beis medrash::
-[[ben-chameish-lemikrah]]ben chameish lemikrah::
+[[Beis-Din]]Beis Din::
+[[Beis-Peor]]Beis Peor::
+[[bemeizid]][.hebrew]#בְּמֵזִיד#::
+[[ben-chameish-lemikrah]][.hebrew]#בֶּן חָמֵשׁ לְמִקְרָא#::
 [[ben-sorer-umoreh]]ben sorer umoreh:: rebellious son
+[[bentch]]bentch::
 [[bentching]]bentching::
+[[berichim]][.hebrew]#בְּרִיחִים#::
+[[beshogeg]][.hebrew]#בְּשׁוֹגֵג#::
 [[besomim]]besomim:: spices
-[[bigdei-kehuna]]bigdei kehuna::
-[[bikurim]]bikurim::
+[[Besueil]]Besueil::
+[[Betzalel]]Betzalel::
+[[bigdei-kehuna]][.hebrew]#בִּגְדֵי כְּהֻנָּה#::
+[[bigdei-lavan]][.hebrew]#בִּגְדֵי לָבָן#::
+[[bigdei-serod]][.hebrew]#בִּגְדֵי שְׂרָד#::
+[[bigdei-zahav]][.hebrew]#בִּגְדֵי זָהָב#::
+[[bikurim]][.hebrew]#בִּכּוּרִים#:: first fruits
+[[Bilam]]Bilam::
+[[Bilhah]]Bilhah::
 [[bimah]]bimah::
+[[binah]][.hebrew]#בִּינָה#::
+[[Binyomin]]Binyomin::
 [[birkas-kohanim]]Birkas Kohanim::
 [[bitachon]]bitachon:: trust
 [[bitul-chametz]]bitul chametz::
 [[biurim-l-peirush-rashi]]Biurim L’peirush Rashi::
 [[biyur-chametz]]biyur chametz::
 [[bnei-yisroel]]Bnei Yisroel:: the Children of Israel
-[[bored]]bored:: hail
+[[Boaz]]Boaz::
+[[bohak]][.hebrew]#בֹּהַק#::
+[[bor]][.hebrew]#בּוֹר#::
+[[bored]][.hebrew]#בָּרָד#:: hail
+[[boshes]][.hebrew]#בֹּשֶׁת#::
+[[Boshon]]Boshon::
+[[bris]][.hebrew]#בְּרִית#:: circumcision; covenant
 [[brocho]]brocho:: blessing
+[[brochos]]brochos::
 
+[[Canaan]]Canaan::
+[[Canaanite]]Canaanite::
+[[Canaanites]]Canaanites::
+[[chalah]][.hebrew]#חַלָּה#::
+[[chalitzah]][.hebrew]#חֲלִיצָה#::
 [[chametz]]chametz:: leaven
+[[chamishah-inuyim]][.hebrew]#חֲמִשָּׁה עִנּוּיִים#::
+[[Chananya]]Chananya::
+[[Chanukah]]Chanukah::
+[[Cheshvan]]Cheshvan::
 [[charoses]]charoses::
-[[Chatos]]Chatos::
+[[chasan-bereishis]][.hebrew]#חֲתַן בְּרֵאשִׁית#::
+[[chasan-torah]][.hebrew]#חֲתַן תּוֹרָה#::
+[[Chatos]][.hebrew]#חַטָּאת#::
+[[chatzer]][.hebrew]#חָצֵר#:: courtyard
 [[Chazal]]Chazal:: our Sages
-[[cheilev]]cheilev:: forbidden fats
+[[Chazak]]Chazak::
+[[cheilev]][.hebrew]#חֵלֶב#:: forbidden fats
 [[chesed]]chesed:: kindness
-[[chet-ha-egel]]chet ha’egel:: sin of the calf
-[[Chitas]]Chitas:: <<Chumash>>, Tehillim, Tanya
+[[Cheshbon]]Cheshbon::
+[[Chevron]]Chevron::
+[[Chermon]]Mount Chermon::
+[[chet-ha-egel]][.hebrew]#חֵטְא הָעֵגֶל#:: sin of the calf
+[[Chitas]]Chitas:: <<Chumash>>, <<Tehillim>>, <<Tanya>>
+[[chochmah]][.hebrew]#חָכְמָה#::
 [[chol-hamoed]]Chol Hamoed:: intermediate days
-[[choshen-hamishpot]]choshen hamishpot::
+[[Chori]]Chori::
+[[Choron]]Choron::
+[[choshen-hamishpot]][.hebrew]#חֹשֶׁן הַמִּשְׁפָּט#::
 [[Chossid]]Chossid::
+[[chover]][.hebrew]#חֹבֵר#::
+[[chukah]][.hebrew]#חֻקָּה#::
 [[Chumash]]Chumash::
 [[chumrahs]]chumrahs:: restrictions
+[[Chur]]Chur::
 
-[[dever]]dever:: death
+[[daas]][.hebrew]#דַּעַת#::
+[[Daas-Zekenim]]Daas Zekenim::
+[[daber]][.hebrew]#דַּבֵּר#::
+[[daven]]daven::
+[[davening]]davening::
+[[damesek]][.hebrew]#דַּמֶּשֶׂק#::
+[[Dan]]Dan::
+[[David]]David::
+[[dever]][.hebrew]#דֶּבֶר#:: death
+[[Devora]]Devora::
+[[din]][.hebrew]#דִּין#:: law
+[[dinim]]dinim::
+[[Dina]]Dina::
+[[Don]]Don::
 [[dor-haflaga]]dor haflaga:: generation of dispersion
+[[Dosson]]Dosson::
+[[duchenen]][.hebrew]#דּוּכֶנֶן#::
 
-[[egloh-arufoh]]egloh arufoh:: the chopped-off calf
-[[eilim]]eilim:: rams
+[[Ebn-Ezra]]Ebn Ezra::
+[[Edom]]Edom::
+[[Edomite]]Edomite::
+[[Egypt]]Egypt::
+[[edus]][.hebrew]#עֵדֻת#::
+[[efod]][.hebrew]#אֵפֹד#::
+[[Efrayim]]Efrayim::
+[[Efron]]Efron::
+[[egel-hazahav]][.hebrew]#עֵגֶל הַזָּהָב#:: golden calf
+[[egloh-arufoh]][.hebrew]#עֶגְלָה עֲרוּפָה#:: the chopped-off calf
+[[Eicha]]Eicha:: Lamentations
+[[eidim-zomemim]][.hebrew]#עֵדִים זוֹמְמִין#::
+[[eilim]][.hebrew]#אֵילִים#:: rams
+[[Eiver]]Eiver::
+[[Eisov]]Eisov::
+[[eitz-erez]][.hebrew]#עֵץ אֶרֶז#::
+[[eizov]][.hebrew]#אֵזֹב#::
+[[Eilon-Moreh]]Eilon Moreh::
+[[Elazar]]Elazar::
+[[Eliezer]]Eliezer::
+[[Elifaz]]Elifaz::
+[[Eliyahu]]Eliyahu::
+[[Elimelech]]Elimelech::
+[[Eltzafan]]Eltzafan::
+[[Elul]]Elul::
+[[Eretz-Hamoriyah]]Eretz Hamoriyah::
+[[Eretz-Yisroel]]Eretz Yisroel::
 [[Erev]]Erev::
 [[erev-rav]]erev rav:: Egyptian converts
 [[eruv-tavshillin]]eruv tavshillin::
+[[esek]][.hebrew]#עֵשֶׂק#::
 [[esrog]]esrog::
+[[esrogim]]esrogim::
+[[Esther]]Esther::
+[[Euphrates]]Euphrates::
+[[eved]][.hebrew]#עֶבֶד#:: slave
 [[eved-ivri]]eved Ivri:: Jewish slave
+[[eved-nirtza]][.hebrew]#עֶבֶד נִרְצָע#::
+[[Evol]]Evol::
+[[Ezra]]Ezra::
+[[fleishigs]]fleishigs::
 
-[[galus-bavel]]Galus Bavel:: Babylonian Exile
+[[Gad]]Gad::
+[[galus-bavel]][.hebrew]#גָּלוּת בָּבֶל#:: Babylonian Exile
+[[garti]][.hebrew]#גַּרְתִּי#:: I lived
+[[Gavriel]]Gavriel::
 [[gebrokts]]gebrokts::
 [[Gehinom]]Gehinom::
+[[Gershom]]Gershom::
+[[geirah]][.hebrew]#גֵּרָה#::
+[[gemar-chasimah-tovah]][.hebrew]#גְּמַר חֲתִימָה טוֹבָה#::
+[[Gemora]]Gemora::
+[[ger]][.hebrew]#גֵּר#:: convert
+[[gerim]][.hebrew]#גֵּרִים#:: converts
+[[Gershon]]Gershon::
+[[get]][.hebrew]#גֵּט#::
+[[geviim]][.hebrew]#גְּבִיעִים#::
+[[Givon]]Givon::
+[[gibeiach]][.hebrew]#גִּבֵּחַ#::
+[[Gilad]]Gil’ad::
 [[goel-hadam]]goel hadam:: avenger of the blood
 [[Golus]]Golus:: Exile
+[[goyim]]goyim::
+[[Grizim]]Grizim::
 
-[[ha-anakah]]ha’anakah:: farewell gift
+[[ha-anakah]][.hebrew]#הַעֲנָקָה#:: farewell gift
+[[Haazenu]]Haazenu::
+[[hadasim]][.hebrew]#הֲדַסִּים#:: myrtle
+[[Hagar]]Hagar::
+[[Haggadah]]Haggadah::
+[[Haftorah]]Haftorah::
+[[Haftorahs]]Haftorahs::
+[[hai]][.hebrew]#הֵא#::
 [[Hakofos]]Hakofos::
 [[halacha]]halacha:: Jewish law
+[[halachos]]halachos::
 [[Hallel]]Hallel::
+[[Haman]]Haman::
 [[Hanavi]]Hanavi::
-[[haneiros-halalu]]Haneiros Halalu::
-[[har-sinai]]Har Sinai:: Mount Sinai
+[[haneiros-halalu]][.hebrew]#הַנֵּרוֹת הַלָּלוּ#::
+[[har-sinai]][.hebrew]#הַר סִינַי#:: Mount Sinai
+[[Hashem]]Hashem::
 [[hashgocha-protis]]hashgocha protis:: divine providence
+[[hataras-nedarim]][.hebrew]#הַתָּרַת נְדָרִים#::
+[[Havdala]]Havdala::
+[[hayom]][.hebrew]#הַיּוֹם#:: today
 [[hechsher]]hechsher::
-[[hekdesh]]hekdesh::
+[[hefker]][.hebrew]#הֶפְקֵר#::
+[[hekdesh]][.hebrew]#הֶקְדֵּשׁ#::
 [[hisgalus]]hisgalus::
-[[Horahamon]]Horahamon::
-[[hoshana-rabbah]]Hoshana Rabbah::
 [[histalkus]]histalkus:: passing
+[[Horahamon]][.hebrew]#הָרַחֲמָן#::
+[[Horon]]Horon::
+[[hoshana-rabbah]]Hoshana Rabbah::
+[[hoshanos]][.hebrew]#הוֹשַׁעְנוֹת#::
 
-[[ir-hanidachas]]ir hanidachas:: a deviant city
+[[ir-hanidachas]][.hebrew]#עִיר הַנִּדַּחַת#:: a deviant city
+[[isru-chag]][.hebrew]#אִסְרוּ חַג#::
+[[Issamar]]Issamar::
 [[issur]]issur:: prohibition
+[[Iyar]]Iyar::
+[[Jerusalem]]Jerusalem::
+[[Jordan]]Jordan::
 
 [[Kadaish]]Kadaish::
 [[Kaddish]]Kaddish::
-[[kal-vachomer]]kal vachomer::
+[[kaftorim]][.hebrew]#כַּפְתּוֹרִים#::
+[[kaftoros]][.hebrew]#כַּפְתֹּרִים#::
+[[kal-vachomer]][.hebrew]#קַל וָחוֹמֶר#::
+[[kalah]][.hebrew]#כַּלָּה#::
+[[Kalev]]Kalev::
+[[kanim]][.hebrew]#קָנִים#::
 [[kapitl]]kapitl:: psalm
-[[kapores]]kapores::
+[[kapores]][.hebrew]#כַּפֹּרֶת#::
+[[karpas]]karpas::
+[[kapos]][.hebrew]#כַּפֹּת#::
+[[kares]][.hebrew]#כָּרֵת#::
+[[karkov]][.hebrew]#כַּרְכֹּב#::
+[[karnos]][.hebrew]#קַרְנֹת#::
 [[kavana]]kavana:: intention
-[[kaves]]kaves:: sticks
+[[kaves]][.hebrew]#קַוִּים#:: sticks
 [[kavod]]kavod:: honor
-[[kedoshim-kalim]]kedoshim kalim::
+[[kearos]][.hebrew]#קְעָרֹת#::
+[[kedoshim-kalim]][.hebrew]#קֳדָשִׁים קַלִּים#::
 [[kedusha]]kedusha:: sanctity
-[[keilim]]keilim:: utensils
-[[kesones-pasim]]kesones pasim::
-[[ketores]]ketores:: incense
-[[kevasim]]kevasim:: lambs
+[[Kehos]]Kehos::
+[[kehuna]][.hebrew]#כְּהֻנָּה#::
+[[Keini]]Keini:: <<Yisro>>’s descendants
+[[keilim]][.hebrew]#כֵּלִים#:: utensils
+[[kelaim]][.hebrew]#קְלָעִים#::
+[[kenafayim]][.hebrew]#כְּנָפַיִם#::
+[[kerashim]][.hebrew]#קְרָשִׁים#::
+[[kereach]][.hebrew]#קֵרֵחַ#::
+[[keresh]][.hebrew]#קֶרֶשׁ#::
+[[keruvim]][.hebrew]#כְּרֻבִים#::
+[[kesavos]][.hebrew]#קְשָׂוֹת#::
+[[kesivah-vachasimah-tovah]][.hebrew]#כְּתִיבָה וַחֲתִימָה טוֹבָה#::
+[[kesones-pasim]][.hebrew]#כְּתֹנֶת פַּסִּים#::
+[[kesus]][.hebrew]#כְּסוּת#::
+[[ketores]][.hebrew]#קְטֹרֶת#:: incense
+[[kevasim]][.hebrew]#כְּבָשִׂים#:: lambs
 [[kezayis]]kezayis::
-[[kfitzas-haderech]]kfitzas haderech:: a miracle to quicken his trip
+[[kfitzas-haderech]][.hebrew]#קְפִיצַת הַדֶּרֶךְ#:: a miracle to quicken his trip
+[[ki-tov]][.hebrew]#כִּי טוֹב#::
+[[kibud-av-vaem]][.hebrew]#כִּבּוּד אָב וָאֵם#:: honoring one’s father and mother
+[[Kiddush]]Kiddush::
+[[Kiddush-Hashem]]Kiddush Hashem::
 [[kiddush-levana]]Kiddush Levana::
-[[kikar]]kikar::
-[[kilayim]]:: mixing
+[[kikar]][.hebrew]#כִּכָּר#::
+[[kilayim]][.hebrew]#כִּלְאַיִם#:: mixing
+[[kiryas-arba]][.hebrew]#קִרְיַת אַרְבַּע#:: City of Four
 [[kittel]]kittel:: white robe/coat
-[[kodshai-kedoshim]]kodshai kedoshim::
+[[Kitzur]]Kitzur::
+[[Kli-Yakar]]Kli Yakar::
+[[Kislev]]Kislev::
+[[kiyor]][.hebrew]#כִּיּוֹר#::
+[[klipah]][.hebrew]#קְלִפָּה#::
+[[kodshai-kedoshim]][.hebrew]#קָדְשֵׁי קָדָשִׁים#::
+[[kofer]][.hebrew]#כֹּפֶר#::
 [[Kohanim]]Kohanim:: priests
+[[Kohanim-Gedolim]]Kohanim Gedolim::
 [[Kohein]]Kohein:: Priest
-[[kohein-gadol]]Kohein Gadol:: High Priest
+[[Koheles]]Koheles:: Ecclesiastes
+[[kohein-gadol]][.hebrew]#כֹּהֵן גָּדוֹל#:: High Priest
 [[kol-nidrei]]Kol Nidrei::
+[[kometz]][.hebrew]#קֹמֶץ#::
+[[Korach]]Korach::
 [[korban]]korban:: sacrifice
-[[korban-ha-omer]]Korban Ha’Omer::
-[[korban-minchah]]Korban Minchah::
+[[korban-ha-omer]][.hebrew]#קָרְבַּן הָעֹמֶר#::
+[[korban-minchah]][.hebrew]#קָרְבַּן מִנְחָה#::
+[[korban-pesach]][.hebrew]#קָרְבַּן פֶּסַח#:: Passover sacrifice
 [[korbanos]]korbanos:: sacrifices
-[[korban-pesach]]Korban Pesach:: Passover sacrifice
 [[korech]]korech:: sandwich
+[[korin]][.hebrew]#כּוֹרְעִין#::
 [[kos-shel-brocho]]kos shel brocho:: lit. ‘cup of blessing’
+[[kosem]][.hebrew]#קֹסֵם#::
+[[kosher]]kosher::
+[[koshering]]koshering::
+[[koshered]]koshered::
+[[non-kosher]]non-kosher::
+[[Kozbi]]Kozbi:: the <<Midyanite>> woman
+[[Kilyon]]Kilyon::
+[[krasim]][.hebrew]#קְרָסִים#::
 [[krias-haTorah]]krias haTorah::
-[[krias-yam-suf]]krias Yam Suf:: the parting of the Red Sea
+[[krias-yam-suf]][.hebrew]#קְרִיעַת יַם סוּף#:: the parting of the Red Sea
 
-[[trop]]laining ‘trop’:: cantillation/musical notes
-[[lechem]]lechem:: bread
-[[lechem-hapanim]]lechem hapanim:: showbread
+[[Lavan]]Lavan::
+[[Leah]]Leah::
+[[land-of-Israel]]land of Israel::
+[[lealtar-lechaim]][.hebrew]#לְאַלְתַּר לְחַיִּים#::
+[[lechem]][.hebrew]#לֶחֶם#:: bread
+[[lechem-hapanim]][.hebrew]#לֶחֶם הַפָּנִים#:: showbread
+[[lechem-oni]][.hebrew]#לֶחֶם עֹנִי#:: bread of poverty
 [[lekach]]lekach:: honey-cake
+[[leket]][.hebrew]#לֶקֶט#::
+[[Levi]]Levi::
+[[Levi-im]]Levi’im::
 [[likutei-sichos]]Likutei Sichos::
 [[likutei-torah]]Likutei Torah::
-[[loshon-horo]]loshon horo:: lit. evil tongue
-[[Luchos]]Luchos:: tablets
+[[lo-yenakeh]][.hebrew]#לֹא יְנַקֶּה#::
+[[loshon-horo]][.hebrew]#לָשׁוֹן הָרָע#:: lit. evil tongue
+[[Lot]]Lot::
+[[Lubavitcher-Rebbe]]Lubavitcher Rebbe::
+[[Luchos]][.hebrew]#לֻחֹת#:: tablets
+[[lulaos]][.hebrew]#לֻלָאֹת#::
 [[lulov]]lulov:: four species
 
+[[maacheles]][.hebrew]#מַאֲכֶלֶת#::
 [[maamar]]maamar::
 [[maamorim]]maamorim::
+[[maftir]]maftir::
 [[Maariv]]Maariv:: evening prayer
-[[maaser]]maaser:: tithe
-[[maaser-sheini]]maaser sheini::
-[[maasros]]maasros:: tithes
-[[mabul]]mabul:: מבול
-[[machatzis-ha-shekel]]machatzis ha’shekel::
+[[Maharal]]Maharal of Prague::
+[[Marah]]Marah::
+[[Machlon]]Machlon::
+[[maaser]][.hebrew]#מַעֲשֵׂר#:: tithe
+[[maaser-sheini]][.hebrew]#מַעֲשֵׂר שֵׁנִי#::
+[[maasros]][.hebrew]#מַעַשְׂרוֹת#:: tithes
+[[mabul]][.hebrew]#מַבּוּל#:: מבול
+[[machatzis-ha-shekel]][.hebrew]#מַחֲצִית הַשֶּׁקֶל#::
 [[machlokes]]machlokes:: discord
-[[makah]]makah:: plague
-[[makas-bechoros]]makas bechoros:: slaying of the firstborn
-[[makos]]makos:: floggings; plagues
+[[machtos]][.hebrew]#מַחְתֹּת#::
+[[Machzor]]Machzor::
+[[makah]][.hebrew]#מַכָּה#:: plague
+[[makas-bechoros]][.hebrew]#מַכַּת בְּכוֹרוֹת#:: slaying of the firstborn
+[[makos]][.hebrew]#מַכּוֹת#:: floggings; plagues
+[[Malki-Tzedek]]Malki Tzedek::
+[[malkiyos]][.hebrew]#מַלְכִיּוֹת#::
+[[malkos]][.hebrew]#מַלְקוֹת#::
+[[malkosh]][.hebrew]#מַלְקוֹשׁ#::
 [[maloch]]maloch:: angel
 [[malochim]]malochim:: angels
+[[maneh]][.hebrew]#מָנֶה#::
 [[marror]]marror::
-[[masach]]masach::
+[[masach]][.hebrew]#מָסָךְ#::
 [[mashal]]mashal:: example
-[[mashkon]]mashkon:: security
+[[mashkon]][.hebrew]#מַשְׁכּוֹן#:: security
 [[mashpia]]mashpia::
-[[masos]]masos::
-[[matanos-kehuna]]matanos kehuna:: gifts
+[[Masera]]Masera::
+[[masos]][.hebrew]#מַסּוֹת#::
+[[masos-term]][.hebrew]#מַסֹּת#::
+[[matan-torah]][.hebrew]#מַתַּן תּוֹרָה#:: the Giving of the <<Torah>>
+[[matanos-kehuna]][.hebrew]#מַתְּנוֹת כְּהֻנָּה#:: gifts
 [[matanos-la-evyonim]]matanos la’evyonim::
-[[matan-torah]]Matan Torah:: the Giving of the Torah
-[[mateh]]mateh:: staff
+[[mateh]][.hebrew]#מַטֶּה#:: staff
+[[matzeivah]][.hebrew]#מַצֵּבָה#::
 [[matzo]]matzo:: unleavened bread
+[[matzos]]matzos::
+[[mazik]][.hebrew]#מַזִּיק#::
+[[meah-kolos]][.hebrew]#מֵאָה קוֹלוֹת#::
+[[mechashof]][.hebrew]#מְכַשֵּׁף#::
 [[mechiras-chametz]]mechiras chametz::
 [[mehudar]]mehudar:: choicest
-[[meis]]meis:: dead body
-[[mekushar]]mekushar::
+[[Megillah]]Megillah::
+[[Megillas]]Megillas::
+[[mezuzos]]mezuzos::
+[[meis]][.hebrew]#מֵת#:: dead body
+[[meizid]][.hebrew]#מֵזִיד#::
 [[mekoshesh]]mekoshesh:: wood gatherer
-[[melacha]]melacha:: work
+[[mekushar]]mekushar::
+[[melacha]][.hebrew]#מְלָאכָה#:: work
 [[melech-ha-moshiach]]Melech HaMoshiach::
-[[menorah]]menorah::
-[[meoros-hamachpeila]]Meoros Hamachpeila::
+[[melkachos]][.hebrew]#מַלְקָחֹת#::
+[[menachesh]][.hebrew]#מְנַחֵשׁ#::
+[[menakiyos]][.hebrew]#מְנַקִּיּוֹת#::
+[[Menashe]]Menashe::
+[[menorah]][.hebrew]#מְנֹרָה#::
+[[Menachos]]Menachos::
+[[meonen]][.hebrew]#מְעוֹנֵן#::
+[[meoros-hamachpeila]][.hebrew]#מְעָרַת הַמַּכְפֵּלָה#::
 [[meraglim]]meraglim:: spies
-[[merkava]]merkava:: chariot to Hashem
-[[midbar]]midbar:: desert
-[[mi-deoraisa]]mi-deoraisa:: from the Torah
+[[merkava]][.hebrew]#מֶרְכָּבָה#:: chariot to <<Hashem>>
+[[Merori]]Merori::
+[[metzora]][.hebrew]#מְצֹרָע#::
+[[mi-deoraisa]]mi-deoraisa:: from the <<Torah>>
 [[mi-dirabonon]]mi-dirabonon:: from the Rabbis
-[[midoh]]midoh:: trait
-[[midoh-tovah]]midoh tovah::
-[[midoh-poranius]]midoh poranius::
+[[Midbar-Paran]]Midbar Paran::
+[[Midyan]]Midyan::
+[[Midyanite]]Midyanite::
+[[Midyanites]]Midyanites::
+[[Mikdash]]Mikdash::
+[[mi-shenichnas-adar]][.hebrew]#מִי שֶׁנִּכְנַס אֲדָר מַרְבִּין בְּשִׂמְחָה#::
+[[mi-shenichnas-av]][.hebrew]#מִי שֶׁנִּכְנַס אָב מְמַעֲטִין בְּשִׂמְחָה#::
+[[michbar]][.hebrew]#מִכְבָּר#::
+[[Michoel]]Michoel::
+[[midbar]][.hebrew]#מִדְבָּר#:: desert
+[[Midrash]]Midrash::
+[[midoh]][.hebrew]#מִדָּה#:: trait
+[[midos]]midos::
+[[midoh-poranius]][.hebrew]#מִדָּה פֻּרְעָנוּת#::
+[[midoh-tovah]][.hebrew]#מִדָּה טוֹבָה#::
 [[mikvah]]mikvah::
-[[milchamah]]milchamah::
-[[milchemes-ho-rshus]]milchemes ho’rshus:: optional war
+[[milah]][.hebrew]#מִילָה#::
+[[milchamah]][.hebrew]#מִלְחָמָה#::
+[[milchemes-ho-rshus]][.hebrew]#מִלְחֶמֶת הָרְשׁוּת#:: optional war
+[[milchigs]]milchigs::
+[[miluim]][.hebrew]#מִלֻּאִים#::
 [[Minchah]]Minchah:: afternoon
 [[minhag]]minhag:: custom
+[[minhagim]]minhagim::
 [[minyan]]minyan:: community
-[[Mishkan]]Mishkan:: Tabernacle
-[[Mitzrayim]]Mitzrayim:: Egypt
+[[Miriam]]Miriam::
+[[misgeres]][.hebrew]#מִסְגֶּרֶת#::
+[[Mishael]]Mishael::
+[[Mishkan]][.hebrew]#מִשְׁכָּן#:: Tabernacle
+[[mishmar]][.hebrew]#מִשְׁמָר#:: period
+[[Mishna]]Mishna::
+[[Mitzrayim]][.hebrew]#מִצְרַיִם#:: Egypt
 [[Mitzri]]Mitzri:: Egyptian
-[[mitzvoh-asei]]mitzvoh asei:: positive mitzvoh
-[[mitzvos-asei]]mitzvos asei:: positive mitzvos
-//? [[mitzvoh-lo-ta-asei]]mitzvoh lo ta'asei:: negative mitzvoh
-[[mitzvos-lo-ta-asei]]mitzvos lo ta'asei:: negative mitzvos
-[[mivtzoyim]]mivtzoyim:: mitzvah campaigns
-[[mizbeyach]]mizbeyach:: altar
+[[mitzvoh]]mitzvoh::
+[[mitzvos]]mitzvos::
+[[mitzvos-asei]]mitzvos asei:: positive <<mitzvos>>
+[[mitzvos-lo-ta-asei]]mitzvos lo ta'asei:: negative <<mitzvos>>
+[[mivtzoyim]]mivtzoyim:: <<mitzvoh>> campaigns
+[[mizbeyach]][.hebrew]#מִזְבֵּחַ#:: altar
+[[mizbeyach-haolah]][.hebrew]#מִזְבַּח הָעֹלָה#::
+[[mizbeyach-hazahav]][.hebrew]#מִזְבַּח הַזָּהָב#::
+[[mizlagos]][.hebrew]#מִזְלָגֹת#::
 [[mizmor]]mizmor:: psalm
-[[mon]]mon:: manna
+[[mizrakos]][.hebrew]#מִזְרָקֹת#::
+[[Mizrachi]]Mizrachi::
+[[modeh-bemiktzas]][.hebrew]#מוֹדֶה בְּמִקְצָת#:: partial admission
+[[mofsim]][.hebrew]#מוֹפְתִים#::
+[[mon]][.hebrew]#מָן#:: manna
+[[Mordechai]]Mordechai::
+[[Motzei-Shabbos]]Motzei Shabbos::
+[[Motzei-Tisha-B-Av]]Motzei Tisha B’Av::
+[[Moav]]Moav::
+[[Moshe]]Moshe::
 [[Moshiach]]Moshiach::
+[[Mount-Karmel]]Mount Karmel::
+[[motzi-shem-ra]][.hebrew]#מוֹצִיא שֵׁם רַע#::
+[[muad]][.hebrew]#מוּעָד#::
 [[mussar]]mussar:: rebuke
+[[Musaf]]Musaf::
 
 [[naar]]naar:: youngster
+[[naarus]][.hebrew]#נַעֲרוּת#::
+[[naaseh-venishmah]][.hebrew]#נַעֲשֶׂה וְנִשְׁמָע#::
 [[nachas]]nachas:: pleasure
+[[Nadav]]Nadav::
+[[Naftali]]Naftali::
+[[Naomi]]Naomi::
+[[nasi]][.hebrew]#נָשִׂיא#::
+[[Navi]]Navi::
 [[Nazir]]Nazir::
-[[neder]]neder:: vow
-[[nedorim]]nedorim::
-[[nedava]]nedava::
-[[nedovos]]nedovos::
-[[nefesh-habahamis]]nefesh habahamis::  animal soul
-[[negah]]negah::
-[[negayim]]negayim::
+[[nedava]][.hebrew]#נְדָבָה#::
+[[neder]][.hebrew]#נֶדֶר#:: vow
+[[nedorim]][.hebrew]#נְדָרִים#::
+[[nedovos]][.hebrew]#נְדָבוֹת#::
+[[Negev]]Negev:: south
+[[nefesh]][.hebrew]#נֶפֶשׁ#::
+[[nefesh-habahamis]][.hebrew]#נֶפֶשׁ הַבַּהֲמִית#::  animal soul
+[[negah]][.hebrew]#נֶגַע#::
+[[negayim]][.hebrew]#נְגָעִים#::
 [[negel-vasser]]negel vasser::
+[[neilah]][.hebrew]#נְעִילָה#::
 [[neis]]neis:: miracle
-[[nesiyim]]nesiyim:: heads of tribes; princes
+[[nesek]][.hebrew]#נֶתֶק#::
 [[neshamah]]neshamah:: soul
-[[nesochim]]nesochim:: wine and oil offerings
+[[nesiyim]][.hebrew]#נְשִׂיאִים#:: heads of tribes; princes
+[[nesochim]][.hebrew]#נְסָכִים#:: wine and oil offerings
 [[Nevi-im]]Nevi’im:: Prophets
+[[neviah]][.hebrew]#נְבִיאָה#:: Prophetess
+[[nezek]][.hebrew]#נֶזֶק#::
 [[niftar]]niftar::
+[[Nimrod]]Nimrod::
 [[nisim]]nisim:: miracles
+[[Nissan]]Nissan::
+[[nisuch-hamayim]][.hebrew]#נִסּוּךְ הַמַּיִם#::
+[[nizak]][.hebrew]#נִזָּק#::
+[[Noach]]Noach::
+[[Nov]]Nov::
+[[nosei-avon]][.hebrew]#נֹשֵׂא עָוֹן וָפֶשַׁע#::
+[[notzer-chesed]][.hebrew]#נֹצֵר חֶסֶד לָאֲלָפִים#::
+[[noy-sukkah]][.hebrew]#נוֹי סֻכָּה#::
 
-[[Olah]]Olah:: sacrifice
+[[Og]]Og::
+[[ohel]][.hebrew]#אֹהֶל#::
+[[ohel-moed]][.hebrew]#אֹהֶל מוֹעֵד#::
+[[Ohr-Hachayim]]Ohr Hachayim::
+[[Olah]][.hebrew]#עֹלָה#:: sacrifice
+[[Omer]]Omer::
+[[Orpah]]Orpah::
 [[olom-haboh]]Olom Haboh:: the World to Come
-[[osos]]osos::
+[[onah]][.hebrew]#עֹנָה#::
+[[osos]][.hebrew]#אֹתֹת#::
 
-[[para-adumah]]para adumah:: red heifer
-[[parsha]]parsha::
+[[par]][.hebrew]#פַּר#:: ox
+[[para-adumah]][.hebrew]#פָּרָה אֲדֻמָּה#:: red heifer
 [[parnasah]]parnasah:: livelihood
-[[paroches]]paroches:: curtain in front of the Ark
-[[par]]par:: ox
-[[parshiyos]]parshiyos::
+[[paroches]][.hebrew]#פָּרֹכֶת#:: curtain in front of the Ark
+[[Paroh]]Paroh::
+[[parsha]]parsha::
+[[parshas]]parshas::
+[[Padan-Aram]]Padan Aram::
+[[Parshios]]Parshios::
+[[peah]][.hebrew]#פֵּאָה#::
+[[Peor]]Peor::
+[[perachim]][.hebrew]#פְּרָחִים#::
+[[peras]][.hebrew]#פְּרָת#:: <<Euphrates>>
+[[Perushim]]Perushim::
 [[Pesach]]Pesach:: Passover
-[[pesukim]]pesukim:: verses
-[[pidyon-ha-ben]]pidyon ha’ben:: redemption of the first born
+[[pesilim]][.hebrew]#פְּסִילִים#::
+[[pesukim]][.hebrew]#פְּסוּקִים#:: verses
+[[pesulim]][.hebrew]#פְּסוּלִים#::
+[[pidyon]][.hebrew]#פִּדְיוֹן#::
+[[pidyon-ha-ben]][.hebrew]#פִּדְיוֹן הַבֵּן#:: redemption of the first born
+[[Pinchas]]Pinchas::
 [[pirkei-avos]]Pirkei Avos:: Ethics of our Fathers
-[[porim]]porim:: bulls
-[[posuk]]posuk:: verse
-[[posul]]posul::
+[[Prikah]]Prikah::unloading
+[[Plishtim]]Plishtim::
+[[porim]][.hebrew]#פָּרִים#:: bulls
+[[posuk]][.hebrew]#פָּסוּק#:: verse
+[[posul]][.hebrew]#פָּסוּל#::
+[[Potifar]]Potifar::
+[[pri-eitz-hadar]][.hebrew]#פְּרִי עֵץ הָדָר#::
+[[Pross]]Pross::
+[[Previous-Rebbe]]Previous Rebbe::
 [[pshat]]pshat::
+[[Purim]]Purim::
 
-[[rasha]]rasha:: sinner
+[[Rabbi-Akiva]]Rabbi Akiva::
+[[Rabbi-Elazar]]Rabbi Elazar::
+[[Rabbi-Elazar-ben-Azarya]]Rabbi Elazar ben Azarya::
+[[Rabbi-Eliezer]]Rabbi Eliezer::
+[[Rabbi-Gamliel]]Rabbi Gamliel::
+[[Rabbi-Meir]]Rabbi Meir::
+[[Rabbi-Moshe-Hadarshon]]Rabbi Moshe Hadarshon::
+[[Rabbi-Moshe-Isserles]]Rabbi Moshe Isserles::
+[[Rabbi-Nechemiah]]Rabbi Nechemiah::
+[[Rabbi-Sadya-Gaon]]Rabbi Sadya Gaon::
+[[Rabbi-Shimon]]Rabbi Shimon::
+[[Rabbi-Tanchuma]]Rabbi Tanchuma::
+[[Rabbi-Yashiya]]Rabbi Yashiya::
+[[Rabbi-Yehoshua]]Rabbi Yehoshua::
+[[Rabbi-Yehuda]]Rabbi Yehuda::
+[[Rabbi-Yehuda-haNossi]]Rabbi Yehuda haNossi::
+[[Rabbi-Yishmael]]Rabbi Yishmael::
+[[Rabbi-Yitzchak]]Rabbi Yitzchak::
+[[Rabbi-Yosai]]Rabbi Yosai::
+[[Rabbi-Yosai-Haglili]]Rabbi Yosai Haglili::
+[[Ramah]]Ramah:: <<Rabbi-Moshe-Isserles>>
+[[Rambam]]Rambam::
+[[Rashbam]]Rashbam::
+[[Rashi]]Rashi::
+[[Rashbi]]Rashbi::
+[[rasha]][.hebrew]#רָשָׁע#:: sinner
+[[Rav]]Rav::
 [[Razal]]Razal:: our Sages
 [[rebbi]]rebbi:: teacher
-[[reishis-hagez]]reishis hagez::
+[[Rebbetzin-Chana]]Rebbetzin Chana::
+[[rechilus]][.hebrew]#רְכִילוּת#::
+[[rechovos]][.hebrew]#רְחֹבוֹת#::
+[[refayim]][.hebrew]#רְפָאִים#::
+[[reiach-nichoach]][.hebrew]#רֵיחַ נִיחֹחַ לַה׳#::
+[[reishis-hagez]][.hebrew]#רֵאשִׁית הַגֵּז#::
 [[reshayim]]reshayim:: sinners
-[[ribono-shel-olom]]Ribono Shel Olom::
-[[Rishon]]Rishon::
+[[reshes]][.hebrew]#רֶשֶׁת#::
+[[Reuven]]Reuven::
+[[ribono-shel-olom]][.hebrew]#רִבּוֹנוֹ שֶׁל עוֹלָם#::
+[[ripuy]][.hebrew]#רִפּוּי#::
+[[Rishon]][.hebrew]#רִאשׁוֹן#::
+[[risma]][.hebrew]#רִתְמָה#::
+[[Rivkah]]Rivkah::
+[[Rochel]]Rochel::
+[[Rome]]Rome::
+[[Rosh-Chodesh]]Rosh Chodesh::
+[[Rosh-Hashonoh]]Rosh Hashonoh::
 [[ruach-hakodesh]]ruach hakodesh:: divine inspiration
 [[ruchniyus]]ruchniyus:: spirituality
+[[Ruth]]Ruth::
 
+[[s-chach]][.hebrew]#סְכָךְ#:: covering for the Sukkah
+[[sapachas]][.hebrew]#סַפַּחַת#::
+[[Sara]]Sara::
+[[Sanhedrin]]Sanhedrin::
 [[Satan]]Satan::
-[[s-chach]]s’chach:: covering for the Sukkah
+[[Sayir]]Sayir::
+[[Sdom]]Sdom::
 [[seder]]seder::
-[[sedra]]sedra:: parsha
+[[Seder]]Seder::
+[[sedra]][.hebrew]#סִדְרָה#:: parsha
+[[sedras]][.hebrew]#סִדְרוֹת#::
+[[seudas-mitzvoh]]seudas mitzvoh::
+[[seudah]]seudah::
+[[sees]][.hebrew]#שְׂאֵת#::
 [[sefer]]sefer:: the book of
 [[sefer-torah]]Sefer Torah::
+[[Sifrei-Torah]]Sifrei Torah::
 [[sefira]]Sefira::
-[[sei-ir-la-azazel]]Sei’ir la’azazel::
+[[Sefardim]]Sefardim::
+[[Sefiras-Ha-Omer]]Sefiras Ha’Omer::
+[[Sforno]]Sforno::
+[[Selichos]]Selichos::
+[[sei-ir-la-azazel]][.hebrew]#שָׂעִיר לַעֲזָאזֵל#::
+[[sh-chin]][.hebrew]#שְׁחִין#:: boils
+[[sh-chutei-chutz]][.hebrew]#שְׁחוּטֵי חוּץ#:: outside offerings
 [[Shabbos]]Shabbos::
+[[Shabbos-Hagadol]]Shabbos Hagadol::
+[[Shabbos-Shira]]Shabbos Shira::
+[[Shabbosim]]Shabbosim::
+[[shabbos-shabbaton]][.hebrew]#שַׁבַּת שַׁבָּתוֹן#::
 [[Shacharis]]Shacharis:: morning prayer
 [[shalach-manos]]shalach manos::
-[[shalosh-seudos]]Shalosh Seudos::
+[[shalosh-seudos]]Shalosh Seudos:: the third meal
 [[shamash]]shamash::
+[[shamayim]][.hebrew]#שָׁמַיִם#::
 [[shatnez]]shatnez:: mixture of wool and linen
+[[Shaul]]Shaul::
 [[Shavuos]]Shavuos::
-[[sh-chin]]sh’chin:: boils
-[[sh-chutei-chutz]]sh’chutei chutz:: outside offerings
+[[Shchem]]Sh’chem::
+[[shear]][.hebrew]#שְׁאֵר#::
 [[Shechina]]Shechina:: Divine Presence
-[[sheetim]]sheetim:: cedar
-[[Shehecheyanu]]Shehecheyanu::
-[[Sheini]]Sheini::
-[[sheivet]]sheivet:: the tribe of
-[[shemen-hamishcho]]shemen hamishcho::
+[[sheetim]][.hebrew]#שִׁטִּים#:: cedar
+[[Shehecheyanu]][.hebrew]#שֶׁהֶחֱיָנוּ#::
+[[Sheini]][.hebrew]#שֵׁנִי#::
+[[shekel]]shekel::
+[[Shekalim]]Shekalim::
+[[Shelah]]Shelah::Rabbi Yeshayah Horowitz
+[[sheivet]][.hebrew]#שֵׁבֶט#:: the tribe of
+[[Shem]]Shem::
+[[Shiloh]]Shiloh::
+[[Sinai]]Sinai::
+[[shemen-hamishcho]][.hebrew]#שֶׁמֶן הַמִּשְׁחָה#::
 [[shemini-atzeres]]Shemini Atzeres::
-[[sheva-brachos]]Sheva Brachos::
+[[sheni]][.hebrew]#שְׁנִי#::
+[[sheretz]][.hebrew]#שֶׁרֶץ#:: rodent
+[[sheva-brachos]]Sheva Brachos:: seven wedding blessings
+[[shevarim]][.hebrew]#שְׁבָרִים#::
 [[shevatim]]shevatim:: tribes
+[[Shevat]]Shevat::
+[[sheves]][.hebrew]#שֶׁבֶת#::
 [[shidduch]]shidduch:: marriage partner; match
 [[shifcha-cnaanis]]shifcha Cnaanis:: a gentile maidservant
-[[shiluach-hakan]]shiluach hakan::
-[[shira]]shira:: song
+[[shikchah]][.hebrew]#שִׁכְחָה#::
+[[shiluach-hakan]][.hebrew]#שִׁלּוּחַ הַקֵּן#::
+[[Shimon]]Shimon::
+[[Shimshon]]Shimshon::
+[[shira]][.hebrew]#שִׁירָה#:: song
 [[shiva]]shiva::
+[[shiveh]][.hebrew]#שִׁבְעָה#::
 [[shlichus]]shlichus::
-[[Shlomim]]Shlomim::
+[[Shlomim]][.hebrew]#שְׁלָמִים#::
 [[shloshim]]shloshim::
+[[Shma]]Shma::
+[[shma-yisroel]][.hebrew]#שְׁמַע יִשְׂרָאֵל#::
+[[shmittah]][.hebrew]#שְׁמִטָּה#::
+[[Shmoneh-Esrei]]Shmoneh Esrei::
+[[Shmuel]]Shmuel::
+[[Shmuel-amora]]Shmuel::
 [[shmurah]]shmurah:: hand-baked matzo
-[[shnayim-mikrah-v-echad-targum]]Shnayim mikrah v’echad targum::
-[[shoham]]shoham::
-[[shtus-d-kedusha]]shtus d’kedusha::
-[[shulchon]]shulchon:: table
+[[shnayim-mikrah-v-echad-targum]][.hebrew]#שְׁנַיִם מִקְרָא וְאֶחָד תַּרְגּוּם#::
+[[shoel]][.hebrew]#שׁוֹאֵל#:: one who borrowed
+[[shofar]]shofar::
+[[shofaros]][.hebrew]#שׁוֹפָרוֹת#::
+[[shogeg]][.hebrew]#שׁוֹגֵג#::
+[[shoham]][.hebrew]#שֹׁהַם#::
+[[shomer-chinam]][.hebrew]#שׁוֹמֵר חִנָּם#::
+[[shomer-sachar]][.hebrew]#שׁוֹמֵר שָׂכָר#::
+[[shonoh]][.hebrew]#שָׁנָה#:: year
+[[shonoh-tovah-umesukah]][.hebrew]#שָׁנָה טוֹבָה וּמְתוּקָה#::
+[[shotrim]][.hebrew]#שֹׁטְרִים#:: policemen
+[[shtus]][.hebrew]#שְׁטוּת#::
+[[shtus-d-kedusha]][.hebrew]#שְׁטוּת דִּקְדֻשָּׁה#::
+[[shul]]shul::
+[[shulchon]][.hebrew]#שֻׁלְחָן#:: table
 [[shulchon-oruch]]Shulchon Oruch::
 [[shvi-i-shel-pesach]]Shvi’i shel Pesach:: the seventh day of Pesach
+[[Sichon]]Sichon::
+[[sifran-shel-tzadikim]][.hebrew]#סִפְרָן שֶׁל צַדִּיקִים#::
+[[simanim]][.hebrew]#סִימָנִים#::
 [[simchas-beis-hashoevah]]Simchas Beis Hashoevah::
+[[Simchas-Torah]]Simchas Torah::
+[[siros]][.hebrew]#סִירֹת#::
+[[sitnah]][.hebrew]#שִׂטְנָה#::
+[[Sivan]]Sivan::
+[[siyum]][.hebrew]#סִיּוּם#::
 [[smicha]]smicha:: rabbinical ordination
+[[socher]][.hebrew]#שׂוֹכֵר#::
 [[Sotah]]Sotah::
 [[Sukkos]]Sukkos::  TODO 2 omonims
+[[sukkah]]sukkah::
 
 [[taanis-esther]]Taanis Esther:: Fast of Esther
-[[Tachanun]]Tachanun::
-[[taharah]]taharah:: purity
-[[tahor]]tahor:: pure
-[[taiva]]taiva:: ark/box
-[[talmid]]talmid:: student
-[[Tamid]]Tamid::
+[[Taz]]Taz::
+[[Teves]]Teves::
+[[Three-Weeks]]Three Weeks::
+[[Tisha-B-Av]]Tisha B’Av::
+[[Tishrei]]Tishrei::
+[[Tu-B-Shevat]]Tu B’Shevat::
+[[tabaas]][.hebrew]#טַבַּעַת#::
+[[tabaos]][.hebrew]#טַבָּעֹת#::
+[[Tachanun]][.hebrew]#תַּחֲנוּן#::
+[[taharah]][.hebrew]#טָהֳרָה#:: purity
+[[tahor]][.hebrew]#טָהוֹר#:: pure
+[[taiva]][.hebrew]#תֵּבָה#:: ark/box
+[[talmid]][.hebrew]#תַּלְמִיד#:: student
+[[tallis]]tallis::
+[[tam]][.hebrew]#תָּם#::
+[[Tamar]]Tamar::
+[[Tamuz]]Tamuz::
+[[tamid]][.hebrew]#תָּמִיד#:: steadily
+[[Tamid]][.hebrew]#תָּמִיד#::
+[[Tanya]]Tanya::
+[[Targum]]Targum::
+[[Tashlich]]Tashlich::
 [[techiyas-hameisim]]techiyas hameisim:: resurrection of the dead
-[[teichef-umiyad-mamash]]teichef umiyad mamash::
-[[Tekiah]]Tekiah::
-[[terumah-term]]terumah::
-[[terumos]]terumos::
-[[terumas-hadeshen]]terumas hadeshen::
+[[tefilas-geshem]][.hebrew]#תְּפִלַּת גֶּשֶׁם#::
+[[tefillah]]tefillah::
+[[tefillos]]tefillos::
+[[tefillin]]tefillin::
+[[Tehillim]]Tehillim::
+[[teichef-umiyad-mamash]][.hebrew]#תֵּיכֶף וּמִיָּד מַמָּשׁ#::
+[[Tekiah]][.hebrew]#תְּקִיעָה#::
+[[tekias-dimeumad]][.hebrew]#תְּקִיעַת דִּמְעוּמָד#::
+[[tekias-dimeyushav]][.hebrew]#תְּקִיעַת דִּמְיוּשָׁב#::
+[[tenufah]][.hebrew]#תְּנוּפָה#:: lifting
+[[Terach]]Terach::
+[[teruah]][.hebrew]#תְּרוּעָה#::
+[[terumah-term]][.hebrew]#תְּרוּמָה#::
+[[terumas-hadeshen]][.hebrew]#תְּרוּמַת הַדֶּשֶׁן#::
+[[terumos]][.hebrew]#תְּרוּמוֹת#::
 [[teshuvah]]teshuvah:: repentance
+[[tevilos]][.hebrew]#טְבִילוֹת#::
+[[tevunah]][.hebrew]#תְּבוּנָה#::
 [[tfilas]]Tfilas::
-[[Tiskabel]]Tiskabel::
-[[tochecha]]Tochecha:: curses, punishments
-[[tomei]]tomei:: impure
+[[tikun]][.hebrew]#תִּקּוּן#::
+[[Timnah]]Timnah::
+[[Tiskabel]][.hebrew]#תִּתְקַבֵּל#::
+[[tochecha]][.hebrew]#תּוֹכֵחָה#:: curses, punishments
+[[tolaas]][.hebrew]#תּוֹלַעַת#::
+[[tomei]][.hebrew]#טָמֵא#:: impure
+[[Torah]]Torah::
+[[Torahs]]Torahs::
 [[torah-shebe-al-peh]]Torah Shebe’al Peh:: Oral Law
-[[tumah]]tumah:: impurity
+[[totafos]][.hebrew]#טוֹטָפֹת#::
+[[tovel]][.hebrew]#טוֹבֵל#::
+[[trop]]laining ‘trop’:: cantillation/musical notes
+[[tumah]][.hebrew]#טֻמְאָה#:: impurity
+[[tumas-maga]][.hebrew]#טֻמְאַת מַגָּע#::
+[[tumas-masa]][.hebrew]#טֻמְאַת מַשָּׂא#::
+[[tvilo]][.hebrew]#טְבִילָה#::
+[[tzaar]][.hebrew]#צַעַר#::
 [[tzadik]]tzadik:: righteous person
 [[tzadikim]]tzadikim:: righteous persons
+[[tzareves]][.hebrew]#צָרֶבֶת#::
+[[tzav-term]][.hebrew]#צַו#::
 [[tzedakah]]tzedakah:: charity
-[[tzefardeia]]tzefardeia:: frogs
+[[Tzedukim]]Tzedukim::
+[[tzefardeia]][.hebrew]#צְפַרְדֵּעַ#:: frogs
+[[tzitz]][.hebrew]#צִיץ#::
 [[tzitzis]]tzitzis::
-[[tzoraas]]tzoraas::
+[[Tzoan]]Tzoan::
+[[Tzoar]]Tzoar::
+[[Tzlafchad]]Tzlafchad::
+[[tzlaos]][.hebrew]#צַלְעֹת#::
+[[tzoraas]][.hebrew]#צָרַעַת#::
 
-[[ve-ahavta]]Ve’ahavta::
+[[uforatzto]][.hebrew]#וּפָרַצְתָּ#::
+[[urim-vetumim]][.hebrew]#אוּרִים וְתֻמִּים#::
+[[ushpizin]][.hebrew]#אוּשְׁפִּיזִין#::
+[[Unkelos]]Unkelos:: <<Targum>>
+[[Uziel]]Uziel::
+
+[[vavim]][.hebrew]#וָוִים#::
+[[vayishokaihu]][.hebrew]#וַיִּשָּׁקֵהוּ#::
+[[ve-ahavta]][.hebrew]#וְאָהַבְתָּ#::
+[[vechataah]][.hebrew]#וְחַטָּאָה#::
 [[Vehaya]]Vehaya::
+[[velo-yasaf]][.hebrew]#וְלֹא יָסָף#::
+[[venakeh]][.hebrew]#וְנַקֵּה#::
+[[venefesh-ki-takriv]][.hebrew]#וְנֶפֶשׁ כִּי תַקְרִיב#::
+[[veshamru]][.hebrew]#וְשָׁמְרוּ#::
+[[veshinantam]][.hebrew]#וְשִׁנַּנְתָּם#::
 [[Vezos-Habracha]]Vezos Habracha::
-[[Vidui]]Vidui:: confession statement
-[[vlad-hatumah]]vlad hatumah:: second level tumah
+[[Vidui]][.hebrew]#וִדּוּי#:: confession statement
+[[vlad-hatumah]][.hebrew]#וְלַד הַטֻּמְאָה#:: second level tumah
 
-[[yam-suf]]Yam Suf:: the Red Sea
-[[Yarden]]Yarden:: Jordan
-[[yehi-ratzon]]Yehi Ratzon::
-[[yetzer-horah]]yetze’r horah:: evil inclination
-[[yetzias-mitzmyim]]yetzias Mitzmyim:: the exodus from Egypt
-[[yirah]]yirah:: fear, respect
-[[yiras-shamayim]]yiras shamayim:: fear of Heaven
+[[Yaakov]]Yaakov::
+[[Yaazer]]Yaazer::
+[[yad]][.hebrew]#יָד#:: hand
+[[yados]][.hebrew]#יָדוֹת#::
+[[yaim]][.hebrew]#יָעִים#::
+[[yam-suf]][.hebrew]#יַם סוּף#:: the Red Sea
+[[Yarden]][.hebrew]#יַרְדֵּן#:: Jordan
+[[Yericho]]Yericho::
+[[Yefes]]Yefes::
+[[yehi-ratzon]][.hebrew]#יְהִי רָצוֹן#::
+[[Yehoshua]]Yehoshua::
+[[Yehuda]]Yehuda::
+[[yemincha]][.hebrew]#יְמִינְךָ#::
+[[yesedos]][.hebrew]#יְתֵדֹת#::
+[[yeshiva]]yeshiva::
+[[yetzer-horah]][.hebrew]#יֵצֶר הָרָע#:: evil inclination
+[[yetzias-mitzmyim]][.hebrew]#יְצִיאַת מִצְרַיִם#:: the exodus from Egypt
+[[yibum]][.hebrew]#יִבּוּם#::
+[[Yiftach]]Yiftach::
+[[yirah]][.hebrew]#יִרְאָה#:: fear, respect
+[[yiras-shamayim]][.hebrew]#יִרְאַת שָׁמַיִם#:: fear of Heaven
+[[Yirmiyahu]]Yirmiyahu::
+[[Yishmael]]Yishmael::
+[[yiskah]][.hebrew]#יִסְכָּה#::
+[[Yisro]]Yisro::
+[[Yisroel]]Yisroel::
+[[Yisroelim]]Yisroelim::
+[[Yissochor]]Yissochor::
+[[Yitzchak]]Yitzchak::
+[[yiud]][.hebrew]#יִעוּד#::
 [[Yizkor]]Yizkor::
-[[yomim-tovim]]Yomim Tovim (holidays)
+[[Yocheved]]Yocheved:: <<Moshe>>’s mother
+[[Yom-Kippur]]Yom Kippur::
+[[Yom-Tov]]Yom Tov::
 [[yom-tov-aliyas-haregel]]Yom Tov aliyas haregel:: going up to the <<beis-hamikdash>> for the holidays
-[[yotzei]]yotzei:: exempt
+[[yomim-tovim]]Yomim Tovim:: holidays
+[[yonah]][.hebrew]#יוֹנָה#::
+[[Yonah]]Yonah::
+[[yoreh]][.hebrew]#יוֹרֶה#::
+[[Yoseif]]Yoseif::
+[[yotzei]][.hebrew]#יוֹצֵא#:: exempt
 [[Yovel]]Yovel::
-[[yud-shvat]]Yud Shvat::
+[[yud]][.hebrew]#יוּד#::
+[[yud-shvat]]Yud Shevat::
+[[Yud-Tes-Kislev]]Yud-Tes Kislev::
 
-[[zav]]zav::
-[[zavah]]zavah::
-[[zechus]]zechus:: merit
+[[zav]][.hebrew]#זָב#::
+[[zavah]][.hebrew]#זָבָה#::
+[[zechus]][.hebrew]#זְכוּת#:: merit
+[[Zachor]]Zachor::
+[[zekeinim]][.hebrew]#זְקֵנִים#:: elders
+[[zer]][.hebrew]#זֵר#::
+[[zeroa]][.hebrew]#זְרוֹעַ#::
+[[Zevulun]]Zevulun::
+[[zichronos]][.hebrew]#זִכְרוֹנוֹת#::
+[[Zilpah]]Zilpah::
+[[Zimri]]Zimri::
+[[zuz]][.hebrew]#זוּז#::
+[[zuzim]][.hebrew]#זוּזִים#::

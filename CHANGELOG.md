@@ -11,6 +11,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - correct handling of Hebrew;
 - feat: restored transliterations to their originals;
 - updates;
+- glossary: complete, clean up, restore transliterations to their originals;
 
 ## [] - 2024-06-
 - chore: switched from using Asciidoctor Gradle plugin to calling external asciidoctor (just as in the `opentorah`);

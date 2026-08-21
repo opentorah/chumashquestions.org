@@ -1,0 +1,6 @@
+/* AsciiDoc [.hebrew]#…# : Hebrew in an LTR sentence.
+ * Isolate so a Hebrew run does not reorder neighboring English or punctuation.
+ * Do not set direction — RTL comes from the first strong character. */
+.hebrew {
+    unicode-bidi: isolate;
+}

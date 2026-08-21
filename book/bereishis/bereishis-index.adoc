@@ -1,5 +1,5 @@
 [#bereishis-index]
-= Chumash Bereishis
+= <<Chumash>> Bereishis
 
 include::bereishis.adoc[]
 

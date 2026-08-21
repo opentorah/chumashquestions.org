@@ -1,13 +1,13 @@
 [#kedoshim]
 == Kedoshim
 
-. How do we know that this parsha was said at the gathering of the nations? Why?
+. How do we know that this <<parsha>> was said at the gathering of the nations? Why?
 
 . “You shall be *holy*,” etc. What kind of holiness is meant here?
 
 . Why does it say, “Each *man* should fear his mother and father”? Isn’t a woman also obligated to fear and honor parents? Why is *mother* mentioned here first?
 
-. How does one give <<kavod>> (honor) to parents? And how is <<yirah>> (fear, respect) expressed?
+. How does one give <<kavod>> to parents? And how is <<yirah>> expressed?
 
 . Why is the commandment to observe <<Shabbos>> written next to honoring parents?
 
@@ -25,13 +25,13 @@
 
 . “Don’t put an obstacle in front of a blind person.” What kind of obstacle?
 
-. For which kinds of prohibitions does the Torah commonly add, “and you shall fear Hashem”?
+. For which kinds of prohibitions does the <<Torah>> commonly add, “and you shall fear <<Hashem>>”?
 
 . What kind of warnings are judges given in <<posuk>> 15?
 
-. Which mitzvos and warnings are given about rebuking a friend?
+. Which <<mitzvos>> and warnings are given about rebuking a friend?
 
-. What is the difference between the sins of [.verse]#לָשׁוֹן הָרָע# and [.verse]#רְכִילוּת#?
+. What is the difference between the sins of <<loshon-horo>> and <<rechilus>>?
 
 . What else is forbidden along with the prohibition against revenge?
 
@@ -55,6 +55,6 @@
 
 . Why is the *animal* killed when a human commits a sin with it?
 
-. What moral lesson do we derive from it, according to Rashi?
+. What moral lesson do we derive from it, according to <<Rashi>>?
 
-. “And separated you from the nations to be Mine.” What lesson of conduct does Rabbi Elazar ben Azarya derive from this?
+. “And separated you from the nations to be Mine.” What lesson of conduct does <<Rabbi-Elazar-ben-Azarya>> derive from this?

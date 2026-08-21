@@ -1,5 +1,5 @@
 [#bamidbar-index]
-= Chumash Bamidbar
+= <<Chumash>> Bamidbar
 
 include::bamidbar.adoc[]
 

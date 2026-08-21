@@ -1,21 +1,21 @@
 [#mishpatim]
 == Mishpatim
 
-. “And these are the laws,” etc. What are the *two* connections to the previous parsha (Yisro)?
+. “And these are the laws,” etc. What are the *two* connections to the previous <<parsha>> (<<Yisro>>)?
 
-. In what connection is the term <<shulchon-oruch>> mentioned in the first <<posuk>>? (See Rashi.)
+. In what connection is the term <<shulchon-oruch>> mentioned in the first <<posuk>>? (See <<Rashi>>.)
 
 . What is wrong with bringing a dispute to the non-Jewish courts?
 
-. How was the <<eved-ivri>> (Jewish slave) purchased? Would the law be different if he sold himself?
+. How was the <<eved-ivri>> purchased? Would the law be different if he sold himself?
 
-. What kind of eved can get a <<shifcha-cnaanis>> (a gentile maidservant)?
+. What kind of <<eved>> can get a <<shifcha-cnaanis>>?
 
-. What happens to this <<shifcha-cnaanis>> after the eved goes free? Source?
+. What happens to this <<shifcha-cnaanis>> after the <<eved>> goes free? Source?
 
 . What if the <<eved-ivri>> refuses to leave until after six years?
 
-. Can an [.verse]#עֶבֶד נִרְצָע# be a slave forever? Until when? Source?
+. Can an <<eved-nirtza>> be a slave forever? Until when? Source?
 
 . Which ear is pierced? Why the *ear* (not the nose)? (Different reasons for different <<avodim>>, slaves).
 
@@ -28,17 +28,17 @@
 . How does a young girl go free from slavery? (Three or four ways.)
 
 . Explain these terms:
-[.verse]#יִעוּד#,
-[.verse]#סִימָנִים#,
-[.verse]#נַעֲרוּת#,
-[.verse]#בַּגְרוּת#,
-[.verse]#שְׁאֵר#,
-[.verse]#כְּסוּת#,
-[.verse]#עֹנָה#.
+<<yiud>>,
+<<simanim>>,
+<<naarus>>,
+<<bagrus>>,
+<<shear>>,
+<<kesus>>,
+<<onah>>.
 
 . Which two laws in the punishment for killing do we derive from <<posuk>> 12?
 
-. Why does Hashem make it happen that one person should kill another? Find a parallel to this thought in <<pirkei-avos>> (Ethics of our Fathers).
+. Why does <<Hashem>> make it happen that one person should kill another? Find a parallel to this thought in <<pirkei-avos>>.
 
 . If a doctor mistakenly kills his patient or a father his son are they punished? Source?
 
@@ -50,13 +50,13 @@
 
 . What kind of payments are required if one maimed a person?
 
-. Explain these terms: [.verse]#נֶזֶק#, [.verse]#צַעַר#, [.verse]#רִפּוּי#, [.verse]#שֶׁבֶת#, [.verse]#בֹּשֶׁת#.
+. Explain these terms: <<nezek>>, <<tzaar>>, <<ripuy>>, <<sheves>>, <<boshes>>.
 
 . If the master (or a stranger) kills a non-Jewish slave, what is his punishment?
 
 . If one kills a pregnant woman, what is his punishment? What if she survived the attack?
 
-. “An eye for an eye,” etc. How do we prove that it means monetary payment? (See Gemora Baba Kama p. 84.)
+. “An eye for an eye,” etc. How do we prove that it means monetary payment? (See <<Gemora>> <<Baba-Kama>> p. 84.)
 
 . The knocking out of a eye or a tooth sets a slave free. Which other limbs do the same?
 
@@ -64,9 +64,9 @@
 
 . When a person’s ox kills another ox what happens to the owner?
 
-. Explain the terms: [.verse]#מַזִּיק#, [.verse]#נִזָּק#, [.verse]#תָּם#, [.verse]#מוּעָד#, [.verse]#כֹּפֶר#.
+. Explain the terms: <<mazik>>, <<nizak>>, <<tam>>, <<muad>>, <<kofer>>.
 
-. When a person makes a pit ([.verse]#בּוֹר#), which kind of damages is he responsible for?
+. When a person makes a pit (<<bor>>), which kind of damages is he responsible for?
 
 . For which kind of stealing does the thief pay 4 times as much? 5 times? Why this difference?
 
@@ -76,17 +76,17 @@
 
 .  If animals went and trampled or ate someone’s grain, who pays for it?
 
-.  If a [.verse]#שׁוֹמֵר חִנָּם# claims the article was stolen, what happens to him?
+.  If a <<shomer-chinam>> claims the article was stolen, what happens to him?
 
-.  In the case of a [.verse]#שׁוֹמֵר שָׂכָר#, when is he held responsible?
+.  In the case of a <<shomer-sachar>>, when is he held responsible?
 
-.  A person who is a [.verse]#שׁוֹאֵל# (one who borrowed), could he ever be exempt from payment?
+.  A person who is a <<shoel>>, could he ever be exempt from payment?
 
-.  What about a person who rents a tool from someone (a [.verse]#שׂוֹכֵר#), how is he responsible?
+.  What about a person who rents a tool from someone (a <<socher>>), how is he responsible?
 
 . For which kind of worship-of-idols does one get the death penalty?
 
-. What kind of prohibitions are written concerning a [.verse]#גֵּר# (convert)? Reason?
+. What kind of prohibitions are written concerning a <<ger>>? Reason?
 
 . What are the punishments for the mistreatment of orphans and widows?
 
@@ -94,15 +94,15 @@
 
 . What comparison is made between the soul (<<neshamah>>) at night and taking a pledge?
 
-. Where is the [.verse]#דִּין# of [.verse]#מוֹדֶה בְּמִקְצָת# (partial admission) derived from?
+. Where is the <<din>> of <<modeh-bemiktzas>> derived from?
 
-. What are the warnings given about [.verse]#בִּכּוּרִים# (first fruits), [.verse]#תְּרוּמָה# and [.verse]#מַעֲשֵׂר#?
+. What are the warnings given about <<bikurim>>, <<terumah-term>> and <<maaser>>?
 
-. Why is the [.verse]#דִּין# of <<pidyon-ha-ben>> (redemption of the first born) mentioned here again?
+. Why is the <<din>> of <<pidyon-ha-ben>> mentioned here again?
 
 . “And *holy people* you shall be unto Me…”, etc. How do we become holy?
 
-. How do we see that Hashem does not diminish the reward of any creature?
+. How do we see that <<Hashem>> does not diminish the reward of any creature?
 
 . Within the same <<posuk>> are contained warnings to a judge, and about <<loshon-horo>>. What are they? What is the connection between these two?
 
@@ -112,7 +112,7 @@
 
 . Where is there a prohibition, against treating a poor man *too well*?
 
-. Why is an “enemy” mentioned by the Mitzvah of Prikah (unloading)? When are you exempt?
+. Why is an “enemy” mentioned by the <<mitzvoh>> of <<Prikah>>? When are you exempt?
 
 . After a verdict when do we return the defendant for rejudgement and when not? Why?
 
@@ -128,42 +128,42 @@
 
 . Which warnings are given here about the <<korban-pesach>>? About <<bikurim>>?
 
-. Why did the Torah write three times “don’t cook the goat in its mother’s milk”?
+. Why did the <<Torah>> write three times “don’t cook the goat in its mother’s milk”?
 
 . “… Behold I am sending an *Angel*…”, etc. Why? What warning is given here in that connection (in the next <<posuk>>)?
 
-. If the last Parsha here was actually said before <<matan-torah>>, what does it mean “all the laws”? “and Moshe wrote down all the words of Hashem”?
+. If the last <<parsha>> here was actually said before <<matan-torah>>, what does it mean “all the laws”? “and <<Moshe>> wrote down all the words of <<Hashem>>”?
 
-. The Sages said: “from here we know that our ancestors entered the covenant with Milah, T’vilo, and sprinkling of blood”. How do we know?
+. The Sages said: “from here we know that our ancestors entered the covenant with <<milah>>, <<tvilo>>, and sprinkling of blood”. How do we know?
 
 . What “sights” did the elders see? Did they get punished for it? When? Why? Which five words in the <<posuk>> tell us this?
 
-. What did Reb S’adya Gaon find in the Ten Commandments?
+. What did <<Rabbi-Sadya-Gaon>> find in the Ten Commandments?
 
-. Why is Yehoshua mentioned here? And why Chur? Where was Moshe called to?
+. Why is <<Yehoshua>> mentioned here? And why <<Chur>>? Where was <<Moshe>> called to?
 
-. What are the opinions about the six days that Moshe was covered by the cloud? Why was Moshe called on the seventh day?
+. What are the opinions about the six days that <<Moshe>> was covered by the cloud? Why was <<Moshe>> called on the seventh day?
 
-. Why do we read Parshas Shekalim this <<Shabbos>>?
+. Why do we read <<parshas>> <<Shekalim>> this <<Shabbos>>?
 
 . Who was obligated to give <<machatzis-ha-shekel>>?
 
-. What were these Shekalim used for at the Mishkan?
+. What were these <<Shekalim>> used for at the <<Mishkan>>?
 
-. Do we have any Minhag of <<machatzis-ha-shekel>> today?
+. Do we have any <<minhag>> of <<machatzis-ha-shekel>> today?
 
 . Usually each person gives according to his ability. Why not *here*?
 
-. How many Torahs are taken out this <<Shabbos>>? Why?
+. How many <<Torahs>> are taken out this <<Shabbos>>? Why?
 
-. In which portion is the Parshas Shekalim found?
+. In which portion is the <<parshas>> <<Shekalim>> found?
 
-. What is the (general) content of the Haftorah for this <<Shabbos>>?
+. What is the (general) content of the <<Haftorah>> for this <<Shabbos>>?
 
-. Which are the *other three* special Parshios we will read (on other Shabbosim)?
+. Which are the *other three* special <<Parshios>> we will read (on other <<Shabbosim>>)?
 
 . What special saying of our sages describes our mood this month (get to know the Hebrew words)?
 
 . Why is this month more special than other months?
 
-. When is Rosh Chodesh? How many days of Rosh Chodesh?
+. When is <<Rosh-Chodesh>>? How many days of <<Rosh-Chodesh>>?

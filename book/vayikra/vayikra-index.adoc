@@ -1,5 +1,5 @@
 [#vayikra-index]
-= Chumash Vayikra
+= <<Chumash>> Vayikra
 
 include::vayikra.adoc[]
 

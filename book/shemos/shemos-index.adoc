@@ -1,5 +1,5 @@
 [#shemos-index]
-= Chumash Shemos
+= <<Chumash>> Shemos
 
 include::shemos.adoc[]
 

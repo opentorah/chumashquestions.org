@@ -1,25 +1,25 @@
 [#vayikra]
 == Vayikra
 
-. “And He called,” etc. Why did Hashem *call* Moshe before speaking to him?
+. “And He called,” etc. Why did <<Hashem>> *call* <<Moshe>> before speaking to him?
 
-. How was the appearance of Hashem to Moshe different than to Bilam? Why?
+. How was the appearance of <<Hashem>> to <<Moshe>> different than to <<Bilam>>? Why?
 
-. Who else *calls* one another? Why? Where do we mention it in davening?
+. Who else *calls* one another? Why? Where do we mention it in <<davening>>?
 
-. What were the breaks? Their purpose? Was Moshe *called* at these breaks? Why? What do we derive from this about our learning?
+. What were the breaks? Their purpose? Was <<Moshe>> *called* at these breaks? Why? What do we derive from this about our learning?
 
-. “And Hashem spoke in *him*.” Who is excluded here?
+. “And <<Hashem>> spoke in *him*.” Who is excluded here?
 
-. Was the voice of Hashem high? How far did it reach? Who *didn’t* hear it?
+. Was the voice of <<Hashem>> high? How far did it reach? Who *didn’t* hear it?
 
-. Why is *Adam* mentioned in connection with the <<korbanos>>?
+. Why is *<<Adam>>* mentioned in connection with the <<korbanos>>?
 
-. There are six categories of [.verse]#פְּסוּלִים# in <<korbanos>>. Which?
+. There are six categories of <<pesulim>> in <<korbanos>>. Which?
 
 . If an <<Olah>> gets mixed in with other sheep, what happens?
 
-. If a person promises an <<Olah>> then refuses to give it, do we force him? Proof? *How* do we force him? (See Rambam, Laws of Gerushin 8:2.)
+. If a person promises an <<Olah>> then refuses to give it, do we force him? Proof? *How* do we force him? (See <<Rambam>>, Laws of Gerushin 8:2.)
 
 . If we do force him, how can the <<korban>> be ‘according to his will’?
 
@@ -31,31 +31,31 @@
 
 . if a <<Kohein>> is ‘too well dressed’ or ‘not so well dressed’ his <<avodah>> is <<posul>>. Explain and give proof.
 
-. What are the requirements for a <<korban>> of fowl (pigeons, doves) to be kosher?
+. What are the requirements for a <<korban>> of fowl (pigeons, doves) to be <<kosher>>?
 
 . Why are the insides (intestines) of fowl thrown out, and not those of sheep?
 
 . Why are the doves burned on the <<mizbeyach>> with their *wings*?
 
-. Regarding both sheep and fowl, it says, _‘[.verse]#רֵיחַ נִיחֹחַ לַה׳#.’_ What does this teach us?
+. Regarding both sheep and fowl, it says, _‘<<reiach-nichoach>>.’_ What does this teach us?
 
-. Why does it say _‘[.verse]#וְנֶפֶשׁ כִּי תַקְרִיב#’_ only in reference to a <<korban-minchah>>?
+. Why does it say _‘<<venefesh-ki-takriv>>’_ only in reference to a <<korban-minchah>>?
 
 . Which parts of a <<korban-minchah>> could be done by non-<<Kohanim>>? Which part must the <<Kohein>> do?
 
 . The fistful is called a *reminder*. For what?
 
-. Did the <<kohein-gadol>> and regular Kohein get the same portions? Explain.
+. Did the <<kohein-gadol>> and regular <<Kohein>> get the same portions? Explain.
 
 . What are the two opinions concerning the application of oil on a <<Minchah>>?
 
-. What kind of oil is kosher for Menachos? Proof?
+. What kind of oil is <<kosher>> for <<Menachos>>? Proof?
 
 . What two items cannot be brought with a <<korban-minchah>>?
 
-. All <<korbanos>> required *salt*. Why is this called [.verse]#בְּרִית# (covenant)?
+. All <<korbanos>> required *salt*. Why is this called <<bris>>?
 
-. Most Menachos are voluntary except one. Which?
+. Most <<Menachos>> are voluntary except one. Which?
 
 . Why are certain <<korbanos>> called <<Shlomim>>? (Two reasons.)
 
@@ -69,9 +69,9 @@
 
 . What kind of situation is described in <<posuk>> 4:13?
 
-. Prove that Hashem loves <<Am Yisroel>> (the Jewish nation) more than He loves the <<kohein-gadol>>.
+. Prove that <<Hashem>> loves <<am-yisroel>> more than He loves the <<kohein-gadol>>.
 
-. What kind of <<aveiros>> (sins) are described in <<pesukim>> 5:1-3?
+. What kind of <<aveiros>> are described in <<pesukim>> 5:1-3?
 
 . Which kind of <<korban>> do all *those* people (in question 36) bring?
 
@@ -79,23 +79,23 @@
 
 . If a person was rich when he sinned, and then became poor, which kind of <<korban>> is he required to bring? (And if vice versa?) Explain.
 
-. What kind of aveiro is described in <<posuk>> 5:15?
+. What kind of <<aveiro>> is described in <<posuk>> 5:15?
 
 . What kind of <<korban>> <<Asham>> is mentioned in <<posuk>> 5:18? Its purpose?
 
 . For which kind of <<aveiros>> does this <<Asham>> atone?
 
-. What kind of lessons do Rabbi Akiva, Rabbi Yosai, Rabbi Yosai Haglili, and Rabbi Eliezer learn from here?
+. What kind of lessons do <<Rabbi-Akiva>>, <<Rabbi-Yosai>>, <<Rabbi-Yosai-Haglili>>, and <<Rabbi-Eliezer>> learn from here?
 
-. According to Rabbi Akiva, why is one who denies a deposit worse than one who denies a loan?
+. According to <<Rabbi-Akiva>>, why is one who denies a deposit worse than one who denies a loan?
 
 . What kind of <<aveiro>> is described in Chapter 5, <<posuk>> 22?
 
-. How many kinds of <<korbanos>> are mentioned in this Parsha?
+. How many kinds of <<korbanos>> are mentioned in this <<parsha>>?
 
-. There are two very famous <<maamorim>> in <<likutei-torah>> on this Parsha on Chapter 1, <<posuk>> 2, and Chapter 2, <<posuk>> 13. See what it says there.
+. There are two very famous <<maamorim>> in <<likutei-torah>> on this <<parsha>> on Chapter 1, <<posuk>> 2, and Chapter 2, <<posuk>> 13. See what it says there.
 
-. Which <<korbanos>> from this Parsha are mentioned in the daily <<korbanos>> portion of <<tfilas>> <<Shacharis>>?
+. Which <<korbanos>> from this <<parsha>> are mentioned in the daily <<korbanos>> portion of <<tfilas>> <<Shacharis>>?
 
 [discrete]
 ==== Extra
@@ -104,7 +104,7 @@
 
 . How does the <<maamar>> <<basi-legani>> of <<yud-shvat>> explain the subject of <<avodas-ha-korbonos-b-ruchnius>>?
 
-. Why is aleph in the word '<<Vayikra>>' a small one?
+. Why is <<aleph>> in the word 'Vayikra' a small one?
 
 . How many <<mitzvos-asei>> and <<mitzvos-lo-ta-asei>> are mentioned here?
 
