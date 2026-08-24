@@ -7,10 +7,10 @@ The book is available at https://www.chumashquestions.org[].
 == TODO
 
 - recombine split terms (kitzur shulchan oruch etc.);
-- Hebrew/Yiddish plurals that are not loan words (and their singulars) should display in Hebrew
-- words the questions ask about the meaning of should have no definition!
-- convert all names and loan words to glossary entries with Latin display;
+- Hebrew/Yiddish plurals that are not loan words (and their singulars) should display in Hebrew (see link:loan-words.md[])
+- convert all names and loan words to glossary entries with Latin display (see link:loan-words.md[]);
 - regularize glossary ids;
 - parsha references should be to the parsha chapter, not the glossary?
 - contemporary place names into the glossary too?
 - update Typographic Conventions.
+- words the questions ask about the meaning of should have no definition (see link:questioned-words.md[])

@@ -1,8 +1,48 @@
 plugins {
-  id 'base'
+  id 'scala'
   id 'io.github.ben-manes.versions' version '0.61.0'
+  id 'org.podval.tools.scalajs' version '1.0.4'
 }
 
-repositories {
-  mavenCentral()
+java.toolchain.languageVersion = JavaLanguageVersion.of(25)
+scala.scalaVersion = '3.8.4'
+project.gradle.startParameter.excludedTaskNames.add('compileJava')
+
+tasks.withType(ScalaCompile).configureEach {
+  scalaCompileOptions.with {
+    additionalParameters = [
+      '-new-syntax',
+      '-feature',
+      '-language:strictEquality',
+      '-source:future'
+    ]
+  }
+}
+
+dependencies {
+  testImplementation 'org.scalatest:scalatest_3:3.2.20'
+}
+
+// JDK 22+ compatibility flags for transitive / ecosystem native & Unsafe use:
+// - scala.runtime.LazyVals$ (old lazy-val bytecode on the classpath) uses sun.misc.Unsafe
+ext.jdkCompatJvmArgs = [
+  '--enable-native-access=ALL-UNNAMED',
+  '--sun-misc-unsafe-memory-access=allow',
+]
+
+tasks.withType(Test).configureEach {
+  workingDir = project.projectDir
+  jvmArgs jdkCompatJvmArgs
+}
+
+def isNonStable = { String version ->
+  boolean stableKeyword = ['RELEASE', 'FINAL', 'GA'].any { it -> version.toUpperCase().contains(it) }
+  String regex = /^[0-9,.v-]+(-r)?$/
+  return !stableKeyword && !(version ==~ regex)
+}
+
+tasks.named("dependencyUpdates").configure {
+  rejectVersionIf {
+    isNonStable(it.candidate.version)
+  }
 }
