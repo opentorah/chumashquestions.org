@@ -9,9 +9,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - switched to Podval site publisher;
 - feat: favicon, license;
 - correct handling of Hebrew;
-- feat: restored transliterations to their originals;
-- updates;
+- home page is the chunked book (not a directory listing);
 - glossary: complete, clean up, restore transliterations to their originals;
+- updates;
 
 ## [] - 2024-06-
 - chore: switched from using Asciidoctor Gradle plugin to calling external asciidoctor (just as in the `opentorah`);
