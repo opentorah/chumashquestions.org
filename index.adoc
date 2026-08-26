@@ -2,6 +2,6 @@
 
 == Rabbi Dovid Wichnin's Chumash Questions Book
 
-- link:/book/book/book.html[Chunked HTML]
+- link:/book/book/index.html[Chunked HTML]
 - link:/book/book.html[One-Page HTML]
 - link:/book/book.pdf[PDF]

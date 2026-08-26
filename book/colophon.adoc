@@ -12,7 +12,7 @@ Corrections, additions and suggestions are welcome at dub@chumashquestions.org.
 The book is hosted by
 https://pages.github.com/[GitHub Pages] at
 http://www.chumashquestions.org in multiple formats:
-link:/book/book/book.html[chunked HTML],
+link:/book/book/index.html[chunked HTML],
 link:/book/book.html[one HTML file],
 link:/book/book.pdf[PDF].
 
