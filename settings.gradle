@@ -8,6 +8,5 @@ rootProject.name = 'chumashquestions'
 dependencyResolutionManagement {
   repositories {
     mavenCentral()
-    gradlePluginPortal()
   }
 }

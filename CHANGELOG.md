@@ -5,6 +5,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+- chore: Scala 3.9; Gradle setup aligned with site-publisher (`scalaVersion` property, `-release:25`, configuration cache).
+
 ## [] - 2026-08-
 - switched to Podval site publisher;
 - feat: favicon, license;
