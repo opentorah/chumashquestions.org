@@ -3,6 +3,16 @@
 Sources of the Rabbi Dovid Wichnin's book.
 The book is available at https://www.chumashquestions.org[].
 
+----
+./gradlew test
+./gradlew generateSite
+./gradlew serveSite
+----
+
+`generateSite` writes `_site` (GitHub Pages). A local site-publisher checkout at
+`../../Podval/site-publisher` is used when present (`-PsitePublisherDir=`); CI
+resolves `org.podval.tools:org.podval.tools.publisher` from Maven Central.
+
 
 == TODO
 
