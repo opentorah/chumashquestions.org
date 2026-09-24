@@ -2,7 +2,7 @@ plugins {
   id 'scala'
   id 'org.podval.conventions'
   id 'org.podval.tools.scalajs' version '1.0.4'
-  id 'org.podval.tools.site-publisher' version '0.2.0'
+  id 'org.podval.tools.site-publisher' version '0.4.0'
 }
 
 description = 'The Chumash Questions'
