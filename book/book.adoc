@@ -39,4 +39,6 @@ include::devarim/devarim-index.adoc[]
 
 include::holidays/holidays-index.adoc[]
 
+include::shulchan-aruch-test.adoc[]
+
 include::glossary.adoc[]

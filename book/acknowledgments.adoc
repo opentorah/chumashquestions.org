@@ -5,17 +5,26 @@
 [#acknowledgments-2nd]
 === Second Edition
     
-Nina Dubinsky originated the idea to republish the book, and scanned a copy of the original edition provided by Dovid Malenkovich. Michael Partensky and Isaac Mushinsky encouraged the project.
+Nina Dubinsky originated the idea to republish the book, and scanned a copy of the original edition provided by Dovid
+Malenkovich.
+Michael Partensky and Isaac Mushinsky encouraged the project.
 
-Avrohom Hillel Weissman made available, from his personal archives, questions on Parshas Yisro, Mishpatim, Pinchas, Shoftim and Vayikra that were missing from the original edition of the book, as well as questions on Parshas Bereishis that were included with some copies of the book. Michael Partensky transcribed these additions.
+Avrohom Hillel Weissman made available, from his personal archives, questions on Parshas Yisro, Mishpatim, Pinchas,
+Shoftim and Vayikra that were missing from the original edition of the book, as well as questions on Parshas Bereishis
+that were included with some copies of the book.
+Michael Partensky transcribed these additions.
 
 Aryeh Leyb Dubinsky converted the content to DocBook (and later to Asciidoc).
 Menucha Rochel Dubinsky proofread the material.
 
+Zev Khazanovich shared a handwritten test on Hilchos Shulchan Aruch in September 2026.
+
 [#acknowledgments-1st]
 === First Edition
 
-The inspiration and continued support for this project has come from Mr. and Mrs. Yosef Chaim Lester.
+The inspiration and continued support for this project has come from Mr.
+and Mrs.
+Yosef Chaim Lester.
 
 _Managing editor_ Pessy Leah Lester.
 
@@ -33,4 +42,5 @@ _Cover design_ Yael Resnick.
 
 _Special thanks to:_ Sara Arno, Rus Devorah Burdman.
 
-This publication has been made possible in great measure by a generous donation from Aaron Mayer and Shifra Gellman and family.
+This publication has been made possible in great measure by a generous donation from Aaron Mayer and Shifra Gellman and
+family.

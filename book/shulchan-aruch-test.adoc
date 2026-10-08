@@ -1,0 +1,55 @@
+[#shulchan-aruch-test]
+= Test on Kitzur Shulchan Aruch Siman 80
+
+== Part I
+
+. From where and how do we derive the 39 forbidden works (labors)?
+
+. If a Jew did work on Shabbos [.hebrew]#בְּמֵזִיד#?
+  Who can use it?
+  Why?
+
+. If the work was done [.hebrew]#בְּשׁוֹגֵג#?
+  If it is a rabbinic prohibition?
+
+. What if a non-Jew did work for a Jew - is it usable?
+
+. What are the punishments for violating the Shabbos.
+  [.hebrew]#כָּרֵת; סְקִילָה; מִיתָה#?
+
+. Is a person permitted to read in front of a candle?
+  Explain.
+
+. May one put pieces of matzo in hot soup?
+  Explain.
+
+. In which condition may one warm up food on the stove?
+
+. What are the special precautions in putting vinegar into horseradish?
+  Why?
+  (2)
+
+. In which cases may one squeeze juice from a fruit?
+
+== Part II
+
+Explain (give example if possible).
+
+. Ovois, Toldos, D'rabonon, Shvus.
+  [.hebrew]#אָבוֹת, תּוֹלָדוֹת, דְּרַבָּנָן, שְׁבוּת.#
+
+. M'lecho She'aino Tzricho L'gufoh.
+  [.hebrew]#מְלָאכָה שֶׁאֵינוֹ צְרִיכָה לְגוּפָהּ.#
+
+. M'leches Machsheves.
+  [.hebrew]#מְלֶאכֶת מַחֲשֶׁבֶת.#
+
+. Boreir, Toichein, Matir, Tofeir.
+  [.hebrew]#בּוֹרֵר, טוֹחֵן, מַתִּיר, תּוֹפֵר.#
+
+. Mafshit, Moke b'feich, Motze.
+  [.hebrew]#מַפְשִׁיט, מְעַבֵּד, מוֹחֵק.#
+
+Good luck!
+[.hebrew]#בְּהַצְלָחָה#
+
