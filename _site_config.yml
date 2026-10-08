@@ -6,7 +6,8 @@ email: dub@chumashquestions.org
 google-analytics: "G-DK8H23BZHM"
 timezone: "America/New_York"
 favicon: favicon-author.png
-license: CC by-nc-nd
-license-link: http://creativecommons.org/licenses/by-nc-nd/4.0/
+license:
+  name: CC by-nc-nd
+  link: http://creativecommons.org/licenses/by-nc-nd/4.0/
 home: /book/book/index.html
 
