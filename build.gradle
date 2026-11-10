@@ -8,7 +8,7 @@ plugins {
 description = 'The Chumash Questions'
 
 // There is no Java in the project.
-project.gradle.startParameter.excludedTaskNames.add('compileJava')
+podval.compileJavaEnabled = false
 
 dependencies {
   testImplementation 'org.scalatest:scalatest_3:3.2.20'
@@ -20,7 +20,7 @@ site {
 }
 
 // scala.runtime.LazyVals$ uses sun.misc.Unsafe
-podval.allowJdk25RestrictedAccess()
+podval.allowJdkRestrictedAccess()
 
 tasks.withType(Test).configureEach {
   workingDir = project.projectDir
